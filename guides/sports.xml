@@ -4601,13 +4601,13 @@
     <display-name>ENDED | WED, 9/9 - ESPN FC | Wed 09 Sep 17:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 12</display-name>
   </channel>
   <channel id="1924717">
-    <display-name>LIVE | STETSON VS. UCF | Wed 09 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 13</display-name>
+    <display-name>ENDED | STETSON VS. UCF | Wed 09 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 13</display-name>
   </channel>
   <channel id="1924716">
-    <display-name>LIVE | COASTAL CAROLINA VS. NORTH FLORIDA | Wed 09 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 14</display-name>
+    <display-name>ENDED | COASTAL CAROLINA VS. NORTH FLORIDA | Wed 09 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 14</display-name>
   </channel>
   <channel id="1924715">
-    <display-name>LIVE | SOUTH CAROLINA UPSTATE VS. QUEENS UNIVERSITY | Wed 09 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
+    <display-name>ENDED | SOUTH CAROLINA UPSTATE VS. QUEENS UNIVERSITY | Wed 09 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
   </channel>
   <channel id="1924714">
     <display-name>LIVE | COLUMBIA VS. FORDHAM | Wed 09 Sep 19:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
@@ -4625,7 +4625,7 @@
     <display-name>LIVE | CENTRAL CONNECTICUT VS. ST. JOHN'S | Wed 09 Sep 19:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 20</display-name>
   </channel>
   <channel id="1924709">
-    <display-name>NEXT | SOUTHEAST MISSOURI STATE VS. SAINT LOUIS | Wed 09 Sep 20:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
+    <display-name>LIVE | SOUTHEAST MISSOURI STATE VS. SAINT LOUIS | Wed 09 Sep 20:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
   </channel>
   <channel id="1924708">
     <display-name>NEXT | UC RIVERSIDE VS. NORTHERN ARIZONA | Wed 09 Sep 21:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
@@ -9467,8 +9467,8 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="1881131">
-    <display-name>Next | Patriots @ Seahawks (en castellano) | NFL | 2026-09-10 | 00:20 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 5</display-name>
+  <channel id="1881133">
+    <display-name>Live | Patriots @ Seahawks (en castellano) | NFL | 8K EXCLUSIVE | ES: DAZN PPV 3</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="1695190">
@@ -9480,19 +9480,16 @@
   <channel id="1688731">
     <display-name>VIP: SPORT TV NBA ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="1893380">
+    <display-name>Live | Patriots @ Seahawks (Spanish Broadcast) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Seattle_Seahawks.png" />
+  </channel>
   <channel id="1893369">
     <display-name>Live | Patriots @ Seahawks | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 12</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Seattle_Seahawks.png" />
   </channel>
-  <channel id="1893368">
-    <display-name>Live | A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</display-name>
-  </channel>
   <channel id="1893367">
     <display-name>Live | Patriots @ Seahawks (U.S., French, Portuguese Game Commentary Available) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 14</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Seattle_Seahawks.png" />
-  </channel>
-  <channel id="1893364">
-    <display-name>Next | Patriots @ Seahawks (Spanish Broadcast) | NFL Game Pass | 2026-09-10 | 00:20 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 17</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="386374">
@@ -9503,10 +9500,6 @@
   </channel>
   <channel id="1977564">
     <display-name>End | NHL Tonight | NHL  2026 | 2026-06-01 | 10:00 (GMT) | 8K EXCLUSIVE | SE: VIAPLAY PPV 2</display-name>
-  </channel>
-  <channel id="1899790">
-    <display-name>Next | Patriots @ Seahawks (Spanish Broadcast) | NFL Game Pass | 2026-09-10 | 00:20 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 12</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="1977357">
     <display-name>End | NHL Tonight | NHL  2026 | 2026-06-02 | 12:30 (GMT) | 8K EXCLUSIVE | NO: VIAPLAY PPV 9</display-name>
@@ -9597,13 +9590,16 @@
     <display-name>US: MLB STRIKE ZONE HD</display-name>
   </channel>
   <channel id="1940112">
-    <display-name>Live | NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</display-name>
+    <display-name>End | NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</display-name>
   </channel>
   <channel id="1940110">
-    <display-name>Next | NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</display-name>
+    <display-name>Live | NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</display-name>
   </channel>
   <channel id="1940109">
-    <display-name>End | NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</display-name>
+    <display-name>Live | NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</display-name>
+  </channel>
+  <channel id="1940085">
+    <display-name>End | MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</display-name>
   </channel>
   <channel id="1126472">
     <display-name>####### VIAPLAY NHL PPV #######</display-name>
@@ -379880,127 +379876,127 @@ Wednesday 09/09/2026</desc>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Wednesday 09/09/2026</desc>
   </programme>
-  <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1881131">
+  <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1881133">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1881131">
+  <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1881133">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1881131">
+  <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1881133">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1881131">
+  <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1881133">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1881131">
+  <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1881133">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1881131">
+  <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1881133">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909180000 -0400" stop="20260909202000 -0400" channel="1881131">
+  <programme start="20260909180000 -0400" stop="20260909202000 -0400" channel="1881133">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909202000 -0400" stop="20260909232000 -0400" channel="1881131">
+  <programme start="20260909202000 -0400" stop="20260909232000 -0400" channel="1881133">
     <title>New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909232000 -0400" stop="20260910000000 -0400" channel="1881131">
+  <programme start="20260909232000 -0400" stop="20260910000000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1881131">
+  <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1881131">
+  <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1881131">
+  <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1881131">
+  <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1881131">
+  <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1881131">
+  <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1881131">
+  <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1881131">
+  <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1881131">
+  <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1881131">
+  <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1881131">
+  <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1881131">
+  <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1881131">
+  <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1881131">
+  <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1881131">
+  <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1881131">
+  <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1881133">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
@@ -380365,6 +380361,131 @@ Wednesday 09/09/2026</desc>
     <desc>VIP: SPORT TV NBA ᴿᴬᵂ
 Wednesday 09/09/2026</desc>
   </programme>
+  <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1893380">
+    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1893380">
+    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1893380">
+    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1893380">
+    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1893380">
+    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1893380">
+    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260909180000 -0400" stop="20260909202000 -0400" channel="1893380">
+    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260909202000 -0400" stop="20260909232000 -0400" channel="1893380">
+    <title>New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260909232000 -0400" stop="20260910000000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1893380">
+    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
+    <desc>New England Patriots vs. Seattle Seahawks
+Wednesday 09/09/2026 - 8:20 PM</desc>
+  </programme>
   <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1893369">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
@@ -380490,126 +380611,6 @@ Wednesday 09/09/2026 - 8:20 PM</desc>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260909180000 -0400" stop="20260909210000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260909210000 -0400" stop="20260910000000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
-  <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1893368">
-    <title>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13</title>
-    <desc>A NFL está de volta! | NFL | 8K EXCLUSIVE | PT: DAZN PPV 13
-Wednesday 09/09/2026</desc>
-  </programme>
   <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1893367">
     <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
@@ -380731,131 +380732,6 @@ Wednesday 09/09/2026 - 8:20 PM</desc>
 Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1893367">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1893364">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1893364">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1893364">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1893364">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1893364">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1893364">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909180000 -0400" stop="20260909202000 -0400" channel="1893364">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909202000 -0400" stop="20260909232000 -0400" channel="1893364">
-    <title>New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909232000 -0400" stop="20260910000000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1893364">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1893364">
     <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
     <desc>New England Patriots vs. Seattle Seahawks
 Wednesday 09/09/2026 - 8:20 PM</desc>
@@ -381219,131 +381095,6 @@ Monday 06/01/2026</desc>
     <title>NHL Tonight | NHL 2026 | 2026-06-01 | 10:00 (GMT) | 8K EXCLUSIVE | SE: VIAPLAY PPV 2</title>
     <desc>NHL Tonight | NHL 2026 | 2026-06-01 | 10:00 (GMT) | 8K EXCLUSIVE | SE: VIAPLAY PPV 2
 Monday 06/01/2026</desc>
-  </programme>
-  <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1899790">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1899790">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1899790">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1899790">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1899790">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1899790">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909180000 -0400" stop="20260909202000 -0400" channel="1899790">
-    <title>Upcoming: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909202000 -0400" stop="20260909232000 -0400" channel="1899790">
-    <title>New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260909232000 -0400" stop="20260910000000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1899790">
-    <title>Post Game: New England Patriots vs. Seattle Seahawks - 8:20 PM</title>
-    <desc>New England Patriots vs. Seattle Seahawks
-Wednesday 09/09/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1977357">
     <title>NHL Tonight | NHL 2026 | 2026-06-02 | 12:30 (GMT) | 8K EXCLUSIVE | NO: VIAPLAY PPV 9</title>
@@ -384826,364 +384577,484 @@ Wednesday 09/09/2026</desc>
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909180000 -0400" stop="20260909210000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909210000 -0400" stop="20260910000000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1940112">
-    <title>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
-    <desc>NFL Daily | all | 8K EXCLUSIVE | US: SOCCER PPV 45
+    <title>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45</title>
+    <desc>NFL Daily | all | 09-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 45
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909180000 -0400" stop="20260909210000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909210000 -0400" stop="20260910000000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1940110">
-    <title>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
-    <desc>NFL GameDay Preview | all | 09-09-2026 | 01:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 47
+    <title>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47</title>
+    <desc>NFL GameDay Preview | all | 8K EXCLUSIVE | US: SOCCER PPV 47
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909180000 -0400" stop="20260909210000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260909210000 -0400" stop="20260910000000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
   </programme>
   <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1940109">
-    <title>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
-    <desc>NFL GameCenter Live-NFL Kickoff | all | 09-09-2026 | 02:15 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 48
+    <title>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48</title>
+    <desc>NFL GameCenter Live-NFL Kickoff | all | 8K EXCLUSIVE | US: SOCCER PPV 48
 Wednesday 09/09/2026</desc>
+  </programme>
+  <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260909030000 -0400" stop="20260909060000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260909060000 -0400" stop="20260909090000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260909090000 -0400" stop="20260909120000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260909120000 -0400" stop="20260909150000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260909150000 -0400" stop="20260909180000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260909180000 -0400" stop="20260909210000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260909210000 -0400" stop="20260910000000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260910000000 -0400" stop="20260910030000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260910030000 -0400" stop="20260910060000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260910060000 -0400" stop="20260910090000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260910090000 -0400" stop="20260910120000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260910120000 -0400" stop="20260910150000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260910150000 -0400" stop="20260910180000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260910180000 -0400" stop="20260910210000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260910210000 -0400" stop="20260911000000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260911000000 -0400" stop="20260911030000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260911030000 -0400" stop="20260911060000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260911060000 -0400" stop="20260911090000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260911090000 -0400" stop="20260911120000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260911120000 -0400" stop="20260911150000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260911150000 -0400" stop="20260911180000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260911180000 -0400" stop="20260911210000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
+  </programme>
+  <programme start="20260911210000 -0400" stop="20260912000000 -0400" channel="1940085">
+    <title>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72</title>
+    <desc>MLB Big Inning: 9.9.26 | all | 10-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 72
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260909000000 -0400" stop="20260909030000 -0400" channel="1126472">
     <title>####### VIAPLAY NHL PPV #######</title>
