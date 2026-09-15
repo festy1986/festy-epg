@@ -3345,7 +3345,8 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/redzone.png" />
   </channel>
   <channel id="1781953">
-    <display-name>NFL   | 4k -</display-name>
+    <display-name>NFL   | 4k - MNF 8:15pm Broncos at Chiefs</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Denver_Broncos/Denver_Broncos_vs_Kansas_City_Chiefs.png" />
   </channel>
   <channel id="606180">
     <display-name>NFL  | 01 -</display-name>
@@ -4619,7 +4620,7 @@
     <display-name>LIVE | LOS ANGELES QUEENS VS. NEW YORK HEIGHTS | Mon 14 Sep 19:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
   </channel>
   <channel id="1924706">
-    <display-name>NEXT | MON, 9/14 - FUTBOL AMERICAS | Mon 14 Sep 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 24</display-name>
+    <display-name>LIVE | MON, 9/14 - FUTBOL AMERICAS | Mon 14 Sep 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 24</display-name>
   </channel>
   <channel id="1924705">
     <display-name>NEXT | NFL PRIMETIME PRESENTED BY MUCINEX | Tue 15 Sep 02:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 25</display-name>
@@ -7564,6 +7565,9 @@
   <channel id="1562719">
     <display-name>AF: NBA TV ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="1896447">
+    <display-name>NEXT | MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</display-name>
+  </channel>
   <channel id="1565560">
     <display-name>JOYN: NFL NETWORK ᴿᴬᵂ</display-name>
   </channel>
@@ -7636,8 +7640,8 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="2152106">
-    <display-name>Next | Broncos @ Chiefs (en castellano) | NFL | 2026-09-15 | 00:15 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 7</display-name>
+  <channel id="2152111">
+    <display-name>Live | Broncos @ Chiefs (en castellano) | NFL | 8K EXCLUSIVE | ES: DAZN PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Denver_Broncos/Denver_Broncos_vs_Kansas_City_Chiefs.png" />
   </channel>
   <channel id="1695190">
@@ -7676,6 +7680,10 @@
   </channel>
   <channel id="1704138">
     <display-name>NFL: Broncos @ Chiefs @ Sep 15 02:10 :TeliaPlay SE  14</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Denver_Broncos/Denver_Broncos_vs_Kansas_City_Chiefs.png" />
+  </channel>
+  <channel id="1098709">
+    <display-name>ENDED | NFL: BRONCOS @ CHIEFS | Tue 15 Sep 02:00 CEST (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Denver_Broncos/Denver_Broncos_vs_Kansas_City_Chiefs.png" />
   </channel>
   <channel id="1977357">
@@ -7755,7 +7763,7 @@
     <display-name>US: MLB STRIKE ZONE HD</display-name>
   </channel>
   <channel id="1940099">
-    <display-name>Next | MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</display-name>
+    <display-name>Live | MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</display-name>
   </channel>
   <channel id="1126472">
     <display-name>####### VIAPLAY NHL PPV #######</display-name>
@@ -141708,124 +141716,129 @@ Monday 09/14/2026</desc>
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260914030000 -0400" stop="20260914060000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260914060000 -0400" stop="20260914090000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260914090000 -0400" stop="20260914120000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260914120000 -0400" stop="20260914150000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260914150000 -0400" stop="20260914180000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914180000 -0400" stop="20260914210000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+  <programme start="20260914180000 -0400" stop="20260914201500 -0400" channel="1781953">
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914210000 -0400" stop="20260915000000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+  <programme start="20260914201500 -0400" stop="20260914231500 -0400" channel="1781953">
+    <title>Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914231500 -0400" stop="20260915000000 -0400" channel="1781953">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1781953">
-    <title>4k</title>
-    <desc>4k
-Monday 09/14/2026</desc>
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="606180">
     <title>01</title>
@@ -303397,6 +303410,126 @@ Monday 09/14/2026</desc>
     <desc>AF: NBA TV ᴿᴬᵂ
 Monday 09/14/2026</desc>
   </programme>
+  <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260914030000 -0400" stop="20260914060000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260914060000 -0400" stop="20260914090000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260914090000 -0400" stop="20260914120000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260914120000 -0400" stop="20260914150000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260914150000 -0400" stop="20260914180000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260914180000 -0400" stop="20260914210000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260914210000 -0400" stop="20260915000000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1896447">
+    <title>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39</title>
+    <desc>MLB LEAD OFF | Tue 15 Sep 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 39
+Wednesday 09/23/2026</desc>
+  </programme>
   <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="1565560">
     <title>JOYN: NFL NETWORK ᴿᴬᵂ</title>
     <desc>JOYN: NFL NETWORK ᴿᴬᵂ
@@ -306277,127 +306410,127 @@ Monday 09/14/2026</desc>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Monday 09/14/2026</desc>
   </programme>
-  <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="2152106">
+  <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="2152111">
     <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914030000 -0400" stop="20260914060000 -0400" channel="2152106">
+  <programme start="20260914030000 -0400" stop="20260914060000 -0400" channel="2152111">
     <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914060000 -0400" stop="20260914090000 -0400" channel="2152106">
+  <programme start="20260914060000 -0400" stop="20260914090000 -0400" channel="2152111">
     <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914090000 -0400" stop="20260914120000 -0400" channel="2152106">
+  <programme start="20260914090000 -0400" stop="20260914120000 -0400" channel="2152111">
     <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914120000 -0400" stop="20260914150000 -0400" channel="2152106">
+  <programme start="20260914120000 -0400" stop="20260914150000 -0400" channel="2152111">
     <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914150000 -0400" stop="20260914180000 -0400" channel="2152106">
+  <programme start="20260914150000 -0400" stop="20260914180000 -0400" channel="2152111">
     <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914180000 -0400" stop="20260914201500 -0400" channel="2152106">
+  <programme start="20260914180000 -0400" stop="20260914201500 -0400" channel="2152111">
     <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914201500 -0400" stop="20260914231500 -0400" channel="2152106">
+  <programme start="20260914201500 -0400" stop="20260914231500 -0400" channel="2152111">
     <title>Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260914231500 -0400" stop="20260915000000 -0400" channel="2152106">
+  <programme start="20260914231500 -0400" stop="20260915000000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="2152106">
+  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="2152106">
+  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="2152106">
+  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="2152106">
+  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="2152106">
+  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="2152106">
+  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="2152106">
+  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="2152106">
+  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="2152106">
+  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="2152106">
+  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="2152106">
+  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="2152106">
+  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="2152106">
+  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="2152106">
+  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="2152106">
+  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="2152106">
+  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="2152111">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
@@ -307743,6 +307876,131 @@ Monday 09/14/2026 - 8:15 PM</desc>
 Monday 09/14/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1704138">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="1098709">
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914030000 -0400" stop="20260914060000 -0400" channel="1098709">
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914060000 -0400" stop="20260914090000 -0400" channel="1098709">
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914090000 -0400" stop="20260914120000 -0400" channel="1098709">
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914120000 -0400" stop="20260914150000 -0400" channel="1098709">
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914150000 -0400" stop="20260914180000 -0400" channel="1098709">
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914180000 -0400" stop="20260914201500 -0400" channel="1098709">
+    <title>Upcoming: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914201500 -0400" stop="20260914231500 -0400" channel="1098709">
+    <title>Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260914231500 -0400" stop="20260915000000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1098709">
+    <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
+    <desc>Denver Broncos vs. Kansas City Chiefs
+Monday 09/14/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1098709">
     <title>Post Game: Denver Broncos vs. Kansas City Chiefs - 8:15 PM</title>
     <desc>Denver Broncos vs. Kansas City Chiefs
 Monday 09/14/2026 - 8:15 PM</desc>
@@ -310748,123 +311006,123 @@ Monday 09/14/2026</desc>
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914030000 -0400" stop="20260914060000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914060000 -0400" stop="20260914090000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914090000 -0400" stop="20260914120000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914120000 -0400" stop="20260914150000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914150000 -0400" stop="20260914180000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914180000 -0400" stop="20260914210000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914210000 -0400" stop="20260915000000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1940099">
-    <title>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
-    <desc>MLB Big Inning: 9.14.26 | all | 14-09-2026 | 02:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 58
+    <title>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58</title>
+    <desc>MLB Big Inning: 9.14.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 58
 Monday 09/14/2026</desc>
   </programme>
   <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="1126472">
