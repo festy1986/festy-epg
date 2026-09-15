@@ -2204,7 +2204,7 @@
     <display-name>####### SPORTSNET PPV #######</display-name>
   </channel>
   <channel id="1488483">
-    <display-name>NEXT | SPORTSNET CENTRAL: SEP. 14 | Tue 15 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
+    <display-name>LIVE | SPORTSNET CENTRAL: SEP. 14 | Tue 15 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
   </channel>
   <channel id="1488482">
     <display-name>NEXT | THE JD BUNKIS PODCAST: SEP. 15 | Tue 15 Sep 10:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</display-name>
@@ -7628,17 +7628,20 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
+  <channel id="1884206">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
+  </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
   </channel>
   <channel id="1548073">
     <display-name>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="1535858">
-    <display-name>(MX) (VIX 03) | MLB EN VIVO (2026-09-15 21:00:00)</display-name>
+  <channel id="1535859">
+    <display-name>(MX) (VIX 02) | MLB EN VIVO (2026-09-15 21:00:00)</display-name>
   </channel>
-  <channel id="1535850">
-    <display-name>(MX) (VIX 11) | NFL Blitz (2026-09-20 12:45:00)</display-name>
+  <channel id="1535852">
+    <display-name>(MX) (VIX 09) | NFL Blitz (2026-09-20 12:45:00)</display-name>
   </channel>
   <channel id="2140543">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ</display-name>
@@ -7655,6 +7658,9 @@
   </channel>
   <channel id="2152111">
     <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 2</display-name>
+  </channel>
+  <channel id="2152012">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -7859,8 +7865,8 @@
   <channel id="1126442">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 30</display-name>
   </channel>
-  <channel id="1831672">
-    <display-name>US (Peacock 047) | MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</display-name>
+  <channel id="1831664">
+    <display-name>US (Peacock 055) | MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</display-name>
   </channel>
   <channel id="2153071">
     <display-name>US (ESPN+ 029) | Football: NFL Live (2026-09-14 15:00:00)</display-name>
@@ -305847,6 +305853,126 @@ Tuesday 09/15/2026</desc>
     <desc>VIP: NBA TV
 Tuesday 09/15/2026</desc>
   </programme>
+  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
   <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
     <desc>AF: NBA TV
@@ -306087,242 +306213,242 @@ Tuesday 09/15/2026</desc>
     <desc>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1535858">
+  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1535858">
+  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1535858">
+  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1535858">
+  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1535858">
+  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1535858">
+  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1535858">
+  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1535858">
+  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1535858">
+  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1535858">
+  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1535858">
+  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1535858">
+  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1535858">
+  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1535858">
+  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1535858">
+  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1535858">
+  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="1535858">
+  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="1535858">
+  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="1535858">
+  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="1535858">
+  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="1535858">
+  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="1535858">
+  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="1535858">
+  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="1535858">
+  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="1535859">
     <title>MLB EN VIVO (2026-09-15 21:00:00)</title>
     <desc>MLB EN VIVO (2026-09-15 21:00:00)
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1535850">
+  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1535850">
+  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1535850">
+  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1535850">
+  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1535850">
+  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1535850">
+  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1535850">
+  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1535850">
+  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1535850">
+  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1535850">
+  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1535850">
+  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1535850">
+  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1535850">
+  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1535850">
+  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1535850">
+  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1535850">
+  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="1535850">
+  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="1535850">
+  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="1535850">
+  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="1535850">
+  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="1535850">
+  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="1535850">
+  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="1535850">
+  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
   </programme>
-  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="1535850">
+  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="1535852">
     <title>NFL Blitz (2026-09-20 12:45:00)</title>
     <desc>NFL Blitz (2026-09-20 12:45:00)
 Sunday 09/20/2026</desc>
@@ -306925,6 +307051,126 @@ Tuesday 09/15/2026</desc>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="2152111">
     <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 2</title>
     <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 2
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 09/15/2026</desc>
+  </programme>
+  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-15 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
 Tuesday 09/15/2026</desc>
   </programme>
   <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1695190">
@@ -314847,122 +315093,122 @@ Tuesday 09/15/2026</desc>
     <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
 Tuesday 09/15/2026</desc>
   </programme>
-  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1831672">
+  <programme start="20260915000000 -0400" stop="20260915030000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1831672">
+  <programme start="20260915030000 -0400" stop="20260915060000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1831672">
+  <programme start="20260915060000 -0400" stop="20260915090000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1831672">
+  <programme start="20260915090000 -0400" stop="20260915120000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1831672">
+  <programme start="20260915120000 -0400" stop="20260915150000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1831672">
+  <programme start="20260915150000 -0400" stop="20260915180000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1831672">
+  <programme start="20260915180000 -0400" stop="20260915210000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1831672">
+  <programme start="20260915210000 -0400" stop="20260916000000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1831672">
+  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1831672">
+  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1831672">
+  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1831672">
+  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1831672">
+  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1831672">
+  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1831672">
+  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1831672">
+  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="1831672">
+  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="1831672">
+  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="1831672">
+  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="1831672">
+  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="1831672">
+  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="1831672">
+  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="1831672">
+  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="1831672">
+  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="1831664">
     <title>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)</title>
     <desc>MLB Sunday Stretch: 9.27.26 (2026-09-27 15:00:00)
 Sunday 09/27/2026</desc>
