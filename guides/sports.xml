@@ -2211,10 +2211,10 @@
     <display-name>ENDED | JAYS TALK PLUS: SEP. 16 | Wed 16 Sep 11:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</display-name>
   </channel>
   <channel id="1488480">
-    <display-name>LIVE | THE FAN HOCKEY SHOW: SEP. 16 | Wed 16 Sep 13:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</display-name>
+    <display-name>ENDED | THE FAN HOCKEY SHOW: SEP. 16 | Wed 16 Sep 13:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</display-name>
   </channel>
   <channel id="1488479">
-    <display-name>NEXT | DETROIT @ TORONTO | Wed 16 Sep 16:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 5</display-name>
+    <display-name>LIVE | DETROIT @ TORONTO | Wed 16 Sep 16:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 5</display-name>
   </channel>
   <channel id="1488478">
     <display-name>NEXT | BLAIR &amp; BARKER: SEP. 16 | Wed 16 Sep 19:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 6</display-name>
@@ -3346,52 +3346,68 @@
     <display-name>NFL   | 4k -</display-name>
   </channel>
   <channel id="606180">
-    <display-name>NFL  | 01 -</display-name>
+    <display-name>NFL  | 01 - TNF 8:15pm Lions at Bills</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Buffalo_Bills.png" />
   </channel>
   <channel id="606179">
-    <display-name>NFL  | 02 -</display-name>
+    <display-name>NFL  | 02 - 1pm Panthers at Falcons</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Carolina_Panthers/Carolina_Panthers_vs_Atlanta_Falcons.png" />
   </channel>
   <channel id="606178">
-    <display-name>NFL  | 03 -</display-name>
+    <display-name>NFL  | 03 - 1pm Vikings at Bears</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Minnesota_Vikings/Minnesota_Vikings_vs_Chicago_Bears.png" />
   </channel>
   <channel id="606177">
-    <display-name>NFL  | 04 -</display-name>
+    <display-name>NFL  | 04 - 1pm Eagles at Titans</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Tennessee_Titans.png" />
   </channel>
   <channel id="606176">
-    <display-name>NFL  | 05 -</display-name>
+    <display-name>NFL  | 05 - 1pm Steelers at Patriots</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Pittsburgh_Steelers/Pittsburgh_Steelers_vs_New_England_Patriots.png" />
   </channel>
   <channel id="606175">
-    <display-name>NFL  | 06 -</display-name>
+    <display-name>NFL  | 06 - 1pm Packers at Jets</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Green_Bay_Packers/Green_Bay_Packers_vs_New_York_Jets.png" />
   </channel>
   <channel id="606174">
-    <display-name>NFL  | 07 -</display-name>
+    <display-name>NFL  | 07 - 1pm Browns at Buccaneers</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Cleveland_Browns/Cleveland_Browns_vs_Tampa_Bay_Buccaneers.png" />
   </channel>
   <channel id="606173">
-    <display-name>NFL  | 08 -</display-name>
+    <display-name>NFL  | 08 - 1pm Saints at Ravens</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_Orleans_Saints/New_Orleans_Saints_vs_Baltimore_Ravens.png" />
   </channel>
   <channel id="606172">
-    <display-name>NFL  | 09 -</display-name>
+    <display-name>NFL  | 09 - 1pm Bengals at Texans</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Cincinnati_Bengals/Cincinnati_Bengals_vs_Houston_Texans.png" />
   </channel>
   <channel id="606171">
-    <display-name>NFL  | 10 -</display-name>
+    <display-name>NFL  | 10 - 4:05pm Jaguars at Broncos</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Jacksonville_Jaguars/Jacksonville_Jaguars_vs_Denver_Broncos.png" />
   </channel>
   <channel id="606170">
-    <display-name>NFL  | 11 -</display-name>
+    <display-name>NFL  | 11 - 4:05pm Raiders at Chargers</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Las_Vegas_Raiders/Las_Vegas_Raiders_vs_Los_Angeles_Chargers.png" />
   </channel>
   <channel id="606169">
-    <display-name>NFL  | 12 -</display-name>
+    <display-name>NFL  | 12 - 4:25pm Commanders at Cowboys</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Washington_Commanders/Washington_Commanders_vs_Dallas_Cowboys.png" />
   </channel>
   <channel id="606168">
-    <display-name>NFL  | 13 -</display-name>
+    <display-name>NFL  | 13 - 4:25pm Seahawks at Cardinals</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Seattle_Seahawks/Seattle_Seahawks_vs_Arizona_Cardinals.png" />
   </channel>
   <channel id="606167">
-    <display-name>NFL  | 14 -</display-name>
+    <display-name>NFL  | 14 - 4:25pm Dolphins at 49ers</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Miami_Dolphins/Miami_Dolphins_vs_San_Francisco_49ers.png" />
   </channel>
   <channel id="606166">
-    <display-name>NFL  | 15 -</display-name>
+    <display-name>NFL  | 15 - SNF 8:20pm Colts at Chiefs</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Indianapolis_Colts/Indianapolis_Colts_vs_Kansas_City_Chiefs.png" />
   </channel>
   <channel id="606165">
-    <display-name>NFL  | 16 -</display-name>
+    <display-name>NFL  | 16 - MNF 8:15pm Giants at Rams</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_York_Giants/New_York_Giants_vs_Los_Angeles_Rams.png" />
   </channel>
   <channel id="1025990">
     <display-name>###### NFL REPLAY  ######</display-name>
@@ -4583,10 +4599,10 @@
     <display-name>LIVE | UNION OMAHA VS. SPOKANE VELOCITY FC | Wed 16 Sep 13:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 12</display-name>
   </channel>
   <channel id="1924717">
-    <display-name>NEXT | EN ESPAÑOL-DEPORTIVO A CORUÑA VS. SEVILLA FC | Wed 16 Sep 13:55 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 13</display-name>
+    <display-name>LIVE | EN ESPAÑOL-DEPORTIVO A CORUÑA VS. SEVILLA FC | Wed 16 Sep 13:55 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 13</display-name>
   </channel>
   <channel id="1924716">
-    <display-name>NEXT | JACKSONVILLE STATE VS. GARDNER-WEBB | Wed 16 Sep 14:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 14</display-name>
+    <display-name>LIVE | JACKSONVILLE STATE VS. GARDNER-WEBB | Wed 16 Sep 14:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 14</display-name>
   </channel>
   <channel id="1924715">
     <display-name>NEXT | EN ESPAÑOL-FC BARCELONA VS. RACING SANTANDER | Wed 16 Sep 15:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
@@ -7621,9 +7637,6 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
-  <channel id="1884206">
-    <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
-  </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
   </channel>
@@ -7641,9 +7654,6 @@
   </channel>
   <channel id="2152109">
     <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 4</display-name>
-  </channel>
-  <channel id="2152012">
-    <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -141807,1924 +141817,1929 @@ Wednesday 09/16/2026</desc>
 Wednesday 09/16/2026</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+  <programme start="20260917180000 -0400" stop="20260917201500 -0400" channel="606180">
+    <title>Upcoming: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+  <programme start="20260917201500 -0400" stop="20260917231500 -0400" channel="606180">
+    <title>Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260917231500 -0400" stop="20260918000000 -0400" channel="606180">
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 09/16/2026</desc>
+    <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
+    <desc>Detroit Lions vs. Buffalo Bills
+Thursday 09/17/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Carolina Panthers vs. Atlanta Falcons - 1:00 PM</title>
+    <desc>Carolina Panthers vs. Atlanta Falcons
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Minnesota Vikings vs. Chicago Bears - 1:00 PM</title>
+    <desc>Minnesota Vikings vs. Chicago Bears
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
+    <desc>Philadelphia Eagles vs. Tennessee Titans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Pittsburgh Steelers vs. New England Patriots - 1:00 PM</title>
+    <desc>Pittsburgh Steelers vs. New England Patriots
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New York Jets - 1:00 PM</title>
+    <desc>Green Bay Packers vs. New York Jets
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. Tampa Bay Buccaneers - 1:00 PM</title>
+    <desc>Cleveland Browns vs. Tampa Bay Buccaneers
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New Orleans Saints vs. Baltimore Ravens - 1:00 PM</title>
+    <desc>New Orleans Saints vs. Baltimore Ravens
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Houston Texans - 1:00 PM</title>
+    <desc>Cincinnati Bengals vs. Houston Texans
+Sunday 09/20/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Denver Broncos - 4:05 PM</title>
+    <desc>Jacksonville Jaguars vs. Denver Broncos
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Las Vegas Raiders vs. Los Angeles Chargers
+Sunday 09/20/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606169">
-    <title>12</title>
-    <desc>12
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Washington Commanders vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Washington Commanders vs. Dallas Cowboys
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606168">
-    <title>13</title>
-    <desc>13
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Seattle Seahawks vs. Arizona Cardinals - 4:25 PM</title>
+    <desc>Seattle Seahawks vs. Arizona Cardinals
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606167">
-    <title>14</title>
-    <desc>14
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Miami Dolphins vs. San Francisco 49ers - 4:25 PM</title>
+    <desc>Miami Dolphins vs. San Francisco 49ers
+Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606166">
-    <title>15</title>
-    <desc>15
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: Indianapolis Colts vs. Kansas City Chiefs - 8:20 PM</title>
+    <desc>Indianapolis Colts vs. Kansas City Chiefs
+Sunday 09/20/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="606165">
-    <title>16</title>
-    <desc>16
-Wednesday 09/16/2026</desc>
+    <title>Upcoming: New York Giants vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>New York Giants vs. Los Angeles Rams
+Monday 09/21/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1025990">
     <title>###### NFL REPLAY ######</title>
@@ -305801,126 +305816,6 @@ Wednesday 09/16/2026</desc>
     <desc>VIP: NBA TV
 Wednesday 09/16/2026</desc>
   </programme>
-  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="1884206">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
     <desc>AF: NBA TV
@@ -306639,126 +306534,6 @@ Wednesday 09/16/2026</desc>
   <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="2152109">
     <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 4</title>
     <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 4
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916030000 -0400" stop="20260916060000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916060000 -0400" stop="20260916090000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916090000 -0400" stop="20260916120000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916120000 -0400" stop="20260916150000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916150000 -0400" stop="20260916180000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916180000 -0400" stop="20260916210000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260916210000 -0400" stop="20260917000000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917000000 -0400" stop="20260917030000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917030000 -0400" stop="20260917060000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917060000 -0400" stop="20260917090000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917090000 -0400" stop="20260917120000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917120000 -0400" stop="20260917150000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917150000 -0400" stop="20260917180000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917180000 -0400" stop="20260917210000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260917210000 -0400" stop="20260918000000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918000000 -0400" stop="20260918030000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918030000 -0400" stop="20260918060000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918060000 -0400" stop="20260918090000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918090000 -0400" stop="20260918120000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918120000 -0400" stop="20260918150000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918150000 -0400" stop="20260918180000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918180000 -0400" stop="20260918210000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
-Wednesday 09/16/2026</desc>
-  </programme>
-  <programme start="20260918210000 -0400" stop="20260919000000 -0400" channel="2152012">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-16 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
 Wednesday 09/16/2026</desc>
   </programme>
   <programme start="20260916000000 -0400" stop="20260916030000 -0400" channel="1695190">
