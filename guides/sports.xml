@@ -70,19 +70,19 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 22</display-name>
   </channel>
   <channel id="1899979">
-    <display-name>Next | KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 23</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 23</display-name>
   </channel>
   <channel id="1899978">
     <display-name>Next | Fight Clubbing 43- Izmir | Fight Clubbing | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 24</display-name>
   </channel>
   <channel id="1899977">
-    <display-name>Next | KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 25</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 25</display-name>
   </channel>
   <channel id="1899976">
-    <display-name>Next | Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 26</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 26</display-name>
   </channel>
   <channel id="1899975">
-    <display-name>Next | Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 27</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 27</display-name>
   </channel>
   <channel id="1899974">
     <display-name>Next | Moneni Pirates FC vs. Nsingizini Hotspurs FC | Premier League - Eswatini | 2026-09-19 | 14:15 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 28</display-name>
@@ -3109,16 +3109,16 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 23</display-name>
   </channel>
   <channel id="1899878">
-    <display-name>Next | KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 24</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 24</display-name>
   </channel>
   <channel id="1899877">
     <display-name>Next | Fight Clubbing 43- Izmir | Fight Clubbing | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 25</display-name>
   </channel>
   <channel id="1899876">
-    <display-name>Next | KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 26</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 26</display-name>
   </channel>
   <channel id="1899875">
-    <display-name>Next | Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 27</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 27</display-name>
   </channel>
   <channel id="1899874">
     <display-name>Next | Moneni Pirates FC vs. Nsingizini Hotspurs FC | Premier League - Eswatini | 2026-09-19 | 14:15 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 28</display-name>
@@ -7644,8 +7644,13 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
-  <channel id="1884198">
-    <display-name>End | NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</display-name>
+  <channel id="1884153">
+    <display-name>Next | Canadiens @ Maple Leafs (Split Squad) | NHL.TV | 2026-09-19 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 54</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Montreal_Canadiens/Montreal_Canadiens_vs_Toronto_Maple_Leafs.png" />
+  </channel>
+  <channel id="1884151">
+    <display-name>Next | Maple Leafs @ Canadiens (Split Squad) | NHL.TV | 2026-09-19 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 56</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_Montreal_Canadiens.png" />
   </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
@@ -7668,9 +7673,6 @@
   <channel id="2152098">
     <display-name>Next | Lions @ Bills (en castellano) | NFL | 2026-09-18 | 00:15 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 15</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Buffalo_Bills.png" />
-  </channel>
-  <channel id="2152004">
-    <display-name>End | NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</display-name>
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -11090,123 +11092,123 @@ Saturday 09/19/2026</desc>
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899979">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899978">
@@ -11330,363 +11332,363 @@ Saturday 09/19/2026</desc>
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899977">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 25
+    <title>8K EXCLUSIVE | GB: DAZN PPV 25</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 25
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899976">
-    <title>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26</title>
-    <desc>Chorale Roanne vs. ASVEL | SuperCoupe | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 26
+    <title>8K EXCLUSIVE | GB: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899975">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 27
+    <title>8K EXCLUSIVE | GB: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899974">
@@ -132290,123 +132292,123 @@ Saturday 09/19/2026</desc>
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899878">
-    <title>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24</title>
-    <desc>KFF Feronikeli vs. KFF Dukagjini | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 24
+    <title>8K EXCLUSIVE | US: DAZN PPV 24</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 24
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899877">
@@ -132530,243 +132532,243 @@ Saturday 09/19/2026</desc>
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899876">
-    <title>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26</title>
-    <desc>KFF Mitrovica vs. KFV Prishtina | Superliga e Femrave - Kosovo | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 26
+    <title>8K EXCLUSIVE | US: DAZN PPV 26</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 26
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899875">
-    <title>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27</title>
-    <desc>Vora FK vs. KF Skënderbeu | Superliga - Albania | 2026-09-19 | 14:00 | 8K EXCLUSIVE | US: DAZN PPV 27
+    <title>8K EXCLUSIVE | US: DAZN PPV 27</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 27
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1899874">
@@ -305764,124 +305766,244 @@ Saturday 09/19/2026</desc>
     <desc>VIP: NBA TV
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Saturday 09/19/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884198">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884153">
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
+Saturday 09/19/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884151">
+    <title>Toronto Maple Leafs vs. Montreal Canadiens</title>
+    <desc>Toronto Maple Leafs vs. Montreal Canadiens
 Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="293277">
@@ -306723,126 +306845,6 @@ Thursday 09/17/2026 - 8:15 PM</desc>
     <title>Post Game: Detroit Lions vs. Buffalo Bills - 8:15 PM</title>
     <desc>Detroit Lions vs. Buffalo Bills
 Thursday 09/17/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260919030000 -0400" stop="20260919060000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260919060000 -0400" stop="20260919090000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260919090000 -0400" stop="20260919120000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260919120000 -0400" stop="20260919150000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260919150000 -0400" stop="20260919180000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260919180000 -0400" stop="20260919210000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260919210000 -0400" stop="20260920000000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260920000000 -0400" stop="20260920030000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260920030000 -0400" stop="20260920060000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260920060000 -0400" stop="20260920090000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260920090000 -0400" stop="20260920120000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260920120000 -0400" stop="20260920150000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260920150000 -0400" stop="20260920180000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260920180000 -0400" stop="20260920210000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260920210000 -0400" stop="20260921000000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
-  </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152004">
-    <title>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</title>
-    <desc>NFL Matchup | NFL Game Pass | 2026-09-19 | 13:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260919000000 -0400" stop="20260919030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
