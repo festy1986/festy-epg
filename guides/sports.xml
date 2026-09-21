@@ -48,7 +48,7 @@
     <display-name>End | Werder Bremen vs. Stuttgart | Frauen Bundesliga | 2026-09-21 | 16:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 13</display-name>
   </channel>
   <channel id="1899988">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 14</display-name>
+    <display-name>End | NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</display-name>
   </channel>
   <channel id="1899987">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 15</display-name>
@@ -1785,7 +1785,7 @@
     <display-name>End | Sao Paulo Open Final: Quevedo vs. Podoroska | Sao Paulo Open Women Single | 2026-09-21 | 14:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 11</display-name>
   </channel>
   <channel id="1912591">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 12</display-name>
+    <display-name>End | NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</display-name>
   </channel>
   <channel id="1912590">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 13</display-name>
@@ -4602,13 +4602,13 @@
     <display-name>ENDED | COORDINATORS CORNER | Mon 21 Sep 14:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 12</display-name>
   </channel>
   <channel id="1924717">
-    <display-name>LIVE | MATT &amp; MYRON | Mon 21 Sep 15:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 13</display-name>
+    <display-name>ENDED | MATT &amp; MYRON | Mon 21 Sep 15:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 13</display-name>
   </channel>
   <channel id="1924716">
-    <display-name>LIVE | MORGAN SCALLEY PRESS CONFERENCE | Mon 21 Sep 16:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 14</display-name>
+    <display-name>ENDED | MORGAN SCALLEY PRESS CONFERENCE | Mon 21 Sep 16:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 14</display-name>
   </channel>
   <channel id="1924715">
-    <display-name>NEXT | MON, 9/21 - ESPN FC | Mon 21 Sep 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
+    <display-name>ENDED | MON, 9/21 - ESPN FC | Mon 21 Sep 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
   </channel>
   <channel id="1924714">
     <display-name>ENDED | MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
@@ -7613,8 +7613,14 @@
   <channel id="1893165">
     <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 3</display-name>
   </channel>
+  <channel id="1893159">
+    <display-name>End | NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</display-name>
+  </channel>
   <channel id="1881035">
     <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</display-name>
+  </channel>
+  <channel id="1881033">
+    <display-name>End | NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</display-name>
   </channel>
   <channel id="1881032">
     <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 4</display-name>
@@ -7737,6 +7743,9 @@
   <channel id="1893372">
     <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 9</display-name>
   </channel>
+  <channel id="1893367">
+    <display-name>End | NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</display-name>
+  </channel>
   <channel id="1893366">
     <display-name>Next | Senators vs.Canadiens | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 15</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Montreal_Canadiens.png" />
@@ -7792,6 +7801,9 @@
   </channel>
   <channel id="1899799">
     <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 3</display-name>
+  </channel>
+  <channel id="1899793">
+    <display-name>End | NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</display-name>
   </channel>
   <channel id="1863223">
     <display-name>ENDED | NHL NHL TONIGHT | Mon 21 Sep 12:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</display-name>
@@ -8443,6 +8455,9 @@
   </channel>
   <channel id="1899699">
     <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 3</display-name>
+  </channel>
+  <channel id="1899693">
+    <display-name>End | NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</display-name>
   </channel>
   <channel id="2096081">
     <display-name>VIP: MLB EI 1</display-name>
@@ -10202,123 +10217,123 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1899988">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 14
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 14
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899987">
@@ -79567,123 +79582,123 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1912591">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 12</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 12
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 12
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1912590">
@@ -304961,6 +304976,126 @@ Monday 09/21/2026</desc>
     <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1893159">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1881035">
     <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
     <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
@@ -305079,6 +305214,126 @@ Monday 09/21/2026</desc>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1881035">
     <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
     <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1881033">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1881032">
@@ -309521,6 +309776,126 @@ Monday 09/21/2026</desc>
     <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 9
 Monday 09/21/2026</desc>
   </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1893367">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 14
+Monday 09/21/2026</desc>
+  </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1893366">
     <title>Ottawa Senators vs. Montreal Canadiens</title>
     <desc>Ottawa Senators vs. Montreal Canadiens
@@ -311449,6 +311824,126 @@ Monday 09/21/2026</desc>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1899799">
     <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 3</title>
     <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1899793">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1863223">
@@ -335944,6 +336439,126 @@ Monday 09/21/2026</desc>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1899699">
     <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 3</title>
     <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 3
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1899693">
+    <title>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9</title>
+    <desc>NFL Live | NFL Game Pass | 2026-09-21 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 9
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2096081">
