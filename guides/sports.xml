@@ -4580,7 +4580,7 @@
     <display-name>LIVE | MON, 9/21 - THE RICH EISEN SHOW | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 5</display-name>
   </channel>
   <channel id="1924724">
-    <display-name>LIVE | UTSA WEEKLY SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 6</display-name>
+    <display-name>ENDED | UTSA WEEKLY SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 6</display-name>
   </channel>
   <channel id="1924723">
     <display-name>LIVE | THE PAT MCAFEE SHOW | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 7</display-name>
@@ -4589,13 +4589,13 @@
     <display-name>LIVE | UCF FOOTBALL PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 8</display-name>
   </channel>
   <channel id="1924721">
-    <display-name>LIVE | COLLIN KLEIN PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 9</display-name>
+    <display-name>ENDED | COLLIN KLEIN PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 9</display-name>
   </channel>
   <channel id="1924720">
-    <display-name>NEXT | GEORGIA SOUTHERN FOOTBALL PRESS CONFERENCE | Mon 21 Sep 12:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 10</display-name>
+    <display-name>LIVE | GEORGIA SOUTHERN FOOTBALL PRESS CONFERENCE | Mon 21 Sep 12:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 10</display-name>
   </channel>
   <channel id="1924719">
-    <display-name>NEXT | UTSA WEEKLY VOLLEYBALL PRESS CONFERENCE | Mon 21 Sep 12:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 11</display-name>
+    <display-name>LIVE | UTSA WEEKLY VOLLEYBALL PRESS CONFERENCE | Mon 21 Sep 12:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 11</display-name>
   </channel>
   <channel id="1924718">
     <display-name>NEXT | COORDINATORS CORNER | Mon 21 Sep 14:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 12</display-name>
@@ -4610,7 +4610,7 @@
     <display-name>NEXT | MON, 9/21 - ESPN FC | Mon 21 Sep 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
   </channel>
   <channel id="1924714">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
+    <display-name>ENDED | MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
   </channel>
   <channel id="1924713">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: ESPN+ PPV 17</display-name>
@@ -7643,26 +7643,14 @@
     <display-name>VIP: NBA TV</display-name>
   </channel>
   <channel id="2063946">
-    <display-name>Live | NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</display-name>
+    <display-name>End | NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</display-name>
   </channel>
-  <channel id="1884203">
-    <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</display-name>
+  <channel id="1884206">
+    <display-name>End | Kraken vs. Flames | NHL.TV | 2026-09-21 | 00:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
   </channel>
-  <channel id="1884198">
-    <display-name>Next | Senators vs.Canadiens | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Montreal_Canadiens.png" />
-  </channel>
-  <channel id="1884197">
-    <display-name>Next | Rangers vs. Devils | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 10</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_New_Jersey_Devils.png" />
-  </channel>
-  <channel id="1884196">
-    <display-name>Next | Sabres vs. Penguins | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 11</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Pittsburgh_Penguins.png" />
-  </channel>
-  <channel id="1884195">
-    <display-name>Next | Flyers vs. Capitals | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 12</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Washington_Capitals.png" />
+  <channel id="1884205">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</display-name>
   </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
@@ -7685,6 +7673,9 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="1988084">
+    <display-name>End | NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</display-name>
+  </channel>
   <channel id="2152039">
     <display-name>Next | Eagles @ Titans | NFL Game Pass | 2026-09-20 | 17:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 74</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Tennessee_Titans.png" />
@@ -7703,24 +7694,12 @@
     <display-name>Next | Seahawks @ Cardinals (en castellano) | NFL | 2026-09-20 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 93</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Seattle_Seahawks/Seattle_Seahawks_vs_Arizona_Cardinals.png" />
   </channel>
-  <channel id="2152009">
-    <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</display-name>
+  <channel id="2152012">
+    <display-name>End | Kraken vs. Flames | NHL.TV | 2026-09-21 | 00:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
   </channel>
-  <channel id="2152004">
-    <display-name>Next | Senators vs.Canadiens | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Montreal_Canadiens.png" />
-  </channel>
-  <channel id="2152003">
-    <display-name>Next | Rangers vs. Devils | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 10</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_New_Jersey_Devils.png" />
-  </channel>
-  <channel id="2152002">
-    <display-name>Next | Sabres vs. Penguins | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 11</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Pittsburgh_Penguins.png" />
-  </channel>
-  <channel id="2152001">
-    <display-name>Next | Flyers vs. Capitals | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 12</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Washington_Capitals.png" />
+  <channel id="2152011">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</display-name>
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -7780,7 +7759,7 @@
     <display-name>PT: SPORT TV NBA HD</display-name>
   </channel>
   <channel id="1930657">
-    <display-name>Live | NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</display-name>
+    <display-name>End | NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</display-name>
   </channel>
   <channel id="1977564">
     <display-name>End | NHL Tonight | NHL  2026 | 2026-06-01 | 10:00 (GMT) | 8K EXCLUSIVE | SE: VIAPLAY PPV 2</display-name>
@@ -7859,7 +7838,7 @@
     <display-name>CA EN: NBA TV HD</display-name>
   </channel>
   <channel id="1939954">
-    <display-name>Live | NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</display-name>
+    <display-name>End | NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</display-name>
   </channel>
   <channel id="1536612">
     <display-name>PRIME: MLB ᴿᴬᵂ</display-name>
@@ -184799,124 +184778,124 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1924714">
-    <title>8K EXCLUSIVE | US: ESPN+ PPV 16</title>
-    <desc>8K EXCLUSIVE | US: ESPN+ PPV 16
-Monday 09/21/2026</desc>
+    <title>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</title>
+    <desc>MEMPHIS SOCCER PRESS CONFERENCE | Mon 21 Sep 12:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16
+Saturday 09/12/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1924713">
     <title>8K EXCLUSIVE | US: ESPN+ PPV 17</title>
@@ -306119,723 +306098,363 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2063946">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884203">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884206">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884198">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884197">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884196">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884195">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="293277">
@@ -307678,6 +307297,126 @@ Monday 09/21/2026</desc>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Monday 09/21/2026</desc>
   </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1988084">
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 42
+Monday 09/21/2026</desc>
+  </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152039">
     <title>Post Game: Philadelphia Eagles vs. Tennessee Titans - 1:00 PM</title>
     <desc>Philadelphia Eagles vs. Tennessee Titans
@@ -308278,604 +308017,244 @@ Sunday 09/20/2026 - 4:25 PM</desc>
     <desc>Seattle Seahawks vs. Arizona Cardinals
 Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152009">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152012">
+    <title>Seattle Kraken vs. Calgary Flames</title>
+    <desc>Seattle Kraken vs. Calgary Flames
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152004">
-    <title>Ottawa Senators vs. Montreal Canadiens</title>
-    <desc>Ottawa Senators vs. Montreal Canadiens
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152003">
-    <title>New York Rangers vs. New Jersey Devils</title>
-    <desc>New York Rangers vs. New Jersey Devils
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152002">
-    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
-    <desc>Buffalo Sabres vs. Pittsburgh Penguins
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
-Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152001">
-    <title>Philadelphia Flyers vs. Washington Capitals</title>
-    <desc>Philadelphia Flyers vs. Washington Capitals
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1695190">
@@ -310799,123 +310178,123 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1930657">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | SE: SOCCER PPV 25
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | SE: SOCCER PPV 25
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1977564">
@@ -313689,123 +313068,123 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1939954">
-    <title>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
-    <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
+    <title>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2</title>
+    <desc>NFL RedZone - Week 2 | all | 21-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 2
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1536612">
