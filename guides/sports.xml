@@ -11,7 +11,7 @@
     <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</display-name>
   </channel>
   <channel id="1899999">
-    <display-name>Next | Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 3</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 3</display-name>
   </channel>
   <channel id="1899998">
     <display-name>Next | Botswana U20 vs. Malawi U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 4</display-name>
@@ -1765,7 +1765,7 @@
     <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</display-name>
   </channel>
   <channel id="1912599">
-    <display-name>Next | Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 4</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 4</display-name>
   </channel>
   <channel id="1912598">
     <display-name>Next | Botswana U20 vs. Malawi U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</display-name>
@@ -2212,7 +2212,7 @@
     <display-name>####### SPORTSNET PPV #######</display-name>
   </channel>
   <channel id="1488483">
-    <display-name>NEXT | SPORTSNET CENTRAL: SEP. 20 | Mon 21 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
+    <display-name>ENDED | SPORTSNET CENTRAL: SEP. 20 | Mon 21 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
   </channel>
   <channel id="1488482">
     <display-name>NEXT | THE JD BUNKIS PODCAST: SEP. 21 | Mon 21 Sep 10:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</display-name>
@@ -3052,7 +3052,7 @@
     <display-name>####### DAZN PPV US #######</display-name>
   </channel>
   <channel id="1899901">
-    <display-name>Next | Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 1</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 1</display-name>
   </channel>
   <channel id="1899900">
     <display-name>Next | Botswana U20 vs. Malawi U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 12:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 2</display-name>
@@ -7646,12 +7646,21 @@
   <channel id="2063946">
     <display-name>Live | NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13</display-name>
   </channel>
-  <channel id="1884206">
-    <display-name>End | Kraken vs. Flames | NHL.TV | 2026-09-21 | 00:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
+  <channel id="1884198">
+    <display-name>Next | Senators vs.Canadiens | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Montreal_Canadiens.png" />
   </channel>
-  <channel id="1884205">
-    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</display-name>
+  <channel id="1884197">
+    <display-name>Next | Rangers vs. Devils | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 10</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_New_Jersey_Devils.png" />
+  </channel>
+  <channel id="1884196">
+    <display-name>Next | Sabres vs. Penguins | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 11</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Pittsburgh_Penguins.png" />
+  </channel>
+  <channel id="1884195">
+    <display-name>Next | Flyers vs. Capitals | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 12</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Washington_Capitals.png" />
   </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
@@ -7659,11 +7668,11 @@
   <channel id="1548073">
     <display-name>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="1535857">
-    <display-name>(MX) (VIX 04) | NFL Blitz (2026-09-20 12:45:00)</display-name>
+  <channel id="1535859">
+    <display-name>(MX) (VIX 02) | MLB EN VIVO (2026-09-22 21:00:00)</display-name>
   </channel>
-  <channel id="1535847">
-    <display-name>(MX) (VIX 14) | MLB ESTA SEMANA (2026-09-26 15:00:00)</display-name>
+  <channel id="1535853">
+    <display-name>(MX) (VIX 08) | MLB ESTA SEMANA (2026-09-26 15:00:00)</display-name>
   </channel>
   <channel id="2140543">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ</display-name>
@@ -7692,12 +7701,21 @@
     <display-name>Next | Seahawks @ Cardinals (en castellano) | NFL | 2026-09-20 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 93</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Seattle_Seahawks/Seattle_Seahawks_vs_Arizona_Cardinals.png" />
   </channel>
-  <channel id="2152012">
-    <display-name>End | Kraken vs. Flames | NHL.TV | 2026-09-21 | 00:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
+  <channel id="2152004">
+    <display-name>Next | Senators vs.Canadiens | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Montreal_Canadiens.png" />
   </channel>
-  <channel id="2152011">
-    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</display-name>
+  <channel id="2152003">
+    <display-name>Next | Rangers vs. Devils | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 10</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_New_Jersey_Devils.png" />
+  </channel>
+  <channel id="2152002">
+    <display-name>Next | Sabres vs. Penguins | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 11</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Pittsburgh_Penguins.png" />
+  </channel>
+  <channel id="2152001">
+    <display-name>Next | Flyers vs. Capitals | NHL.TV | 2026-09-21 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 12</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Washington_Capitals.png" />
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -7793,9 +7811,6 @@
   </channel>
   <channel id="1703070">
     <display-name>NHL Tonight @ Sep 21 12:00 PM :Viaplay DK  04</display-name>
-  </channel>
-  <channel id="1128618">
-    <display-name>ENDED | NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</display-name>
   </channel>
   <channel id="2123522">
     <display-name>NFL RedZone: Week 2 @ Sep 20 18:50 PM :VG  17</display-name>
@@ -8810,123 +8825,123 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1899999">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | GB: DAZN PPV 3
+    <title>8K EXCLUSIVE | GB: DAZN PPV 3</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 3
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899998">
@@ -78530,123 +78545,123 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1912599">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1912598">
@@ -129650,123 +129665,123 @@ Monday 09/21/2026</desc>
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1899901">
-    <title>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Zambia U20 vs. Comoros U20 | TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier | 2026-09-21 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1899900">
@@ -305934,244 +305949,484 @@ Monday 09/21/2026</desc>
     <desc>NFL RedZone - Week 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 13
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884206">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884198">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884205">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884197">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884196">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1884195">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="293277">
@@ -306414,242 +306669,242 @@ Monday 09/21/2026</desc>
     <desc>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1535857">
-    <title>NFL Blitz (2026-09-20 12:45:00)</title>
-    <desc>NFL Blitz (2026-09-20 12:45:00)
-Sunday 09/20/2026</desc>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1535859">
+    <title>MLB EN VIVO (2026-09-22 21:00:00)</title>
+    <desc>MLB EN VIVO (2026-09-22 21:00:00)
+Tuesday 09/22/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1535847">
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1535847">
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1535847">
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1535847">
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1535847">
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1535847">
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1535847">
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1535847">
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1535847">
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1535847">
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1535847">
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1535847">
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1535847">
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1535847">
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1535847">
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1535847">
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1535847">
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1535847">
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1535847">
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1535847">
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1535847">
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1535847">
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1535847">
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1535847">
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1535853">
     <title>MLB ESTA SEMANA (2026-09-26 15:00:00)</title>
     <desc>MLB ESTA SEMANA (2026-09-26 15:00:00)
 Saturday 09/26/2026</desc>
@@ -307614,244 +307869,484 @@ Sunday 09/20/2026 - 4:25 PM</desc>
     <desc>Seattle Seahawks vs. Arizona Cardinals
 Sunday 09/20/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152012">
-    <title>Seattle Kraken vs. Calgary Flames</title>
-    <desc>Seattle Kraken vs. Calgary Flames
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152004">
+    <title>Ottawa Senators vs. Montreal Canadiens</title>
+    <desc>Ottawa Senators vs. Montreal Canadiens
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
 Monday 09/21/2026</desc>
   </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152011">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-21 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152003">
+    <title>New York Rangers vs. New Jersey Devils</title>
+    <desc>New York Rangers vs. New Jersey Devils
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152002">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
+Monday 09/21/2026</desc>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="2152001">
+    <title>Philadelphia Flyers vs. Washington Capitals</title>
+    <desc>Philadelphia Flyers vs. Washington Capitals
 Monday 09/21/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1695190">
@@ -311103,126 +311598,6 @@ Monday 09/21/2026</desc>
     <title>NHL Tonight vs. Los Angeles Kings</title>
     <desc>NHL Tonight vs. Los Angeles Kings
 Monday 09/21/2026</desc>
-  </programme>
-  <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260921030000 -0400" stop="20260921060000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260921090000 -0400" stop="20260921120000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260921120000 -0400" stop="20260921150000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260921150000 -0400" stop="20260921180000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260921180000 -0400" stop="20260921210000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260921210000 -0400" stop="20260922000000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260922000000 -0400" stop="20260922030000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260922030000 -0400" stop="20260922060000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260922090000 -0400" stop="20260922120000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260922120000 -0400" stop="20260922150000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260922150000 -0400" stop="20260922180000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260922180000 -0400" stop="20260922210000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260923000000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260923000000 -0400" stop="20260923030000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260923030000 -0400" stop="20260923060000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260923060000 -0400" stop="20260923090000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260923090000 -0400" stop="20260923120000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260923120000 -0400" stop="20260923150000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260923150000 -0400" stop="20260923180000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260923180000 -0400" stop="20260923210000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
-  </programme>
-  <programme start="20260923210000 -0400" stop="20260924000000 -0400" channel="1128618">
-    <title>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14</title>
-    <desc>NFL REDZONE: WEEK 2 | Sun 20 Sep 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 14
-Friday 09/18/2026</desc>
   </programme>
   <programme start="20260921000000 -0400" stop="20260921030000 -0400" channel="2123522">
     <title>New England Patriots vs. Sep 20 18:50 PM :VG 17</title>
