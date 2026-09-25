@@ -8,7 +8,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_St_Louis_Blues.png" />
   </channel>
   <channel id="1900000">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 2</display-name>
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</display-name>
   </channel>
   <channel id="1899999">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 3</display-name>
@@ -1757,7 +1757,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
   </channel>
   <channel id="1912600">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 3</display-name>
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</display-name>
   </channel>
   <channel id="1912599">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 4</display-name>
@@ -1811,7 +1811,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 20</display-name>
   </channel>
   <channel id="1912582">
-    <display-name>Next | Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 21</display-name>
   </channel>
   <channel id="1912581">
     <display-name>Next | Bangladesh vs. Malaysia | FIFA ASEAN Cup | 2026-09-25 | 09:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 22</display-name>
@@ -2258,13 +2258,13 @@
     <display-name>ENDED | UFC BRAZILIAN JIU-JITSU 11: MUSUMECI VS. MITCHELL | Thu 24 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 17</display-name>
   </channel>
   <channel id="1488466">
-    <display-name>LIVE | EDMONTON @ VANCOUVER | Thu 24 Sep 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 18</display-name>
+    <display-name>ENDED | EDMONTON @ VANCOUVER | Thu 24 Sep 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 18</display-name>
   </channel>
   <channel id="1488465">
     <display-name>ENDED | TNA IMPACT! | Thu 24 Sep 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 19</display-name>
   </channel>
   <channel id="1488464">
-    <display-name>LIVE | HOUSTON @ ATHLETICS | Thu 24 Sep 23:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 20</display-name>
+    <display-name>ENDED | HOUSTON @ ATHLETICS | Thu 24 Sep 23:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 20</display-name>
   </channel>
   <channel id="1488463">
     <display-name>LIVE | CALGARY @ SEATTLE | Thu 24 Sep 23:10 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 21</display-name>
@@ -7626,6 +7626,9 @@
   <channel id="1632703">
     <display-name>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="1893167">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</display-name>
+  </channel>
   <channel id="1881035">
     <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</display-name>
   </channel>
@@ -7652,6 +7655,21 @@
   </channel>
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
+  </channel>
+  <channel id="1884206">
+    <display-name>End | Blackhawks vs. Blues | NHL.TV | 2026-09-25 | 00:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_St_Louis_Blues.png" />
+  </channel>
+  <channel id="1884205">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</display-name>
+  </channel>
+  <channel id="1884171">
+    <display-name>Next | Bruins vs. Capitals | NHL.TV | 2026-09-25 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 36</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Boston_Bruins/Boston_Bruins_vs_Washington_Capitals.png" />
+  </channel>
+  <channel id="1884170">
+    <display-name>Next | Rangers vs. Islanders | NHL.TV | 2026-09-25 | 23:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 37</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_New_York_Islanders.png" />
   </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
@@ -7688,6 +7706,13 @@
   <channel id="2152020">
     <display-name>Next | Seahawks @ Cardinals (en castellano) | NFL | 2026-09-20 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 93</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Seattle_Seahawks/Seattle_Seahawks_vs_Arizona_Cardinals.png" />
+  </channel>
+  <channel id="2152012">
+    <display-name>End | Blackhawks vs. Blues | NHL.TV | 2026-09-25 | 00:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_St_Louis_Blues.png" />
+  </channel>
+  <channel id="2152011">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</display-name>
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -7782,6 +7807,9 @@
   <channel id="1801853">
     <display-name>NFL: Falcons @ Packers @ Sep 25 2:05 AM :Disney+ SE  07</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
+  </channel>
+  <channel id="1899801">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</display-name>
   </channel>
   <channel id="1863222">
     <display-name>ENDED | NHL VANCOUVER - EDMONTON | Fri 25 Sep 03:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 5</display-name>
@@ -8688,123 +8716,123 @@ Friday 09/25/2026</desc>
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1900000">
-    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1899999">
@@ -78408,123 +78436,123 @@ Thursday 09/24/2026 - 8:15 PM</desc>
 Thursday 09/24/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1912600">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 3
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1912599">
@@ -80568,123 +80596,123 @@ Friday 09/25/2026</desc>
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1912582">
-    <title>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</title>
-    <desc>Singapore Open: Day 5 | Singapore Tennis Open | 2026-09-25 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21
+    <title>8K EXCLUSIVE | CA: DAZN PPV 21</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 21
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1912581">
@@ -304797,6 +304825,126 @@ Friday 09/25/2026</desc>
     <desc>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ
 Friday 09/25/2026</desc>
   </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1881035">
     <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
     <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
@@ -305875,6 +306023,486 @@ Friday 09/25/2026</desc>
   <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1686819">
     <title>VIP: NBA TV</title>
     <desc>VIP: NBA TV
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1884206">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
 Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="293277">
@@ -307196,6 +307824,246 @@ Sunday 09/20/2026</desc>
     <title>Seattle Seahawks vs. Arizona Cardinals</title>
     <desc>Seattle Seahawks vs. Arizona Cardinals
 Sunday 09/20/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="2152012">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
@@ -310316,6 +311184,126 @@ Thursday 09/24/2026 - 8:15 PM</desc>
     <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
     <desc>Atlanta Falcons vs. Green Bay Packers
 Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-25 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Friday 09/25/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1863222">
     <title>Vancouver Canucks vs. Edmonton Oilers</title>
