@@ -22,8 +22,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 6</display-name>
   </channel>
   <channel id="1899995">
-    <display-name>Next | Blackhawks @ Blues | NHL.TV | 2026-09-25 | 00:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 7</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_St_Louis_Blues.png" />
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 7</display-name>
   </channel>
   <channel id="1899994">
     <display-name>Next | Oilers @ Canucks | NHL.TV | 2026-09-25 | 01:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 8</display-name>
@@ -2253,10 +2252,10 @@
     <display-name>LIVE | TAMPA BAY @ NEW YORK YANKEES | Thu 24 Sep 20:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 15</display-name>
   </channel>
   <channel id="1488468">
-    <display-name>NEXT | CHICAGO @ ST. LOUIS | Thu 24 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 16</display-name>
+    <display-name>LIVE | CHICAGO @ ST. LOUIS | Thu 24 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 16</display-name>
   </channel>
   <channel id="1488467">
-    <display-name>NEXT | UFC BRAZILIAN JIU-JITSU 11: MUSUMECI VS. MITCHELL | Thu 24 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 17</display-name>
+    <display-name>LIVE | UFC BRAZILIAN JIU-JITSU 11: MUSUMECI VS. MITCHELL | Thu 24 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 17</display-name>
   </channel>
   <channel id="1488466">
     <display-name>NEXT | EDMONTON @ VANCOUVER | Thu 24 Sep 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 18</display-name>
@@ -7601,6 +7600,9 @@
   <channel id="1562719">
     <display-name>AF: NBA TV ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="1896465">
+    <display-name>NEXT | MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</display-name>
+  </channel>
   <channel id="1565560">
     <display-name>JOYN: NFL NETWORK ᴿᴬᵂ</display-name>
   </channel>
@@ -7652,6 +7654,26 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
+  <channel id="1884191">
+    <display-name>Next | Oilers vs. Canucks | NHL.TV | 2026-09-25 | 01:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 16</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_Vancouver_Canucks.png" />
+  </channel>
+  <channel id="1884190">
+    <display-name>Next | Flames vs. Kraken | NHL.TV | 2026-09-25 | 01:40 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 17</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Seattle_Kraken.png" />
+  </channel>
+  <channel id="1884189">
+    <display-name>Next | Mammoth vs. Golden Knights | NHL.TV | 2026-09-25 | 02:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 18</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Vegas_Golden_Knights.png" />
+  </channel>
+  <channel id="1884171">
+    <display-name>Next | Bruins vs. Capitals | NHL.TV | 2026-09-25 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 36</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Boston_Bruins/Boston_Bruins_vs_Washington_Capitals.png" />
+  </channel>
+  <channel id="1884170">
+    <display-name>Next | Rangers vs. Islanders | NHL.TV | 2026-09-25 | 23:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 37</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_New_York_Islanders.png" />
+  </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
   </channel>
@@ -7688,6 +7710,18 @@
     <display-name>Next | Seahawks @ Cardinals (en castellano) | NFL | 2026-09-20 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 93</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Seattle_Seahawks/Seattle_Seahawks_vs_Arizona_Cardinals.png" />
   </channel>
+  <channel id="2151997">
+    <display-name>Next | Oilers vs. Canucks | NHL.TV | 2026-09-25 | 01:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 16</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_Vancouver_Canucks.png" />
+  </channel>
+  <channel id="2151996">
+    <display-name>Next | Flames vs. Kraken | NHL.TV | 2026-09-25 | 01:40 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 17</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Seattle_Kraken.png" />
+  </channel>
+  <channel id="2151995">
+    <display-name>Next | Mammoth vs. Golden Knights | NHL.TV | 2026-09-25 | 02:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 18</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Vegas_Golden_Knights.png" />
+  </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
   </channel>
@@ -7696,6 +7730,22 @@
   </channel>
   <channel id="1688731">
     <display-name>VIP: SPORT TV NBA ᴿᴬᵂ</display-name>
+  </channel>
+  <channel id="1893380">
+    <display-name>Live | Falcons @ Packers | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
+  </channel>
+  <channel id="1893379">
+    <display-name>Live | Falcons @ Packers (U.S., French, German, Japanese, Portuguese Game Commentary Available) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 2</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
+  </channel>
+  <channel id="1893378">
+    <display-name>Live | Falcons @ Packers (Spanish Broadcast) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 3</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
+  </channel>
+  <channel id="1893377">
+    <display-name>Live | Blackhawks vs. Blues | NHL.TV | 8K EXCLUSIVE | PT: DAZN PPV 4</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_St_Louis_Blues.png" />
   </channel>
   <channel id="1893366">
     <display-name>Live | Bruins vs. Flyers | NHL.TV | 8K EXCLUSIVE | PT: DAZN PPV 15</display-name>
@@ -7729,24 +7779,8 @@
     <display-name>Live | Devils vs. Rangers | NHL.TV | 8K EXCLUSIVE | PT: DAZN PPV 30</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_Jersey_Devils/New_Jersey_Devils_vs_New_York_Rangers.png" />
   </channel>
-  <channel id="1893350">
-    <display-name>Next | Blackhawks @ Blues | NHL.TV | 2026-09-25 | 00:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 31</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_St_Louis_Blues.png" />
-  </channel>
-  <channel id="1893349">
-    <display-name>Next | Falcons @ Packers | NFL Game Pass | 2026-09-25 | 00:15 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 32</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
-  </channel>
-  <channel id="1893348">
-    <display-name>Next | Falcons @ Packers (U.S., French, German, Japanese, Portuguese Game Commentary Available) | NFL Game Pass | 2026-09-25 | 00:15 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 33</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
-  </channel>
   <channel id="1893347">
     <display-name>Next | Falcons @ Packers | Português | NFL | 2026-09-25 | 00:15 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 34</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
-  </channel>
-  <channel id="1893346">
-    <display-name>Next | Falcons @ Packers (Spanish Broadcast) | NFL Game Pass | 2026-09-25 | 00:15 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 35</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
   </channel>
   <channel id="1893345">
@@ -7796,7 +7830,7 @@
     <display-name>NHL Tonight @ Sep 24 12:00 PM :Viaplay SE  07</display-name>
   </channel>
   <channel id="1825978">
-    <display-name>NEXT | NFL: FALCONS @ PACKERS | Fri 25 Sep 02:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 25</display-name>
+    <display-name>LIVE | NFL: FALCONS @ PACKERS | Fri 25 Sep 02:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 25</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
   </channel>
   <channel id="1704125">
@@ -7967,6 +8001,9 @@
   </channel>
   <channel id="325049">
     <display-name>US: MLB STRIKE ZONE HD</display-name>
+  </channel>
+  <channel id="1940048">
+    <display-name>Live | MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</display-name>
   </channel>
   <channel id="1126472">
     <display-name>####### VIAPLAY NHL PPV #######</display-name>
@@ -9315,124 +9352,124 @@ Thursday 09/24/2026</desc>
 Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1899995">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 7</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 7
+Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1899994">
     <title>Edmonton Oilers vs. Vancouver Canucks</title>
@@ -303664,6 +303701,126 @@ Thursday 09/24/2026</desc>
     <desc>AF: NBA TV ᴿᴬᵂ
 Thursday 09/24/2026</desc>
   </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1896465">
+    <title>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB | Fri 25 Sep 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Wednesday 09/23/2026</desc>
+  </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1565560">
     <title>JOYN: NFL NETWORK ᴿᴬᵂ</title>
     <desc>JOYN: NFL NETWORK ᴿᴬᵂ
@@ -305704,6 +305861,606 @@ Thursday 09/24/2026</desc>
     <desc>VIP: NBA TV
 Thursday 09/24/2026</desc>
   </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884191">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884190">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884189">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884171">
+    <title>Boston Bruins vs. Washington Capitals</title>
+    <desc>Boston Bruins vs. Washington Capitals
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1884170">
+    <title>New York Rangers vs. New York Islanders</title>
+    <desc>New York Rangers vs. New York Islanders
+Friday 09/25/2026</desc>
+  </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
     <desc>AF: NBA TV
@@ -307024,6 +307781,366 @@ Sunday 09/20/2026</desc>
     <desc>Seattle Seahawks vs. Arizona Cardinals
 Sunday 09/20/2026</desc>
   </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="2151997">
+    <title>Edmonton Oilers vs. Vancouver Canucks</title>
+    <desc>Edmonton Oilers vs. Vancouver Canucks
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="2151996">
+    <title>Calgary Flames vs. Seattle Kraken</title>
+    <desc>Calgary Flames vs. Seattle Kraken
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="2151995">
+    <title>Utah Mammoth vs. Vegas Golden Knights</title>
+    <desc>Utah Mammoth vs. Vegas Golden Knights
+Friday 09/25/2026</desc>
+  </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
     <desc>MEO: NBA TV ᴿᴬᵂ
@@ -307382,6 +308499,501 @@ Thursday 09/24/2026</desc>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1688731">
     <title>VIP: SPORT TV NBA ᴿᴬᵂ</title>
     <desc>VIP: SPORT TV NBA ᴿᴬᵂ
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893380">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893380">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893380">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893380">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893380">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893380">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1893380">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1893380">
+    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893380">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893379">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893379">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893379">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893379">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893379">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893379">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1893379">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1893379">
+    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893379">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893378">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893378">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893378">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893378">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893378">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893378">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1893378">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1893378">
+    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893378">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893377">
+    <title>Chicago Blackhawks vs. St. Louis Blues</title>
+    <desc>Chicago Blackhawks vs. St. Louis Blues
 Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893366">
@@ -308344,376 +309956,6 @@ Thursday 09/24/2026</desc>
     <desc>New Jersey Devils vs. New York Rangers
 Thursday 09/24/2026</desc>
   </programme>
-  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893350">
-    <title>Chicago Blackhawks vs. St. Louis Blues</title>
-    <desc>Chicago Blackhawks vs. St. Louis Blues
-Friday 09/25/2026</desc>
-  </programme>
-  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893349">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893349">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893349">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893349">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893349">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893349">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1893349">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1893349">
-    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893349">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893348">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893348">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893348">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893348">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893348">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893348">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1893348">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1893348">
-    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893348">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893347">
     <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
     <desc>Atlanta Falcons vs. Green Bay Packers
@@ -308835,131 +310077,6 @@ Thursday 09/24/2026 - 8:15 PM</desc>
 Thursday 09/24/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893346">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893346">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893346">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893346">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893346">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893346">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1893346">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1893346">
-    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893346">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893346">
     <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
     <desc>Atlanta Falcons vs. Green Bay Packers
 Thursday 09/24/2026 - 8:15 PM</desc>
@@ -317137,6 +318254,126 @@ Thursday 09/24/2026</desc>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="325049">
     <title>US: MLB STRIKE ZONE HD</title>
     <desc>US: MLB STRIKE ZONE HD
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
+Thursday 09/24/2026</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1940048">
+    <title>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109</title>
+    <desc>MLB Big Inning: 9.24.26 | all | 8K EXCLUSIVE | US: SOCCER PPV 109
 Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1126472">
