@@ -2258,10 +2258,10 @@
     <display-name>LIVE | UFC BRAZILIAN JIU-JITSU 11: MUSUMECI VS. MITCHELL | Thu 24 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 17</display-name>
   </channel>
   <channel id="1488466">
-    <display-name>NEXT | EDMONTON @ VANCOUVER | Thu 24 Sep 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 18</display-name>
+    <display-name>LIVE | EDMONTON @ VANCOUVER | Thu 24 Sep 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 18</display-name>
   </channel>
   <channel id="1488465">
-    <display-name>NEXT | TNA IMPACT! | Thu 24 Sep 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 19</display-name>
+    <display-name>LIVE | TNA IMPACT! | Thu 24 Sep 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 19</display-name>
   </channel>
   <channel id="1488464">
     <display-name>NEXT | HOUSTON @ ATHLETICS | Thu 24 Sep 23:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 20</display-name>
@@ -2496,13 +2496,13 @@
     <display-name>####### CANADA WEST PPV #######</display-name>
   </channel>
   <channel id="1132428">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</display-name>
+    <display-name>NEXT | UNBC @ GMU SOCCER MEN | Fri 25 Sep 18:00 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</display-name>
   </channel>
   <channel id="1132427">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
+    <display-name>NEXT | TRU @ MRU SOCCER MEN | Fri 25 Sep 18:15 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
   </channel>
   <channel id="1132426">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</display-name>
+    <display-name>NEXT | UFV @ LET SOCCER MEN | Fri 25 Sep 19:30 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</display-name>
   </channel>
   <channel id="1132425">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | CA: CANADA WEST PPV 4</display-name>
@@ -4625,25 +4625,25 @@
     <display-name>ENDED | THU, 9/24 - ESPN FC | Thu 24 Sep 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 13</display-name>
   </channel>
   <channel id="1924716">
-    <display-name>LIVE | NORTH ALABAMA VS. WEST GEORGIA | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 14</display-name>
+    <display-name>ENDED | NORTH ALABAMA VS. WEST GEORGIA | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 14</display-name>
   </channel>
   <channel id="1924715">
-    <display-name>LIVE | LOUISIANA VS. OLD DOMINION | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
+    <display-name>ENDED | LOUISIANA VS. OLD DOMINION | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
   </channel>
   <channel id="1924714">
-    <display-name>LIVE | FORDHAM VS. GEORGE MASON | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
+    <display-name>ENDED | FORDHAM VS. GEORGE MASON | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
   </channel>
   <channel id="1924713">
-    <display-name>LIVE | GEORGIA STATE VS. MARSHALL | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 17</display-name>
+    <display-name>ENDED | GEORGIA STATE VS. MARSHALL | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 17</display-name>
   </channel>
   <channel id="1924712">
-    <display-name>LIVE | KANSAS STATE VS. UCF | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 18</display-name>
+    <display-name>ENDED | KANSAS STATE VS. UCF | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 18</display-name>
   </channel>
   <channel id="1924711">
-    <display-name>LIVE | MIAMI (OH) VS. BOWLING GREEN | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 19</display-name>
+    <display-name>ENDED | MIAMI (OH) VS. BOWLING GREEN | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 19</display-name>
   </channel>
   <channel id="1924710">
-    <display-name>LIVE | CLEVELAND STATE VS. YOUNGSTOWN STATE | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 20</display-name>
+    <display-name>ENDED | CLEVELAND STATE VS. YOUNGSTOWN STATE | Thu 24 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 20</display-name>
   </channel>
   <channel id="1924709">
     <display-name>LIVE | COLLEGE SWIMMING LEAGUE (INDIANA, MICHIGAN, OHIO STATE, LOUISVILLE) | Thu 24 Sep 18:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
@@ -7747,6 +7747,10 @@
     <display-name>Live | Blackhawks vs. Blues | NHL.TV | 8K EXCLUSIVE | PT: DAZN PPV 4</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_St_Louis_Blues.png" />
   </channel>
+  <channel id="1893376">
+    <display-name>Live | Falcons @ Packers | Português | NFL | 8K EXCLUSIVE | PT: DAZN PPV 5</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
+  </channel>
   <channel id="1893366">
     <display-name>Live | Bruins vs. Flyers | NHL.TV | 8K EXCLUSIVE | PT: DAZN PPV 15</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Boston_Bruins/Boston_Bruins_vs_Philadelphia_Flyers.png" />
@@ -7772,16 +7776,12 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Detroit_Red_Wings.png" />
   </channel>
   <channel id="1893352">
-    <display-name>Live | Sabres vs. Wings | NHL.TV | 8K EXCLUSIVE | PT: DAZN PPV 29</display-name>
+    <display-name>Live | Sabres @ Red Wings | NHL.TV | 8K EXCLUSIVE | PT: DAZN PPV 29</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Detroit_Red_Wings.png" />
   </channel>
   <channel id="1893351">
     <display-name>Live | Devils vs. Rangers | NHL.TV | 8K EXCLUSIVE | PT: DAZN PPV 30</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_Jersey_Devils/New_Jersey_Devils_vs_New_York_Rangers.png" />
-  </channel>
-  <channel id="1893347">
-    <display-name>Next | Falcons @ Packers | Português | NFL | 2026-09-25 | 00:15 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 34</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
   </channel>
   <channel id="1893345">
     <display-name>Next | Oilers vs. Canucks | NHL.TV | 2026-09-25 | 01:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 36</display-name>
@@ -7835,6 +7835,10 @@
   </channel>
   <channel id="1704125">
     <display-name>NFL: Falcons @ Packers @ Sep 25 02:00 :TeliaPlay SE  27</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
+  </channel>
+  <channel id="1098706">
+    <display-name>LIVE | NFL: FALCONS @ PACKERS | Fri 25 Sep 02:05 CEST (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 5</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Atlanta_Falcons/Atlanta_Falcons_vs_Green_Bay_Packers.png" />
   </channel>
   <channel id="1801853">
@@ -107542,364 +107546,364 @@ Thursday 09/24/2026</desc>
 Thursday 09/24/2026</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1132428">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 1
-Thursday 09/24/2026</desc>
+    <title>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</title>
+    <desc>UNBC vs. GMU SOCCER MEN | Fri 25 Sep 18:00 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 1
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1132427">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 2
-Thursday 09/24/2026</desc>
+    <title>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</title>
+    <desc>TRU vs. MRU SOCCER MEN | Fri 25 Sep 18:15 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 2
+Friday 09/18/2026</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260924180000 -0400" stop="20260924210000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260924210000 -0400" stop="20260925000000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1132426">
-    <title>8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
-    <desc>8K EXCLUSIVE | CA: CANADA WEST PPV 3
-Thursday 09/24/2026</desc>
+    <title>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</title>
+    <desc>UFV vs. LET SOCCER MEN | Fri 25 Sep 19:30 NDT | 8K EXCLUSIVE | CA: CANADA WEST PPV 3
+Saturday 09/19/2026</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1132425">
     <title>8K EXCLUSIVE | CA: CANADA WEST PPV 4</title>
@@ -308996,6 +309000,131 @@ Thursday 09/24/2026</desc>
     <desc>Chicago Blackhawks vs. St. Louis Blues
 Thursday 09/24/2026</desc>
   </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893376">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893376">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893376">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893376">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893376">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893376">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1893376">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1893376">
+    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893376">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893366">
     <title>Boston Bruins vs. Philadelphia Flyers</title>
     <desc>Boston Bruins vs. Philadelphia Flyers
@@ -309955,131 +310084,6 @@ Thursday 09/24/2026</desc>
     <title>New Jersey Devils vs. New York Rangers</title>
     <desc>New Jersey Devils vs. New York Rangers
 Thursday 09/24/2026</desc>
-  </programme>
-  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893347">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1893347">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1893347">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1893347">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1893347">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1893347">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1893347">
-    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1893347">
-    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1893347">
-    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Atlanta Falcons vs. Green Bay Packers
-Thursday 09/24/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1893345">
     <title>Edmonton Oilers vs. Vancouver Canucks</title>
@@ -311887,6 +311891,131 @@ Thursday 09/24/2026 - 8:15 PM</desc>
 Thursday 09/24/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1704125">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924000000 -0400" stop="20260924030000 -0400" channel="1098706">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924030000 -0400" stop="20260924060000 -0400" channel="1098706">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924060000 -0400" stop="20260924090000 -0400" channel="1098706">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924090000 -0400" stop="20260924120000 -0400" channel="1098706">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924120000 -0400" stop="20260924150000 -0400" channel="1098706">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924150000 -0400" stop="20260924180000 -0400" channel="1098706">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924180000 -0400" stop="20260924201500 -0400" channel="1098706">
+    <title>Upcoming: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924201500 -0400" stop="20260924231500 -0400" channel="1098706">
+    <title>Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260924231500 -0400" stop="20260925000000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925000000 -0400" stop="20260925030000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925030000 -0400" stop="20260925060000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925060000 -0400" stop="20260925090000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925090000 -0400" stop="20260925120000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925120000 -0400" stop="20260925150000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925150000 -0400" stop="20260925180000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925210000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260925210000 -0400" stop="20260926000000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926000000 -0400" stop="20260926030000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926030000 -0400" stop="20260926060000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926060000 -0400" stop="20260926090000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926090000 -0400" stop="20260926120000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926150000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926150000 -0400" stop="20260926180000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926180000 -0400" stop="20260926210000 -0400" channel="1098706">
+    <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Atlanta Falcons vs. Green Bay Packers
+Thursday 09/24/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260926210000 -0400" stop="20260927000000 -0400" channel="1098706">
     <title>Post Game: Atlanta Falcons vs. Green Bay Packers - 8:15 PM</title>
     <desc>Atlanta Falcons vs. Green Bay Packers
 Thursday 09/24/2026 - 8:15 PM</desc>
