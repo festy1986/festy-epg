@@ -1961,10 +1961,12 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Minnesota_Vikings/Minnesota_Vikings_vs_Tampa_Bay_Buccaneers.png" />
   </channel>
   <channel id="1912535">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 68</display-name>
+    <display-name>End | Raiders @ Saints | NFL Game Pass | 2026-09-27 | 20:25 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 68</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Las_Vegas_Raiders/Las_Vegas_Raiders_vs_New_Orleans_Saints.png" />
   </channel>
   <channel id="1912534">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 69</display-name>
+    <display-name>End | Ravens vs. Cowboys | NFL Game Pass | 2026-09-27 | 20:25 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Baltimore_Ravens/Baltimore_Ravens_vs_Dallas_Cowboys.png" />
   </channel>
   <channel id="1912533">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 70</display-name>
@@ -4857,7 +4859,7 @@
     <display-name>ENDED | UCF VS. IOWA STATE | Sun 27 Sep 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 96</display-name>
   </channel>
   <channel id="1924633">
-    <display-name>LIVE | MEMPHIS VS. FLORIDA ATLANTIC | Sun 27 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 97</display-name>
+    <display-name>ENDED | MEMPHIS VS. FLORIDA ATLANTIC | Sun 27 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 97</display-name>
   </channel>
   <channel id="1924632">
     <display-name>LIVE | NEW YORK COSMOS VS. RICHMOND KICKERS | Sun 27 Sep 18:15 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 98</display-name>
@@ -4878,7 +4880,7 @@
     <display-name>LIVE | NFL PRIMETIME PRESENTED BY MUCINEX | Sun 27 Sep 19:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 103</display-name>
   </channel>
   <channel id="1924626">
-    <display-name>NEXT | LITTLE ROCK VS. CENTRAL ARKANSAS | Sun 27 Sep 20:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 104</display-name>
+    <display-name>LIVE | LITTLE ROCK VS. CENTRAL ARKANSAS | Sun 27 Sep 20:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 104</display-name>
   </channel>
   <channel id="1924625">
     <display-name>NEXT | THE GOLICS | Mon 28 Sep 10:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 105</display-name>
@@ -7678,10 +7680,6 @@
     <display-name>Next | Rams @ Broncos (en castellano) | NFL | 2026-09-28 | 00:20 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 73</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Denver_Broncos.png" />
   </channel>
-  <channel id="2152033">
-    <display-name>Live | Ravens @ Cowboys (en castellano) | NFL | 8K EXCLUSIVE | ES: DAZN PPV 80</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Baltimore_Ravens/Baltimore_Ravens_vs_Dallas_Cowboys.png" />
-  </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
   </channel>
@@ -7690,6 +7688,10 @@
   </channel>
   <channel id="1688731">
     <display-name>VIP: SPORT TV NBA ᴿᴬᵂ</display-name>
+  </channel>
+  <channel id="1893380">
+    <display-name>Live | Rams @ Broncos (Spanish Broadcast) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Denver_Broncos.png" />
   </channel>
   <channel id="1893357">
     <display-name>Live | Rams @ Broncos | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 24</display-name>
@@ -7702,24 +7704,8 @@
   <channel id="1893326">
     <display-name>Live | NFL Redzone - Week 3 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 55</display-name>
   </channel>
-  <channel id="1893325">
-    <display-name>Live | Raiders @ Saints | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 56</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Las_Vegas_Raiders/Las_Vegas_Raiders_vs_New_Orleans_Saints.png" />
-  </channel>
   <channel id="1893323">
     <display-name>Next | Rams @ Broncos | Português | NFL | 2026-09-28 | 00:20 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Denver_Broncos.png" />
-  </channel>
-  <channel id="1893306">
-    <display-name>Live | Ravens @ Cowboys | Português | NFL | 8K EXCLUSIVE | PT: DAZN PPV 75</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Baltimore_Ravens/Baltimore_Ravens_vs_Dallas_Cowboys.png" />
-  </channel>
-  <channel id="1893305">
-    <display-name>Live | Ravens vs. Cowboys | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 76</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Baltimore_Ravens/Baltimore_Ravens_vs_Dallas_Cowboys.png" />
-  </channel>
-  <channel id="1893296">
-    <display-name>Next | Rams @ Broncos (Spanish Broadcast) | NFL Game Pass | 2026-09-28 | 00:20 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 85</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Denver_Broncos.png" />
   </channel>
   <channel id="386374">
@@ -7742,7 +7728,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Cincinnati_Bengals/Cincinnati_Bengals_vs_Pittsburgh_Steelers.png" />
   </channel>
   <channel id="1825982">
-    <display-name>LIVE | NFL REDZONE | Sun 27 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 21</display-name>
+    <display-name>ENDED | NFL REDZONE | Sun 27 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 21</display-name>
   </channel>
   <channel id="1825981">
     <display-name>ENDED | NFL: PATRIOTS @ JAGUARS | Sun 27 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 22</display-name>
@@ -86343,244 +86329,254 @@ Sunday 09/27/2026 - 4:05 PM</desc>
 Sunday 09/27/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+  <programme start="20260927150000 -0400" stop="20260927162500 -0400" channel="1912535">
+    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+  <programme start="20260927162500 -0400" stop="20260927192500 -0400" channel="1912535">
+    <title>Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20260927192500 -0400" stop="20260927210000 -0400" channel="1912535">
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 09/27/2026</desc>
+    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
+    <desc>Las Vegas Raiders vs. New Orleans Saints
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+  <programme start="20260927150000 -0400" stop="20260927162500 -0400" channel="1912534">
+    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20260927180000 -0400" stop="20260927210000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+  <programme start="20260927162500 -0400" stop="20260927192500 -0400" channel="1912534">
+    <title>Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20260927192500 -0400" stop="20260927210000 -0400" channel="1912534">
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
-Sunday 09/27/2026</desc>
+    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>Baltimore Ravens vs. Dallas Cowboys
+Sunday 09/27/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1912533">
     <title>8K EXCLUSIVE | CA: DAZN PPV 70</title>
@@ -307532,131 +307528,6 @@ Sunday 09/27/2026 - 8:20 PM</desc>
     <desc>Los Angeles Rams vs. Denver Broncos
 Sunday 09/27/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="2152033">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="2152033">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="2152033">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="2152033">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="2152033">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927150000 -0400" stop="20260927162500 -0400" channel="2152033">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927162500 -0400" stop="20260927192500 -0400" channel="2152033">
-    <title>Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927192500 -0400" stop="20260927210000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="2152033">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
     <desc>MEO: NBA TV ᴿᴬᵂ
@@ -308016,6 +307887,131 @@ Sunday 09/27/2026</desc>
     <title>VIP: SPORT TV NBA ᴿᴬᵂ</title>
     <desc>VIP: SPORT TV NBA ᴿᴬᵂ
 Sunday 09/27/2026</desc>
+  </programme>
+  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1893380">
+    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1893380">
+    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1893380">
+    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1893380">
+    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1893380">
+    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1893380">
+    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260927180000 -0400" stop="20260927202000 -0400" channel="1893380">
+    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260927202000 -0400" stop="20260927232000 -0400" channel="1893380">
+    <title>Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260927232000 -0400" stop="20260928000000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1893380">
+    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
+    <desc>Los Angeles Rams vs. Denver Broncos
+Sunday 09/27/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1893357">
     <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
@@ -308387,131 +308383,6 @@ Sunday 09/27/2026</desc>
     <desc>NFL Redzone - Week 3 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 55
 Sunday 09/27/2026</desc>
   </programme>
-  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1893325">
-    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1893325">
-    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1893325">
-    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1893325">
-    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1893325">
-    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927150000 -0400" stop="20260927162500 -0400" channel="1893325">
-    <title>Upcoming: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927162500 -0400" stop="20260927192500 -0400" channel="1893325">
-    <title>Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927192500 -0400" stop="20260927210000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1893325">
-    <title>Post Game: Las Vegas Raiders vs. New Orleans Saints - 4:25 PM</title>
-    <desc>Las Vegas Raiders vs. New Orleans Saints
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
   <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1893323">
     <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
     <desc>Los Angeles Rams vs. Denver Broncos
@@ -308633,381 +308504,6 @@ Sunday 09/27/2026 - 8:20 PM</desc>
 Sunday 09/27/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1893323">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1893306">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1893306">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1893306">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1893306">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1893306">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927150000 -0400" stop="20260927162500 -0400" channel="1893306">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927162500 -0400" stop="20260927192500 -0400" channel="1893306">
-    <title>Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927192500 -0400" stop="20260927210000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1893306">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1893305">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1893305">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1893305">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1893305">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1893305">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927150000 -0400" stop="20260927162500 -0400" channel="1893305">
-    <title>Upcoming: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927162500 -0400" stop="20260927192500 -0400" channel="1893305">
-    <title>Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927192500 -0400" stop="20260927210000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927210000 -0400" stop="20260928000000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1893305">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260927000000 -0400" stop="20260927030000 -0400" channel="1893296">
-    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927030000 -0400" stop="20260927060000 -0400" channel="1893296">
-    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927060000 -0400" stop="20260927090000 -0400" channel="1893296">
-    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927090000 -0400" stop="20260927120000 -0400" channel="1893296">
-    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927120000 -0400" stop="20260927150000 -0400" channel="1893296">
-    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927150000 -0400" stop="20260927180000 -0400" channel="1893296">
-    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927180000 -0400" stop="20260927202000 -0400" channel="1893296">
-    <title>Upcoming: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927202000 -0400" stop="20260927232000 -0400" channel="1893296">
-    <title>Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260927232000 -0400" stop="20260928000000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1893296">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1893296">
     <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
     <desc>Los Angeles Rams vs. Denver Broncos
 Sunday 09/27/2026 - 8:20 PM</desc>
