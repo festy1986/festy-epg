@@ -2207,16 +2207,16 @@
     <display-name>####### SPORTSNET PPV #######</display-name>
   </channel>
   <channel id="1488483">
-    <display-name>ENDED | SEMI-FINAL - PANTHERS VS. KNIGHTS | Sun 27 Sep 03:20 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
+    <display-name>NEXT | CHANGWON VS. YANGPYEONG | Sat 03 Oct 01:00 EDT (US) | 8K EXCLUSIVE | US: FIFA+ PPV 51</display-name>
   </channel>
   <channel id="1488482">
-    <display-name>ENDED | SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</display-name>
+    <display-name>NEXT | RUKINZO VS. YOUNG STAR | Sat 03 Oct 07:00 EDT (US) | 8K EXCLUSIVE | US: FIFA+ PPV 52</display-name>
   </channel>
   <channel id="1488481">
-    <display-name>ENDED | MANCHESTER UNITED VS. WEST HAM UNITED | Sun 27 Sep 09:20 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</display-name>
+    <display-name>NEXT | AIGLE NOIR VS. NGOZI CITY | Sat 03 Oct 09:00 EDT (US) | 8K EXCLUSIVE | US: FIFA+ PPV 53</display-name>
   </channel>
   <channel id="1488480">
-    <display-name>ENDED | BIRMINGHAM CITY VS. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</display-name>
+    <display-name>NEXT | NEVER GIVE UP VS. MUSONGATI | Sat 03 Oct 09:00 EDT (US) | 8K EXCLUSIVE | US: FIFA+ PPV 54</display-name>
   </channel>
   <channel id="1488479">
     <display-name>ENDED | LIVERPOOL VS. EVERTON | Sun 27 Sep 10:20 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 5</display-name>
@@ -4931,7 +4931,7 @@
     <display-name>NEXT | PENN STATE VS. BUCKNELL | Mon 28 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 125</display-name>
   </channel>
   <channel id="1924604">
-    <display-name>NEXT | NFL PRIMETIME PRESENTED BY MUCINEX | Mon 28 Sep 02:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 126</display-name>
+    <display-name>LIVE | NFL PRIMETIME PRESENTED BY MUCINEX | Mon 28 Sep 02:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 126</display-name>
   </channel>
   <channel id="1924603">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: ESPN+ PPV 127</display-name>
@@ -7643,6 +7643,9 @@
   <channel id="2063898">
     <display-name>End | NFL Redzone - Week 3 | all | 28-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 61</display-name>
   </channel>
+  <channel id="1884205">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</display-name>
+  </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
   </channel>
@@ -7667,6 +7670,9 @@
   <channel id="2152111">
     <display-name>End | Rams @ Broncos (en castellano) | NFL | 2026-09-28 | 00:20 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Denver_Broncos.png" />
+  </channel>
+  <channel id="2152011">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</display-name>
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -7711,6 +7717,9 @@
   <channel id="1810015">
     <display-name>NEXT | VIAPLAY NHL MÅNDAG VIAPLAY NHL-MÅNDAG | Mon 28 Sep 20:00 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 32</display-name>
   </channel>
+  <channel id="1702611">
+    <display-name>Viaplay NHL-måndag @ Sep 28 8:00 PM :Viaplay SE  08</display-name>
+  </channel>
   <channel id="1825983">
     <display-name>ENDED | NFL: BENGALS @ STEELERS | Sun 27 Sep 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 20</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Cincinnati_Bengals/Cincinnati_Bengals_vs_Pittsburgh_Steelers.png" />
@@ -7734,28 +7743,9 @@
     <display-name>ENDED | NFL: RAMS @ BRONCOS | Mon 28 Sep 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 40</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Denver_Broncos.png" />
   </channel>
-  <channel id="1704129">
-    <display-name>NFL RedZone @ Sep 27 18:55 :TeliaPlay SE  23</display-name>
-  </channel>
-  <channel id="1704128">
-    <display-name>NFL: Patriots @ Jaguars @ Sep 27 18:55 :TeliaPlay SE  24</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Jacksonville_Jaguars.png" />
-  </channel>
-  <channel id="1704126">
-    <display-name>NFL: Bengals @ Steelers @ Sep 27 18:55 :TeliaPlay SE  26</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Cincinnati_Bengals/Cincinnati_Bengals_vs_Pittsburgh_Steelers.png" />
-  </channel>
-  <channel id="1704116">
-    <display-name>NFL: Cardinals @ 49ers @ Sep 27 21:55 :TeliaPlay SE  36</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Arizona_Cardinals/Arizona_Cardinals_vs_San_Francisco_49ers.png" />
-  </channel>
-  <channel id="1704115">
-    <display-name>NFL Rio Game: Ravens vs Cowboys @ Sep 27 22:10 :TeliaPlay SE  37</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Baltimore_Ravens/Baltimore_Ravens_vs_Dallas_Cowboys.png" />
-  </channel>
-  <channel id="1704110">
-    <display-name>NFL: Rams @ Broncos @ Sep 28 02:05 :TeliaPlay SE  42</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Denver_Broncos.png" />
+  <channel id="1704138">
+    <display-name>NFL: Eagles @ Bears @ Sep 29 01:55 :TeliaPlay SE  14</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
   </channel>
   <channel id="1098707">
     <display-name>ENDED | NFL REDZONE | Sun 27 Sep 19:01 CEST (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 4</display-name>
@@ -7780,24 +7770,9 @@
     <display-name>LIVE | NFL: RAMS @ BRONCOS | Mon 28 Sep 02:14 CEST (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 17</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Denver_Broncos.png" />
   </channel>
-  <channel id="1801849">
-    <display-name>NFL RedZone @ Sep 27 7:00 PM :Disney+ SE  11</display-name>
-  </channel>
-  <channel id="1801847">
-    <display-name>NFL: Patriots @ Jaguars @ Sep 27 7:00 PM :Disney+ SE  13</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Jacksonville_Jaguars.png" />
-  </channel>
-  <channel id="1801846">
-    <display-name>NFL: Bengals @ Steelers @ Sep 27 7:00 PM :Disney+ SE  14</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Cincinnati_Bengals/Cincinnati_Bengals_vs_Pittsburgh_Steelers.png" />
-  </channel>
-  <channel id="1801840">
-    <display-name>NFL: Cardinals @ 49ers @ Sep 27 10:00 PM :Disney+ SE  20</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Arizona_Cardinals/Arizona_Cardinals_vs_San_Francisco_49ers.png" />
-  </channel>
-  <channel id="1801839">
-    <display-name>NFL Rio Game: Ravens vs Cowboys @ Sep 27 10:15 PM :Disney+ SE  21</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Baltimore_Ravens/Baltimore_Ravens_vs_Dallas_Cowboys.png" />
+  <channel id="1801859">
+    <display-name>NFL: Eagles @ Bears @ Sep 29 2:00 AM :Disney+ SE  01</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
   </channel>
   <channel id="1899800">
     <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 2</display-name>
@@ -7814,6 +7789,9 @@
   <channel id="1977352">
     <display-name>Next | Carolina - Vegas | NHL Stanley Cup-finale | Kamp 1:7 2026 | 2026-06-03 | 00:05 (GMT) | 8K EXCLUSIVE | NO: VIAPLAY PPV 14</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Carolina_Hurricanes/Carolina_Hurricanes_vs_Vegas_Golden_Knights.png" />
+  </channel>
+  <channel id="1703134">
+    <display-name>Viaplay NHL Måndag @ Sep 28 9:00 PM :Viaplay FI  02</display-name>
   </channel>
   <channel id="2006152">
     <display-name>NZ: NBA TV ᴿᴬᵂ</display-name>
@@ -96444,484 +96422,484 @@ Monday 09/28/2026</desc>
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1488483">
-    <title>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</title>
-    <desc>SEMI-FINAL - PANTHERS vs. KNIGHTS | Sun 27 Sep 03:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
-Thursday 09/03/2026</desc>
+    <title>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51</title>
+    <desc>CHANGWON vs. YANGPYEONG | Sat 03 Oct 01:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 51
+Thursday 10/01/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1488482">
-    <title>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</title>
-    <desc>SPORTSNET CENTRAL: SEP. 26 | Sun 27 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-Saturday 09/26/2026</desc>
+    <title>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52</title>
+    <desc>RUKINZO vs. YOUNG STAR | Sat 03 Oct 07:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 52
+Wednesday 10/07/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1488481">
-    <title>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</title>
-    <desc>MANCHESTER UNITED vs. WEST HAM UNITED | Sun 27 Sep 09:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 3
-Wednesday 09/09/2026</desc>
+    <title>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53</title>
+    <desc>AIGLE NOIR vs. NGOZI CITY | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 53
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1488480">
-    <title>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4</title>
-    <desc>BIRMINGHAM CITY vs. CRYSTAL PALACE | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
-Thursday 09/10/2026</desc>
+    <title>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54</title>
+    <desc>NEVER GIVE UP vs. MUSONGATI | Sat 03 Oct 09:00 EDT | 8K EXCLUSIVE | US: FIFA+ PPV 54
+Friday 10/09/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1488479">
     <title>LIVERPOOL vs. EVERTON | Sun 27 Sep 10:20 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 5</title>
@@ -306448,6 +306426,126 @@ Monday 09/28/2026</desc>
     <desc>NFL Redzone - Week 3 | all | 28-09-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 61
 Monday 09/28/2026</desc>
   </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1884205">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
     <desc>AF: NBA TV
@@ -307407,6 +307505,126 @@ Sunday 09/27/2026 - 8:20 PM</desc>
     <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
     <desc>Los Angeles Rams vs. Denver Broncos
 Sunday 09/27/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="2152011">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
@@ -308968,6 +309186,126 @@ Sunday 09/20/2026</desc>
     <desc>VIAPLAY NHL MÅNDAG VIAPLAY NHL-MÅNDAG | Mon 28 Sep 20:00 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 32
 Sunday 09/20/2026</desc>
   </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1702611">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1825983">
     <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
     <desc>Cincinnati Bengals vs. Pittsburgh Steelers
@@ -309688,725 +310026,130 @@ Sunday 09/27/2026 - 8:20 PM</desc>
     <desc>Los Angeles Rams vs. Denver Broncos
 Sunday 09/27/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1704129">
-    <title>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23</title>
-    <desc>New England Patriots vs. Sep 27 18:55 :TeliaPlay SE 23
-Sunday 09/27/2026</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1704128">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1704126">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1704116">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1704115">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1704110">
-    <title>Post Game: Los Angeles Rams vs. Denver Broncos - 8:20 PM</title>
-    <desc>Los Angeles Rams vs. Denver Broncos
-Sunday 09/27/2026 - 8:20 PM</desc>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1704138">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1704138">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1704138">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1704138">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1704138">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1704138">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="1704138">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="1704138">
+    <title>Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1098707">
     <title>NFL REDZONE | Sun 27 Sep 19:01 CEST (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 4</title>
@@ -311128,605 +310871,130 @@ Sunday 09/27/2026 - 8:20 PM</desc>
     <desc>Los Angeles Rams vs. Denver Broncos
 Sunday 09/27/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1801849">
-    <title>Post Game: New England Patriots vs. New England Patriots - 1:00 PM</title>
-    <desc>New England Patriots vs. New England Patriots
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1801847">
-    <title>Post Game: New England Patriots vs. Jacksonville Jaguars - 1:00 PM</title>
-    <desc>New England Patriots vs. Jacksonville Jaguars
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1801846">
-    <title>Post Game: Cincinnati Bengals vs. Pittsburgh Steelers - 1:00 PM</title>
-    <desc>Cincinnati Bengals vs. Pittsburgh Steelers
-Sunday 09/27/2026 - 1:00 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1801840">
-    <title>Post Game: Arizona Cardinals vs. San Francisco 49ers - 4:05 PM</title>
-    <desc>Arizona Cardinals vs. San Francisco 49ers
-Sunday 09/27/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1801839">
-    <title>Post Game: Baltimore Ravens vs. Dallas Cowboys - 4:25 PM</title>
-    <desc>Baltimore Ravens vs. Dallas Cowboys
-Sunday 09/27/2026 - 4:25 PM</desc>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1801859">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1801859">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1801859">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1801859">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1801859">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1801859">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="1801859">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="1801859">
+    <title>Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1801859">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1899800">
     <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 2</title>
@@ -312327,6 +311595,126 @@ Wednesday 06/03/2026</desc>
     <title>Carolina Hurricanes vs. Vegas Golden Knights</title>
     <desc>Carolina Hurricanes vs. Vegas Golden Knights
 Wednesday 06/03/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1703134">
+    <title>Los Angeles Kings vs. Los Angeles Kings</title>
+    <desc>Los Angeles Kings vs. Los Angeles Kings
+Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="2006152">
     <title>NZ: NBA TV ᴿᴬᵂ</title>
