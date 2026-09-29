@@ -550,7 +550,7 @@
     <display-name>LIVE EVENT 01 - 8pm WWE Monday Night RAW</display-name>
   </channel>
   <channel id="605786">
-    <display-name>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</display-name>
+    <display-name>LIVE EVENT 02 - 6:15pm Millbridge Speedway</display-name>
   </channel>
   <channel id="605785">
     <display-name>LIVE EVENT 03 - NO EVENT</display-name>
@@ -2683,7 +2683,7 @@
     <display-name>LIVE EVENT 01 - 8pm WWE Monday Night RAW</display-name>
   </channel>
   <channel id="605888">
-    <display-name>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</display-name>
+    <display-name>LIVE EVENT 02 - 6:15pm Millbridge Speedway</display-name>
   </channel>
   <channel id="605887">
     <display-name>LIVE EVENT 03 - NO EVENT</display-name>
@@ -3457,19 +3457,24 @@
     <display-name>NHL  |  4K -</display-name>
   </channel>
   <channel id="605196">
-    <display-name>NHL | 01 -</display-name>
+    <display-name>NHL | 01 - 5pm Panthers at Hurricanes</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Florida_Panthers/Florida_Panthers_vs_Carolina_Hurricanes.png" />
   </channel>
   <channel id="605195">
-    <display-name>NHL | 02 -</display-name>
+    <display-name>NHL | 02 - 7pm Canadiens at Maple Leafs</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Montreal_Canadiens/Montreal_Canadiens_vs_Toronto_Maple_Leafs.png" />
   </channel>
   <channel id="605194">
-    <display-name>NHL | 03 -</display-name>
+    <display-name>NHL | 03 - 8pm Rangers at Bruins</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Boston_Bruins.png" />
   </channel>
   <channel id="605193">
-    <display-name>NHL | 04 -</display-name>
+    <display-name>NHL | 04 - 10pm Canucks at Oilers</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vancouver_Canucks/Vancouver_Canucks_vs_Edmonton_Oilers.png" />
   </channel>
   <channel id="605192">
-    <display-name>NHL | 05 -</display-name>
+    <display-name>NHL | 05 - 10:30pm Blackhawks at Golden Knights</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Vegas_Golden_Knights.png" />
   </channel>
   <channel id="605191">
     <display-name>NHL | 06 -</display-name>
@@ -4610,7 +4615,7 @@
     <display-name>ENDED | PENN STATE VS. BUCKNELL | Mon 28 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
   </channel>
   <channel id="1924708">
-    <display-name>LIVE | MON, 9/28 - FUTBOL W | Mon 28 Sep 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
+    <display-name>ENDED | MON, 9/28 - FUTBOL W | Mon 28 Sep 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
   </channel>
   <channel id="1924707">
     <display-name>LIVE | TCU VS. BYU | Mon 28 Sep 21:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
@@ -8352,18 +8357,6 @@
   </channel>
   <channel id="1500239">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 620</display-name>
-  </channel>
-  <channel id="1899701">
-    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</display-name>
-  </channel>
-  <channel id="1899698">
-    <display-name>End | Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</display-name>
-  </channel>
-  <channel id="1899692">
-    <display-name>End | NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</display-name>
-  </channel>
-  <channel id="1899691">
-    <display-name>End | NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</display-name>
   </channel>
   <channel id="2096081">
     <display-name>VIP: MLB EI 1</display-name>
@@ -30403,123 +30396,123 @@ Monday 09/28/2026</desc>
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605785">
@@ -115608,123 +115601,123 @@ Monday 09/28/2026</desc>
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII</title>
-    <desc>LIVE EVENT 02 - 9pm PPW Slave to the Deathmatch XVII
+    <title>LIVE EVENT 02 - 6:15pm Millbridge Speedway</title>
+    <desc>LIVE EVENT 02 - 6:15pm Millbridge Speedway
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605887">
@@ -146458,603 +146451,603 @@ Monday 09/28/2026</desc>
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="605196">
-    <title>01</title>
-    <desc>01
+    <title>Florida Panthers vs. Carolina Hurricanes</title>
+    <desc>Florida Panthers vs. Carolina Hurricanes
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="605195">
-    <title>02</title>
-    <desc>02
+    <title>Montreal Canadiens vs. Toronto Maple Leafs</title>
+    <desc>Montreal Canadiens vs. Toronto Maple Leafs
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="605194">
-    <title>03</title>
-    <desc>03
+    <title>New York Rangers vs. Boston Bruins</title>
+    <desc>New York Rangers vs. Boston Bruins
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="605193">
-    <title>04</title>
-    <desc>04
+    <title>Vancouver Canucks vs. Edmonton Oilers</title>
+    <desc>Vancouver Canucks vs. Edmonton Oilers
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="605192">
-    <title>05</title>
-    <desc>05
+    <title>Chicago Blackhawks vs. Vegas Golden Knights</title>
+    <desc>Chicago Blackhawks vs. Vegas Golden Knights
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="605191">
@@ -333215,486 +333208,6 @@ Monday 09/28/2026</desc>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1500239">
     <title>8K EXCLUSIVE | BR: NBA PASS PPV 620</title>
     <desc>8K EXCLUSIVE | BR: NBA PASS PPV 620
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1899701">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-09-28 | 03:30 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 1
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1899698">
-    <title>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4</title>
-    <desc>Good Morning Football | NFL Game Pass | 2026-09-28 | 12:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 4
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1899692">
-    <title>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10</title>
-    <desc>NFL Live | NFL Game Pass | 2026-09-28 | 19:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 10
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
-Monday 09/28/2026</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1899691">
-    <title>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11</title>
-    <desc>NFL Fantasy Live | NFL Game Pass | 2026-09-28 | 21:00 (GMT) | 8K EXCLUSIVE | BR: DAZN PPV 11
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="2096081">
