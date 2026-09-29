@@ -2233,10 +2233,10 @@
     <display-name>ENDED | THE FAN PREGAME: SEP. 28 | Mon 28 Sep 19:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 10</display-name>
   </channel>
   <channel id="1488473">
-    <display-name>LIVE | WORLD'S STRONGEST MAN | Mon 28 Sep 20:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 11</display-name>
+    <display-name>ENDED | WORLD'S STRONGEST MAN | Mon 28 Sep 20:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 11</display-name>
   </channel>
   <channel id="1488472">
-    <display-name>NEXT | STANLEY CUP CHAMPIONS - 2026 CAROLINA HURRICANES | Mon 28 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 12</display-name>
+    <display-name>LIVE | STANLEY CUP CHAMPIONS - 2026 CAROLINA HURRICANES | Mon 28 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 12</display-name>
   </channel>
   <channel id="1488471">
     <display-name>NEXT | SPORTSNET CENTRAL: SEP. 28 | Tue 29 Sep 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 13</display-name>
@@ -4607,10 +4607,10 @@
     <display-name>ENDED | MON, 9/28 - ESPN FC | Mon 28 Sep 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 20</display-name>
   </channel>
   <channel id="1924709">
-    <display-name>LIVE | PENN STATE VS. BUCKNELL | Mon 28 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
+    <display-name>ENDED | PENN STATE VS. BUCKNELL | Mon 28 Sep 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
   </channel>
   <channel id="1924708">
-    <display-name>NEXT | MON, 9/28 - FUTBOL W | Mon 28 Sep 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
+    <display-name>LIVE | MON, 9/28 - FUTBOL W | Mon 28 Sep 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
   </channel>
   <channel id="1924707">
     <display-name>NEXT | TCU VS. BYU | Mon 28 Sep 21:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
@@ -7586,7 +7586,7 @@
     <display-name>ENDED | DIE SKY NFL-KONFERENZ | Sun 27 Sep 18:15 CEST (DE) | 8K EXCLUSIVE | DE: RTL+ PPV 1</display-name>
   </channel>
   <channel id="1918857">
-    <display-name>Next | NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</display-name>
+    <display-name>Next | NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</display-name>
   </channel>
   <channel id="1565060">
     <display-name>JOYN: NFL NETWORK ᴿᴬᵂ</display-name>
@@ -7615,8 +7615,8 @@
   <channel id="351699">
     <display-name>IT: DAZN NFL</display-name>
   </channel>
-  <channel id="1884293">
-    <display-name>Next | Eagles @ Bears | NFL | 2026-09-29 | 00:15 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 14</display-name>
+  <channel id="1884306">
+    <display-name>Live | Eagles @ Bears | NFL | 8K EXCLUSIVE | IT: DAZN PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
   </channel>
   <channel id="1686819">
@@ -7637,8 +7637,8 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="2152090">
-    <display-name>Next | Eagles @ Bears (en castellano) | NFL | 2026-09-29 | 00:15 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 23</display-name>
+  <channel id="2152112">
+    <display-name>Live | Eagles @ Bears (en castellano) | NFL | 8K EXCLUSIVE | ES: DAZN PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
   </channel>
   <channel id="1695190">
@@ -7650,12 +7650,12 @@
   <channel id="1688731">
     <display-name>VIP: SPORT TV NBA ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="1893363">
-    <display-name>Live | Eagles @ Bears | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 18</display-name>
+  <channel id="1893380">
+    <display-name>Live | Eagles @ Bears (Spanish Broadcast) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
   </channel>
-  <channel id="1893359">
-    <display-name>Next | Eagles @ Bears (Spanish Broadcast) | NFL Game Pass | 2026-09-29 | 00:15 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 22</display-name>
+  <channel id="1893363">
+    <display-name>Live | Eagles @ Bears | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 18</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
   </channel>
   <channel id="386374">
@@ -7701,11 +7701,15 @@
     <display-name>Viaplay NHL-måndag @ Sep 28 8:00 PM :Viaplay SE  08</display-name>
   </channel>
   <channel id="1825989">
-    <display-name>NEXT | NFL: EAGLES @ BEARS | Tue 29 Sep 01:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 14</display-name>
+    <display-name>LIVE | NFL: EAGLES @ BEARS | Tue 29 Sep 01:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 14</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
   </channel>
   <channel id="1704138">
     <display-name>NFL: Eagles @ Bears @ Sep 29 01:55 :TeliaPlay SE  14</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
+  </channel>
+  <channel id="1098710">
+    <display-name>LIVE | NFL: EAGLES @ BEARS | Tue 29 Sep 02:00 CEST (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Chicago_Bears.png" />
   </channel>
   <channel id="1801859">
@@ -7923,6 +7927,75 @@
   <channel id="1126465">
     <display-name>NEXT | NHL EDMONTON - VANCOUVER | Tue 29 Sep 22:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 7</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_Vancouver_Canucks.png" />
+  </channel>
+  <channel id="1126464">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 8</display-name>
+  </channel>
+  <channel id="1126463">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 9</display-name>
+  </channel>
+  <channel id="1126462">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 10</display-name>
+  </channel>
+  <channel id="1126461">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 11</display-name>
+  </channel>
+  <channel id="1126460">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 12</display-name>
+  </channel>
+  <channel id="1126459">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 13</display-name>
+  </channel>
+  <channel id="1126458">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 14</display-name>
+  </channel>
+  <channel id="1126457">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 15</display-name>
+  </channel>
+  <channel id="1126456">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 16</display-name>
+  </channel>
+  <channel id="1126455">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 17</display-name>
+  </channel>
+  <channel id="1126454">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 18</display-name>
+  </channel>
+  <channel id="1126453">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 19</display-name>
+  </channel>
+  <channel id="1126452">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 20</display-name>
+  </channel>
+  <channel id="1126451">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 21</display-name>
+  </channel>
+  <channel id="1126450">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 22</display-name>
+  </channel>
+  <channel id="1126449">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 23</display-name>
+  </channel>
+  <channel id="1126448">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 24</display-name>
+  </channel>
+  <channel id="1126447">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 25</display-name>
+  </channel>
+  <channel id="1126446">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 26</display-name>
+  </channel>
+  <channel id="1126445">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 27</display-name>
+  </channel>
+  <channel id="1126444">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 28</display-name>
+  </channel>
+  <channel id="1126443">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 29</display-name>
+  </channel>
+  <channel id="1126442">
+    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: VIAPLAY PPV 30</display-name>
   </channel>
   <channel id="2153099">
     <display-name>US (ESPN+ 001) | Football: NFL Football: 2026 Week 3 Los Angeles Rams vs. Denver Broncos (NFL Football: 2026 Week 3 Los Angeles Rams vs. Denver Broncos) (2026-09-28 02:30:00)</display-name>
@@ -304425,123 +304498,123 @@ Friday 09/18/2026</desc>
 Friday 09/18/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1918857">
-    <title>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
-    <desc>NHL: Spezial - Der Seasonstart | all | 28-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
+    <title>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20</title>
+    <desc>NHL: Spezial - Der Seasonstart | all | 29-09-2026 | 20:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 20
 Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1565060">
@@ -305624,127 +305697,127 @@ Monday 09/28/2026</desc>
     <desc>IT: DAZN NFL
 Monday 09/28/2026</desc>
   </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1884293">
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1884306">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1884293">
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1884306">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1884293">
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1884306">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1884293">
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1884306">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1884293">
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1884306">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1884293">
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1884306">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="1884293">
+  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="1884306">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="1884293">
+  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="1884306">
     <title>Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="1884293">
+  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1884293">
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1884293">
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1884293">
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1884293">
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1884293">
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1884293">
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1884293">
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1884293">
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1884293">
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1884293">
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1884293">
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1884293">
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1884293">
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1884293">
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1884293">
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1884293">
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1884306">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
@@ -306469,127 +306542,127 @@ Monday 09/28/2026</desc>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Monday 09/28/2026</desc>
   </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="2152090">
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="2152112">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="2152090">
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="2152112">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="2152090">
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="2152112">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="2152090">
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="2152112">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="2152090">
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="2152112">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="2152090">
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="2152112">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="2152090">
+  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="2152112">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="2152090">
+  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="2152112">
     <title>Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="2152090">
+  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="2152090">
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="2152090">
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="2152090">
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="2152090">
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="2152090">
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="2152090">
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="2152090">
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="2152090">
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="2152090">
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="2152090">
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="2152090">
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="2152090">
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="2152090">
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="2152090">
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="2152090">
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="2152090">
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="2152112">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
@@ -306954,6 +307027,131 @@ Monday 09/28/2026</desc>
     <desc>VIP: SPORT TV NBA ᴿᴬᵂ
 Monday 09/28/2026</desc>
   </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1893380">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1893380">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1893380">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1893380">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1893380">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1893380">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="1893380">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="1893380">
+    <title>Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1893380">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1893363">
     <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
@@ -307075,131 +307273,6 @@ Monday 09/28/2026 - 8:15 PM</desc>
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1893363">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1893359">
-    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1893359">
-    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1893359">
-    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1893359">
-    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1893359">
-    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1893359">
-    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="1893359">
-    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="1893359">
-    <title>Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1893359">
-    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
-    <desc>Philadelphia Eagles vs. Chicago Bears
-Monday 09/28/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1893359">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
@@ -308890,6 +308963,131 @@ Monday 09/28/2026 - 8:15 PM</desc>
 Monday 09/28/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1704138">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1098710">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1098710">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1098710">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1098710">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1098710">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1098710">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928201500 -0400" channel="1098710">
+    <title>Upcoming: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928201500 -0400" stop="20260928231500 -0400" channel="1098710">
+    <title>Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260928231500 -0400" stop="20260929000000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1098710">
+    <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
+    <desc>Philadelphia Eagles vs. Chicago Bears
+Monday 09/28/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1098710">
     <title>Post Game: Philadelphia Eagles vs. Chicago Bears - 8:15 PM</title>
     <desc>Philadelphia Eagles vs. Chicago Bears
 Monday 09/28/2026 - 8:15 PM</desc>
@@ -316818,6 +317016,2766 @@ Tuesday 09/22/2026</desc>
     <title>Edmonton Oilers vs. Vancouver Canucks</title>
     <desc>Edmonton Oilers vs. Vancouver Canucks
 Tuesday 09/22/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126464">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 8</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 8
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126463">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 9</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 9
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126462">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 10</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 10
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126461">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 11</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 11
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126460">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 12</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 12
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126459">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 13</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 13
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126458">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 14</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 14
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126457">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 15</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 15
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126456">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 16</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 16
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126455">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 17</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 17
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126454">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 18</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 18
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126453">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 19</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 19
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126452">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 20</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 20
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126451">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 21</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 21
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126450">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 22</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 22
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126449">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 23</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 23
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126448">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 24</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 24
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126447">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 25</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 25
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126446">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 26</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 26
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126445">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 27</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 27
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126444">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 28</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 28
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126443">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 29</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 29
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928060000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928060000 -0400" stop="20260928090000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928120000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928120000 -0400" stop="20260928150000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928180000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928180000 -0400" stop="20260928210000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260929000000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929000000 -0400" stop="20260929030000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929030000 -0400" stop="20260929060000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929060000 -0400" stop="20260929090000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929120000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929120000 -0400" stop="20260929150000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929150000 -0400" stop="20260929180000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929180000 -0400" stop="20260929210000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260929210000 -0400" stop="20260930000000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930000000 -0400" stop="20260930030000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930030000 -0400" stop="20260930060000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930060000 -0400" stop="20260930090000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930090000 -0400" stop="20260930120000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930120000 -0400" stop="20260930150000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930180000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930210000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20261001000000 -0400" channel="1126442">
+    <title>8K EXCLUSIVE | US: VIAPLAY PPV 30</title>
+    <desc>8K EXCLUSIVE | US: VIAPLAY PPV 30
+Monday 09/28/2026</desc>
   </programme>
   <programme start="20260928000000 -0400" stop="20260928030000 -0400" channel="2153099">
     <title>Post Game: Los Angeles Rams vs. Los Angeles Rams - 8:20 PM</title>
