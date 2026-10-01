@@ -2245,10 +2245,10 @@
     <display-name>ENDED | AL WILD CARD: BOSTON @ NEW YORK YANKEES - GAME 2 | Wed 30 Sep 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 15</display-name>
   </channel>
   <channel id="1488468">
-    <display-name>LIVE | LOS ANGELES @ COLORADO | Wed 30 Sep 23:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 16</display-name>
+    <display-name>ENDED | LOS ANGELES @ COLORADO | Wed 30 Sep 23:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 16</display-name>
   </channel>
   <channel id="1488467">
-    <display-name>LIVE | NL WILD CARD: CHICAGO CUBS @ SAN DIEGO - GAME 2 | Wed 30 Sep 23:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 17</display-name>
+    <display-name>ENDED | NL WILD CARD: CHICAGO CUBS @ SAN DIEGO - GAME 2 | Wed 30 Sep 23:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 17</display-name>
   </channel>
   <channel id="1488466">
     <display-name>NEXT | SPORTSNET CENTRAL: SEP. 30 | Thu 01 Oct 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 18</display-name>
@@ -7682,7 +7682,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1810036">
-    <display-name>LIVE | NHL COLORADO - LOS ANGELES | Thu 01 Oct 04:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 11</display-name>
+    <display-name>ENDED | NHL COLORADO - LOS ANGELES | Thu 01 Oct 04:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 11</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Colorado_Avalanche/Colorado_Avalanche_vs_Los_Angeles_Kings.png" />
   </channel>
   <channel id="1810035">
@@ -7740,7 +7740,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1863206">
-    <display-name>LIVE | NHL COLORADO - LOS ANGELES | Thu 01 Oct 04:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 21</display-name>
+    <display-name>ENDED | NHL COLORADO - LOS ANGELES | Thu 01 Oct 04:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 21</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Colorado_Avalanche/Colorado_Avalanche_vs_Los_Angeles_Kings.png" />
   </channel>
   <channel id="1863200">
@@ -7797,7 +7797,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1242772">
-    <display-name>LIVE | NHL COLORADO - LOS ANGELES | Thu 01 Oct 04:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 17</display-name>
+    <display-name>ENDED | NHL COLORADO - LOS ANGELES | Thu 01 Oct 04:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 17</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Colorado_Avalanche/Colorado_Avalanche_vs_Los_Angeles_Kings.png" />
   </channel>
   <channel id="1242761">
@@ -7971,6 +7971,9 @@
   <channel id="1940149">
     <display-name>End | MLB According to CC: 9.30.26 | all | 30-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 8</display-name>
   </channel>
+  <channel id="1940028">
+    <display-name>End | MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</display-name>
+  </channel>
   <channel id="1126472">
     <display-name>####### VIAPLAY NHL PPV #######</display-name>
   </channel>
@@ -7979,7 +7982,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1126470">
-    <display-name>LIVE | NHL COLORADO - LOS ANGELES | Wed 30 Sep 22:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 2</display-name>
+    <display-name>ENDED | NHL COLORADO - LOS ANGELES | Wed 30 Sep 22:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Colorado_Avalanche/Colorado_Avalanche_vs_Los_Angeles_Kings.png" />
   </channel>
   <channel id="1126469">
@@ -317553,6 +317556,126 @@ Thursday 10/01/2026</desc>
     <title>MLB According to CC: 9.30.26 | all | 30-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 8</title>
     <desc>MLB According to CC: 9.30.26 | all | 30-09-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 8
 Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261001000000 -0400" stop="20261001030000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261001030000 -0400" stop="20261001060000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261001060000 -0400" stop="20261001090000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261001090000 -0400" stop="20261001120000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261001120000 -0400" stop="20261001150000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261001150000 -0400" stop="20261001180000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261001180000 -0400" stop="20261001210000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261001210000 -0400" stop="20261002000000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261002000000 -0400" stop="20261002030000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261002030000 -0400" stop="20261002060000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261002060000 -0400" stop="20261002090000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261002090000 -0400" stop="20261002120000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261002120000 -0400" stop="20261002150000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261002150000 -0400" stop="20261002180000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261002180000 -0400" stop="20261002210000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261002210000 -0400" stop="20261003000000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261003030000 -0400" stop="20261003060000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261003060000 -0400" stop="20261003090000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261003090000 -0400" stop="20261003120000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261003120000 -0400" stop="20261003150000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261003150000 -0400" stop="20261003180000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261003180000 -0400" stop="20261003210000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
+  </programme>
+  <programme start="20261003210000 -0400" stop="20261004000000 -0400" channel="1940028">
+    <title>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129</title>
+    <desc>MLB According to CC: 10.01.26 | all | 01-10-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 129
+Saturday 01/10/2026</desc>
   </programme>
   <programme start="20261001000000 -0400" stop="20261001030000 -0400" channel="1126472">
     <title>####### VIAPLAY NHL PPV #######</title>
