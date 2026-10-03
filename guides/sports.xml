@@ -1784,10 +1784,10 @@
     <display-name>End | South Korea - Race 1 | FIA TCR World Tour | 2026-10-03 | 06:10 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</display-name>
   </channel>
   <channel id="1912589">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 14</display-name>
+    <display-name>End | Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</display-name>
   </channel>
   <channel id="1912588">
-    <display-name>Next | Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 15</display-name>
   </channel>
   <channel id="1912587">
     <display-name>Next | Bantu FC vs. Mzamane FC | Premier League - Lesotho | 2026-10-03 | 09:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 16</display-name>
@@ -2201,7 +2201,7 @@
     <display-name>####### SPORTSNET PPV #######</display-name>
   </channel>
   <channel id="1488483">
-    <display-name>NEXT | SPORTSNET CENTRAL: OCT. 2 | Sat 03 Oct 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
+    <display-name>ENDED | SPORTSNET CENTRAL: OCT. 2 | Sat 03 Oct 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
   </channel>
   <channel id="1488482">
     <display-name>NEXT | LIONS VS. OSPREYS  | Sat 03 Oct 09:05 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</display-name>
@@ -3067,7 +3067,7 @@
     <display-name>End | South Korea - Race 1 | FIA TCR World Tour | 2026-10-03 | 06:10 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 10</display-name>
   </channel>
   <channel id="1899891">
-    <display-name>Next | Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</display-name>
+    <display-name>End | Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</display-name>
   </channel>
   <channel id="1899890">
     <display-name>Next | Bantu FC vs. Mzamane FC | Premier League - Lesotho | 2026-10-03 | 09:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 12</display-name>
@@ -7635,11 +7635,18 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
+  <channel id="1884149">
+    <display-name>Next | Hurricanes vs. Flyers | NHL.TV | 2026-10-03 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 58</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Carolina_Hurricanes/Carolina_Hurricanes_vs_Philadelphia_Flyers.png" />
+  </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
   </channel>
   <channel id="1548073">
     <display-name>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</display-name>
+  </channel>
+  <channel id="1761851">
+    <display-name>NEXT | MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</display-name>
   </channel>
   <channel id="2140543">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ</display-name>
@@ -7721,14 +7728,6 @@
   </channel>
   <channel id="1702618">
     <display-name>NHL On The Fly @ Oct 2 12:00 PM :Viaplay SE  01</display-name>
-  </channel>
-  <channel id="1287790">
-    <display-name>NEXT | NHL SAN JOSE - LOS ANGELES | Sun 04 Oct 04:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 51</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/San_Jose_Sharks/San_Jose_Sharks_vs_Los_Angeles_Kings.png" />
-  </channel>
-  <channel id="1287789">
-    <display-name>NEXT | NHL VANCOUVER - CALGARY | Sun 04 Oct 04:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 52</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vancouver_Canucks/Vancouver_Canucks_vs_Calgary_Flames.png" />
   </channel>
   <channel id="1863217">
     <display-name>NEXT | NHL NHL ON THE FLY | Sat 03 Oct 12:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 10</display-name>
@@ -79717,243 +79716,243 @@ Saturday 10/03/2026</desc>
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003030000 -0400" stop="20261003060000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003060000 -0400" stop="20261003090000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003090000 -0400" stop="20261003120000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003120000 -0400" stop="20261003150000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003150000 -0400" stop="20261003180000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003180000 -0400" stop="20261003210000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003210000 -0400" stop="20261004000000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1912589">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003030000 -0400" stop="20261003060000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003060000 -0400" stop="20261003090000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003090000 -0400" stop="20261003120000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003120000 -0400" stop="20261003150000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003150000 -0400" stop="20261003180000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003180000 -0400" stop="20261003210000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003210000 -0400" stop="20261004000000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1912588">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15
+    <title>8K EXCLUSIVE | CA: DAZN PPV 15</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 15
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1912587">
@@ -130862,123 +130861,123 @@ Saturday 10/03/2026</desc>
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003030000 -0400" stop="20261003060000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003060000 -0400" stop="20261003090000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003090000 -0400" stop="20261003120000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003120000 -0400" stop="20261003150000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003150000 -0400" stop="20261003180000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003180000 -0400" stop="20261003210000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003210000 -0400" stop="20261004000000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1899891">
-    <title>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Singapore - Manufacturers Cup Show | Gran Turismo World Series | 2026-10-03 | 09:20 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>Grand Prix of Shanghai - Moto 3 | UIM ABP Aquabike World Championship | 2026-10-03 | 05:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11
 Saturday 10/03/2026</desc>
   </programme>
   <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1899890">
@@ -305991,6 +305990,131 @@ Saturday 10/03/2026</desc>
     <desc>VIP: NBA TV
 Saturday 10/03/2026</desc>
   </programme>
+  <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1884149">
+    <title>Upcoming: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261003030000 -0400" stop="20261003060000 -0400" channel="1884149">
+    <title>Upcoming: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261003060000 -0400" stop="20261003090000 -0400" channel="1884149">
+    <title>Upcoming: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261003090000 -0400" stop="20261003120000 -0400" channel="1884149">
+    <title>Upcoming: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261003120000 -0400" stop="20261003150000 -0400" channel="1884149">
+    <title>Upcoming: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261003150000 -0400" stop="20261003180000 -0400" channel="1884149">
+    <title>Upcoming: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261003180000 -0400" stop="20261003190000 -0400" channel="1884149">
+    <title>Upcoming: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261003190000 -0400" stop="20261003220000 -0400" channel="1884149">
+    <title>Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261003220000 -0400" stop="20261004000000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1884149">
+    <title>Post Game: Carolina Hurricanes vs. Philadelphia Flyers - 7:00 PM</title>
+    <desc>Carolina Hurricanes vs. Philadelphia Flyers
+Saturday 10/03/2026 - 7:00 PM</desc>
+  </programme>
   <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
     <desc>AF: NBA TV
@@ -306230,6 +306354,126 @@ Saturday 10/03/2026</desc>
     <title>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</title>
     <desc>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ
 Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261003030000 -0400" stop="20261003060000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261003060000 -0400" stop="20261003090000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261003090000 -0400" stop="20261003120000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261003120000 -0400" stop="20261003150000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261003150000 -0400" stop="20261003180000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261003180000 -0400" stop="20261003210000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261003210000 -0400" stop="20261004000000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
+  </programme>
+  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1761851">
+    <title>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13</title>
+    <desc>MLB ESTA SEMANA | Sat 03 Oct 22:15 CEST (ES) | 8K EXCLUSIVE | ES: VIX PPV 13
+Thursday 10/22/2026</desc>
   </programme>
   <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="2140543">
     <title>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ</title>
@@ -309045,256 +309289,6 @@ Friday 10/02/2026</desc>
     <title>NHL On The Fly vs. Los Angeles Kings</title>
     <desc>NHL On The Fly vs. Los Angeles Kings
 Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1287790">
-    <title>Upcoming: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003030000 -0400" stop="20261003060000 -0400" channel="1287790">
-    <title>Upcoming: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003060000 -0400" stop="20261003090000 -0400" channel="1287790">
-    <title>Upcoming: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003090000 -0400" stop="20261003120000 -0400" channel="1287790">
-    <title>Upcoming: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003120000 -0400" stop="20261003150000 -0400" channel="1287790">
-    <title>Upcoming: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003150000 -0400" stop="20261003180000 -0400" channel="1287790">
-    <title>Upcoming: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003180000 -0400" stop="20261003210000 -0400" channel="1287790">
-    <title>Upcoming: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003210000 -0400" stop="20261003220000 -0400" channel="1287790">
-    <title>Upcoming: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003220000 -0400" stop="20261004010000 -0400" channel="1287790">
-    <title>San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004010000 -0400" stop="20261004030000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1287790">
-    <title>Post Game: San Jose Sharks vs. Los Angeles Kings - 10:00 PM</title>
-    <desc>San Jose Sharks vs. Los Angeles Kings
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1287789">
-    <title>Upcoming: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003030000 -0400" stop="20261003060000 -0400" channel="1287789">
-    <title>Upcoming: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003060000 -0400" stop="20261003090000 -0400" channel="1287789">
-    <title>Upcoming: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003090000 -0400" stop="20261003120000 -0400" channel="1287789">
-    <title>Upcoming: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003120000 -0400" stop="20261003150000 -0400" channel="1287789">
-    <title>Upcoming: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003150000 -0400" stop="20261003180000 -0400" channel="1287789">
-    <title>Upcoming: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003180000 -0400" stop="20261003210000 -0400" channel="1287789">
-    <title>Upcoming: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003210000 -0400" stop="20261003220000 -0400" channel="1287789">
-    <title>Upcoming: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261003220000 -0400" stop="20261004010000 -0400" channel="1287789">
-    <title>Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004010000 -0400" stop="20261004030000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1287789">
-    <title>Post Game: Vancouver Canucks vs. Calgary Flames - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. Calgary Flames
-Saturday 10/03/2026 - 10:00 PM</desc>
   </programme>
   <programme start="20261003000000 -0400" stop="20261003030000 -0400" channel="1863217">
     <title>NHL NHL ON THE FLY | Sat 03 Oct 12:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 10</title>
