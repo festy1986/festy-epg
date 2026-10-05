@@ -1962,13 +1962,15 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Denver_Broncos/Denver_Broncos_vs_San_Francisco_49ers.png" />
   </channel>
   <channel id="1912536">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 67</display-name>
+    <display-name>End | Chargers @ Seahawks | NFL Game Pass | 2026-10-04 | 20:25 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 67</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Chargers/Los_Angeles_Chargers_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="1912535">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 68</display-name>
+    <display-name>End | Chiefs @ Raiders | NFL Game Pass | 2026-10-04 | 20:25 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 68</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Las_Vegas_Raiders.png" />
   </channel>
   <channel id="1912534">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 69</display-name>
+    <display-name>End | NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</display-name>
   </channel>
   <channel id="1912533">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 70</display-name>
@@ -2250,19 +2252,19 @@
     <display-name>ENDED | WINNIPEG @ DETROIT | Sun 04 Oct 14:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 10</display-name>
   </channel>
   <channel id="1488473">
-    <display-name>LIVE | NLDS - SAN DIEGO @ MILWAUKEE - GAME 2 | Sun 04 Oct 17:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 11</display-name>
+    <display-name>ENDED | NLDS - SAN DIEGO @ MILWAUKEE - GAME 2 | Sun 04 Oct 17:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 11</display-name>
   </channel>
   <channel id="1488472">
     <display-name>LIVE | UTAH @ NEW YORK RANGERS | Sun 04 Oct 19:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 12</display-name>
   </channel>
   <channel id="1488471">
-    <display-name>NEXT | CALGARY @ SEATTLE | Sun 04 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 13</display-name>
+    <display-name>LIVE | CALGARY @ SEATTLE | Sun 04 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 13</display-name>
   </channel>
   <channel id="1488470">
-    <display-name>NEXT | FLORIDA @ ANAHEIM | Sun 04 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 14</display-name>
+    <display-name>LIVE | FLORIDA @ ANAHEIM | Sun 04 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 14</display-name>
   </channel>
   <channel id="1488469">
-    <display-name>NEXT | NLDS - ATLANTA @ LOS ANGELES DODGERS - GAME 2 | Sun 04 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 15</display-name>
+    <display-name>LIVE | NLDS - ATLANTA @ LOS ANGELES DODGERS - GAME 2 | Sun 04 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 15</display-name>
   </channel>
   <channel id="1488468">
     <display-name>NEXT | VEGAS @ VANCOUVER | Sun 04 Oct 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 16</display-name>
@@ -3399,20 +3401,16 @@
     <display-name>NFL  | 10 -</display-name>
   </channel>
   <channel id="606170">
-    <display-name>NFL  | 11 - 4:05pm Dolphins at Vikings</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Miami_Dolphins/Miami_Dolphins_vs_Minnesota_Vikings.png" />
+    <display-name>NFL  | 11 -</display-name>
   </channel>
   <channel id="606169">
-    <display-name>NFL  | 12 - 4:25pm Chiefs at Raiders</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Las_Vegas_Raiders.png" />
+    <display-name>NFL  | 12 -</display-name>
   </channel>
   <channel id="606168">
-    <display-name>NFL  | 13 - 4:25pm Broncos at 49ers</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Denver_Broncos/Denver_Broncos_vs_San_Francisco_49ers.png" />
+    <display-name>NFL  | 13 -</display-name>
   </channel>
   <channel id="606167">
-    <display-name>NFL  | 14 - 4:25pm Chargers at Seahawks</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Chargers/Los_Angeles_Chargers_vs_Seattle_Seahawks.png" />
+    <display-name>NFL  | 14 -</display-name>
   </channel>
   <channel id="606166">
     <display-name>NFL  | 15 - SNF 8:20pm Lions at Panthers</display-name>
@@ -4845,16 +4843,16 @@
     <display-name>ENDED | SUN, 10/4 - ESPN FC | Sun 04 Oct 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 90</display-name>
   </channel>
   <channel id="1924639">
-    <display-name>LIVE | NEW MEXICO UNITED VS. PHOENIX RISING FC | Sun 04 Oct 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 91</display-name>
+    <display-name>ENDED | NEW MEXICO UNITED VS. PHOENIX RISING FC | Sun 04 Oct 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 91</display-name>
   </channel>
   <channel id="1924638">
     <display-name>LIVE | UTAH MAMMOTH VS. NEW YORK RANGERS | Sun 04 Oct 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 92</display-name>
   </channel>
   <channel id="1924637">
-    <display-name>LIVE | CALIFORNIA BAPTIST VS. CAL POLY | Sun 04 Oct 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 93</display-name>
+    <display-name>ENDED | CALIFORNIA BAPTIST VS. CAL POLY | Sun 04 Oct 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 93</display-name>
   </channel>
   <channel id="1924636">
-    <display-name>LIVE | TEXAS TECH VS. ARIZONA | Sun 04 Oct 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 94</display-name>
+    <display-name>ENDED | TEXAS TECH VS. ARIZONA | Sun 04 Oct 18:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 94</display-name>
   </channel>
   <channel id="1924635">
     <display-name>LIVE | LINDENWOOD VS. UT MARTIN | Sun 04 Oct 19:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 95</display-name>
@@ -7589,6 +7587,9 @@
   <channel id="1562719">
     <display-name>AF: NBA TV ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="1896460">
+    <display-name>NEXT | MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</display-name>
+  </channel>
   <channel id="1565560">
     <display-name>JOYN: NFL NETWORK ᴿᴬᵂ</display-name>
   </channel>
@@ -7673,14 +7674,8 @@
   <channel id="1988081">
     <display-name>Next | NFL Redzone - Week 4 | all | 04-10-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 45</display-name>
   </channel>
-  <channel id="2152048">
-    <display-name>Live | Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</display-name>
-  </channel>
-  <channel id="2152047">
-    <display-name>Live | Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</display-name>
-  </channel>
-  <channel id="2152031">
-    <display-name>Next | Lions @ Panthers (en castellano) | NFL | 2026-10-05 | 00:20 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 82</display-name>
+  <channel id="2152112">
+    <display-name>Live | Lions @ Panthers (en castellano) | NFL | 8K EXCLUSIVE | ES: DAZN PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Carolina_Panthers.png" />
   </channel>
   <channel id="1695190">
@@ -7700,24 +7695,13 @@
     <display-name>Live | Lions @ Panthers (US., French, German, Japanese, Portuguese Game Commentary Available) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Carolina_Panthers.png" />
   </channel>
-  <channel id="1893360">
-    <display-name>Next | Lions @ Panthers (Spanish Broadcast) | NFL Game Pass | 2026-10-05 | 00:20 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 21</display-name>
+  <channel id="1893378">
+    <display-name>Live | Lions @ Panthers (Spanish Broadcast) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 3</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Carolina_Panthers.png" />
   </channel>
-  <channel id="1893341">
-    <display-name>Next | Lions @ Panthers | Português | NFL | 2026-10-05 | 00:20 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 40</display-name>
+  <channel id="1893377">
+    <display-name>Live | Lions @ Panthers | Português | NFL | 8K EXCLUSIVE | PT: DAZN PPV 4</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Carolina_Panthers.png" />
-  </channel>
-  <channel id="1893324">
-    <display-name>Live | NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</display-name>
-  </channel>
-  <channel id="1893316">
-    <display-name>Live | Chargers @ Seahawks | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 65</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Chargers/Los_Angeles_Chargers_vs_Seattle_Seahawks.png" />
-  </channel>
-  <channel id="1893306">
-    <display-name>Live | Chiefs @ Raiders | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 75</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Las_Vegas_Raiders.png" />
   </channel>
   <channel id="386374">
     <display-name>PT: SPORT TV NBA</display-name>
@@ -7736,11 +7720,11 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Utah_Mammoth.png" />
   </channel>
   <channel id="1810010">
-    <display-name>NEXT | NHL ANAHEIM - FLORIDA | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 37</display-name>
+    <display-name>LIVE | NHL ANAHEIM - FLORIDA | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 37</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Anaheim_Ducks/Anaheim_Ducks_vs_Florida_Panthers.png" />
   </channel>
   <channel id="1810009">
-    <display-name>NEXT | NHL SEATTLE - CALGARY | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 38</display-name>
+    <display-name>LIVE | NHL SEATTLE - CALGARY | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 38</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
   </channel>
   <channel id="1810008">
@@ -7789,7 +7773,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Winnipeg_Jets/Winnipeg_Jets_vs_Detroit_Red_Wings.png" />
   </channel>
   <channel id="1825977">
-    <display-name>LIVE | NFL REDZONE | Sun 04 Oct 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 26</display-name>
+    <display-name>ENDED | NFL REDZONE | Sun 04 Oct 18:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 26</display-name>
   </channel>
   <channel id="1825967">
     <display-name>ENDED | NFL: BRONCOS @ 49ERS | Sun 04 Oct 22:15 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 36</display-name>
@@ -7800,15 +7784,15 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Las_Vegas_Raiders.png" />
   </channel>
   <channel id="1825962">
-    <display-name>NEXT | NHL: ANAHEIM DUCKS - FLORIDA PANTHERS | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 41</display-name>
+    <display-name>LIVE | NHL: ANAHEIM DUCKS - FLORIDA PANTHERS | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 41</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Anaheim_Ducks/Anaheim_Ducks_vs_Florida_Panthers.png" />
   </channel>
   <channel id="1825961">
-    <display-name>NEXT | NFL: LIONS @ PANTHERS | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 42</display-name>
+    <display-name>LIVE | NFL: LIONS @ PANTHERS | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 42</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Carolina_Panthers.png" />
   </channel>
   <channel id="1825960">
-    <display-name>NEXT | NHL: SEATTLE KRAKEN - CALGARY FLAMES | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 43</display-name>
+    <display-name>LIVE | NHL: SEATTLE KRAKEN - CALGARY FLAMES | Mon 05 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 43</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
   </channel>
   <channel id="1825958">
@@ -7881,22 +7865,6 @@
     <display-name>NFL: Lions @ Panthers @ Oct 5 2:10 AM :Disney+ SE  22</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Carolina_Panthers.png" />
   </channel>
-  <channel id="1287786">
-    <display-name>NEXT | NHL TAMPA BAY - PHILADELPHIA | Tue 06 Oct 01:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 55</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Tampa_Bay_Lightning/Tampa_Bay_Lightning_vs_Philadelphia_Flyers.png" />
-  </channel>
-  <channel id="1287785">
-    <display-name>NEXT | NHL PITTSBURGH - WINNIPEG | Tue 06 Oct 01:35 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 56</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Pittsburgh_Penguins/Pittsburgh_Penguins_vs_Winnipeg_Jets.png" />
-  </channel>
-  <channel id="1287784">
-    <display-name>NEXT | NHL BOSTON - OTTAWA | Tue 06 Oct 01:35 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 57</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Boston_Bruins/Boston_Bruins_vs_Ottawa_Senators.png" />
-  </channel>
-  <channel id="1287782">
-    <display-name>NEXT | NHL DALLAS - SAN JOSE | Tue 06 Oct 02:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 59</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Dallas_Stars/Dallas_Stars_vs_San_Jose_Sharks.png" />
-  </channel>
   <channel id="2123712">
     <display-name>NFL: Washington Commanders-Indianapolis Colts @ 2026-10-04 15:25:00 :Tv2Play DK  10</display-name>
   </channel>
@@ -7921,11 +7889,11 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Utah_Mammoth.png" />
   </channel>
   <channel id="1863197">
-    <display-name>NEXT | NHL ANAHEIM - FLORIDA | Mon 05 Oct 02:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 30</display-name>
+    <display-name>LIVE | NHL ANAHEIM - FLORIDA | Mon 05 Oct 02:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 30</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Anaheim_Ducks/Anaheim_Ducks_vs_Florida_Panthers.png" />
   </channel>
   <channel id="1863196">
-    <display-name>NEXT | NHL SEATTLE - CALGARY | Mon 05 Oct 02:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 31</display-name>
+    <display-name>LIVE | NHL SEATTLE - CALGARY | Mon 05 Oct 02:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 31</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
   </channel>
   <channel id="1863195">
@@ -7976,11 +7944,11 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Utah_Mammoth.png" />
   </channel>
   <channel id="1242748">
-    <display-name>NEXT | NHL ANAHEIM - FLORIDA | Mon 05 Oct 02:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 41</display-name>
+    <display-name>LIVE | NHL ANAHEIM - FLORIDA | Mon 05 Oct 02:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 41</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Anaheim_Ducks/Anaheim_Ducks_vs_Florida_Panthers.png" />
   </channel>
   <channel id="1242747">
-    <display-name>NEXT | NHL SEATTLE - CALGARY | Mon 05 Oct 02:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 42</display-name>
+    <display-name>LIVE | NHL SEATTLE - CALGARY | Mon 05 Oct 02:05 CEST (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 42</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
   </channel>
   <channel id="1242746">
@@ -8172,11 +8140,11 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Utah_Mammoth.png" />
   </channel>
   <channel id="1126469">
-    <display-name>NEXT | NHL ANAHEIM - FLORIDA | Sun 04 Oct 20:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 3</display-name>
+    <display-name>LIVE | NHL ANAHEIM - FLORIDA | Sun 04 Oct 20:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 3</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Anaheim_Ducks/Anaheim_Ducks_vs_Florida_Panthers.png" />
   </channel>
   <channel id="1126468">
-    <display-name>NEXT | NHL SEATTLE - CALGARY | Sun 04 Oct 20:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 4</display-name>
+    <display-name>LIVE | NHL SEATTLE - CALGARY | Sun 04 Oct 20:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 4</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Calgary_Flames.png" />
   </channel>
   <channel id="1126467">
@@ -86410,363 +86378,373 @@ Sunday 10/04/2026 - 4:25 PM</desc>
 Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+  <programme start="20261004150000 -0400" stop="20261004162500 -0400" channel="1912536">
+    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+  <programme start="20261004162500 -0400" stop="20261004192500 -0400" channel="1912536">
+    <title>Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261004192500 -0400" stop="20261004210000 -0400" channel="1912536">
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1912536">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 67</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 67
-Sunday 10/04/2026</desc>
+    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>Los Angeles Chargers vs. Seattle Seahawks
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+  <programme start="20261004150000 -0400" stop="20261004162500 -0400" channel="1912535">
+    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+  <programme start="20261004162500 -0400" stop="20261004192500 -0400" channel="1912535">
+    <title>Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261004192500 -0400" stop="20261004210000 -0400" channel="1912535">
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1912535">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 68
-Sunday 10/04/2026</desc>
+    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
+    <desc>Kansas City Chiefs vs. Las Vegas Raiders
+Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1912534">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 69</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 69
+    <title>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</title>
+    <desc>NFL Redzone - Week 4 | NFL Game Pass | 2026-10-04 | 17:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1912533">
@@ -143560,504 +143538,484 @@ Sunday 10/04/2026</desc>
 Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="606170">
-    <title>Upcoming: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="606170">
-    <title>Upcoming: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="606170">
-    <title>Upcoming: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="606170">
-    <title>Upcoming: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="606170">
-    <title>Upcoming: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004160500 -0400" channel="606170">
-    <title>Upcoming: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="606170">
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
-  <programme start="20261004160500 -0400" stop="20261004190500 -0400" channel="606170">
-    <title>Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
-  </programme>
-  <programme start="20261004190500 -0400" stop="20261004210000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="606170">
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="606170">
-    <title>Post Game: Miami Dolphins vs. Minnesota Vikings - 4:05 PM</title>
-    <desc>Miami Dolphins vs. Minnesota Vikings
-Sunday 10/04/2026 - 4:05 PM</desc>
+    <title>11</title>
+    <desc>11
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="606169">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="606169">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="606169">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="606169">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="606169">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004162500 -0400" channel="606169">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="606169">
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
-  <programme start="20261004162500 -0400" stop="20261004192500 -0400" channel="606169">
-    <title>Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004192500 -0400" stop="20261004210000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="606169">
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="606169">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>12</title>
+    <desc>12
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="606168">
-    <title>Upcoming: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="606168">
-    <title>Upcoming: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="606168">
-    <title>Upcoming: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="606168">
-    <title>Upcoming: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="606168">
-    <title>Upcoming: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004162500 -0400" channel="606168">
-    <title>Upcoming: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="606168">
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
-  <programme start="20261004162500 -0400" stop="20261004192500 -0400" channel="606168">
-    <title>Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004192500 -0400" stop="20261004210000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="606168">
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="606168">
-    <title>Post Game: Denver Broncos vs. San Francisco 49ers - 4:25 PM</title>
-    <desc>Denver Broncos vs. San Francisco 49ers
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>13</title>
+    <desc>13
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="606167">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="606167">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="606167">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="606167">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="606167">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004162500 -0400" channel="606167">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="606167">
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
-  <programme start="20261004162500 -0400" stop="20261004192500 -0400" channel="606167">
-    <title>Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004192500 -0400" stop="20261004210000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="606167">
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="606167">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
+    <title>14</title>
+    <desc>14
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="606166">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
@@ -303954,6 +303912,126 @@ Sunday 10/04/2026</desc>
     <desc>AF: NBA TV ᴿᴬᵂ
 Sunday 10/04/2026</desc>
   </programme>
+  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1896460">
+    <title>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26</title>
+    <desc>MLB LEAD OFF | Mon 05 Oct 20:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 26
+Tuesday 10/20/2026</desc>
+  </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1565560">
     <title>JOYN: NFL NETWORK ᴿᴬᵂ</title>
     <desc>JOYN: NFL NETWORK ᴿᴬᵂ
@@ -307314,367 +307392,127 @@ Friday 04/10/2026</desc>
     <desc>NFL Redzone - Week 4 | all | 04-10-2026 | 18:55 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 45
 Friday 04/10/2026</desc>
   </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="2152048">
-    <title>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65</title>
-    <desc>Game Time #4 | Red Zone en español | NFL | 8K EXCLUSIVE | ES: DAZN PPV 65
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="2152047">
-    <title>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66</title>
-    <desc>Semana 4 | RedZone | NFL | 8K EXCLUSIVE | ES: DAZN PPV 66
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="2152031">
+  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="2152112">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="2152031">
+  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="2152112">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="2152031">
+  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="2152112">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="2152031">
+  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="2152112">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="2152031">
+  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="2152112">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="2152031">
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="2152112">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004180000 -0400" stop="20261004202000 -0400" channel="2152031">
+  <programme start="20261004180000 -0400" stop="20261004202000 -0400" channel="2152112">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004202000 -0400" stop="20261004232000 -0400" channel="2152031">
+  <programme start="20261004202000 -0400" stop="20261004232000 -0400" channel="2152112">
     <title>Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004232000 -0400" stop="20261005000000 -0400" channel="2152031">
+  <programme start="20261004232000 -0400" stop="20261005000000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="2152031">
+  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="2152031">
+  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="2152031">
+  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="2152031">
+  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="2152031">
+  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="2152031">
+  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="2152031">
+  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="2152031">
+  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="2152031">
+  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="2152031">
+  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="2152031">
+  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="2152031">
+  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="2152031">
+  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="2152031">
+  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="2152031">
+  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="2152031">
+  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="2152112">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
@@ -308289,625 +308127,255 @@ Sunday 10/04/2026 - 8:20 PM</desc>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1893360">
+  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1893378">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1893360">
+  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1893378">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1893360">
+  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1893378">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1893360">
+  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1893378">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1893360">
+  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1893378">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1893360">
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1893378">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004180000 -0400" stop="20261004202000 -0400" channel="1893360">
+  <programme start="20261004180000 -0400" stop="20261004202000 -0400" channel="1893378">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004202000 -0400" stop="20261004232000 -0400" channel="1893360">
+  <programme start="20261004202000 -0400" stop="20261004232000 -0400" channel="1893378">
     <title>Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004232000 -0400" stop="20261005000000 -0400" channel="1893360">
+  <programme start="20261004232000 -0400" stop="20261005000000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1893360">
+  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1893360">
+  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1893360">
+  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1893360">
+  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1893360">
+  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1893360">
+  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1893360">
+  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1893360">
+  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1893360">
+  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1893360">
+  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1893360">
+  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1893360">
+  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1893360">
+  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1893360">
+  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1893360">
+  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1893360">
+  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1893378">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1893341">
+  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1893377">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1893341">
+  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1893377">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1893341">
+  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1893377">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1893341">
+  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1893377">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1893341">
+  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1893377">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1893341">
+  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1893377">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004180000 -0400" stop="20261004202000 -0400" channel="1893341">
+  <programme start="20261004180000 -0400" stop="20261004202000 -0400" channel="1893377">
     <title>Upcoming: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004202000 -0400" stop="20261004232000 -0400" channel="1893341">
+  <programme start="20261004202000 -0400" stop="20261004232000 -0400" channel="1893377">
     <title>Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261004232000 -0400" stop="20261005000000 -0400" channel="1893341">
+  <programme start="20261004232000 -0400" stop="20261005000000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1893341">
+  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1893341">
+  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1893341">
+  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1893341">
+  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1893341">
+  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1893341">
+  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1893341">
+  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1893341">
+  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1893341">
+  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1893341">
+  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1893341">
+  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1893341">
+  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1893341">
+  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1893341">
+  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1893341">
+  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1893341">
+  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1893377">
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1893324">
-    <title>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57</title>
-    <desc>NFL Redzone - Week 4 | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 57
-Sunday 10/04/2026</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1893316">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1893316">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1893316">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1893316">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1893316">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004162500 -0400" channel="1893316">
-    <title>Upcoming: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004162500 -0400" stop="20261004192500 -0400" channel="1893316">
-    <title>Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004192500 -0400" stop="20261004210000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1893316">
-    <title>Post Game: Los Angeles Chargers vs. Seattle Seahawks - 4:25 PM</title>
-    <desc>Los Angeles Chargers vs. Seattle Seahawks
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1893306">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1893306">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1893306">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1893306">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1893306">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004162500 -0400" channel="1893306">
-    <title>Upcoming: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004162500 -0400" stop="20261004192500 -0400" channel="1893306">
-    <title>Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004192500 -0400" stop="20261004210000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1893306">
-    <title>Post Game: Kansas City Chiefs vs. Las Vegas Raiders - 4:25 PM</title>
-    <desc>Kansas City Chiefs vs. Las Vegas Raiders
-Sunday 10/04/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="386374">
     <title>PT: SPORT TV NBA</title>
@@ -314173,486 +313641,6 @@ Sunday 10/04/2026 - 8:20 PM</desc>
     <title>Post Game: Detroit Lions vs. Carolina Panthers - 8:20 PM</title>
     <desc>Detroit Lions vs. Carolina Panthers
 Sunday 10/04/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1287786">
-    <title>Tampa Bay Lightning vs. Philadelphia Flyers</title>
-    <desc>Tampa Bay Lightning vs. Philadelphia Flyers
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1287785">
-    <title>Pittsburgh Penguins vs. Winnipeg Jets</title>
-    <desc>Pittsburgh Penguins vs. Winnipeg Jets
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1287784">
-    <title>Boston Bruins vs. Ottawa Senators</title>
-    <desc>Boston Bruins vs. Ottawa Senators
-Thursday 10/01/2026</desc>
-  </programme>
-  <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261004030000 -0400" stop="20261004060000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261004060000 -0400" stop="20261004090000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261004090000 -0400" stop="20261004120000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261004120000 -0400" stop="20261004150000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261004150000 -0400" stop="20261004180000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261004180000 -0400" stop="20261004210000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261004210000 -0400" stop="20261005000000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261005000000 -0400" stop="20261005030000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261005030000 -0400" stop="20261005060000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261005180000 -0400" stop="20261005210000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261005210000 -0400" stop="20261006000000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261006000000 -0400" stop="20261006030000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261006030000 -0400" stop="20261006060000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261006180000 -0400" stop="20261006210000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
-  </programme>
-  <programme start="20261006210000 -0400" stop="20261007000000 -0400" channel="1287782">
-    <title>Dallas Stars vs. San Jose Sharks</title>
-    <desc>Dallas Stars vs. San Jose Sharks
-Friday 10/02/2026</desc>
   </programme>
   <programme start="20261004000000 -0400" stop="20261004030000 -0400" channel="2123712">
     <title>Washington Commanders vs. 2026-10-04 15:25:00 :Tv2Play DK 10</title>
