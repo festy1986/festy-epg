@@ -1820,10 +1820,10 @@
     <display-name>Next | Rome - GCL Round 2 | Longines Global Champions Tour | 2026-10-10 | 10:05 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 25</display-name>
   </channel>
   <channel id="1912577">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 26</display-name>
+    <display-name>End | Iowa @ Washington | NCAA Football | 2026-10-10 | 01:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 26</display-name>
   </channel>
   <channel id="1912576">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 27</display-name>
+    <display-name>End | Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 27</display-name>
   </channel>
   <channel id="1912575">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 28</display-name>
@@ -2484,7 +2484,7 @@
     <display-name>ENDED | UBC @ UNB BASKETBALL WOMEN | Fri 09 Oct 17:30 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</display-name>
   </channel>
   <channel id="1132427">
-    <display-name>LIVE | TWU @ MRU BASKETBALL WOMEN | Fri 09 Oct 19:30 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
+    <display-name>ENDED | TWU @ MRU BASKETBALL WOMEN | Fri 09 Oct 19:30 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
   </channel>
   <channel id="1132426">
     <display-name>LIVE | UFV @ VIC SOCCER WOMEN | Fri 09 Oct 21:25 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</display-name>
@@ -3045,7 +3045,7 @@
     <display-name>Next | Rome - GCL Round 2 | Longines Global Champions Tour | 2026-10-10 | 10:05 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 3</display-name>
   </channel>
   <channel id="1899898">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 4</display-name>
+    <display-name>End | Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 4</display-name>
   </channel>
   <channel id="1899897">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 5</display-name>
@@ -4877,7 +4877,7 @@
     <display-name>ENDED | UC SANTA BARBARA VS. LONG BEACH STATE | Fri 09 Oct 22:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 102</display-name>
   </channel>
   <channel id="1924627">
-    <display-name>NEXT | BYU FOOTBALL POSTGAME | Sat 10 Oct 01:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 103</display-name>
+    <display-name>LIVE | BYU FOOTBALL POSTGAME | Sat 10 Oct 01:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 103</display-name>
   </channel>
   <channel id="1924626">
     <display-name>NEXT | RAYO VALLECANO VS. ATHLETIC CLUB (MATCHDAY #8) | Sat 10 Oct 07:50 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 104</display-name>
@@ -7642,6 +7642,10 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
+  <channel id="1884117">
+    <display-name>Next | Oilers vs. Sharks | NHL.TV | 2026-10-10 | 20:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 90</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_San_Jose_Sharks.png" />
+  </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
   </channel>
@@ -7752,6 +7756,18 @@
   <channel id="1702610">
     <display-name>NHL On The Fly @ Oct 10 12:00 PM :Viaplay SE  09</display-name>
   </channel>
+  <channel id="1826002">
+    <display-name>NEXT | NHL NY ISLANDERS - TAMPA BAY | Sun 11 Oct 01:35 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 102</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Islanders/New_York_Islanders_vs_Tampa_Bay_Lightning.png" />
+  </channel>
+  <channel id="1825999">
+    <display-name>NEXT | NHL VEGAS - LOS ANGELES | Sun 11 Oct 04:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 105</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vegas_Golden_Knights/Vegas_Golden_Knights_vs_Los_Angeles_Kings.png" />
+  </channel>
+  <channel id="1825998">
+    <display-name>NEXT | NHL CALGARY - ANAHEIM | Sun 11 Oct 04:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 106</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Anaheim_Ducks.png" />
+  </channel>
   <channel id="1825965">
     <display-name>ENDED | NHL: WASHINGTON CAPITALS - NEW YORK RANGERS | Sat 10 Oct 01:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 38</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Washington_Capitals/Washington_Capitals_vs_New_York_Rangers.png" />
@@ -7799,6 +7815,10 @@
   <channel id="1704053">
     <display-name>NHL: Chicago Blackhawks vs Carolina Hurricanes @ Oct 11 01:05 :TeliaPlay SE  99</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Carolina_Hurricanes.png" />
+  </channel>
+  <channel id="1098682">
+    <display-name>NEXT | NHL: CANUCKS @ DEVILS | Sat 10 Oct 21:30 CEST (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 29</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vancouver_Canucks/Vancouver_Canucks_vs_New_Jersey_Devils.png" />
   </channel>
   <channel id="1801853">
     <display-name>NFL: Buccaneers @ Cowboys @ Oct 9 2:06 AM :Disney+ SE  07</display-name>
@@ -7877,6 +7897,50 @@
   </channel>
   <channel id="1704204">
     <display-name>NHL: Calgary Flames vs Anaheim Ducks @ Oct 11 05:05 :Telia FI  49</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Anaheim_Ducks.png" />
+  </channel>
+  <channel id="1863331">
+    <display-name>NEXT | NHL FLORIDA - MINNESOTA | Sun 11 Oct 00:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 102</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Florida_Panthers/Florida_Panthers_vs_Minnesota_Wild.png" />
+  </channel>
+  <channel id="1863330">
+    <display-name>NEXT | NHL BUFFALO - UTAH | Sun 11 Oct 01:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 103</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Utah_Mammoth.png" />
+  </channel>
+  <channel id="1863329">
+    <display-name>NEXT | NHL COLORADO - TORONTO | Sun 11 Oct 01:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 104</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Colorado_Avalanche/Colorado_Avalanche_vs_Toronto_Maple_Leafs.png" />
+  </channel>
+  <channel id="1863328">
+    <display-name>NEXT | NHL CHICAGO - CAROLINA | Sun 11 Oct 01:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 105</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Carolina_Hurricanes.png" />
+  </channel>
+  <channel id="1863327">
+    <display-name>NEXT | NHL PITTSBURGH - DALLAS | Sun 11 Oct 01:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 106</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Pittsburgh_Penguins/Pittsburgh_Penguins_vs_Dallas_Stars.png" />
+  </channel>
+  <channel id="1863326">
+    <display-name>NEXT | NHL OTTAWA - NASHVILLE | Sun 11 Oct 01:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 107</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Nashville_Predators.png" />
+  </channel>
+  <channel id="1863325">
+    <display-name>NEXT | NHL MONTREAL - DETROIT | Sun 11 Oct 01:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 108</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Montreal_Canadiens/Montreal_Canadiens_vs_Detroit_Red_Wings.png" />
+  </channel>
+  <channel id="1863324">
+    <display-name>NEXT | NHL ST. LOUIS - COLUMBUS | Sun 11 Oct 01:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 109</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/St_Louis_Blues/St_Louis_Blues_vs_Columbus_Blue_Jackets.png" />
+  </channel>
+  <channel id="1863323">
+    <display-name>NEXT | NHL NY ISLANDERS - TAMPA BAY | Sun 11 Oct 01:35 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 110</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Islanders/New_York_Islanders_vs_Tampa_Bay_Lightning.png" />
+  </channel>
+  <channel id="1863320">
+    <display-name>NEXT | NHL VEGAS - LOS ANGELES | Sun 11 Oct 04:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 113</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vegas_Golden_Knights/Vegas_Golden_Knights_vs_Los_Angeles_Kings.png" />
+  </channel>
+  <channel id="1863319">
+    <display-name>NEXT | NHL CALGARY - ANAHEIM | Sun 11 Oct 04:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 114</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Anaheim_Ducks.png" />
   </channel>
   <channel id="1703127">
@@ -81029,243 +81093,243 @@ Saturday 10/10/2026</desc>
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1912577">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 26</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 26
+    <title>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26</title>
+    <desc>Iowa vs. Washington | NCAA Football | 2026-10-10 | 01:00 | 8K EXCLUSIVE | CA: DAZN PPV 26
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1912576">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 27</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 27
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | CA: DAZN PPV 27
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1912575">
@@ -129869,123 +129933,123 @@ Saturday 10/10/2026</desc>
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1899898">
-    <title>8K EXCLUSIVE | US: DAZN PPV 4</title>
-    <desc>8K EXCLUSIVE | US: DAZN PPV 4
+    <title>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4</title>
+    <desc>Ferrymead Bays vs. Miramar Rangers | National League - New Zealand | 2026-10-10 | 03:00 | 8K EXCLUSIVE | US: DAZN PPV 4
 Saturday 10/10/2026</desc>
   </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1899897">
@@ -305808,6 +305872,131 @@ Saturday 10/10/2026</desc>
     <desc>VIP: NBA TV
 Saturday 10/10/2026</desc>
   </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1884117">
+    <title>Upcoming: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1884117">
+    <title>Upcoming: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1884117">
+    <title>Upcoming: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1884117">
+    <title>Upcoming: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1884117">
+    <title>Upcoming: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010160000 -0400" channel="1884117">
+    <title>Upcoming: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261010160000 -0400" stop="20261010190000 -0400" channel="1884117">
+    <title>Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261010190000 -0400" stop="20261010210000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1884117">
+    <title>Post Game: Edmonton Oilers vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Edmonton Oilers vs. San Jose Sharks
+Saturday 10/10/2026 - 4:00 PM</desc>
+  </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
     <desc>AF: NBA TV
@@ -309648,6 +309837,366 @@ Saturday 10/10/2026</desc>
     <desc>NHL On The Fly vs. Los Angeles Kings
 Saturday 10/10/2026</desc>
   </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1826002">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1825999">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1825998">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1825965">
     <title>Washington Capitals vs. New York Rangers</title>
     <desc>Washington Capitals vs. New York Rangers
@@ -311122,6 +311671,126 @@ Saturday 10/10/2026 - 7:00 PM</desc>
     <title>Post Game: Chicago Blackhawks vs. Carolina Hurricanes - 7:00 PM</title>
     <desc>Chicago Blackhawks vs. Carolina Hurricanes
 Saturday 10/10/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1098682">
+    <title>Vancouver Canucks vs. New Jersey Devils</title>
+    <desc>Vancouver Canucks vs. New Jersey Devils
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1801853">
     <title>Post Game: Tampa Bay Buccaneers vs. Dallas Cowboys - 8:15 PM</title>
@@ -313682,6 +314351,1326 @@ Saturday 10/10/2026 - 10:00 PM</desc>
     <title>Post Game: Calgary Flames vs. Anaheim Ducks - 10:00 PM</title>
     <desc>Calgary Flames vs. Anaheim Ducks
 Saturday 10/10/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863331">
+    <title>Upcoming: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863331">
+    <title>Upcoming: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863331">
+    <title>Upcoming: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863331">
+    <title>Upcoming: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863331">
+    <title>Upcoming: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863331">
+    <title>Upcoming: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863331">
+    <title>Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863331">
+    <title>Post Game: Florida Panthers vs. Minnesota Wild - 6:00 PM</title>
+    <desc>Florida Panthers vs. Minnesota Wild
+Saturday 10/10/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863330">
+    <title>Buffalo Sabres vs. Utah Mammoth</title>
+    <desc>Buffalo Sabres vs. Utah Mammoth
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863329">
+    <title>Colorado Avalanche vs. Toronto Maple Leafs</title>
+    <desc>Colorado Avalanche vs. Toronto Maple Leafs
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863328">
+    <title>Chicago Blackhawks vs. Carolina Hurricanes</title>
+    <desc>Chicago Blackhawks vs. Carolina Hurricanes
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863327">
+    <title>Pittsburgh Penguins vs. Dallas Stars</title>
+    <desc>Pittsburgh Penguins vs. Dallas Stars
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863326">
+    <title>Ottawa Senators vs. Nashville Predators</title>
+    <desc>Ottawa Senators vs. Nashville Predators
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863325">
+    <title>Montreal Canadiens vs. Detroit Red Wings</title>
+    <desc>Montreal Canadiens vs. Detroit Red Wings
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863324">
+    <title>St. Louis Blues vs. Columbus Blue Jackets</title>
+    <desc>St. Louis Blues vs. Columbus Blue Jackets
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863323">
+    <title>New York Islanders vs. Tampa Bay Lightning</title>
+    <desc>New York Islanders vs. Tampa Bay Lightning
+Thursday 10/01/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863320">
+    <title>Vegas Golden Knights vs. Los Angeles Kings</title>
+    <desc>Vegas Golden Knights vs. Los Angeles Kings
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010030000 -0400" stop="20261010060000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010060000 -0400" stop="20261010090000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010090000 -0400" stop="20261010120000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010120000 -0400" stop="20261010150000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010150000 -0400" stop="20261010180000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010210000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261010210000 -0400" stop="20261011000000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1863319">
+    <title>Calgary Flames vs. Anaheim Ducks</title>
+    <desc>Calgary Flames vs. Anaheim Ducks
+Sunday 10/04/2026</desc>
   </programme>
   <programme start="20261010000000 -0400" stop="20261010030000 -0400" channel="1703127">
     <title>NHL On The Fly vs. Los Angeles Kings</title>
