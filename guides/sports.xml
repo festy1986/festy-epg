@@ -1784,7 +1784,7 @@
     <display-name>End | Monza - Race 2 (E4 Championship) | Italian Formula 4 Championship | 2026-10-11 | 06:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</display-name>
   </channel>
   <channel id="1912589">
-    <display-name>Next | Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 14</display-name>
   </channel>
   <channel id="1912588">
     <display-name>Next | Atlètic Amèrica vs. La Massana | Lliga GRUP PIRINEU | 2026-10-11 | 10:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 15</display-name>
@@ -2214,10 +2214,10 @@
     <display-name>####### SPORTSNET PPV #######</display-name>
   </channel>
   <channel id="1488483">
-    <display-name>LIVE | GRAND PRIX OF INDONESIA | Sun 11 Oct 03:45 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
+    <display-name>ENDED | GRAND PRIX OF INDONESIA | Sun 11 Oct 03:45 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1</display-name>
   </channel>
   <channel id="1488482">
-    <display-name>NEXT | SPORTSNET CENTRAL: OCT. 10 | Sun 11 Oct 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</display-name>
+    <display-name>ENDED | SPORTSNET CENTRAL: OCT. 10 | Sun 11 Oct 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2</display-name>
   </channel>
   <channel id="1488481">
     <display-name>NEXT | FC UTRECHT VS. WILLEM II | Sun 11 Oct 07:35 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 3</display-name>
@@ -3090,7 +3090,7 @@
     <display-name>End | Monza - Race 2 (E4 Championship) | Italian Formula 4 Championship | 2026-10-11 | 06:30 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 10</display-name>
   </channel>
   <channel id="1899891">
-    <display-name>Next | Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 11</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 11</display-name>
   </channel>
   <channel id="1899890">
     <display-name>Next | Atlètic Amèrica vs. La Massana | Lliga GRUP PIRINEU | 2026-10-11 | 10:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 12</display-name>
@@ -3743,8 +3743,8 @@
     <display-name>MLB: MLB NETWORK (US)</display-name>
   </channel>
   <channel id="762779">
-    <display-name>MLB 01 : Guardians x White Sox start:2026-10-09 01:00:00 stop:2026-10-09 08:13:20</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/MLB/Cleveland_Guardians/Cleveland_Guardians_vs_Chicago_White_Sox.png" />
+    <display-name>MLB 01 : Dodgers x Brewers start:2026-10-12 01:00:00 stop:2026-10-12 08:13:20</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/MLB/Los_Angeles_Dodgers/Los_Angeles_Dodgers_vs_Milwaukee_Brewers.png" />
   </channel>
   <channel id="762778">
     <display-name>MLB 02 :</display-name>
@@ -3942,7 +3942,7 @@
     <display-name>##### NBA PASS PPV ⁸ᴷ #####</display-name>
   </channel>
   <channel id="1634335">
-    <display-name>NEXT | HOU - ROCKETS VS DAL - MAVERICKS | Sun 11 Oct 05:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | HOU - ROCKETS VS DAL - MAVERICKS | Sun 11 Oct 05:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Houston_Rockets/Houston_Rockets_vs_Dallas_Mavericks.png" />
   </channel>
   <channel id="1634334">
@@ -7662,9 +7662,9 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
-  <channel id="1884150">
-    <display-name>Next | Giants @ Commanders | NFL Game Pass | 2026-10-11 | 17:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 57</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_York_Giants/New_York_Giants_vs_Washington_Commanders.png" />
+  <channel id="1884201">
+    <display-name>Next | 49ers @ Seahawks (en castellano) | NFL | 2026-10-11 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 106</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/San_Francisco_49ers/San_Francisco_49ers_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
@@ -7701,6 +7701,10 @@
   </channel>
   <channel id="2152022">
     <display-name>Next | Semana 5 | RedZone | NFL | 2026-10-11 | 17:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 91</display-name>
+  </channel>
+  <channel id="2152007">
+    <display-name>Next | 49ers @ Seahawks (en castellano) | NFL | 2026-10-11 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 106</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/San_Francisco_49ers/San_Francisco_49ers_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -7897,9 +7901,6 @@
   </channel>
   <channel id="1703071">
     <display-name>NHL On The Fly @ Oct 11 12:00 PM :Viaplay DK  03</display-name>
-  </channel>
-  <channel id="1128619">
-    <display-name>NEXT | NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</display-name>
   </channel>
   <channel id="2123528">
     <display-name>NFL RedZone: Week 5 @ Oct 11 18:50 PM :VG  11</display-name>
@@ -8613,7 +8614,7 @@
     <display-name>####### NBA PASS PPV #######</display-name>
   </channel>
   <channel id="1413081">
-    <display-name>NEXT | HOU - ROCKETS VS DAL - MAVERICKS | Sun 11 Oct 07:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | HOU - ROCKETS VS DAL - MAVERICKS | Sun 11 Oct 07:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Houston_Rockets/Houston_Rockets_vs_Dallas_Mavericks.png" />
   </channel>
   <channel id="1413080">
@@ -80037,123 +80038,123 @@ Sunday 10/11/2026</desc>
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1912589">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1912588">
@@ -131222,123 +131223,123 @@ Sunday 10/11/2026</desc>
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1899891">
-    <title>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11</title>
-    <desc>Rànger's vs. Carroi | 1a Divisió - Andorra | 2026-10-11 | 09:00 | 8K EXCLUSIVE | US: DAZN PPV 11
+    <title>8K EXCLUSIVE | US: DAZN PPV 11</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 11
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1899890">
@@ -155427,124 +155428,129 @@ Sunday 10/11/2026</desc>
 Sunday 10/11/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Upcoming: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Upcoming: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Upcoming: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Upcoming: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Upcoming: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Upcoming: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
-  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+  <programme start="20261011180000 -0400" stop="20261011200000 -0400" channel="762779">
+    <title>Upcoming: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
-  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+  <programme start="20261011200000 -0400" stop="20261011230000 -0400" channel="762779">
+    <title>Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261011230000 -0400" stop="20261012000000 -0400" channel="762779">
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="762779">
-    <title>Post Game: Cleveland Guardians vs. Chicago White Sox - 8:00 PM</title>
-    <desc>Cleveland Guardians vs. Chicago White Sox
-Thursday 10/08/2026 - 8:00 PM</desc>
+    <title>Post Game: Los Angeles Dodgers vs. Milwaukee Brewers - 8:00 PM</title>
+    <desc>Los Angeles Dodgers vs. Milwaukee Brewers
+Sunday 10/11/2026 - 8:00 PM</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="762778">
     <title>02</title>
@@ -306651,130 +306657,130 @@ Sunday 10/11/2026</desc>
     <desc>VIP: NBA TV
 Sunday 10/11/2026</desc>
   </programme>
-  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1884150">
-    <title>Upcoming: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1884201">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1884150">
-    <title>Upcoming: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1884201">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1884150">
-    <title>Upcoming: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1884201">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1884150">
-    <title>Upcoming: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1884201">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261011120000 -0400" stop="20261011130000 -0400" channel="1884150">
-    <title>Upcoming: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1884201">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261011130000 -0400" stop="20261011160000 -0400" channel="1884150">
-    <title>New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011150000 -0400" stop="20261011162500 -0400" channel="1884201">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261011160000 -0400" stop="20261011180000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011162500 -0400" stop="20261011192500 -0400" channel="1884201">
+    <title>San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011192500 -0400" stop="20261011210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1884150">
-    <title>Post Game: New York Giants vs. Washington Commanders - 1:00 PM</title>
-    <desc>New York Giants vs. Washington Commanders
-Sunday 10/11/2026 - 1:00 PM</desc>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
@@ -308110,6 +308116,131 @@ Sunday 10/11/2026</desc>
     <title>Semana 5 | RedZone | NFL | 2026-10-11 | 17:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 91</title>
     <desc>Semana 5 | RedZone | NFL | 2026-10-11 | 17:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 91
 Sunday 10/11/2026</desc>
+  </programme>
+  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="2152007">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="2152007">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="2152007">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="2152007">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="2152007">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261011150000 -0400" stop="20261011162500 -0400" channel="2152007">
+    <title>Upcoming: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261011162500 -0400" stop="20261011192500 -0400" channel="2152007">
+    <title>San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261011192500 -0400" stop="20261011210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
@@ -314510,126 +314641,6 @@ Sunday 10/11/2026</desc>
     <title>NHL On The Fly vs. Los Angeles Kings</title>
     <desc>NHL On The Fly vs. Los Angeles Kings
 Sunday 10/11/2026</desc>
-  </programme>
-  <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261011030000 -0400" stop="20261011060000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261011060000 -0400" stop="20261011090000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261011090000 -0400" stop="20261011120000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261011120000 -0400" stop="20261011150000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261011150000 -0400" stop="20261011180000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261011180000 -0400" stop="20261011210000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261011210000 -0400" stop="20261012000000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
-  </programme>
-  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1128619">
-    <title>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13</title>
-    <desc>NFL REDZONE: WEEK 5 | Sun 11 Oct 18:50 CEST (NO) | 8K EXCLUSIVE | NO: VGTV PPV 13
-Sunday 10/18/2026</desc>
   </programme>
   <programme start="20261011000000 -0400" stop="20261011030000 -0400" channel="2123528">
     <title>New England Patriots vs. Oct 11 18:50 PM :VG 11</title>
