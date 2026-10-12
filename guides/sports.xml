@@ -2492,10 +2492,10 @@
     <display-name>ENDED | UBC @ VIC SOCCER WOMEN | Sun 11 Oct 17:25 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
   </channel>
   <channel id="1132426">
-    <display-name>LIVE | UFV @ UBCO SOCCER MEN | Sun 11 Oct 19:15 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</display-name>
+    <display-name>ENDED | UFV @ UBCO SOCCER MEN | Sun 11 Oct 19:15 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</display-name>
   </channel>
   <channel id="1132425">
-    <display-name>LIVE | UBC @ VIC SOCCER MEN | Sun 11 Oct 19:40 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 4</display-name>
+    <display-name>ENDED | UBC @ VIC SOCCER MEN | Sun 11 Oct 19:40 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 4</display-name>
   </channel>
   <channel id="1132424">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | CA: CANADA WEST PPV 5</display-name>
@@ -3923,7 +3923,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Charlotte_Hornets/Charlotte_Hornets_vs_Milwaukee_Bucks.png" />
   </channel>
   <channel id="1634332">
-    <display-name>LIVE | DEN - NUGGETS VS CHI - BULLS | Sun 11 Oct 20:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 4</display-name>
+    <display-name>ENDED | DEN - NUGGETS VS CHI - BULLS | Sun 11 Oct 20:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 4</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Denver_Nuggets/Denver_Nuggets_vs_Chicago_Bulls.png" />
   </channel>
   <channel id="1634331">
@@ -5074,7 +5074,7 @@
     <display-name>NEXT | MON, 10/12 - ESPN FC | Mon 12 Oct 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 174</display-name>
   </channel>
   <channel id="1924555">
-    <display-name>NEXT | NFL PRIMETIME PRESENTED BY MUCINEX | Mon 12 Oct 02:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 175</display-name>
+    <display-name>LIVE | NFL PRIMETIME PRESENTED BY MUCINEX | Mon 12 Oct 02:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 175</display-name>
   </channel>
   <channel id="1924554">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: ESPN+ PPV 176</display-name>
@@ -7635,8 +7635,9 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
-  <channel id="1884203">
-    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</display-name>
+  <channel id="1884201">
+    <display-name>Next | 49ers @ Seahawks (en castellano) | NFL | 2026-10-11 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 106</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/San_Francisco_49ers/San_Francisco_49ers_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
@@ -7677,8 +7678,9 @@
   <channel id="2152026">
     <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-11 | 16:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 87</display-name>
   </channel>
-  <channel id="2152009">
-    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</display-name>
+  <channel id="2152007">
+    <display-name>Next | 49ers @ Seahawks (en castellano) | NFL | 2026-10-11 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 106</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/San_Francisco_49ers/San_Francisco_49ers_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -8673,7 +8675,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Charlotte_Hornets/Charlotte_Hornets_vs_Milwaukee_Bucks.png" />
   </channel>
   <channel id="1413078">
-    <display-name>LIVE | DEN - NUGGETS VS CHI - BULLS | Sun 11 Oct 22:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 4</display-name>
+    <display-name>ENDED | DEN - NUGGETS VS CHI - BULLS | Sun 11 Oct 22:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 4</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Denver_Nuggets/Denver_Nuggets_vs_Chicago_Bulls.png" />
   </channel>
   <channel id="1413077">
@@ -306668,125 +306670,125 @@ Monday 10/12/2026</desc>
     <desc>VIP: NBA TV
 Monday 10/12/2026</desc>
   </programme>
-  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1884203">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
@@ -308228,125 +308230,125 @@ Sunday 10/11/2026</desc>
     <desc>NFL GameDay Final | NFL Game Pass | 2026-10-11 | 16:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 87
 Sunday 10/11/2026</desc>
   </programme>
-  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
-  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="2152009">
-    <title>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4</title>
-    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-12 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-Monday 10/12/2026</desc>
+  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
