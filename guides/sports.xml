@@ -2234,10 +2234,10 @@
     <display-name>LIVE | OTTAWA @ NEW JERSEY | Mon 12 Oct 20:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 10</display-name>
   </channel>
   <channel id="1488473">
-    <display-name>NEXT | ALCS - CLEVELAND @ TAMPA BAY - GAME 1 | Mon 12 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 11</display-name>
+    <display-name>LIVE | ALCS - CLEVELAND @ TAMPA BAY - GAME 1 | Mon 12 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 11</display-name>
   </channel>
   <channel id="1488472">
-    <display-name>NEXT | VEGAS @ MINNESOTA | Mon 12 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 12</display-name>
+    <display-name>LIVE | VEGAS @ MINNESOTA | Mon 12 Oct 21:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 12</display-name>
   </channel>
   <channel id="1488471">
     <display-name>NEXT | SPORTSNET CENTRAL: OCT. 12 | Tue 13 Oct 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 13</display-name>
@@ -2300,7 +2300,7 @@
     <display-name>NEXT | ALCS - CLEVELAND @ TAMPA BAY - GAME 2 | Tue 13 Oct 21:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 32</display-name>
   </channel>
   <channel id="1488451">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</display-name>
+    <display-name>NEXT | FRENCH LANGUAGE BROADCAST: ST. LOUIS @ OTTAWA | Tue 13 Oct 21:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</display-name>
   </channel>
   <channel id="1488450">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | CA: SPORTSNET PPV 34</display-name>
@@ -3925,7 +3925,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/New_York_Knicks/New_York_Knicks_vs_Minnesota_Timberwolves.png" />
   </channel>
   <channel id="1634331">
-    <display-name>NEXT | UTA - JAZZ VS SAS - SPURS | Mon 12 Oct 20:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 5</display-name>
+    <display-name>LIVE | UTA - JAZZ VS SAS - SPURS | Mon 12 Oct 20:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 5</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Utah_Jazz/Utah_Jazz_vs_San_Antonio_Spurs.png" />
   </channel>
   <channel id="1634330">
@@ -4627,7 +4627,7 @@
     <display-name>LIVE | #20 BYU VS. CINCINNATI | Mon 12 Oct 19:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 25</display-name>
   </channel>
   <channel id="1924704">
-    <display-name>NEXT | VEGAS GOLDEN KNIGHTS VS. MINNESOTA WILD | Mon 12 Oct 19:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 26</display-name>
+    <display-name>LIVE | VEGAS GOLDEN KNIGHTS VS. MINNESOTA WILD | Mon 12 Oct 19:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 26</display-name>
   </channel>
   <channel id="1924703">
     <display-name>NEXT | MON, 10/12 - FUTBOL AMERICAS | Mon 12 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 27</display-name>
@@ -7567,7 +7567,13 @@
     <display-name>AF: NBA TV ᴿᴬᵂ</display-name>
   </channel>
   <channel id="1896482">
-    <display-name>NEXT | MLB LEAD OFF | Mon 12 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 4</display-name>
+    <display-name>LIVE | MLB LEAD OFF | Mon 12 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 4</display-name>
+  </channel>
+  <channel id="1896480">
+    <display-name>NEXT | MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</display-name>
+  </channel>
+  <channel id="1896465">
+    <display-name>NEXT | MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</display-name>
   </channel>
   <channel id="1565560">
     <display-name>JOYN: NFL NETWORK ᴿᴬᵂ</display-name>
@@ -7623,6 +7629,10 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
+  <channel id="1884201">
+    <display-name>Next | 49ers @ Seahawks (en castellano) | NFL | 2026-10-11 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 106</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/San_Francisco_49ers/San_Francisco_49ers_vs_Seattle_Seahawks.png" />
+  </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
   </channel>
@@ -7662,6 +7672,10 @@
   <channel id="2152026">
     <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-11 | 16:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 87</display-name>
   </channel>
+  <channel id="2152007">
+    <display-name>Next | 49ers @ Seahawks (en castellano) | NFL | 2026-10-11 | 20:25 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 106</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/San_Francisco_49ers/San_Francisco_49ers_vs_Seattle_Seahawks.png" />
+  </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
   </channel>
@@ -7671,12 +7685,12 @@
   <channel id="1688731">
     <display-name>VIP: SPORT TV NBA ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="1893354">
-    <display-name>Live | Bills @ Rams | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 27</display-name>
+  <channel id="1893380">
+    <display-name>Live | Bills @ Rams (Spanish Broadcast) | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Buffalo_Bills/Buffalo_Bills_vs_Los_Angeles_Rams.png" />
   </channel>
-  <channel id="1893351">
-    <display-name>Next | Bills @ Rams (Spanish Broadcast) | NFL Game Pass | 2026-10-13 | 00:15 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 30</display-name>
+  <channel id="1893354">
+    <display-name>Live | Bills @ Rams | NFL Game Pass | 8K EXCLUSIVE | PT: DAZN PPV 27</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Buffalo_Bills/Buffalo_Bills_vs_Los_Angeles_Rams.png" />
   </channel>
   <channel id="386374">
@@ -7704,7 +7718,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_Jersey_Devils/New_Jersey_Devils_vs_Ottawa_Senators.png" />
   </channel>
   <channel id="1810035">
-    <display-name>NEXT | NHL MINNESOTA - VEGAS | Tue 13 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 12</display-name>
+    <display-name>LIVE | NHL MINNESOTA - VEGAS | Tue 13 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 12</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Minnesota_Wild/Minnesota_Wild_vs_Vegas_Golden_Knights.png" />
   </channel>
   <channel id="1810034">
@@ -7792,11 +7806,11 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_Jersey_Devils/New_Jersey_Devils_vs_Ottawa_Senators.png" />
   </channel>
   <channel id="1825982">
-    <display-name>NEXT | NFL: BILLS @ RAMS | Tue 13 Oct 01:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 21</display-name>
+    <display-name>LIVE | NFL: BILLS @ RAMS | Tue 13 Oct 01:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 21</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Buffalo_Bills/Buffalo_Bills_vs_Los_Angeles_Rams.png" />
   </channel>
   <channel id="1825981">
-    <display-name>NEXT | NHL: MINNESOTA WILD - VEGAS GOLDEN KNIGHTS | Tue 13 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 22</display-name>
+    <display-name>LIVE | NHL: MINNESOTA WILD - VEGAS GOLDEN KNIGHTS | Tue 13 Oct 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 22</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Minnesota_Wild/Minnesota_Wild_vs_Vegas_Golden_Knights.png" />
   </channel>
   <channel id="1825961">
@@ -7846,7 +7860,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_Jersey_Devils/New_Jersey_Devils_vs_Ottawa_Senators.png" />
   </channel>
   <channel id="1863213">
-    <display-name>NEXT | NHL MINNESOTA - VEGAS | Tue 13 Oct 02:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 14</display-name>
+    <display-name>LIVE | NHL MINNESOTA - VEGAS | Tue 13 Oct 02:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 14</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Minnesota_Wild/Minnesota_Wild_vs_Vegas_Golden_Knights.png" />
   </channel>
   <channel id="1863207">
@@ -8091,7 +8105,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_Jersey_Devils/New_Jersey_Devils_vs_Ottawa_Senators.png" />
   </channel>
   <channel id="1126467">
-    <display-name>NEXT | NHL MINNESOTA - VEGAS | Mon 12 Oct 20:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 5</display-name>
+    <display-name>LIVE | NHL MINNESOTA - VEGAS | Mon 12 Oct 20:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 5</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Minnesota_Wild/Minnesota_Wild_vs_Vegas_Golden_Knights.png" />
   </channel>
   <channel id="1126466">
@@ -8755,7 +8769,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/New_York_Knicks/New_York_Knicks_vs_Minnesota_Timberwolves.png" />
   </channel>
   <channel id="1413077">
-    <display-name>NEXT | UTA - JAZZ VS SAS - SPURS | Mon 12 Oct 22:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 5</display-name>
+    <display-name>LIVE | UTA - JAZZ VS SAS - SPURS | Mon 12 Oct 22:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 5</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Utah_Jazz/Utah_Jazz_vs_San_Antonio_Spurs.png" />
   </channel>
   <channel id="1413076">
@@ -100691,124 +100705,124 @@ Wednesday 10/21/2026</desc>
 Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1488451">
-    <title>8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
-    <desc>8K EXCLUSIVE | CA: SPORTSNET PPV 33
-Monday 10/12/2026</desc>
+    <title>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33</title>
+    <desc>FRENCH LANGUAGE BROADCAST: ST. LOUIS vs. OTTAWA | Tue 13 Oct 21:00 NDT | 8K EXCLUSIVE | CA: SPORTSNET PPV 33
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1488450">
     <title>8K EXCLUSIVE | CA: SPORTSNET PPV 34</title>
@@ -304170,6 +304184,246 @@ Friday 10/23/2026</desc>
     <desc>MLB LEAD OFF | Mon 12 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 4
 Friday 10/23/2026</desc>
   </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1896480">
+    <title>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6</title>
+    <desc>MLB CLOSER | Tue 13 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 6
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1896465">
+    <title>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21</title>
+    <desc>MLB LEAD OFF | Tue 13 Oct 23:00 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 21
+Friday 10/23/2026</desc>
+  </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1565560">
     <title>JOYN: NFL NETWORK ᴿᴬᵂ</title>
     <desc>JOYN: NFL NETWORK ᴿᴬᵂ
@@ -306330,6 +306584,126 @@ Monday 10/12/2026</desc>
     <desc>VIP: NBA TV
 Monday 10/12/2026</desc>
   </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1884201">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
     <desc>AF: NBA TV
@@ -307770,6 +308144,126 @@ Sunday 10/11/2026</desc>
     <desc>NFL GameDay Final | NFL Game Pass | 2026-10-11 | 16:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 87
 Sunday 10/11/2026</desc>
   </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261012210000 -0400" stop="20261013000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="2152007">
+    <title>Post Game: San Francisco 49ers vs. Seattle Seahawks - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Seattle Seahawks
+Sunday 10/11/2026 - 4:25 PM</desc>
+  </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
     <desc>MEO: NBA TV ᴿᴬᵂ
@@ -308130,6 +308624,131 @@ Monday 10/12/2026</desc>
     <desc>VIP: SPORT TV NBA ᴿᴬᵂ
 Monday 10/12/2026</desc>
   </programme>
+  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1893380">
+    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1893380">
+    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1893380">
+    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1893380">
+    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1893380">
+    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1893380">
+    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261012180000 -0400" stop="20261012201500 -0400" channel="1893380">
+    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261012201500 -0400" stop="20261012231500 -0400" channel="1893380">
+    <title>Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261012231500 -0400" stop="20261013000000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1893380">
+    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Los Angeles Rams
+Monday 10/12/2026 - 8:15 PM</desc>
+  </programme>
   <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1893354">
     <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
     <desc>Buffalo Bills vs. Los Angeles Rams
@@ -308251,131 +308870,6 @@ Monday 10/12/2026 - 8:15 PM</desc>
 Monday 10/12/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1893354">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012000000 -0400" stop="20261012030000 -0400" channel="1893351">
-    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012030000 -0400" stop="20261012060000 -0400" channel="1893351">
-    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012060000 -0400" stop="20261012090000 -0400" channel="1893351">
-    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012090000 -0400" stop="20261012120000 -0400" channel="1893351">
-    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012120000 -0400" stop="20261012150000 -0400" channel="1893351">
-    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012150000 -0400" stop="20261012180000 -0400" channel="1893351">
-    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012180000 -0400" stop="20261012201500 -0400" channel="1893351">
-    <title>Upcoming: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012201500 -0400" stop="20261012231500 -0400" channel="1893351">
-    <title>Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261012231500 -0400" stop="20261013000000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261013000000 -0400" stop="20261013030000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261013030000 -0400" stop="20261013060000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261013060000 -0400" stop="20261013090000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261013090000 -0400" stop="20261013120000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261013120000 -0400" stop="20261013150000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261013150000 -0400" stop="20261013180000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261013180000 -0400" stop="20261013210000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261013210000 -0400" stop="20261014000000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261014000000 -0400" stop="20261014030000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261014030000 -0400" stop="20261014060000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261014060000 -0400" stop="20261014090000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261014090000 -0400" stop="20261014120000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261014120000 -0400" stop="20261014150000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261014150000 -0400" stop="20261014180000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261014180000 -0400" stop="20261014210000 -0400" channel="1893351">
-    <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
-    <desc>Buffalo Bills vs. Los Angeles Rams
-Monday 10/12/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261014210000 -0400" stop="20261015000000 -0400" channel="1893351">
     <title>Post Game: Buffalo Bills vs. Los Angeles Rams - 8:15 PM</title>
     <desc>Buffalo Bills vs. Los Angeles Rams
 Monday 10/12/2026 - 8:15 PM</desc>
