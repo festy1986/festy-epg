@@ -1,4 +1,3 @@
-```yaml
 name: MGM Presents Horror Guide
 
 on:
@@ -293,4 +292,3 @@ jobs:
             git commit -m "Update MGM Presents Horror 14-day guide"
             git push
           fi
-```
