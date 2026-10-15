@@ -95,6 +95,16 @@ jobs:
             )
 
           const jessmanChannels = {
+            'FilmRise Horror': {
+              displayName:
+                'FilmRise Horror'
+            },
+
+            'Scream Factory TV': {
+              displayName:
+                'Scream Factory TV'
+            },
+
             'MGM Presents': {
               displayName:
                 'MGM Presents 2'
