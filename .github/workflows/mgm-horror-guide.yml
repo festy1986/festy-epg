@@ -14,152 +14,283 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  build-guide:
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Build 14-day MGM Horror guide
+      - name: Fetch Plex schedule and build 14-day XMLTV guide
         run: |
           python3 - <<'PY'
           import gzip
+          import time
+          import urllib.parse
           import urllib.request
           import xml.etree.ElementTree as ET
           from datetime import datetime, timedelta, timezone
           from pathlib import Path
 
-          SOURCE = "https://iptv-epg.org/files/epg-us.xml.gz"
-          CHANNEL_ID = "MGMPresentsHorror.us"
+          # Plex channel identifier:
+          # 6a1610bebdf296985fd95603-6abd4e58a9d133322be5f940
+          #
+          # The Plex grid endpoint uses the channelGridKey portion
+          # after the hyphen.
+          CHANNEL_GRID_KEY = "6abd4e58a9d133322be5f940"
+
+          XMLTV_CHANNEL_ID = "mgm-presents-horror"
+          CHANNEL_NAME = "MGM Presents: Horror"
           OUTPUT = Path("guides/mgm-horror.xml.gz")
+          DAYS = 14
+
+          BASE_URL = "https://epg.provider.plex.tv/grid"
 
           now = datetime.now(timezone.utc)
-          cutoff = now + timedelta(days=14)
+          window_end = now + timedelta(days=DAYS)
 
-          request = urllib.request.Request(
-              SOURCE,
-              headers={"User-Agent": "festy-epg/1.0"}
-          )
+          programmes = {}
 
-          print("Downloading IPTV-EPG US guide...")
+          def fetch_day(day):
+              params = urllib.parse.urlencode({
+                  "channelGridKey": CHANNEL_GRID_KEY,
+                  "date": day.isoformat(),
+                  "x-plex-provider-version": "7.0.0",
+              })
 
-          with urllib.request.urlopen(request, timeout=180) as response:
-              data = response.read()
+              url = f"{BASE_URL}?{params}"
+              request = urllib.request.Request(
+                  url,
+                  headers={
+                      "Accept": "application/xml",
+                      "X-Plex-Language": "en",
+                      "User-Agent": "festy-epg/1.0",
+                  },
+              )
 
-          print(f"Downloaded {len(data):,} bytes.")
+              last_error = None
 
-          # Accept the source as a compressed XMLTV file.
-          if data[:2] == b"\x1f\x8b":
-              data = gzip.decompress(data)
+              for attempt in range(3):
+                  try:
+                      with urllib.request.urlopen(
+                          request, timeout=60
+                      ) as response:
+                          body = response.read()
 
-          source_root = ET.fromstring(data)
+                      root = ET.fromstring(body)
 
-          output_root = ET.Element("tv", {
-              "source-info-name": "IPTV-EPG",
+                      if root.tag != "MediaContainer":
+                          raise RuntimeError(
+                              f"Unexpected XML root: {root.tag}"
+                          )
+
+                      return root
+
+                  except Exception as exc:
+                      last_error = exc
+                      print(
+                          f"Attempt {attempt + 1}/3 failed "
+                          f"for {day}: {exc}"
+                      )
+                      time.sleep(2 * (attempt + 1))
+
+              raise RuntimeError(
+                  f"Could not fetch schedule for {day}: {last_error}"
+              )
+
+          def child_text(element, name):
+              child = element.find(name)
+              return (child.text or "").strip() if child is not None else ""
+
+          def xmltv_time(timestamp):
+              return datetime.fromtimestamp(
+                  timestamp, timezone.utc
+              ).strftime("%Y%m%d%H%M%S +0000")
+
+          first_day = now.date()
+          print(f"Building guide from {first_day} for {DAYS} days.")
+
+          for offset in range(DAYS):
+              day = first_day + timedelta(days=offset)
+              print(f"Fetching Plex schedule for {day}...")
+
+              root = fetch_day(day)
+              videos = list(root.iter("Video"))
+              found_today = 0
+
+              print(
+                  f"  Plex returned {len(videos)} programme records."
+              )
+
+              for video in videos:
+                  title = video.get("title", "").strip()
+                  if not title:
+                      continue
+
+                  summary = video.get("summary", "").strip()
+                  kind = video.get("type", "").strip().lower()
+                  series = video.get("grandparentTitle", "").strip()
+                  season = video.get("parentIndex", "").strip()
+                  episode = video.get("index", "").strip()
+                  year = video.get("year", "").strip()
+                  rating = video.get("contentRating", "").strip()
+
+                  for media in video.findall("Media"):
+                      begins = media.get("beginsAt")
+                      ends = media.get("endsAt")
+
+                      if not begins or not ends:
+                          continue
+
+                      try:
+                          start = int(begins)
+                          stop = int(ends)
+                      except (TypeError, ValueError):
+                          continue
+
+                      if stop <= start:
+                          continue
+
+                      if stop <= int(now.timestamp()):
+                          continue
+
+                      if start >= int(window_end.timestamp()):
+                          continue
+
+                      key = (start, stop, title, series)
+
+                      item = {
+                          "start": start,
+                          "stop": stop,
+                          "title": title,
+                          "summary": summary,
+                          "kind": kind,
+                          "series": series,
+                          "season": season,
+                          "episode": episode,
+                          "year": year,
+                          "rating": rating,
+                      }
+
+                      if key not in programmes:
+                          programmes[key] = item
+                          found_today += 1
+
+              print(f"  Added {found_today} new listings.")
+              time.sleep(1)
+
+          if not programmes:
+              raise SystemExit(
+                  "Plex returned no usable programmes across the "
+                  "14-day window. No guide was written."
+              )
+
+          tv = ET.Element("tv", {
+              "source-info-name": "Plex EPG",
               "generator-info-name": "festy-epg MGM Horror",
           })
 
-          channel_found = False
+          channel = ET.SubElement(
+              tv, "channel", {"id": XMLTV_CHANNEL_ID}
+          )
+          ET.SubElement(channel, "display-name").text = CHANNEL_NAME
 
-          for channel in source_root.findall("channel"):
-              if channel.get("id") == CHANNEL_ID:
-                  output_root.append(channel)
-                  channel_found = True
-                  break
+          for item in sorted(
+              programmes.values(),
+              key=lambda p: (p["start"], p["stop"])
+          ):
+              programme = ET.SubElement(tv, "programme", {
+                  "start": xmltv_time(item["start"]),
+                  "stop": xmltv_time(item["stop"]),
+                  "channel": XMLTV_CHANNEL_ID,
+              })
 
-          if not channel_found:
-              raise SystemExit(
-                  f"Channel {CHANNEL_ID} not found in source guide. "
-                  "No output published."
-              )
+              if item["kind"] == "episode" and item["series"]:
+                  ET.SubElement(
+                      programme, "title", {"lang": "en"}
+                  ).text = item["series"]
 
-          kept = 0
+                  ET.SubElement(
+                      programme, "sub-title", {"lang": "en"}
+                  ).text = item["title"]
 
-          for programme in source_root.findall("programme"):
-              if programme.get("channel") != CHANNEL_ID:
-                  continue
+                  if item["season"].isdigit() and item["episode"].isdigit():
+                      ET.SubElement(
+                          programme, "episode-num",
+                          {"system": "xmltv_ns"}
+                      ).text = (
+                          f"{int(item['season']) - 1}."
+                          f"{int(item['episode']) - 1}."
+                      )
+              else:
+                  ET.SubElement(
+                      programme, "title", {"lang": "en"}
+                  ).text = item["title"]
 
-              start_text = programme.get("start", "")
-              stop_text = programme.get("stop", "")
+              if item["summary"]:
+                  ET.SubElement(
+                      programme, "desc", {"lang": "en"}
+                  ).text = item["summary"]
 
-              try:
-                  start = datetime.strptime(
-                      start_text[:14], "%Y%m%d%H%M%S"
-                  )
-                  stop = datetime.strptime(
-                      stop_text[:14], "%Y%m%d%H%M%S"
-                  )
+              if item["year"]:
+                  ET.SubElement(programme, "date").text = item["year"]
 
-                  # XMLTV timestamps may include a numeric timezone.
-                  import re
-                  match = re.search(r"([+-]\d{4})$", start_text)
-                  if match:
-                      offset = match.group(1)
-                      sign = 1 if offset[0] == "+" else -1
-                      from datetime import timedelta
-                      tz = timezone(sign * timedelta(
-                          hours=int(offset[1:3]),
-                          minutes=int(offset[3:5])
-                      ))
-                      start = start.replace(tzinfo=tz).astimezone(timezone.utc)
-                  else:
-                      start = start.replace(tzinfo=timezone.utc)
+              if item["rating"]:
+                  rating = ET.SubElement(programme, "rating")
+                  ET.SubElement(rating, "value").text = item["rating"]
 
-                  match = re.search(r"([+-]\d{4})$", stop_text)
-                  if match:
-                      offset = match.group(1)
-                      sign = 1 if offset[0] == "+" else -1
-                      tz = timezone(sign * timedelta(
-                          hours=int(offset[1:3]),
-                          minutes=int(offset[3:5])
-                      ))
-                      stop = stop.replace(tzinfo=tz).astimezone(timezone.utc)
-                  else:
-                      stop = stop.replace(tzinfo=timezone.utc)
-
-              except ValueError:
-                  print(f"Skipping invalid programme time: {start_text}")
-                  continue
-
-              if stop <= now or start >= cutoff:
-                  continue
-
-              output_root.append(programme)
-              kept += 1
-
-          if kept == 0:
-              raise SystemExit(
-                  "No MGM Horror programmes found in the 14-day window. "
-                  "No output published."
-              )
-
-          ET.indent(output_root, space="  ")
+          ET.indent(tv, space="  ")
           OUTPUT.parent.mkdir(parents=True, exist_ok=True)
 
-          xml_bytes = ET.tostring(
-              output_root,
+          xml_data = ET.tostring(
+              tv,
               encoding="utf-8",
-              xml_declaration=True
+              xml_declaration=True,
           )
 
           with gzip.open(OUTPUT, "wb") as output:
-              output.write(xml_bytes)
+              output.write(xml_data)
 
           print(f"Created {OUTPUT}")
-          print(f"Programmes retained: {kept}")
-          print("Window: now through the next 14 days.")
+          print(f"Total programme listings: {len(programmes)}")
+          print(f"Window ends: {window_end.isoformat()}")
           PY
 
-      - name: Commit guide
+      - name: Validate generated guide
+        run: |
+          python3 - <<'PY'
+          import gzip
+          import xml.etree.ElementTree as ET
+
+          path = "guides/mgm-horror.xml.gz"
+
+          with gzip.open(path, "rb") as guide:
+              root = ET.parse(guide).getroot()
+
+          channels = root.findall("channel")
+          programmes = root.findall("programme")
+
+          if not channels:
+              raise SystemExit("Guide has no channel element.")
+
+          if not programmes:
+              raise SystemExit("Guide has no programme listings.")
+
+          print(f"Valid XMLTV: {len(programmes)} programmes")
+          print(f"Channel: {channels[0].get('id')}")
+          PY
+
+      - name: Commit updated guide
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add guides/mgm-horror.xml.gz
+
           if git diff --cached --quiet; then
             echo "Guide has not changed."
           else
-            git commit -m "Build MGM Presents Horror 14-day guide"
+            git commit -m "Update MGM Presents Horror 14-day guide"
             git push
           fi
 ```
