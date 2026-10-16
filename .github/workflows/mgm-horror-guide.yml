@@ -1,3 +1,4 @@
+
 name: MGM Presents Horror Guide
 
 on:
@@ -16,39 +17,118 @@ jobs:
   build-guide:
     runs-on: ubuntu-latest
 
+    env:
+      TMDB_API_TOKEN: ${{ secrets.TMDB_API_TOKEN }}
+      MGM_HORROR_LOGO_URL: ${{ secrets.MGM_HORROR_LOGO_URL }}
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Fetch Plex schedule and build 14-day XMLTV guide
+      - name: Fetch Plex schedule, clean listings, enrich metadata, and build 17-day XMLTV guide
         run: |
           python3 - <<'PY'
           import gzip
+          import json
+          import os
+          import re
           import time
+          import urllib.error
           import urllib.parse
           import urllib.request
           import xml.etree.ElementTree as ET
+
           from datetime import datetime, timedelta, timezone
           from pathlib import Path
 
-          # Plex channel identifier:
-          # 6a1610bebdf296985fd95603-6abd4e58a9d133322be5f940
-          #
-          # The Plex grid endpoint uses the channelGridKey portion
-          # after the hyphen.
+          # ------------------------------------------------------------
+          # CONFIGURATION
+          # ------------------------------------------------------------
+
           CHANNEL_GRID_KEY = "6abd4e58a9d133322be5f940"
 
           XMLTV_CHANNEL_ID = "mgm-presents-horror"
           CHANNEL_NAME = "MGM Presents: Horror"
-          OUTPUT = Path("guides/mgm-horror.xml.gz")
-          DAYS = 14
 
-          BASE_URL = "https://epg.provider.plex.tv/grid"
+          OUTPUT = Path("guides/mgm-horror.xml.gz")
+          DAYS = 17
+
+          PLEX_BASE_URL = "https://epg.provider.plex.tv/grid"
+          TVMAZE_BASE_URL = "https://api.tvmaze.com"
+          TMDB_BASE_URL = "https://api.themoviedb.org/3"
+
+          TMDB_API_TOKEN = os.environ.get("TMDB_API_TOKEN", "").strip()
+          CONFIGURED_LOGO_URL = os.environ.get(
+              "MGM_HORROR_LOGO_URL", ""
+          ).strip()
+
+          USER_AGENT = "festy-epg/1.0"
 
           now = datetime.now(timezone.utc)
           window_end = now + timedelta(days=DAYS)
+          now_timestamp = int(now.timestamp())
+          end_timestamp = int(window_end.timestamp())
 
           programmes = {}
+          tvmaze_show_cache = {}
+          tvmaze_episode_cache = {}
+          tmdb_show_cache = {}
+          tmdb_episode_cache = {}
+
+          channel_logo_url = ""
+
+          # ------------------------------------------------------------
+          # HTTP HELPERS
+          # ------------------------------------------------------------
+
+          def request_bytes(url, headers=None, attempts=3):
+              request_headers = {
+                  "User-Agent": USER_AGENT,
+                  "Accept": "*/*",
+              }
+
+              if headers:
+                  request_headers.update(headers)
+
+              request = urllib.request.Request(
+                  url, headers=request_headers
+              )
+
+              last_error = None
+
+              for attempt in range(attempts):
+                  try:
+                      with urllib.request.urlopen(
+                          request, timeout=45
+                      ) as response:
+                          return response.read()
+
+                  except Exception as exc:
+                      last_error = exc
+                      print(
+                          f"Request attempt {attempt + 1}/{attempts} "
+                          f"failed: {url}: {exc}"
+                      )
+
+                      if attempt + 1 < attempts:
+                          time.sleep(2 * (attempt + 1))
+
+              raise RuntimeError(
+                  f"Request failed after {attempts} attempts: "
+                  f"{url}: {last_error}"
+              )
+
+          def request_json(url, headers=None):
+              try:
+                  body = request_bytes(url, headers=headers)
+                  return json.loads(body.decode("utf-8"))
+              except Exception as exc:
+                  print(f"Metadata lookup failed: {exc}")
+                  return None
+
+          # ------------------------------------------------------------
+          # PLEX SCHEDULE
+          # ------------------------------------------------------------
 
           def fetch_day(day):
               params = urllib.parse.urlencode({
@@ -57,82 +137,485 @@ jobs:
                   "x-plex-provider-version": "7.0.0",
               })
 
-              url = f"{BASE_URL}?{params}"
-              request = urllib.request.Request(
+              url = f"{PLEX_BASE_URL}?{params}"
+
+              body = request_bytes(
                   url,
                   headers={
                       "Accept": "application/xml",
                       "X-Plex-Language": "en",
-                      "User-Agent": "festy-epg/1.0",
                   },
               )
 
-              last_error = None
+              root = ET.fromstring(body)
 
-              for attempt in range(3):
-                  try:
-                      with urllib.request.urlopen(
-                          request, timeout=60
-                      ) as response:
-                          body = response.read()
+              if root.tag != "MediaContainer":
+                  raise RuntimeError(
+                      f"Unexpected Plex XML root: {root.tag}"
+                  )
 
-                      root = ET.fromstring(body)
-
-                      if root.tag != "MediaContainer":
-                          raise RuntimeError(
-                              f"Unexpected XML root: {root.tag}"
-                          )
-
-                      return root
-
-                  except Exception as exc:
-                      last_error = exc
-                      print(
-                          f"Attempt {attempt + 1}/3 failed "
-                          f"for {day}: {exc}"
-                      )
-                      time.sleep(2 * (attempt + 1))
-
-              raise RuntimeError(
-                  f"Could not fetch schedule for {day}: {last_error}"
-              )
+              return root
 
           def child_text(element, name):
               child = element.find(name)
-              return (child.text or "").strip() if child is not None else ""
 
-          def xmltv_time(timestamp):
-              return datetime.fromtimestamp(
-                  timestamp, timezone.utc
-              ).strftime("%Y%m%d%H%M%S +0000")
+              if child is None or child.text is None:
+                  return ""
+
+              return child.text.strip()
+
+          def find_channel_logo(root):
+              """
+              Accept only channel-level artwork metadata.
+              Never use an individual programme's thumbnail
+              as the channel logo.
+              """
+              possible_names = (
+                  "channelLogo",
+                  "channelIcon",
+                  "channelThumb",
+                  "logo",
+                  "icon",
+              )
+
+              for name in possible_names:
+                  value = root.get(name, "").strip()
+
+                  if value.startswith(("https://", "http://")):
+                      return value
+
+              for element in root.iter():
+                  if element.tag.lower() not in (
+                      "channel", "directory", "provider"
+                  ):
+                      continue
+
+                  for name in (
+                      *possible_names,
+                      "thumb",
+                      "art",
+                  ):
+                      value = element.get(name, "").strip()
+
+                      if value.startswith(("https://", "http://")):
+                          return value
+
+              return ""
+
+          # ------------------------------------------------------------
+          # CLEANUP LOGIC
+          # ------------------------------------------------------------
+
+          def clean_spaces(value):
+              if not value:
+                  return ""
+
+              return re.sub(r"\s+", " ", value).strip()
+
+          def extract_year(value):
+              """
+              Find a trailing movie year before title cleanup removes it.
+              """
+              if not value:
+                  return ""
+
+              match = re.search(
+                  r"\s*\(((?:18|19|20|21)\d{2})\)\s*$",
+                  value,
+              )
+
+              return match.group(1) if match else ""
+
+          def clean_programme_title(value):
+              value = clean_spaces(value)
+
+              # Remove a trailing year such as "Halloween (1978)".
+              value = re.sub(
+                  r"\s+\(((?:18|19|20|21)\d{2})\)\s*$",
+                  "",
+                  value,
+              )
+
+              # Remove trailing episode markers.
+              value = re.sub(
+                  r"\s+(?:S\d{1,3}\s*E\d{1,4}|"
+                  r"Season\s+\d+\s+Episode\s+\d+)\s*$",
+                  "",
+                  value,
+                  flags=re.IGNORECASE,
+              )
+
+              return clean_spaces(value)
+
+          def remove_embedded_credits(value):
+              """
+              Remove common embedded credits and promotional clutter
+              while preserving date-like text such as (10/31/2020).
+              """
+              value = clean_spaces(value)
+
+              if not value:
+                  return ""
+
+              # Protect dates before removing other parenthetical text.
+              protected_dates = []
+
+              def protect_date(match):
+                  protected_dates.append(match.group(0))
+                  return f"__PRESERVED_DATE_{len(protected_dates) - 1}__"
+
+              value = re.sub(
+                  r"\(\d{1,2}/\d{1,2}/\d{4}\)",
+                  protect_date,
+                  value,
+              )
+
+              # Remove parenthetical production or credit notes.
+              value = re.sub(r"\s*\([^()]*\)", "", value)
+
+              # Remove common trailing credits and cast promotions.
+              value = re.sub(
+                  r"\s+(?:(?:and|with)\s+.+?\s+)?"
+                  r"(?:stars?|starring|featuring|"
+                  r"with special appearance by)\s+.+$",
+                  "",
+                  value,
+                  flags=re.IGNORECASE,
+              )
+
+              value = re.sub(
+                  r"\s+\*+\s*$",
+                  "",
+                  value,
+              )
+
+              value = re.sub(
+                  r"[\s.]+$",
+                  "",
+                  value,
+              )
+
+              for index, date_value in enumerate(protected_dates):
+                  value = value.replace(
+                      f"__PRESERVED_DATE_{index}__",
+                      date_value,
+                  )
+
+              return clean_spaces(value)
+
+          def clean_description(value):
+              return remove_embedded_credits(value)
+
+          # ------------------------------------------------------------
+          # TVMAZE METADATA ENRICHMENT
+          # ------------------------------------------------------------
+
+          def tvmaze_find_show(series_name):
+              key = clean_spaces(series_name).casefold()
+
+              if key in tvmaze_show_cache:
+                  return tvmaze_show_cache[key]
+
+              url = (
+                  f"{TVMAZE_BASE_URL}/search/shows?"
+                  + urllib.parse.urlencode({"q": series_name})
+              )
+
+              result = request_json(url)
+              show = None
+
+              if isinstance(result, list) and result:
+                  # Prefer the first exact case-insensitive title match.
+                  for entry in result:
+                      candidate = entry.get("show") or {}
+                      candidate_name = clean_spaces(
+                          candidate.get("name", "")
+                      )
+
+                      if candidate_name.casefold() == key:
+                          show = candidate
+                          break
+
+                  if show is None:
+                      show = result[0].get("show")
+
+              tvmaze_show_cache[key] = show
+
+              # Respect TVmaze's rate limits.
+              time.sleep(0.25)
+
+              return show
+
+          def tvmaze_get_episode(series_name, season, episode):
+              key = (
+                  clean_spaces(series_name).casefold(),
+                  season,
+                  episode,
+              )
+
+              if key in tvmaze_episode_cache:
+                  return tvmaze_episode_cache[key]
+
+              show = tvmaze_find_show(series_name)
+
+              if not show or not show.get("id"):
+                  tvmaze_episode_cache[key] = None
+                  return None
+
+              params = urllib.parse.urlencode({
+                  "season": season,
+                  "number": episode,
+              })
+
+              url = (
+                  f"{TVMAZE_BASE_URL}/shows/"
+                  f"{show['id']}/episodebynumber?{params}"
+              )
+
+              result = request_json(url)
+              tvmaze_episode_cache[key] = (
+                  result if isinstance(result, dict) else None
+              )
+
+              time.sleep(0.25)
+
+              return tvmaze_episode_cache[key]
+
+          # ------------------------------------------------------------
+          # TMDB FALLBACK METADATA ENRICHMENT
+          # ------------------------------------------------------------
+
+          def tmdb_headers():
+              return {
+                  "Authorization": f"Bearer {TMDB_API_TOKEN}",
+                  "Accept": "application/json",
+              }
+
+          def tmdb_find_show(series_name):
+              if not TMDB_API_TOKEN:
+                  return None
+
+              key = clean_spaces(series_name).casefold()
+
+              if key in tmdb_show_cache:
+                  return tmdb_show_cache[key]
+
+              url = (
+                  f"{TMDB_BASE_URL}/search/tv?"
+                  + urllib.parse.urlencode({
+                      "query": series_name,
+                      "include_adult": "false",
+                  })
+              )
+
+              result = request_json(url, headers=tmdb_headers())
+              show = None
+
+              if isinstance(result, dict):
+                  results = result.get("results", [])
+
+                  for candidate in results:
+                      if clean_spaces(
+                          candidate.get("name", "")
+                      ).casefold() == key:
+                          show = candidate
+                          break
+
+                  if show is None and results:
+                      show = results[0]
+
+              tmdb_show_cache[key] = show
+
+              return show
+
+          def tmdb_get_episode(series_name, season, episode):
+              if not TMDB_API_TOKEN:
+                  return None
+
+              key = (
+                  clean_spaces(series_name).casefold(),
+                  season,
+                  episode,
+              )
+
+              if key in tmdb_episode_cache:
+                  return tmdb_episode_cache[key]
+
+              show = tmdb_find_show(series_name)
+
+              if not show or not show.get("id"):
+                  tmdb_episode_cache[key] = None
+                  return None
+
+              url = (
+                  f"{TMDB_BASE_URL}/tv/{show['id']}/season/"
+                  f"{season}/episode/{episode}"
+              )
+
+              result = request_json(url, headers=tmdb_headers())
+              tmdb_episode_cache[key] = (
+                  result if isinstance(result, dict) else None
+              )
+
+              time.sleep(0.15)
+
+              return tmdb_episode_cache[key]
+
+          def enrich_episode(item):
+              """
+              Fill missing episode metadata only.
+              Existing Plex descriptions, titles, and dates take priority.
+              """
+              if (
+                  item["kind"] != "episode"
+                  or not item["series"]
+                  or not item["season"].isdigit()
+                  or not item["episode"].isdigit()
+              ):
+                  return
+
+              season = int(item["season"])
+              episode = int(item["episode"])
+
+              if season < 1 or episode < 1:
+                  return
+
+              needs_metadata = (
+                  not item["title"]
+                  or not item["summary"]
+                  or not item["air_date"]
+                  or not item["episode_icon"]
+              )
+
+              if not needs_metadata:
+                  return
+
+              # TVmaze is the first metadata source.
+              tvmaze = tvmaze_get_episode(
+                  item["series"], season, episode
+              )
+
+              if isinstance(tvmaze, dict):
+                  if not item["title"]:
+                      item["title"] = clean_programme_title(
+                          tvmaze.get("name", "")
+                      )
+
+                  if not item["summary"]:
+                      item["summary"] = clean_description(
+                          re.sub(
+                              r"<[^>]+>",
+                              " ",
+                              tvmaze.get("summary") or "",
+                          )
+                      )
+
+                  if not item["air_date"]:
+                      item["air_date"] = (
+                          tvmaze.get("airdate") or ""
+                      )
+
+                  if not item["episode_icon"]:
+                      images = tvmaze.get("image") or {}
+                      item["episode_icon"] = (
+                          images.get("original")
+                          or images.get("medium")
+                          or ""
+                      )
+
+              # TMDB is only used to fill remaining gaps.
+              still_missing = (
+                  not item["title"]
+                  or not item["summary"]
+                  or not item["air_date"]
+                  or not item["episode_icon"]
+              )
+
+              if still_missing and TMDB_API_TOKEN:
+                  tmdb = tmdb_get_episode(
+                      item["series"], season, episode
+                  )
+
+                  if isinstance(tmdb, dict):
+                      if not item["title"]:
+                          item["title"] = clean_programme_title(
+                              tmdb.get("name", "")
+                          )
+
+                      if not item["summary"]:
+                          item["summary"] = clean_description(
+                              tmdb.get("overview", "")
+                          )
+
+                      if not item["air_date"]:
+                          item["air_date"] = (
+                              tmdb.get("air_date") or ""
+                          )
+
+                      if not item["episode_icon"]:
+                          still_path = tmdb.get("still_path") or ""
+
+                          if still_path.startswith("/"):
+                              item["episode_icon"] = (
+                                  "https://image.tmdb.org/t/p/w500"
+                                  + still_path
+                              )
+
+          # ------------------------------------------------------------
+          # FETCH THE 17-DAY PLEX WINDOW
+          # ------------------------------------------------------------
 
           first_day = now.date()
-          print(f"Building guide from {first_day} for {DAYS} days.")
+
+          print(
+              f"Building {DAYS}-day guide starting {first_day}."
+          )
+          print(f"Window ends: {window_end.isoformat()}")
 
           for offset in range(DAYS):
               day = first_day + timedelta(days=offset)
-              print(f"Fetching Plex schedule for {day}...")
 
+              print(f"Fetching Plex schedule for {day}...")
               root = fetch_day(day)
+
+              # Look only for explicitly channel-level logo metadata.
+              if not channel_logo_url:
+                  channel_logo_url = find_channel_logo(root)
+
               videos = list(root.iter("Video"))
-              found_today = 0
+              added_today = 0
 
               print(
                   f"  Plex returned {len(videos)} programme records."
               )
 
               for video in videos:
-                  title = video.get("title", "").strip()
-                  if not title:
-                      continue
-
-                  summary = video.get("summary", "").strip()
+                  raw_title = video.get("title", "").strip()
                   kind = video.get("type", "").strip().lower()
-                  series = video.get("grandparentTitle", "").strip()
+                  series = clean_programme_title(
+                      video.get("grandparentTitle", "")
+                  )
+
+                  raw_year = video.get("year", "").strip()
+                  year = raw_year or extract_year(raw_title)
+
+                  title = clean_programme_title(raw_title)
+                  summary = clean_description(
+                      video.get("summary", "")
+                  )
+
                   season = video.get("parentIndex", "").strip()
                   episode = video.get("index", "").strip()
-                  year = video.get("year", "").strip()
                   rating = video.get("contentRating", "").strip()
+
+                  # Keep an episode even if Plex omitted its episode title.
+                  if not title and not (
+                      kind == "episode" and series
+                  ):
+                      continue
+
+                  if kind == "episode" and not title:
+                      title = ""
 
                   for media in video.findall("Media"):
                       begins = media.get("beginsAt")
@@ -150,13 +633,18 @@ jobs:
                       if stop <= start:
                           continue
 
-                      if stop <= int(now.timestamp()):
+                      if stop <= now_timestamp:
                           continue
 
-                      if start >= int(window_end.timestamp()):
+                      if start >= end_timestamp:
                           continue
 
-                      key = (start, stop, title, series)
+                      key = (
+                          start,
+                          stop,
+                          title.casefold(),
+                          series.casefold(),
+                      )
 
                       item = {
                           "start": start,
@@ -169,20 +657,72 @@ jobs:
                           "episode": episode,
                           "year": year,
                           "rating": rating,
+                          "air_date": "",
+                          "episode_icon": "",
                       }
 
                       if key not in programmes:
                           programmes[key] = item
-                          found_today += 1
+                          added_today += 1
 
-              print(f"  Added {found_today} new listings.")
+              print(f"  Added {added_today} new listings.")
               time.sleep(1)
 
           if not programmes:
               raise SystemExit(
                   "Plex returned no usable programmes across the "
-                  "14-day window. No guide was written."
+                  "17-day window. No guide was written."
               )
+
+          # ------------------------------------------------------------
+          # ENRICH EPISODES, PRESERVING PLEX DATA
+          # ------------------------------------------------------------
+
+          episode_count = sum(
+              1 for item in programmes.values()
+              if item["kind"] == "episode"
+          )
+
+          print(
+              f"Checking metadata for up to {episode_count} episodes."
+          )
+
+          for index, item in enumerate(programmes.values(), start=1):
+              if item["kind"] == "episode":
+                  enrich_episode(item)
+
+              if index % 25 == 0:
+                  print(
+                      f"Processed metadata for {index}/"
+                      f"{len(programmes)} listings."
+                  )
+
+          # ------------------------------------------------------------
+          # CHANNEL LOGO
+          # ------------------------------------------------------------
+
+          if not channel_logo_url and CONFIGURED_LOGO_URL.startswith(
+              ("https://", "http://")
+          ):
+              channel_logo_url = CONFIGURED_LOGO_URL
+
+          if channel_logo_url:
+              print(f"Channel logo configured: {channel_logo_url}")
+          else:
+              print(
+                  "WARNING: Plex did not provide a channel logo and "
+                  "MGM_HORROR_LOGO_URL is not configured. The guide "
+                  "will still be generated, but without a channel logo."
+              )
+
+          # ------------------------------------------------------------
+          # BUILD XMLTV
+          # ------------------------------------------------------------
+
+          def xmltv_time(timestamp):
+              return datetime.fromtimestamp(
+                  timestamp, timezone.utc
+              ).strftime("%Y%m%d%H%M%S +0000")
 
           tv = ET.Element("tv", {
               "source-info-name": "Plex EPG",
@@ -192,11 +732,21 @@ jobs:
           channel = ET.SubElement(
               tv, "channel", {"id": XMLTV_CHANNEL_ID}
           )
-          ET.SubElement(channel, "display-name").text = CHANNEL_NAME
+
+          if channel_logo_url:
+              ET.SubElement(
+                  channel, "icon", {"src": channel_logo_url}
+              )
+
+          ET.SubElement(
+              channel, "display-name"
+          ).text = CHANNEL_NAME
 
           for item in sorted(
               programmes.values(),
-              key=lambda p: (p["start"], p["stop"])
+              key=lambda entry: (
+                  entry["start"], entry["stop"]
+              ),
           ):
               programme = ET.SubElement(tv, "programme", {
                   "start": xmltv_time(item["start"]),
@@ -209,14 +759,19 @@ jobs:
                       programme, "title", {"lang": "en"}
                   ).text = item["series"]
 
-                  ET.SubElement(
-                      programme, "sub-title", {"lang": "en"}
-                  ).text = item["title"]
-
-                  if item["season"].isdigit() and item["episode"].isdigit():
+                  if item["title"]:
                       ET.SubElement(
-                          programme, "episode-num",
-                          {"system": "xmltv_ns"}
+                          programme, "sub-title", {"lang": "en"}
+                      ).text = item["title"]
+
+                  if (
+                      item["season"].isdigit()
+                      and item["episode"].isdigit()
+                  ):
+                      ET.SubElement(
+                          programme,
+                          "episode-num",
+                          {"system": "xmltv_ns"},
                       ).text = (
                           f"{int(item['season']) - 1}."
                           f"{int(item['episode']) - 1}."
@@ -231,12 +786,35 @@ jobs:
                       programme, "desc", {"lang": "en"}
                   ).text = item["summary"]
 
-              if item["year"]:
-                  ET.SubElement(programme, "date").text = item["year"]
+              # For episodes, use an episode air date when available.
+              # For movies, retain the Plex movie year.
+              date_value = (
+                  item["air_date"]
+                  if item["kind"] == "episode"
+                  else item["year"]
+              )
+
+              if date_value:
+                  ET.SubElement(
+                      programme, "date"
+                  ).text = date_value
 
               if item["rating"]:
-                  rating = ET.SubElement(programme, "rating")
-                  ET.SubElement(rating, "value").text = item["rating"]
+                  rating_element = ET.SubElement(
+                      programme, "rating"
+                  )
+                  ET.SubElement(
+                      rating_element, "value"
+                  ).text = item["rating"]
+
+              if item["episode_icon"].startswith(
+                  ("https://", "http://")
+              ):
+                  ET.SubElement(
+                      programme,
+                      "icon",
+                      {"src": item["episode_icon"]},
+                  )
 
           ET.indent(tv, space="  ")
           OUTPUT.parent.mkdir(parents=True, exist_ok=True)
@@ -252,7 +830,8 @@ jobs:
 
           print(f"Created {OUTPUT}")
           print(f"Total programme listings: {len(programmes)}")
-          print(f"Window ends: {window_end.isoformat()}")
+          print(f"Episode listings: {episode_count}")
+          print(f"Guide window: {DAYS} days")
           PY
 
       - name: Validate generated guide
@@ -275,8 +854,39 @@ jobs:
           if not programmes:
               raise SystemExit("Guide has no programme listings.")
 
+          expected_channel = "mgm-presents-horror"
+
+          if channels[0].get("id") != expected_channel:
+              raise SystemExit(
+                  f"Unexpected channel ID: {channels[0].get('id')}"
+              )
+
+          for programme in programmes:
+              if not programme.get("start"):
+                  raise SystemExit(
+                      "A programme is missing its start time."
+                  )
+
+              if not programme.get("stop"):
+                  raise SystemExit(
+                      "A programme is missing its stop time."
+                  )
+
+              if programme.get("channel") != expected_channel:
+                  raise SystemExit(
+                      "A programme has an unexpected channel ID."
+                  )
+
+              if not programme.find("title"):
+                  raise SystemExit(
+                      "A programme is missing its title."
+                  )
+
+          logo = channels[0].find("icon")
+
           print(f"Valid XMLTV: {len(programmes)} programmes")
           print(f"Channel: {channels[0].get('id')}")
+          print(f"Channel logo: {'present' if logo is not None else 'not configured'}")
           PY
 
       - name: Commit updated guide
@@ -288,7 +898,25 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "Guide has not changed."
-          else
-            git commit -m "Update MGM Presents Horror 14-day guide"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update MGM Presents Horror 17-day guide"
+
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Guide published successfully."
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt}/3 failed."
+
+            if [ "$attempt" -lt 3 ]; then
+              git fetch origin "$GITHUB_REF_NAME"
+              git rebase "origin/$GITHUB_REF_NAME"
+              sleep $((attempt * 2))
+            fi
+          done
+
+          echo "Could not publish the updated guide after 3 attempts."
+          exit 1
