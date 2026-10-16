@@ -180,4 +180,195 @@
 <channel id="SHOWTIME.SHOWCASE.us" site_id="9100002976#9233003805"><display-name>SHOWTIME SHOWCASE</display-name><icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/SHOWTIME%20SHOWCASE.png"/><url>https://tvguide.com</url></channel>
 <channel id="CINESONY.us" site_id="9100002976#9200015867"><display-name>CINESONY</display-name><icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/cinesony.png"/><url>https://tvguide.com</url></channel>
 <channel site="tvguide.com" lang="en" xmltv_id="RETRPLEXHD.us" site_id="9100002976#9200006666" logo="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/RetroPlex.png">RETROPLEXHD</channel>
+  <channel id="9100002976#9233005477">
+    <display-name>WCBB-DT</display-name>
+    <display-name>WCBB-DT Augusta, Me. (PBS)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/PBS.png"/>
+  </channel>
+  <channel id="9100002976#9233015238">
+    <display-name>WCBB-DT2</display-name>
+    <display-name>WCBB-DT2 Augusta, Me. (Create)</display-name>
+  </channel>
+  <channel id="9100002976#9233009689">
+    <display-name>WCBB-DT3</display-name>
+    <display-name>WCBB-DT3 Augusta, Me. (World)</display-name>
+  </channel>
+  <channel id="9100002976#9200014885">
+    <display-name>WCBB-DT4</display-name>
+    <display-name>WCBB-DT4 Augusta, Me. (PBS Kids 24/7)</display-name>
+  </channel>
+  <channel id="9100002976#9233006796">
+    <display-name>WCSH</display-name>
+    <display-name>WCSH-DT Portland, Maine (NBC)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/WCSH-DT%20Portland%2C%20Maine%20(NBC).png"/>
+  </channel>
+  <channel id="9100002976#9200009047">
+    <display-name>WCSH-DT2</display-name>
+    <display-name>WCSH-DT2 Portland, Maine (True Crime Network)</display-name>
+  </channel>
+  <channel id="9100002976#9200013537">
+    <display-name>WCSH-DT3</display-name>
+    <display-name>WCSH-DT3 Portland, Maine (Quest)</display-name>
+  </channel>
+  <channel id="9100002976#9233012977">
+    <display-name>WCSH-DT4</display-name>
+    <display-name>WCSH-DT4 Portland, Maine (365BLK)</display-name>
+  </channel>
+  <channel id="9100002976#9200034015">
+    <display-name>WCSH-DT5</display-name>
+    <display-name>WCSH-DT5 Portland, Maine (Outlaw)</display-name>
+  </channel>
+  <channel id="9100002976#9233062018">
+    <display-name>WCSH-DT6</display-name>
+    <display-name>WCSH-DT6 Portland, Maine (Shop LC)</display-name>
+  </channel>
+  <channel id="9100002976#9266078948">
+    <display-name>WCSH-DT7</display-name>
+    <display-name>WCSH-DT7 Portland, Maine (Weather Radar)</display-name>
+  </channel>
+  <channel id="9100002976#9266081191">
+    <display-name>WCSH-DT8</display-name>
+    <display-name>WCSH-DT8 Portland, Maine (Defy)</display-name>
+  </channel>
+  <channel id="9100002976#9233001666">
+    <display-name>WGME</display-name>
+    <display-name>WGME-DT Portland, Maine (CBS)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/WGME-DT%20Portland%2C%20Maine%20(CBS).png"/>
+  </channel>
+  <channel id="9100002976#9233003676">
+    <display-name>WGME-DT2</display-name>
+    <display-name>WGME-DT2 Portland, Maine (FOX)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/WGME-DT2%20Portland%2C%20Maine%20(FOX).png"/>
+  </channel>
+  <channel id="9100002976#9200003760">
+    <display-name>WGME-DT3</display-name>
+    <display-name>WGME-DT3 Portland, Maine (The Nest)</display-name>
+  </channel>
+  <channel id="9100002976#9233005846">
+    <display-name>WIPL-DT2</display-name>
+    <display-name>WIPL-DT2 Lewiston, Maine (Court TV)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/Court%20TV.png"/>
+  </channel>
+  <channel id="9100002976#9233008792">
+    <display-name>WIPL-DT3</display-name>
+    <display-name>WIPL-DT3 Lewiston, Maine (Bounce TV)</display-name>
+  </channel>
+  <channel id="9100002976#9233003377">
+    <display-name>WIPL-DT4</display-name>
+    <display-name>WIPL-DT4 Lewiston, Maine (Grit)</display-name>
+  </channel>
+  <channel id="9100002976#9200008618">
+    <display-name>WIPL-DT5</display-name>
+    <display-name>WIPL-DT5 Lewiston, Maine (ION+)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/ION%20Plus.png"/>
+  </channel>
+  <channel id="9100002976#9233007890">
+    <display-name>WIPL-DT6</display-name>
+    <display-name>WIPL-DT6 Lewiston, Maine (BUSTED)</display-name>
+  </channel>
+  <channel id="9100002976#9266021286">
+    <display-name>WIPL-DT7</display-name>
+    <display-name>WIPL-DT7 Lewiston, Maine (Game Show Central)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/Game%20Show%20Network%20HD.png"/>
+  </channel>
+  <channel id="9100002976#9266077100">
+    <display-name>WIPL-DT8</display-name>
+    <display-name>WIPL-DT8 Lewiston, Maine (HSN)</display-name>
+  </channel>
+  <channel id="9100002976#9266077253">
+    <display-name>WIPL-DT9</display-name>
+    <display-name>WIPL-DT9 Lewiston, Maine (QVC2)</display-name>
+  </channel>
+  <channel id="9100002976#9233009254">
+    <display-name>WMEA-DT</display-name>
+    <display-name>WMEA-DT Biddeford, Me. (PBS)</display-name>
+  </channel>
+  <channel id="9100002976#9200008827">
+    <display-name>WMEA-DT2</display-name>
+    <display-name>WMEA-DT2 Biddeford, Me. (Create)</display-name>
+  </channel>
+  <channel id="9100002976#9200020318">
+    <display-name>WMEA-DT3</display-name>
+    <display-name>WMEA-DT3 Biddeford, Me. (World)</display-name>
+  </channel>
+  <channel id="9100002976#9200020602">
+    <display-name>WMEA-DT4</display-name>
+    <display-name>WMEA-DT4 Biddeford, Me. (PBS Kids 24/7)</display-name>
+  </channel>
+  <channel id="9100002976#9200014312">
+    <display-name>WMTW</display-name>
+    <display-name>WMTW-DT Poland Spring, Maine (ABC)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/WMTW-DT%20Poland%20Spring%2C%20Maine%20(ABC).png"/>
+  </channel>
+  <channel id="9100002976#9200016252">
+    <display-name>WMTW-DT2</display-name>
+    <display-name>WMTW-DT2 Poland Spring, Maine (MeTV)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/WMTW-DT2%20Poland%20Spring%2C%20Maine%20(MeTV).png"/>
+  </channel>
+  <channel id="9100002976#9266073627">
+    <display-name>WMTW-DT3</display-name>
+    <display-name>WMTW-DT3 Poland Spring, Maine (Laff)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/WMTW-DT3%20Poland%20Spring%2C%20Maine%20(Laff).png"/>
+  </channel>
+  <channel id="9100002976#9233085019">
+    <display-name>WMTW-DT4</display-name>
+    <display-name>WMTW-DT4 Poland Spring, Maine (HSN)</display-name>
+  </channel>
+  <channel id="9100002976#9200049190">
+    <display-name>WMTW-DT5</display-name>
+    <display-name>WMTW-DT5 Poland Spring, Maine (GREAT)</display-name>
+  </channel>
+  <channel id="9100002976#9233085018">
+    <display-name>WMTW-DT6</display-name>
+    <display-name>WMTW-DT6 Poland Spring, Maine (MeTV Toon)</display-name>
+  </channel>
+  <channel id="9100002976#9200004423">
+    <display-name>WPFO</display-name>
+    <display-name>WPFO-DT Waterville, Maine. (ROAR)</display-name>
+  </channel>
+  <channel id="9100002976#9200018453">
+    <display-name>WPFO-DT2</display-name>
+    <display-name>WPFO-DT2  Waterville, Maine. (Charge!)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/charge!.png"/>
+  </channel>
+  <channel id="9100002976#9200005724">
+    <display-name>WPFO-DT3</display-name>
+    <display-name>WPFO-DT3 Waterville, Maine. (Comet)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/WPFO-DT3%20Waterville%2C%20Maine.%20(Comet).png"/>
+  </channel>
+  <channel id="9100002976#9233011099">
+    <display-name>WPFO-DT4</display-name>
+    <display-name>WPFO-DT4 Waterville, Maine. (ATV)</display-name>
+  </channel>
+  <channel id="9100002976#9233005684">
+    <display-name>WPME</display-name>
+    <display-name>WIPL-DT Lewiston, Maine (ION)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/ION.png"/>
+  </channel>
+  <channel id="9100002976#9200006484">
+    <display-name>WPXT</display-name>
+    <display-name>WPXT-DT Portland, Maine (CW)</display-name>
+  </channel>
+  <channel id="9100002976#9200020338">
+    <display-name>WPXT-DT2</display-name>
+    <display-name>WPXT-DT2 Portland, Maine (MyNet/Heroes &amp; Icons)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/Heroes%20%26%20Icons%20Network.png"/>
+  </channel>
+  <channel id="9100002976#9200017556">
+    <display-name>WPXT-DT3</display-name>
+    <display-name>WPXT-DT3 Portland, Maine (ION Mystery)</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/WPXT-DT3%20Portland%2C%20Maine%20(ION%20Mystery).png"/>
+  </channel>
+  <channel id="9100002976#9200066014">
+    <display-name>WPXT-DT4</display-name>
+    <display-name>WPXT-DT4 Portland, Maine (Story Television)</display-name>
+  </channel>
+  <channel id="9100002976#9200008505">
+    <display-name>WPXT-DT5</display-name>
+    <display-name>WPXT-DT5 Portland, Maine (QVC)</display-name>
+  </channel>
+  <channel id="9100002976#9266078506">
+    <display-name>WPXT-DT6</display-name>
+    <display-name>WPXT-DT6 Portland, Maine (Nosey)</display-name>
+  </channel>
 </tv>
