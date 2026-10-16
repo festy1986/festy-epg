@@ -39,7 +39,7 @@ jobs:
           cd epg
           npm ci
 
-      - name: Build Plex channel source from curated config
+      - name: Build Plex channel source from curated config and Plex catalog
         run: |
           mkdir -p guides
 
@@ -47,6 +47,7 @@ jobs:
           const fs = require('fs')
 
           const sourcePath = 'config/Plex Curated.xml'
+          const catalogPath = 'epg/sites/plex.tv/plex.tv_us.channels.xml'
           const outputPath = 'guides/plex.xml'
 
           function decodeXml(s) {
@@ -75,58 +76,98 @@ jobs:
             return decodeXml(String(body || '').replace(/<[^>]+>/g, '').trim())
           }
 
+          function norm(s) {
+            return decodeXml(s)
+              .normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
+              .toLowerCase()
+              .replace(/&/g, 'and')
+              .replace(/\+/g, 'plus')
+              .replace(/[^a-z0-9]+/g, ' ')
+              .trim()
+          }
+
+          function parseChannels(xml) {
+            return [...xml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)].map(m => ({
+              attrs: m[1],
+              body: m[2],
+              site: attr(m[1], 'site'),
+              site_id: attr(m[1], 'site_id') || attr(m[1], 'site-id'),
+              xmltv_id: attr(m[1], 'xmltv_id') || attr(m[1], 'id'),
+              name: cleanBody(m[2]),
+              icon: (m[2].match(/<icon\b[^>]*\bsrc="([^"]+)"/i) || [])[1] || ''
+            }))
+          }
+
           if (!fs.existsSync(sourcePath)) {
             console.error(`Missing curated Plex config: ${sourcePath}`)
             process.exit(1)
           }
+          if (!fs.existsSync(catalogPath)) {
+            console.error(`Missing Plex channel catalog: ${catalogPath}`)
+            process.exit(1)
+          }
 
-          const xml = fs.readFileSync(sourcePath, 'utf8')
-          const matches = [...xml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)]
+          const curatedXml = fs.readFileSync(sourcePath, 'utf8')
+          const curated = parseChannels(curatedXml)
+          const catalog = parseChannels(fs.readFileSync(catalogPath, 'utf8'))
           const output = []
           const errors = []
           const seenIds = new Set()
 
-          for (const match of matches) {
-            const attrs = match[1]
-            const body = match[2]
-            const site = attr(attrs, 'site') || 'plex.tv'
-            const siteId = attr(attrs, 'site_id') || attr(attrs, 'site-id')
-            const xmltvId = attr(attrs, 'xmltv_id') || attr(attrs, 'id')
-            const lang = attr(attrs, 'lang') || 'en'
-            const name = cleanBody(body)
+          for (const target of curated) {
+            const site = attr(target.attrs, 'site') || 'plex.tv'
+            const xmltvId = target.xmltv_id
+            const lang = attr(target.attrs, 'lang') || 'en'
+            const name = target.name
 
             if (!name) {
-              errors.push('A channel has no display name')
+              errors.push('A curated channel has no display name')
               continue
             }
             if (site !== 'plex.tv') {
               errors.push(`${name}: expected site="plex.tv", found site="${site}"`)
               continue
             }
-            if (!siteId) {
-              errors.push(`${name}: missing site_id (Plex channelGridKey)`) 
-              continue
-            }
             if (!xmltvId) {
-              errors.push(`${name}: missing xmltv_id`) 
+              errors.push(`${name}: missing channel id (expected id or xmltv_id)`) 
               continue
             }
             if (seenIds.has(xmltvId)) {
-              errors.push(`${name}: duplicate xmltv_id ${xmltvId}`)
+              errors.push(`${name}: duplicate channel id ${xmltvId}`)
               continue
+            }
+
+            // Explicit site_id wins if supplied; otherwise resolve it from the
+            // Plex catalog shipped with the EPG engine, matching channel names.
+            let siteId = attr(target.attrs, 'site_id') || attr(target.attrs, 'site-id')
+            if (!siteId) {
+              const targetName = norm(name)
+              let match = catalog.find(ch => norm(ch.name) === targetName)
+              if (!match) {
+                // A small fallback for punctuation and common catalog suffixes.
+                match = catalog.find(ch => {
+                  const candidate = norm(ch.name).replace(/\s+(hd|4k|uhd)$/, '')
+                  const wanted = targetName.replace(/\s+(hd|4k|uhd)$/, '')
+                  return candidate === wanted
+                })
+              }
+              siteId = match ? match.site_id : ''
+              if (!siteId) {
+                errors.push(`${name}: could not match a Plex catalog channel by name (normalized: ${targetName})`)
+                continue
+              }
+              console.log(`[PLEX CATALOG MATCH] ${name} -> ${match.name} | ${siteId}`)
             }
 
             seenIds.add(xmltvId)
             output.push(`  <channel site="plex.tv" lang="${escapeXml(lang)}" xmltv_id="${escapeXml(xmltvId)}" site_id="${escapeXml(siteId)}">${escapeXml(name)}</channel>`)
-            console.log(`[PLEX CHANNEL] ${name} | ${xmltvId} | ${siteId}`)
           }
 
           if (errors.length) {
-            console.error('Invalid curated Plex channel config:')
+            console.error('Invalid curated Plex channel config / catalog matches:')
             errors.forEach(error => console.error(`- ${error}`))
             process.exit(1)
           }
-
           if (!output.length) {
             console.error(`No <channel> entries found in ${sourcePath}`)
             process.exit(1)
@@ -136,7 +177,6 @@ jobs:
             outputPath,
             `<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n${output.join('\n')}\n</channels>\n`
           )
-
           console.log(`Wrote ${outputPath} with ${output.length} curated Plex channels`)
           EOF
 
