@@ -1,0 +1,1374 @@
+name: Plex
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: plex-guide-writes-main
+  cancel-in-progress: false
+
+jobs:
+  build-plex:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Clone IPTV-org EPG engine
+        run: |
+          rm -rf epg
+          git clone --depth 1 https://github.com/iptv-org/epg.git epg
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: epg/package-lock.json
+
+      - name: Install EPG dependencies
+        run: |
+          cd epg
+          npm ci
+
+      - name: Build Plex channel source from curated config
+        run: |
+          mkdir -p guides
+
+          node <<'EOF'
+          const fs = require('fs')
+
+          const sourcePath = 'config/Plex Curated.xml'
+          const outputPath = 'guides/plex.xml'
+
+          function decodeXml(s) {
+            return String(s || '')
+              .replace(/&amp;/g, '&')
+              .replace(/&quot;/g, '"')
+              .replace(/&apos;/g, "'")
+              .replace(/&lt;/g, '<')
+              .replace(/&gt;/g, '>')
+          }
+
+          function escapeXml(s) {
+            return String(s || '')
+              .replace(/&/g, '&amp;')
+              .replace(/"/g, '&quot;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;')
+          }
+
+          function attr(attrs, name) {
+            const m = attrs.match(new RegExp(`${name}="([^"]*)"`, 'i'))
+            return m ? decodeXml(m[1]).trim() : ''
+          }
+
+          function cleanBody(body) {
+            return decodeXml(String(body || '').replace(/<[^>]+>/g, '').trim())
+          }
+
+          if (!fs.existsSync(sourcePath)) {
+            console.error(`Missing curated Plex config: ${sourcePath}`)
+            process.exit(1)
+          }
+
+          const xml = fs.readFileSync(sourcePath, 'utf8')
+          const matches = [...xml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)]
+          const output = []
+          const errors = []
+          const seenIds = new Set()
+
+          for (const match of matches) {
+            const attrs = match[1]
+            const body = match[2]
+            const site = attr(attrs, 'site') || 'plex.tv'
+            const siteId = attr(attrs, 'site_id') || attr(attrs, 'site-id')
+            const xmltvId = attr(attrs, 'xmltv_id') || attr(attrs, 'id')
+            const lang = attr(attrs, 'lang') || 'en'
+            const name = cleanBody(body)
+
+            if (!name) {
+              errors.push('A channel has no display name')
+              continue
+            }
+            if (site !== 'plex.tv') {
+              errors.push(`${name}: expected site="plex.tv", found site="${site}"`)
+              continue
+            }
+            if (!siteId) {
+              errors.push(`${name}: missing site_id (Plex channelGridKey)`) 
+              continue
+            }
+            if (!xmltvId) {
+              errors.push(`${name}: missing xmltv_id`) 
+              continue
+            }
+            if (seenIds.has(xmltvId)) {
+              errors.push(`${name}: duplicate xmltv_id ${xmltvId}`)
+              continue
+            }
+
+            seenIds.add(xmltvId)
+            output.push(`  <channel site="plex.tv" lang="${escapeXml(lang)}" xmltv_id="${escapeXml(xmltvId)}" site_id="${escapeXml(siteId)}">${escapeXml(name)}</channel>`)
+            console.log(`[PLEX CHANNEL] ${name} | ${xmltvId} | ${siteId}`)
+          }
+
+          if (errors.length) {
+            console.error('Invalid curated Plex channel config:')
+            errors.forEach(error => console.error(`- ${error}`))
+            process.exit(1)
+          }
+
+          if (!output.length) {
+            console.error(`No <channel> entries found in ${sourcePath}`)
+            process.exit(1)
+          }
+
+          fs.writeFileSync(
+            outputPath,
+            `<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n${output.join('\n')}\n</channels>\n`
+          )
+
+          console.log(`Wrote ${outputPath} with ${output.length} curated Plex channels`)
+          EOF
+
+      - name: Write Plex config
+        run: |
+          mkdir -p epg/sites/plex.tv
+
+          cat > epg/sites/plex.tv/plex.tv.config.js <<'EOF'
+          const axios = require('axios')
+          const dayjs = require('dayjs')
+
+          const API_ENDPOINT = 'https://epg.provider.plex.tv'
+
+          module.exports = {
+            site: 'plex.tv',
+            delay: 200,
+            days: 17,
+            request: {
+              cache: {
+                ttl: 3 * 60 * 60 * 1000
+              },
+              headers: {
+                'x-plex-provider-version': '7.2',
+                Accept: 'application/json'
+              }
+            },
+            url({ channel, date }) {
+              return `${API_ENDPOINT}/grid?channelGridKey=${channel.site_id}&date=${date.format('YYYY-MM-DD')}`
+            },
+            parser({ content, channel, date }) {
+              const programs = []
+              const items = parseItems(content)
+
+              for (const item of items) {
+                const title = cleanTitle(item.grandparentTitle || item.title || '')
+                const episodeTitle =
+                  item.grandparentTitle && item.title !== item.grandparentTitle
+                    ? cleanSpaces(item.title)
+                    : ''
+
+                const seasonNumber = item.parentIndex || ''
+                const episodeNumber = item.index || ''
+                const episodeCode = buildEpisodeCode(seasonNumber, episodeNumber)
+                const description = cleanSpaces(item.summary || '')
+                const releaseYear = item.year || ''
+                const airDate = formatPlexDate(item.originallyAvailableAt)
+
+                const programType = classifyProgramType({
+                  item,
+                  episodeTitle,
+                  seasonNumber,
+                  episodeNumber,
+                  airDate,
+                  releaseYear
+                })
+
+                const suppressDisplayDate = shouldSuppressDisplayDate({
+                  title,
+                  description,
+                  programType,
+                  item,
+                  airDate,
+                  date
+                })
+
+                const finalDescription = buildPackedDescription({
+                  programType,
+                  episodeTitle,
+                  episodeCode,
+                  description,
+                  airDate,
+                  releaseYear,
+                  suppressDisplayDate
+                })
+
+                programs.push({
+                  title,
+                  description: finalDescription,
+                  rating: item.contentRating || null,
+                  categories: buildCategories(programType, item),
+                  icon: item.thumb || item.grandparentThumb || null,
+                  start: parseStart(item),
+                  stop: parseStop(item)
+                })
+              }
+
+              console.log(`[PULL] ${channel.name} | ${date.format('YYYY-MM-DD')} | programs=${programs.length}`)
+              return programs
+            }
+          }
+
+          function parseItems(content) {
+            const data = JSON.parse(content)
+            if (!data || !data.MediaContainer || !Array.isArray(data.MediaContainer.Metadata)) return []
+
+            const metadata = data.MediaContainer.Metadata
+            const items = []
+
+            metadata.forEach(item => {
+              const mediaList = Array.isArray(item.Media) ? item.Media : []
+              const segments = []
+
+              mediaList.sort(byTime).forEach(media => {
+                const prevSegment = segments[segments.length - 1]
+
+                if (prevSegment && prevSegment.endsAt === media.beginsAt) {
+                  prevSegment.endsAt = media.endsAt
+                } else {
+                  segments.push(media)
+                }
+              })
+
+              segments.forEach(segment => {
+                items.push({
+                  ...item,
+                  segments,
+                  beginsAt: segment.beginsAt,
+                  endsAt: segment.endsAt
+                })
+              })
+            })
+
+            return items.sort(byTime)
+
+            function byTime(a, b) {
+              if (a.beginsAt > b.beginsAt) return 1
+              if (a.beginsAt < b.beginsAt) return -1
+              return 0
+            }
+          }
+
+          function parseStart(item) {
+            return item.beginsAt ? dayjs.unix(item.beginsAt) : null
+          }
+
+          function parseStop(item) {
+            return item.endsAt ? dayjs.unix(item.endsAt) : null
+          }
+
+          function classifyProgramType({ item, episodeTitle, seasonNumber, episodeNumber, airDate, releaseYear }) {
+            const genres = Array.isArray(item.Genre) ? item.Genre.map(g => g.tag).join(' ') : ''
+
+            const haystack = [
+              item.type,
+              item.subtype,
+              item.librarySectionTitle,
+              item.contentRating,
+              genres
+            ]
+              .filter(Boolean)
+              .join(' ')
+              .toLowerCase()
+
+            const hasEpisodeSignals = Boolean(
+              episodeTitle ||
+              seasonNumber ||
+              episodeNumber ||
+              item.grandparentTitle ||
+              item.parentTitle ||
+              item.parentIndex ||
+              item.index
+            )
+
+            if (/mini[\s-]?series|limited series|limited-series/.test(haystack)) return 'miniseries'
+            if (/series|episode|show|tv/.test(haystack)) return 'series'
+            if (hasEpisodeSignals) return 'series'
+            if (/movie|film|cinema/.test(haystack)) return 'movie'
+
+            const durationMinutes = getDurationMinutes(item)
+            if (durationMinutes >= 75 && (releaseYear || airDate) && !hasEpisodeSignals) return 'movie'
+
+            return 'program'
+          }
+
+          function getDurationMinutes(item) {
+            const start = Number(item.beginsAt || 0)
+            const end = Number(item.endsAt || 0)
+            if (!start || !end || end <= start) return 0
+            return Math.round((end - start) / 60)
+          }
+
+          function buildCategories(programType, item) {
+            const existing = Array.isArray(item.Genre) ? item.Genre.map(g => g.tag).filter(Boolean) : []
+
+            if (existing.length) return existing
+            if (programType === 'movie') return ['Movie']
+            if (programType === 'miniseries') return ['Miniseries', 'Series']
+            if (programType === 'series') return ['Series']
+            return ['Program']
+          }
+
+          function shouldSuppressDisplayDate({ title, description, programType, item, airDate, date }) {
+            if (!airDate) return false
+
+            const genres = Array.isArray(item.Genre) ? item.Genre.map(g => g.tag).join(' ') : ''
+            const haystack = [
+              title,
+              description,
+              item?.type,
+              item?.subtype,
+              genres
+            ]
+              .filter(Boolean)
+              .join(' ')
+              .toLowerCase()
+
+            const liveOrCurrent = /\b(live|news|newscast|weather|sports|game|match|tournament|football|basketball|baseball|hockey|soccer|golf|tennis|racing|wwe|ufc|mma|boxing|pregame|postgame|post-game|pre-game)\b/.test(haystack)
+            if (!liveOrCurrent) return false
+
+            const parsedAirDate = parseDisplayDate(airDate)
+            if (!date || !date.isValid() || !parsedAirDate || !parsedAirDate.isValid()) return true
+
+            return Math.abs(date.diff(parsedAirDate, 'day')) <= 45
+          }
+
+          function buildPackedDescription({ programType, episodeTitle, episodeCode, description, airDate, releaseYear, suppressDisplayDate }) {
+            const parts = []
+
+            let prefix = ''
+            if (programType === 'series' || programType === 'miniseries') {
+              if (episodeTitle && episodeCode) prefix = `${episodeTitle} - ${episodeCode}`
+              else if (episodeTitle) prefix = episodeTitle
+              else if (episodeCode) prefix = episodeCode
+            }
+
+            if (prefix) parts.push(prefix)
+            if (description) parts.push(description)
+
+            let finalDescription = cleanPackedDescription(parts.join('. '))
+
+            if (programType === 'movie') {
+              if (releaseYear && !descriptionIncludesDisplayDate(finalDescription, releaseYear)) {
+                finalDescription = finalDescription ? `${finalDescription} (${releaseYear})` : `(${releaseYear})`
+              }
+              return finalDescription
+            }
+
+            if (programType === 'series' || programType === 'miniseries') {
+              if (airDate && !suppressDisplayDate && !descriptionIncludesDisplayDate(finalDescription, airDate)) {
+                finalDescription = finalDescription ? `${finalDescription} (${airDate})` : `(${airDate})`
+              }
+              return finalDescription
+            }
+
+            const dateOrYear = suppressDisplayDate ? releaseYear : (airDate || releaseYear)
+            if (dateOrYear && !descriptionIncludesDisplayDate(finalDescription, dateOrYear)) {
+              finalDescription = finalDescription ? `${finalDescription} (${dateOrYear})` : `(${dateOrYear})`
+            }
+
+            return finalDescription
+          }
+
+          function buildEpisodeCode(seasonNumber, episodeNumber) {
+            const s = String(seasonNumber || '').trim()
+            const e = String(episodeNumber || '').trim()
+
+            if (!s && !e) return ''
+            if (s && e) return `S${s}E${e}`
+            if (e) return `E${e}`
+            return `S${s}`
+          }
+
+          function cleanTitle(value) {
+            return String(value || '')
+              .replace(/\s+\((19|20)\d{2}\)\s*$/i, '')
+              .replace(/\s+/g, ' ')
+              .replace(/^\s*(New|Live|Repeat)\s*[:\-]\s*/i, '')
+              .replace(/\s*\((New|Live|Repeat)\)\s*$/i, '')
+              .replace(/\s*[-–—]\s*(New|Live|Repeat)\s*$/i, '')
+              .trim()
+          }
+
+          function cleanSpaces(value) {
+            return String(value || '')
+              .replace(/\s+/g, ' ')
+              .replace(/\s+([.,!?;:])/g, '$1')
+              .replace(/([.,!?;:])([A-Za-z0-9])/g, '$1 $2')
+              .trim()
+          }
+
+          function cleanPackedDescription(value) {
+            return cleanSpaces(value)
+              .replace(/\s+Aired\s+(\d{1,2}\/\d{1,2}\/\d{4})\.?\s*$/i, ' ($1)')
+              .replace(/\s+\((\d{1,2}\/\d{1,2}\/\d{4}|\d{4})\)\s*\((\d{1,2}\/\d{1,2}\/\d{4}|\d{4})\)\s*$/g, ' ($2)')
+              .trim()
+          }
+
+          function descriptionIncludesDisplayDate(description, dateOrYear) {
+            if (!description || !dateOrYear) return false
+            const escaped = String(dateOrYear).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+            return new RegExp(`\\(${escaped}\\)\\s*$`).test(description) || description.includes(String(dateOrYear))
+          }
+
+          function formatPlexDate(value) {
+            const raw = String(value || '').trim()
+            if (!raw) return ''
+
+            const parsed = dayjs(raw)
+            if (!parsed.isValid()) return ''
+
+            return parsed.format('MM/DD/YYYY')
+          }
+
+          function parseDisplayDate(value) {
+            const raw = String(value || '').trim()
+            const m = raw.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/)
+            if (!m) return dayjs(raw)
+            return dayjs(`${m[3]}-${m[1].padStart(2, '0')}-${m[2].padStart(2, '0')}`)
+          }
+          EOF
+
+      - name: Validate Plex channel source
+        run: |
+          if [ ! -f guides/plex.xml ]; then
+            echo "Missing guides/plex.xml"
+            exit 1
+          fi
+
+          CH=$(grep -c '<channel ' guides/plex.xml || true)
+          echo "Plex curated channels: $CH"
+
+          if [ "$CH" -lt 1 ]; then
+            echo "Invalid guides/plex.xml - no curated channels"
+            exit 1
+          fi
+
+      - name: Grab Plex guide with schedule recovery
+        run: |
+          cd epg
+
+          rm -f ../guides/Plex.xml
+          rm -f ../guides/Plex.pass*.xml
+          rm -f ../guides/Plex.pass*.log
+          rm -f ../guides/Plex.pass*.count
+
+          run_pass() {
+            PASS_NAME="$1"
+            MAX_CONNECTIONS="$2"
+
+            echo ""
+            echo "============================================================"
+            echo "Starting Plex $PASS_NAME"
+            echo "maxConnections=$MAX_CONNECTIONS"
+            echo "days=17"
+            echo "source=plex.tv"
+            echo "============================================================"
+
+            set +e
+            npx tsx scripts/commands/epg/grab.ts \
+              --channels=../guides/plex.xml \
+              --output="../guides/Plex.${PASS_NAME}.xml" \
+              --days=17 \
+              --maxConnections="$MAX_CONNECTIONS" \
+              2>&1 | tee "../guides/Plex.${PASS_NAME}.log"
+
+            STATUS=${PIPESTATUS[0]}
+            set -e
+
+            if [ "$STATUS" -ne 0 ]; then
+              echo "Plex $PASS_NAME exited with status $STATUS"
+            fi
+
+            if [ ! -f "../guides/Plex.${PASS_NAME}.xml" ]; then
+              echo "Plex $PASS_NAME did not create an XML file"
+              echo "0" > "../guides/Plex.${PASS_NAME}.programmes.count"
+              echo "0" > "../guides/Plex.${PASS_NAME}.descriptions.count"
+              echo "999999" > "../guides/Plex.${PASS_NAME}.issues.count"
+              return 0
+            fi
+
+            PR=$(grep -c '<programme ' "../guides/Plex.${PASS_NAME}.xml" || true)
+            DESC=$(grep -c '<desc ' "../guides/Plex.${PASS_NAME}.xml" || true)
+
+            ISSUE_COUNT=$(grep -Eic 'ERR:|timeout|programs=0|\(0 programs\)|ECONNABORTED|ETIMEDOUT|ECONNRESET|ENOTFOUND|EAI_AGAIN| 408 | 429 | 500 | 502 | 503 | 504 ' "../guides/Plex.${PASS_NAME}.log" || true)
+
+            if [ "$PR" -lt 1 ]; then
+              ISSUE_COUNT=$((ISSUE_COUNT + 1000))
+            fi
+
+            echo "$PR" > "../guides/Plex.${PASS_NAME}.programmes.count"
+            echo "$DESC" > "../guides/Plex.${PASS_NAME}.descriptions.count"
+            echo "$ISSUE_COUNT" > "../guides/Plex.${PASS_NAME}.issues.count"
+
+            echo "Plex $PASS_NAME programmes: $PR"
+            echo "Plex $PASS_NAME descriptions: $DESC"
+            echo "Plex $PASS_NAME possible issues: $ISSUE_COUNT"
+          }
+
+          run_pass "pass1-fast" 5
+
+          PASS1_ISSUES=$(cat ../guides/Plex.pass1-fast.issues.count)
+
+          if [ "$PASS1_ISSUES" -gt 0 ]; then
+            echo ""
+            echo "Plex fast pass had possible issues, running backup pass..."
+            run_pass "pass2-backup" 2
+          else
+            echo ""
+            echo "Plex fast pass had no obvious issues. Skipping backup pass."
+          fi
+
+          BEST_PASS="pass1-fast"
+          BEST_PR=$(cat ../guides/Plex.pass1-fast.programmes.count)
+          BEST_DESC=$(cat ../guides/Plex.pass1-fast.descriptions.count)
+          BEST_ISSUES=$(cat ../guides/Plex.pass1-fast.issues.count)
+
+          for PASS in pass2-backup; do
+            if [ -f "../guides/Plex.${PASS}.programmes.count" ]; then
+              CANDIDATE_PR=$(cat "../guides/Plex.${PASS}.programmes.count")
+              CANDIDATE_DESC=$(cat "../guides/Plex.${PASS}.descriptions.count")
+              CANDIDATE_ISSUES=$(cat "../guides/Plex.${PASS}.issues.count")
+
+              if [ "$CANDIDATE_PR" -gt "$BEST_PR" ]; then
+                BEST_PASS="$PASS"
+                BEST_PR="$CANDIDATE_PR"
+                BEST_DESC="$CANDIDATE_DESC"
+                BEST_ISSUES="$CANDIDATE_ISSUES"
+              elif [ "$CANDIDATE_PR" -eq "$BEST_PR" ] && [ "$CANDIDATE_DESC" -gt "$BEST_DESC" ]; then
+                BEST_PASS="$PASS"
+                BEST_PR="$CANDIDATE_PR"
+                BEST_DESC="$CANDIDATE_DESC"
+                BEST_ISSUES="$CANDIDATE_ISSUES"
+              elif [ "$CANDIDATE_PR" -eq "$BEST_PR" ] && [ "$CANDIDATE_DESC" -eq "$BEST_DESC" ] && [ "$CANDIDATE_ISSUES" -lt "$BEST_ISSUES" ]; then
+                BEST_PASS="$PASS"
+                BEST_PR="$CANDIDATE_PR"
+                BEST_DESC="$CANDIDATE_DESC"
+                BEST_ISSUES="$CANDIDATE_ISSUES"
+              fi
+            fi
+          done
+
+          echo ""
+          echo "============================================================"
+          echo "Selected best Plex pass: $BEST_PASS"
+          echo "Best Plex programmes: $BEST_PR"
+          echo "Best Plex descriptions: $BEST_DESC"
+          echo "Best Plex possible issues: $BEST_ISSUES"
+          echo "============================================================"
+
+          cp "../guides/Plex.${BEST_PASS}.xml" "../guides/Plex.xml"
+
+          echo ""
+          echo "Pass summary:"
+          for PASS in pass1-fast pass2-backup; do
+            if [ -f "../guides/Plex.${PASS}.programmes.count" ]; then
+              echo "$PASS:"
+              echo "  programmes:   $(cat ../guides/Plex.${PASS}.programmes.count)"
+              echo "  descriptions: $(cat ../guides/Plex.${PASS}.descriptions.count)"
+              echo "  issues:       $(cat ../guides/Plex.${PASS}.issues.count)"
+            fi
+          done
+
+          cd ..
+
+      - name: Fill missing Plex metadata from TVMaze
+        run: |
+          node <<'EOF'
+          const fs = require('fs')
+
+          const guidePath = 'guides/Plex.xml'
+          const cachePath = 'guides/.tvmaze-plex-cache.json'
+
+          if (!fs.existsSync(guidePath)) {
+            console.error(`Missing ${guidePath}`)
+            process.exit(1)
+          }
+
+          const xml = fs.readFileSync(guidePath, 'utf8')
+          let cache = {}
+
+          if (fs.existsSync(cachePath)) {
+            try {
+              cache = JSON.parse(fs.readFileSync(cachePath, 'utf8'))
+            } catch {
+              cache = {}
+            }
+          }
+
+          const stats = {
+            programmes: 0,
+            skippedMovies: 0,
+            searchedShows: 0,
+            matchedShows: 0,
+            enriched: 0,
+            addedCategories: 0,
+            addedSubtitles: 0,
+            addedEpisodeNums: 0,
+            addedDates: 0,
+            addedDescriptions: 0
+          }
+
+          function sleep(ms) {
+            return new Promise(resolve => setTimeout(resolve, ms))
+          }
+
+          function escapeXml(s) {
+            return String(s || '')
+              .replace(/&/g, '&amp;')
+              .replace(/"/g, '&quot;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;')
+          }
+
+          function decodeXml(s) {
+            return String(s || '')
+              .replace(/&amp;/g, '&')
+              .replace(/&quot;/g, '"')
+              .replace(/&apos;/g, "'")
+              .replace(/&lt;/g, '<')
+              .replace(/&gt;/g, '>')
+          }
+
+          function stripTags(s) {
+            return decodeXml(String(s || '').replace(/<[^>]+>/g, '').trim())
+          }
+
+          function getTag(block, tag) {
+            const m = block.match(new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'))
+            return m ? stripTags(m[1]) : ''
+          }
+
+          function getTags(block, tag) {
+            return [...block.matchAll(new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'gi'))]
+              .map(m => stripTags(m[1]))
+              .filter(Boolean)
+          }
+
+          function hasTag(block, tag) {
+            return new RegExp(`<${tag}\\b`, 'i').test(block)
+          }
+
+          function hasCategory(block, category) {
+            return getTags(block, 'category').some(c => c.toLowerCase() === category.toLowerCase())
+          }
+
+          function hasAnyCategory(block) {
+            return hasTag(block, 'category')
+          }
+
+          function getStartDate(block) {
+            const m = block.match(/start="(\d{8})/i)
+            if (!m) return ''
+            return `${m[1].slice(0, 4)}-${m[1].slice(4, 6)}-${m[1].slice(6, 8)}`
+          }
+
+          function cleanTitleForSearch(title) {
+            return String(title || '')
+              .replace(/\s+/g, ' ')
+              .replace(/^\s*(New|Live|Repeat)\s*[:\-]\s*/i, '')
+              .replace(/\s*\((New|Live|Repeat)\)\s*$/i, '')
+              .replace(/\s*[-–—]\s*(New|Live|Repeat)\s*$/i, '')
+              .trim()
+          }
+
+          function isMovie(block) {
+            if (hasCategory(block, 'Movie')) return true
+            if (hasCategory(block, 'Film')) return true
+            return false
+          }
+
+          function needsTvmaze(block) {
+            if (!hasAnyCategory(block)) return true
+
+            const desc = getTag(block, 'desc')
+            if (!desc) return true
+
+            const hasPackedDisplayDate = /\((\d{1,2}\/\d{1,2}\/\d{4}|\d{4})\)\s*$/.test(desc)
+            if (!hasPackedDisplayDate) return true
+
+            return false
+          }
+
+          function tvmazeShowIsMovieLike(show) {
+            const type = String(show?.type || '').toLowerCase()
+            return type === 'movie' || type === 'film'
+          }
+
+          function tvmazeShowIsMiniseries(show) {
+            const type = String(show?.type || '').toLowerCase()
+            const name = String(show?.name || '').toLowerCase()
+            const summary = String(show?.summary || '').toLowerCase()
+
+            return (
+              type.includes('mini') ||
+              type.includes('limited') ||
+              name.includes('miniseries') ||
+              summary.includes('miniseries') ||
+              summary.includes('limited series')
+            )
+          }
+
+          function normalize(s) {
+            return String(s || '')
+              .toLowerCase()
+              .replace(/&/g, 'and')
+              .replace(/[^a-z0-9]+/g, ' ')
+              .trim()
+          }
+
+          function scoreShow(title, show) {
+            const a = normalize(title)
+            const b = normalize(show?.name || '')
+            if (!a || !b) return 0
+            if (a === b) return 100
+            if (a.includes(b) || b.includes(a)) return 80
+            return 0
+          }
+
+          async function tvmazeSearchShow(title) {
+            const key = `show:${normalize(title)}`
+            if (Object.prototype.hasOwnProperty.call(cache, key)) return cache[key]
+
+            const url = `https://api.tvmaze.com/search/shows?q=${encodeURIComponent(title)}`
+            const result = await fetchJsonWithRetries(url, `search ${title}`)
+            const candidates = Array.isArray(result) ? result.map(x => x.show).filter(Boolean) : []
+
+            let best = null
+            let bestScore = 0
+
+            for (const show of candidates) {
+              if (tvmazeShowIsMovieLike(show)) continue
+
+              const score = scoreShow(title, show)
+              if (score > bestScore) {
+                best = show
+                bestScore = score
+              }
+            }
+
+            if (bestScore < 80) best = null
+
+            cache[key] = best
+            await sleep(250)
+            return best
+          }
+
+          async function tvmazeEpisodes(showId) {
+            const key = `episodes:${showId}`
+            if (Object.prototype.hasOwnProperty.call(cache, key)) return cache[key]
+
+            const url = `https://api.tvmaze.com/shows/${showId}/episodes`
+            const episodes = await fetchJsonWithRetries(url, `episodes ${showId}`)
+            cache[key] = Array.isArray(episodes) ? episodes : []
+            await sleep(250)
+            return cache[key]
+          }
+
+          async function fetchJsonWithRetries(url, label) {
+            const attempts = 4
+
+            for (let attempt = 1; attempt <= attempts; attempt++) {
+              try {
+                const response = await fetch(url, {
+                  headers: {
+                    'User-Agent': 'festy-epg-tvmaze-plex-fill-missing-only/1.0'
+                  }
+                })
+
+                if (response.status === 404) return null
+                if (response.status === 429 || response.status >= 500) {
+                  throw new Error(`HTTP ${response.status}`)
+                }
+
+                if (!response.ok) return null
+
+                return await response.json()
+              } catch (err) {
+                if (attempt === attempts) {
+                  console.log(`[TVMAZE FAIL] ${label} | ${err.message}`)
+                  return null
+                }
+
+                const delay = 1000 * attempt + Math.floor(Math.random() * 500)
+                console.log(`[TVMAZE RETRY] ${label} | ${err.message} | attempt=${attempt}/${attempts}`)
+                await sleep(delay)
+              }
+            }
+
+            return null
+          }
+
+          function findEpisodeForProgramme(episodes, block) {
+            const scheduleDate = getStartDate(block)
+            const subtitle = getTag(block, 'sub-title')
+            const desc = getTag(block, 'desc')
+
+            const codeMatch = desc.match(/\bS(\d+)E(\d+)\b/i)
+            if (codeMatch) {
+              const season = Number(codeMatch[1])
+              const number = Number(codeMatch[2])
+              const byCode = episodes.find(ep => Number(ep.season) === season && Number(ep.number) === number)
+              if (byCode) return byCode
+            }
+
+            if (subtitle) {
+              const subNorm = normalize(subtitle)
+              const byName = episodes.find(ep => normalize(ep.name) === subNorm)
+              if (byName) return byName
+            }
+
+            const packedTitle = getPackedEpisodeTitleFromDesc(desc)
+            if (packedTitle) {
+              const packedNorm = normalize(packedTitle)
+              const byPackedTitle = episodes.find(ep => normalize(ep.name) === packedNorm)
+              if (byPackedTitle) return byPackedTitle
+            }
+
+            if (scheduleDate) {
+              const exact = episodes.find(ep => ep.airdate === scheduleDate)
+              if (exact) return exact
+            }
+
+            return null
+          }
+
+          function getPackedEpisodeTitleFromDesc(desc) {
+            const cleaned = cleanPackedTvmazeDescription(desc)
+              .replace(/\s*\((\d{1,2}\/\d{1,2}\/\d{4}|\d{4})\)\s*$/, '')
+              .trim()
+            if (!cleaned) return ''
+
+            const firstSentence = cleaned.match(/^(.+?)(?:\.\s+|$)/)
+            const first = firstSentence ? firstSentence[1].trim() : ''
+            if (!first) return ''
+
+            const prefixMatch = first.match(/^(.+?)\s+-\s+(S\d+E\d+|S\d+|E\d+)$/i)
+            if (prefixMatch) return prefixMatch[1].trim()
+
+            if (/^S\d+E\d+$/i.test(first)) return ''
+            if (first.length > 80) return ''
+            return first
+          }
+
+          function cleanTvmazeSummary(value) {
+            return decodeXml(String(value || '')
+              .replace(/<[^>]+>/g, ' ')
+              .replace(/\s+/g, ' ')
+              .trim())
+          }
+
+          function formatDateDisplay(date) {
+            if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) return ''
+            return `${date.slice(5, 7)}/${date.slice(8, 10)}/${date.slice(0, 4)}`
+          }
+
+          function buildTvmazeEpisodeCode(season, episode) {
+            const s = Number(season)
+            const e = Number(episode)
+            if (!Number.isFinite(s) || !Number.isFinite(e) || s < 1 || e < 1) return ''
+            return `S${s}E${e}`
+          }
+
+          function descHasEpisodeName(desc, episodeName) {
+            if (!desc || !episodeName) return false
+            const descNorm = normalize(desc)
+            const nameNorm = normalize(episodeName)
+            return Boolean(nameNorm && descNorm.includes(nameNorm))
+          }
+
+          function descHasEpisodeCode(desc, season, episode) {
+            const code = buildTvmazeEpisodeCode(season, episode)
+            if (!desc || !code) return false
+            return new RegExp(`\\b${code}\\b`, 'i').test(desc)
+          }
+
+          function descHasDisplayDate(desc, airdate) {
+            const displayDate = formatDateDisplay(airdate)
+            if (!desc || !displayDate) return false
+            return desc.includes(`(${displayDate})`) || desc.includes(displayDate)
+          }
+
+          function shouldSuppressTvmazeDisplayDate(block, airdate) {
+            if (!airdate) return false
+
+            const title = getTag(block, 'title')
+            const desc = getTag(block, 'desc')
+            const categories = getTags(block, 'category')
+            const haystack = [title, desc, categories]
+              .flat()
+              .filter(Boolean)
+              .join(' ')
+              .toLowerCase()
+
+            const liveOrCurrent = /\b(live|news|newscast|weather|sports|sporting|game|match|tournament|football|basketball|baseball|hockey|soccer|golf|tennis|racing|wwe|ufc|mma|boxing|pregame|postgame|post-game|pre-game|paid programming|infomercial)\b/.test(haystack)
+            if (!liveOrCurrent) return false
+
+            const scheduleDateText = getStartDate(block)
+            if (!scheduleDateText || !/^\d{4}-\d{2}-\d{2}$/.test(scheduleDateText) || !/^\d{4}-\d{2}-\d{2}$/.test(airdate)) return true
+
+            const scheduleDate = new Date(`${scheduleDateText}T00:00:00Z`)
+            const parsedAirDate = new Date(`${airdate}T00:00:00Z`)
+
+            if (Number.isNaN(scheduleDate.getTime()) || Number.isNaN(parsedAirDate.getTime())) return true
+
+            return Math.abs(scheduleDate.getTime() - parsedAirDate.getTime()) / 86400000 <= 45
+          }
+
+          function cleanPackedTvmazeDescription(value) {
+            return String(value || '')
+              .replace(/\s+/g, ' ')
+              .replace(/\s+([.,!?;:])/g, '$1')
+              .replace(/([.,!?;:])([A-Za-z0-9])/g, '$1 $2')
+              .replace(/\s+Aired\s+(\d{1,2}\/\d{1,2}\/\d{4})\.?\s*$/i, ' ($1)')
+              .replace(/\s+\((\d{1,2}\/\d{1,2}\/\d{4}|\d{4})\)\s*\((\d{1,2}\/\d{1,2}\/\d{4}|\d{4})\)\s*$/g, ' ($2)')
+              .trim()
+          }
+
+          function splitTrailingDisplayDate(desc) {
+            const cleaned = cleanPackedTvmazeDescription(desc)
+            const match = cleaned.match(/\s*\((\d{1,2}\/\d{1,2}\/\d{4}|\d{4})\)\s*$/)
+            if (!match) return { body: cleaned, dateText: '' }
+            return {
+              body: cleaned.slice(0, match.index).trim(),
+              dateText: match[1]
+            }
+          }
+
+          function parsePackedDescription(desc) {
+            const split = splitTrailingDisplayDate(desc)
+            const withoutDate = split.body
+            const firstSentence = withoutDate.match(/^(.+?)(?:\.\s+|$)/)
+            const first = firstSentence ? firstSentence[1].trim() : ''
+            const rest = firstSentence && firstSentence[0].length < withoutDate.length
+              ? withoutDate.slice(firstSentence[0].length).trim()
+              : ''
+
+            const prefixMatch = first.match(/^(.+?)\s+-\s+(S\d+E\d+|S\d+|E\d+)$/i)
+            if (prefixMatch) {
+              return {
+                episodeTitle: prefixMatch[1].trim(),
+                episodeCode: prefixMatch[2].toUpperCase(),
+                body: rest,
+                dateText: split.dateText,
+                hadPrefix: true
+              }
+            }
+
+            const codeOnlyMatch = first.match(/^(S\d+E\d+|S\d+|E\d+)$/i)
+            if (codeOnlyMatch) {
+              return {
+                episodeTitle: '',
+                episodeCode: codeOnlyMatch[1].toUpperCase(),
+                body: rest,
+                dateText: split.dateText,
+                hadPrefix: true
+              }
+            }
+
+            return {
+              episodeTitle: '',
+              episodeCode: '',
+              body: withoutDate,
+              dateText: split.dateText,
+              hadPrefix: false
+            }
+          }
+
+          function buildTvmazePackedDescription(existingDesc, show, episode, block) {
+            const existing = cleanPackedTvmazeDescription(existingDesc)
+            const parsed = parsePackedDescription(existing)
+
+            const episodeName = cleanTvmazeSummary(episode?.name || '')
+            const episodeCode = buildTvmazeEpisodeCode(episode?.season, episode?.number)
+            const episodeSummary = cleanTvmazeSummary(episode?.summary || '')
+            const showSummary = cleanTvmazeSummary(show?.summary || '')
+            const displayDate = formatDateDisplay(episode?.airdate)
+
+            let titlePart = parsed.episodeTitle
+            let codePart = parsed.episodeCode
+            let bodyPart = parsed.body
+            let datePart = parsed.dateText
+
+            const packedTitle = getPackedEpisodeTitleFromDesc(existing)
+            if (!titlePart && episodeName && packedTitle && normalize(packedTitle) === normalize(episodeName)) {
+              titlePart = packedTitle
+              const firstSentence = bodyPart.match(/^(.+?)(?:\.\s+|$)/)
+              if (firstSentence) bodyPart = bodyPart.slice(firstSentence[0].length).trim()
+            }
+
+            if (!titlePart && episodeName && !descHasEpisodeName(existing, episodeName)) {
+              titlePart = episodeName
+            }
+
+            if (!codePart && episodeCode && !descHasEpisodeCode(existing, episode?.season, episode?.number)) {
+              codePart = episodeCode
+            }
+
+            if (!bodyPart || bodyPart === titlePart || bodyPart === codePart || bodyPart === `${titlePart} - ${codePart}`) {
+              bodyPart = episodeSummary || showSummary || ''
+            }
+
+            if (!datePart && displayDate && !shouldSuppressTvmazeDisplayDate(block, episode?.airdate) && !descHasDisplayDate(existing, episode?.airdate)) {
+              datePart = displayDate
+            }
+
+            const parts = []
+            if (titlePart && codePart) parts.push(`${titlePart} - ${codePart}`)
+            else if (titlePart) parts.push(titlePart)
+            else if (codePart) parts.push(codePart)
+
+            if (bodyPart) {
+              const bodyNorm = normalize(bodyPart)
+              const prefixNorm = normalize(parts[0] || '')
+              if (!prefixNorm || bodyNorm !== prefixNorm) parts.push(bodyPart)
+            }
+
+            let desc = cleanPackedTvmazeDescription(parts.join('. '))
+            if (datePart) desc = desc ? `${desc} (${datePart})` : `(${datePart})`
+            return cleanPackedTvmazeDescription(desc)
+          }
+
+          function replaceTag(block, tag, value) {
+            const escaped = escapeXml(value)
+            const tagXml = `  <${tag} lang="en">${escaped}</${tag}>`
+
+            if (hasTag(block, tag)) {
+              return block.replace(new RegExp(`<${tag}\\b[^>]*>[\\s\\S]*?<\\/${tag}>`, 'i'), tagXml.trim())
+            }
+
+            return insertBeforeProgrammeEnd(block, tagXml)
+          }
+
+          function insertBeforeProgrammeEnd(block, tagXml) {
+            return block.replace(/<\/programme>\s*$/i, `${tagXml}\n</programme>`)
+          }
+
+          function enrichBlockMissingOnly(block, show, episode) {
+            let updated = block
+            let changed = false
+
+            if (!hasAnyCategory(updated)) {
+              const category = tvmazeShowIsMiniseries(show) ? 'Miniseries' : 'Series'
+              updated = insertBeforeProgrammeEnd(updated, `  <category lang="en">${category}</category>`)
+              changed = true
+              stats.addedCategories++
+            }
+
+            const existingDesc = getTag(updated, 'desc')
+            const packedDesc = buildTvmazePackedDescription(existingDesc, show, episode, updated)
+
+            if (packedDesc && packedDesc !== existingDesc) {
+              updated = replaceTag(updated, 'desc', packedDesc)
+              changed = true
+              stats.addedDescriptions++
+            }
+
+            if (changed) stats.enriched++
+            return updated
+          }
+
+          async function main() {
+            const parts = xml.split(/(<programme\b[\s\S]*?<\/programme>)/gi)
+            const out = []
+
+            for (const part of parts) {
+              if (!/^<programme\b/i.test(part)) {
+                out.push(part)
+                continue
+              }
+
+              stats.programmes++
+
+              let block = part
+              const title = cleanTitleForSearch(getTag(block, 'title'))
+
+              if (!title) {
+                out.push(block)
+                continue
+              }
+
+              if (isMovie(block)) {
+                stats.skippedMovies++
+                out.push(block)
+                continue
+              }
+
+              if (!needsTvmaze(block)) {
+                out.push(block)
+                continue
+              }
+
+              stats.searchedShows++
+              const show = await tvmazeSearchShow(title)
+
+              if (!show) {
+                out.push(block)
+                continue
+              }
+
+              if (tvmazeShowIsMovieLike(show)) {
+                stats.skippedMovies++
+                out.push(block)
+                continue
+              }
+
+              stats.matchedShows++
+
+              const episodes = await tvmazeEpisodes(show.id)
+              const episode = findEpisodeForProgramme(episodes, block)
+
+              block = enrichBlockMissingOnly(block, show, episode)
+              out.push(block)
+            }
+
+            fs.writeFileSync(guidePath, out.join(''))
+            fs.writeFileSync(cachePath, JSON.stringify(cache, null, 2))
+
+            console.log('[TVMAZE] missing-only Plex enrichment complete')
+            console.log(`[TVMAZE] programmes scanned: ${stats.programmes}`)
+            console.log(`[TVMAZE] movies skipped: ${stats.skippedMovies}`)
+            console.log(`[TVMAZE] shows searched: ${stats.searchedShows}`)
+            console.log(`[TVMAZE] shows matched: ${stats.matchedShows}`)
+            console.log(`[TVMAZE] programmes enriched: ${stats.enriched}`)
+            console.log(`[TVMAZE] categories added: ${stats.addedCategories}`)
+            console.log(`[TVMAZE] subtitles added: ${stats.addedSubtitles}`)
+            console.log(`[TVMAZE] episode nums added: ${stats.addedEpisodeNums}`)
+            console.log(`[TVMAZE] dates added: ${stats.addedDates}`)
+            console.log(`[TVMAZE] descriptions added: ${stats.addedDescriptions}`)
+          }
+
+          main().catch(err => {
+            console.error(err)
+            process.exit(1)
+          })
+          EOF
+
+      - name: Preserve curated Plex channel logos
+        run: |
+          node <<'EOF'
+          const fs = require('fs')
+
+          const sourcePath = 'config/Plex Curated.xml'
+          const guidePath = 'guides/Plex.xml'
+
+          function decodeXml(s) {
+            return String(s || '')
+              .replace(/&amp;/g, '&')
+              .replace(/&quot;/g, '"')
+              .replace(/&apos;/g, "'")
+              .replace(/&lt;/g, '<')
+              .replace(/&gt;/g, '>')
+          }
+
+          function escapeXml(s) {
+            return String(s || '')
+              .replace(/&/g, '&amp;')
+              .replace(/"/g, '&quot;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;')
+          }
+
+          function attr(attrs, name) {
+            const m = attrs.match(new RegExp(`${name}="([^"]*)"`, 'i'))
+            return m ? decodeXml(m[1]).trim() : ''
+          }
+
+          if (!fs.existsSync(sourcePath) || !fs.existsSync(guidePath)) {
+            console.log('Curated logo pass skipped: source or generated guide is missing')
+            process.exit(0)
+          }
+
+          const source = fs.readFileSync(sourcePath, 'utf8')
+          let guide = fs.readFileSync(guidePath, 'utf8')
+          const logos = new Map()
+
+          for (const match of source.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+            const attrs = match[1]
+            const body = match[2]
+            const id = attr(attrs, 'xmltv_id') || attr(attrs, 'id')
+            const icon = body.match(/<icon\b[^>]*\bsrc="([^"]+)"[^>]*\/?\s*>/i)
+            if (id && icon) logos.set(id, decodeXml(icon[1]).trim())
+          }
+
+          let added = 0
+          let updated = 0
+          let missing = 0
+
+          guide = guide.replace(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi, block => {
+            const attrs = block.match(/^<channel\b([^>]*)>/i)?.[1] || ''
+            const id = attr(attrs, 'id')
+            const logo = logos.get(id)
+            if (!logo) return block
+
+            if (/<icon\b[^>]*\bsrc=/i.test(block)) {
+              const next = block.replace(/<icon\b[^>]*\bsrc="[^"]*"[^/]*\/>/i, `<icon src="${escapeXml(logo)}"/>`)
+              if (next !== block) updated++
+              return next
+            }
+
+            added++
+            return block.replace(/(<display-name\b[^>]*>[\s\S]*?<\/display-name>)/i, `$1\n    <icon src="${escapeXml(logo)}"/>`)
+          })
+
+          fs.writeFileSync(guidePath, guide)
+          console.log(`Curated Plex logos found: ${logos.size}`)
+          console.log(`Plex logos added: ${added}`)
+          console.log(`Plex logos updated: ${updated}`)
+          EOF
+
+      - name: Validate Plex output
+        run: |
+          CH=$(grep -c '<channel ' guides/Plex.xml || true)
+          PR=$(grep -c '<programme ' guides/Plex.xml || true)
+          DESC=$(grep -c '<desc ' guides/Plex.xml || true)
+
+          echo "Plex channels: $CH"
+          echo "Plex programmes: $PR"
+          echo "Plex descriptions: $DESC"
+
+          SOURCE_CH=$(grep -c '<channel ' guides/plex.xml || true)
+
+          if [ "$CH" -lt 1 ] || [ "$CH" -ne "$SOURCE_CH" ]; then
+            echo "Invalid Plex output - expected $SOURCE_CH channels, got $CH"
+            exit 1
+          fi
+
+          if [ "$PR" -lt 40 ]; then
+            echo "Invalid Plex output - expected at least 40 programmes, got $PR"
+            exit 1
+          fi
+
+          if [ "$DESC" -lt 1 ]; then
+            echo "Invalid Plex output - no programme descriptions"
+            exit 1
+          fi
+
+      - name: Validate overlap with previous Plex guide
+        run: |
+          if [ ! -f guides/Plex.xml.gz ]; then
+            echo "No previous compressed Plex guide; skipping overlap check on first build"
+            exit 0
+          fi
+
+          python3 <<'PYEOF'
+          import gzip
+          import re
+          import sys
+          from pathlib import Path
+
+          old_path = Path('guides/Plex.xml.gz')
+          new_path = Path('guides/Plex.xml')
+
+          def programme_keys(xml):
+              keys = set()
+              for block in re.findall(r'<programme\b([^>]*)>', xml, flags=re.I):
+                  attrs = dict(re.findall(r'([\w:-]+)="([^"]*)"', block))
+                  channel = attrs.get('channel', '')
+                  start = attrs.get('start', '')
+                  stop = attrs.get('stop', '')
+                  if channel and start and stop:
+                      keys.add((channel, start, stop))
+              return keys
+
+          try:
+              old_xml = gzip.decompress(old_path.read_bytes()).decode('utf-8', errors='replace')
+              new_xml = new_path.read_text(encoding='utf-8', errors='replace')
+              old_keys = programme_keys(old_xml)
+              new_keys = programme_keys(new_xml)
+          except Exception as exc:
+              print(f'Could not safely compare previous Plex guide: {exc}', file=sys.stderr)
+              sys.exit(1)
+
+          if not old_keys:
+              print('Previous guide had no parseable programme keys; refusing to replace it')
+              sys.exit(1)
+          if not new_keys:
+              print('New guide has no parseable programme keys; refusing to publish')
+              sys.exit(1)
+
+          overlap = len(old_keys & new_keys)
+          denominator = min(len(old_keys), len(new_keys))
+          ratio = overlap / denominator if denominator else 0
+          print(f'Previous programme keys: {len(old_keys)}')
+          print(f'New programme keys: {len(new_keys)}')
+          print(f'Overlapping programme keys: {overlap} ({ratio:.1%} of smaller guide)')
+
+          if ratio < 0.50:
+              print('Refusing to publish: less than 50% programme overlap with the previous Plex guide', file=sys.stderr)
+              sys.exit(1)
+          PYEOF
+
+      - name: Compress Plex guide
+        run: |
+          gzip -c guides/Plex.xml > guides/Plex.xml.gz
+
+      - name: Commit and push Plex guide safely
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+
+          # Preserve compressed guides created by the other workflows.
+          # This workflow should only update its own XML/GZ output.
+          git checkout origin/main -- guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
+
+          git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/.tvmaze-plex-cache.json
+          git add guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No Plex guide changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update Plex guide"
+
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt $attempt"
+
+            if git push origin HEAD:main; then
+              echo "Push succeeded"
+              exit 0
+            fi
+
+            echo "Push failed, retrying after fresh fetch/rebase..."
+
+            git fetch origin main
+            git rebase origin/main
+
+            git checkout origin/main -- guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
+
+            git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/.tvmaze-plex-cache.json
+            git add guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
+
+            if git diff --cached --quiet; then
+              echo "No new commit needed after rebase, retrying push..."
+            else
+              git commit -m "Update Plex guide"
+            fi
+
+            sleep 5
+          done
+
+          echo "Push failed after retries"
+          exit 1
