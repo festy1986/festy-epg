@@ -1,4 +1,3 @@
-```yaml
 name: Plex Channel Discovery Test 2
 
 on:
@@ -203,4 +202,3 @@ jobs:
           path: plex-discovery-report-2/report.json
           if-no-files-found: warn
           retention-days: 7
-```
