@@ -137,26 +137,36 @@ jobs:
               continue
             }
 
-            // Explicit site_id wins if supplied; otherwise resolve it from the
-            // Plex catalog shipped with the EPG engine, matching channel names.
+            // Explicit site_id wins if supplied. MGM Presents: Horror is a
+            // known working Plex grid key from the previously successful
+            // 17-day MGM Horror workflow, but is absent from the current
+            // iptv-org catalog, so retain that verified key as an exception.
+            const knownGridKeys = new Map([
+              [norm('MGM Presents: Horror'), '6abd4e58a9d133322be5f940']
+            ])
             let siteId = attr(target.attrs, 'site_id') || attr(target.attrs, 'site-id')
             if (!siteId) {
               const targetName = norm(name)
-              let match = catalog.find(ch => norm(ch.name) === targetName)
-              if (!match) {
-                // A small fallback for punctuation and common catalog suffixes.
-                match = catalog.find(ch => {
-                  const candidate = norm(ch.name).replace(/\s+(hd|4k|uhd)$/, '')
-                  const wanted = targetName.replace(/\s+(hd|4k|uhd)$/, '')
-                  return candidate === wanted
-                })
+              if (knownGridKeys.has(targetName)) {
+                siteId = knownGridKeys.get(targetName)
+                console.log(`[PLEX KNOWN GRID KEY] ${name} -> ${siteId}`)
+              } else {
+                let match = catalog.find(ch => norm(ch.name) === targetName)
+                if (!match) {
+                  // A small fallback for punctuation and common catalog suffixes.
+                  match = catalog.find(ch => {
+                    const candidate = norm(ch.name).replace(/\s+(hd|4k|uhd)$/, '')
+                    const wanted = targetName.replace(/\s+(hd|4k|uhd)$/, '')
+                    return candidate === wanted
+                  })
+                }
+                siteId = match ? match.site_id : ''
+                if (!siteId) {
+                  errors.push(`${name}: could not match a Plex catalog channel by name (normalized: ${targetName})`)
+                  continue
+                }
+                console.log(`[PLEX CATALOG MATCH] ${name} -> ${match.name} | ${siteId}`)
               }
-              siteId = match ? match.site_id : ''
-              if (!siteId) {
-                errors.push(`${name}: could not match a Plex catalog channel by name (normalized: ${targetName})`)
-                continue
-              }
-              console.log(`[PLEX CATALOG MATCH] ${name} -> ${match.name} | ${siteId}`)
             }
 
             seenIds.add(xmltvId)
