@@ -641,6 +641,71 @@ jobs:
 
           cd ..
 
+      - name: Build Universal Monsters Xumo source from master catalog
+        run: |
+          node <<'EOF'
+          const fs = require('fs')
+          const sourcePath = 'guides/xumo-master-channels.xml'
+          const outputPath = 'guides/xumo-universal-monsters.xml'
+          const wantedSiteId = '50#99951264'
+          const wantedXmltvId = 'Xumo.universal-monsters'
+
+          if (!fs.existsSync(sourcePath)) {
+            console.error(`Missing Xumo master catalog: ${sourcePath}`)
+            process.exit(1)
+          }
+
+          const xml = fs.readFileSync(sourcePath, 'utf8')
+          const channels = [...xml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)]
+          const match = channels.find(m => {
+            const attrs = m[1]
+            const site = (attrs.match(/\bsite="([^"]*)"/i) || [])[1] || ''
+            const siteId = (attrs.match(/\bsite_id="([^"]*)"/i) || [])[1] || (attrs.match(/\bsite-id="([^"]*)"/i) || [])[1] || ''
+            return site === 'xumo.tv' && siteId === wantedSiteId
+          })
+
+          if (!match) {
+            console.error(`Could not find Universal Monsters in ${sourcePath} (site=xumo.tv, site_id=${wantedSiteId})`)
+            process.exit(1)
+          }
+
+          let attrs = match[1]
+          if (/\bxmltv_id="[^"]*"/i.test(attrs)) {
+            attrs = attrs.replace(/\bxmltv_id="[^"]*"/i, `xmltv_id="${wantedXmltvId}"`)
+          } else {
+            attrs += ` xmltv_id="${wantedXmltvId}"`
+          }
+
+          const channel = `<channel${attrs}>${match[2]}</channel>`
+          fs.writeFileSync(outputPath, `<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n${channel}\n</channels>\n`)
+          console.log(`Wrote ${outputPath} from ${sourcePath}: Universal Monsters -> ${wantedXmltvId}`)
+          EOF
+
+      - name: Scrape Universal Monsters from Xumo for 17 days
+        run: |
+          cd epg
+          rm -f ../guides/Xumo-UniversalMonsters.xml
+
+          npx tsx scripts/commands/epg/grab.ts \
+            --channels=../guides/xumo-universal-monsters.xml \
+            --output=../guides/Xumo-UniversalMonsters.xml \
+            --days=17 \
+            --maxConnections=1
+
+          cd ..
+
+          if [ ! -s guides/Xumo-UniversalMonsters.xml ]; then
+            echo "Xumo did not create an output file; the workflow will fail rather than silently publish a guide without Universal Monsters."
+            exit 1
+          fi
+
+          XUMO_PROGRAMMES=$(grep -c '<programme ' guides/Xumo-UniversalMonsters.xml || true)
+          echo "Xumo Universal Monsters programmes scraped: $XUMO_PROGRAMMES"
+          if [ "$XUMO_PROGRAMMES" -lt 1 ]; then
+            echo "Xumo returned no programmes; refusing to publish an incomplete merged guide."
+            exit 1
+          fi
+
       - name: Fill missing Plex metadata from TVMaze
         run: |
           node <<'EOF'
@@ -1286,6 +1351,214 @@ jobs:
           console.log(`Plex logos updated: ${updated}`)
           EOF
 
+      - name: Merge Xumo Universal Monsters into Plex guide
+        run: |
+          node <<'EOF'
+          const fs = require('fs')
+
+          const plexPath = 'guides/Plex.xml'
+          const xumoPath = 'guides/Xumo-UniversalMonsters.xml'
+          const channelId = 'Xumo.universal-monsters'
+
+          if (!fs.existsSync(plexPath)) {
+            console.error(`Missing ${plexPath}`)
+            process.exit(1)
+          }
+
+          if (!fs.existsSync(xumoPath)) {
+            console.log('Xumo output is missing; keeping the Plex guide unchanged')
+            process.exit(0)
+          }
+
+          let plex = fs.readFileSync(plexPath, 'utf8')
+          const xumo = fs.readFileSync(xumoPath, 'utf8')
+          const channelMatch = xumo.match(new RegExp(String.raw`<channel\b(?=[^>]*\bid="${channelId}")[^>]*>[\s\S]*?<\/channel>`, 'i'))
+          const programmeMatches = xumo.match(new RegExp(String.raw`<programme\b(?=[^>]*\bchannel="${channelId}")[^>]*>[\s\S]*?<\/programme>`, 'gi')) || []
+
+          if (!channelMatch || programmeMatches.length === 0) {
+            console.log(`Xumo returned no usable channel/programmes (programmes=${programmeMatches.length}); keeping the Plex guide unchanged`)
+            process.exit(0)
+          }
+
+          if (new RegExp(String.raw`<channel\b(?=[^>]*\bid="${channelId}")`, 'i').test(plex)) {
+            console.log('Universal Monsters is already present in Plex output; skipping duplicate merge')
+            process.exit(0)
+          }
+
+          const firstProgramme = plex.search(/<programme\b/i)
+          if (firstProgramme < 0) {
+            console.error('Plex XML has no programme section; refusing to merge Xumo')
+            process.exit(1)
+          }
+
+          plex = plex.slice(0, firstProgramme) + channelMatch[0] + '\n' + plex.slice(firstProgramme)
+          const closeTv = plex.lastIndexOf('</tv>')
+          if (closeTv < 0) {
+            console.error('Plex XML has no closing </tv> tag; refusing to merge Xumo')
+            process.exit(1)
+          }
+
+          plex = plex.slice(0, closeTv) + programmeMatches.join('\n') + '\n' + plex.slice(closeTv)
+          fs.writeFileSync(plexPath, plex)
+          console.log(`Merged Universal Monsters from Xumo: ${programmeMatches.length} programmes`)
+          EOF
+
+      - name: Clean movie titles, actor parentheticals, and known release years
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          node <<'EOF'
+          const fs = require('fs')
+          const guidePath = 'guides/Plex.xml'
+          let xml = fs.readFileSync(guidePath, 'utf8')
+
+          const yearOverrides = new Map([
+            ['dead man walking', 1995],
+            ['bull durham', 1988],
+            ['cadillac man', 1990]
+          ])
+
+          function decodeXml(s) {
+            return String(s || '')
+              .replace(/&amp;/g, '&').replace(/&quot;/g, '"')
+              .replace(/&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+          }
+          function escapeXml(s) {
+            return String(s || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;')
+              .replace(/</g, '&lt;').replace(/>/g, '&gt;')
+          }
+          function getTag(block, tag) {
+            const m = block.match(new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'))
+            return m ? decodeXml(m[1].replace(/<[^>]+>/g, '').trim()) : ''
+          }
+          function replaceTag(block, tag, value) {
+            const replacement = `  <${tag} lang="en">${escapeXml(value)}</${tag}>`
+            if (new RegExp(`<${tag}\\b`, 'i').test(block)) {
+              return block.replace(new RegExp(`<${tag}\\b[^>]*>[\\s\\S]*?<\\/${tag}>`, 'i'), replacement.trim())
+            }
+            return block.replace(/<\/programme>\s*$/i, `${replacement}\n</programme>`)
+          }
+          function normalize(s) {
+            return String(s || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
+              .toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()
+          }
+          function cleanTitle(title) {
+            return String(title || '')
+              .replace(/\s*\[(?:B\s*&\s*W\s+)?[^\]]*(?:cut|broadcast edit|broadcast edition)[^\]]*\]\s*/ig, ' ')
+              .replace(/\s*\[(?:broadcast edit|broadcast edition)\]\s*/ig, ' ')
+              .replace(/\s+(?:broadcast edit|broadcast edition)\s*$/ig, '')
+              .replace(/\s+\((?:19|20)\d{2}\)\s*$/i, '')
+              .replace(/\s+/g, ' ').trim()
+          }
+          function cleanDescription(desc) {
+            return String(desc || '')
+              // Remove cast names supplied as parentheticals, but retain years and ordinary lowercase phrases.
+              .replace(/\s*\(((?:[A-Z][A-Za-z'.’\-]+)(?:\s+[A-Z][A-Za-z'.’\-]+){1,3})\)\s*/g, ' ')
+              .replace(/\s+/g, ' ').replace(/\s+([.,!?;:])/g, '$1').trim()
+          }
+          function setTrailingYear(desc, year) {
+            if (!desc) return `(${year})`
+            if (/\(\d{4}\)\s*$/.test(desc)) return desc.replace(/\(\d{4}\)\s*$/, `(${year})`)
+            return `${desc} (${year})`
+          }
+
+          const stats = { programmes: 0, titlesCleaned: 0, descriptionsCleaned: 0, knownYearsCorrected: 0, tmdbYearCorrections: 0 }
+          const tmdbCache = new Map()
+          const blocks = xml.split(/(<programme\b[\s\S]*?<\/programme>)/gi)
+
+          async function tmdbYearFor(title) {
+            if (!process.env.TMDB_API_KEY) return null
+            const cacheKey = normalize(title)
+            if (tmdbCache.has(cacheKey)) return tmdbCache.get(cacheKey)
+            try {
+              const url = `https://api.themoviedb.org/3/search/movie?api_key=${encodeURIComponent(process.env.TMDB_API_KEY)}&query=${encodeURIComponent(title)}&include_adult=false&language=en-US&page=1`
+              const response = await fetch(url, { headers: { 'Accept': 'application/json' } })
+              if (!response.ok) return null
+              const data = await response.json()
+              const results = Array.isArray(data.results) ? data.results : []
+              const wanted = normalize(title)
+              const exact = results.find(item => normalize(item.title || item.original_title) === wanted)
+              const date = exact?.release_date || ''
+              const match = date.match(/^(19|20)\d{2}-\d{2}-\d{2}$/)
+              const year = match ? Number(date.slice(0, 4)) : null
+              tmdbCache.set(cacheKey, year)
+              return year
+            } catch (err) {
+              console.log(`[TMDB] Lookup failed for "${title}": ${err.message}`)
+              tmdbCache.set(cacheKey, null)
+              return null
+            }
+          }
+
+          async function main() {
+            for (let i = 0; i < blocks.length; i++) {
+              if (!/^<programme\b/i.test(blocks[i])) continue
+              stats.programmes++
+              let block = blocks[i]
+              const originalTitle = getTag(block, 'title')
+              const title = cleanTitle(originalTitle)
+              if (title && title !== originalTitle) {
+                block = replaceTag(block, 'title', title)
+                stats.titlesCleaned++
+              }
+
+              const originalDesc = getTag(block, 'desc')
+              const desc = cleanDescription(originalDesc)
+              if (desc !== originalDesc) {
+                block = replaceTag(block, 'desc', desc)
+                stats.descriptionsCleaned++
+              }
+
+              const key = normalize(title || originalTitle)
+              let year = yearOverrides.get(key) || null
+              if (year) {
+                const updatedDesc = setTrailingYear(getTag(block, 'desc'), year)
+                if (updatedDesc !== getTag(block, 'desc')) {
+                  block = replaceTag(block, 'desc', updatedDesc)
+                  stats.knownYearsCorrected++
+                }
+              } else if (process.env.TMDB_API_KEY && title) {
+                const categories = [...block.matchAll(/<category\b[^>]*>([\s\S]*?)<\/category>/gi)]
+                  .map(m => decodeXml(m[1].replace(/<[^>]+>/g, '').trim()).toLowerCase())
+                const startMatch = block.match(/\bstart="(\d{14})/)
+                const stopMatch = block.match(/\bstop="(\d{14})/)
+                const durationMinutes = startMatch && stopMatch
+                  ? (Date.UTC(Number(stopMatch[1].slice(0, 4)), Number(stopMatch[1].slice(4, 6)) - 1, Number(stopMatch[1].slice(6, 8)), Number(stopMatch[1].slice(8, 10)), Number(stopMatch[1].slice(10, 12))) - Date.UTC(Number(startMatch[1].slice(0, 4)), Number(startMatch[1].slice(4, 6)) - 1, Number(startMatch[1].slice(6, 8)), Number(startMatch[1].slice(8, 10)), Number(startMatch[1].slice(10, 12))) ) / 60000
+                  : 0
+                const hasEpisodeCode = /\bS\d{1,2}E\d{1,3}\b/i.test(getTag(block, 'desc'))
+                const looksLikeSeries = categories.some(c => /series|episode|miniseries|tv show|program/.test(c)) || hasEpisodeCode
+                const looksLikeMovie = categories.some(c => /^(movie|film|cinema)$/.test(c)) || (durationMinutes >= 75 && !looksLikeSeries)
+                if (!looksLikeMovie) {
+                  blocks[i] = block
+                  continue
+                }
+                // Only accept an exact normalized title match; do not guess on fuzzy results.
+                year = await tmdbYearFor(title)
+                if (year) {
+                  const currentDesc = getTag(block, 'desc')
+                  const updatedDesc = setTrailingYear(currentDesc, year)
+                  if (updatedDesc !== currentDesc) {
+                    block = replaceTag(block, 'desc', updatedDesc)
+                    stats.tmdbYearCorrections++
+                  }
+                }
+              }
+              blocks[i] = block
+            }
+
+            fs.writeFileSync(guidePath, blocks.join(''))
+            console.log('[CLEANUP] Plex/Xumo metadata cleanup complete')
+            console.log(`[CLEANUP] programmes scanned: ${stats.programmes}`)
+            console.log(`[CLEANUP] titles cleaned: ${stats.titlesCleaned}`)
+            console.log(`[CLEANUP] descriptions cleaned: ${stats.descriptionsCleaned}`)
+            console.log(`[CLEANUP] known film years corrected: ${stats.knownYearsCorrected}`)
+            console.log(`[CLEANUP] TMDB years corrected: ${stats.tmdbYearCorrections}`)
+            if (!process.env.TMDB_API_KEY) console.log('[TMDB] TMDB_API_KEY is not configured; applied the explicit verified year corrections only.')
+          }
+
+          main().catch(err => { console.error(err); process.exit(1) })
+          EOF
+
       - name: Validate Plex output
         run: |
           CH=$(grep -c '<channel ' guides/Plex.xml || true)
@@ -1297,9 +1570,20 @@ jobs:
           echo "Plex descriptions: $DESC"
 
           SOURCE_CH=$(grep -c '<channel ' guides/plex.xml || true)
+          XUMO_CH=$(grep -c 'id="Xumo.universal-monsters"' guides/Plex.xml || true)
+          EXPECTED_CH=$((SOURCE_CH + XUMO_CH))
+          XUMO_PR=$(grep -c 'channel="Xumo.universal-monsters"' guides/Plex.xml || true)
 
-          if [ "$CH" -lt 1 ] || [ "$CH" -ne "$SOURCE_CH" ]; then
-            echo "Invalid Plex output - expected $SOURCE_CH channels, got $CH"
+          echo "Xumo Universal Monsters channels: $XUMO_CH"
+          echo "Xumo Universal Monsters programmes: $XUMO_PR"
+
+          if [ "$CH" -lt 1 ] || [ "$CH" -ne "$EXPECTED_CH" ]; then
+            echo "Invalid Plex output - expected $EXPECTED_CH channels (Plex $SOURCE_CH + Xumo $XUMO_CH), got $CH"
+            exit 1
+          fi
+
+          if [ "$XUMO_CH" -gt 0 ] && [ "$XUMO_PR" -lt 1 ]; then
+            echo "Invalid Plex output - Universal Monsters channel exists but has no programmes"
             exit 1
           fi
 
@@ -1383,7 +1667,7 @@ jobs:
           # This workflow should only update its own XML/GZ output.
           git checkout origin/main -- guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
 
-          git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/.tvmaze-plex-cache.json
+          git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/xumo-universal-monsters.xml guides/.tvmaze-plex-cache.json
           git add guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
 
           if git diff --cached --quiet; then
@@ -1408,7 +1692,7 @@ jobs:
 
             git checkout origin/main -- guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
 
-            git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/.tvmaze-plex-cache.json
+            git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/xumo-universal-monsters.xml guides/.tvmaze-plex-cache.json
             git add guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
 
             if git diff --cached --quiet; then
