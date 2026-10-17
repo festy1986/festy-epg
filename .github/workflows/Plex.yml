@@ -3,7 +3,7 @@ name: Plex
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 */12 * * *"
+    - cron: "17 */6 * * *"
 
 permissions:
   contents: write
@@ -39,7 +39,7 @@ jobs:
           cd epg
           npm ci
 
-      - name: Build Plex channel source from Master List
+      - name: Build Plex channel source from Plex Master List
         run: |
           mkdir -p guides
 
@@ -48,20 +48,10 @@ jobs:
 
           const sourcePath = 'config/Plex Master List.xml'
           const outputPath = 'guides/plex.xml'
-          const plexPrefix = '6a1610bebdf296985fd95603-'
-
-          const wanted = [
-            {
-              name: 'FilmRise Horror',
-              id: '66ea09a39502c5778b828d43',
-              fallbackIcon: 'https://provider-static.plex.tv/epg/cms/production/18f5071a-e375-4dce-b201-5e717371458a/FilmRise_Horror_1500x1000_Light_Logo.png'
-            },
-            {
-              name: 'MGM Presents: Horror',
-              id: '6abd4e58a9d133322be5f940',
-              fallbackIcon: 'https://provider-static.plex.tv/epg/cms/production/02b4d3c7-5397-46d6-ba78-811367ced717/MPHorror_Plex_Logo_color_wht_textRDX.png'
-            }
-          ]
+          const wanted = new Map([
+            ['mgm presents horror', { xmltvId: 'mgm-presents-horror', name: 'MGM Presents: Horror' }],
+            ['filmrise horror', { xmltvId: 'filmrise-horror-2', name: 'FilmRise Horror' }]
+          ])
 
           function decodeXml(s) {
             return String(s || '')
@@ -81,81 +71,72 @@ jobs:
           }
 
           function attr(attrs, name) {
-            const m = attrs.match(new RegExp(`\\b${name}\\s*=\\s*"([^"]*)"`, 'i'))
+            const m = attrs.match(new RegExp(`${name}="([^"]*)"`, 'i'))
             return m ? decodeXml(m[1]).trim() : ''
+          }
+
+          function cleanBody(body) {
+            return decodeXml(String(body || '').replace(/<[^>]+>/g, '').trim())
           }
 
           function norm(s) {
             return decodeXml(s)
+              .normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
               .toLowerCase()
               .replace(/&/g, 'and')
-              .replace(/\+/g, 'plus')
               .replace(/[^a-z0-9]+/g, ' ')
               .trim()
           }
 
-          function parseChannels(xml) {
-            return [...xml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)].map(m => {
-              const attrs = m[1]
-              const body = m[2]
-              const display = body.match(/<display-name\b[^>]*>([\s\S]*?)<\/display-name>/i)
-              const icon = body.match(/<icon\b([^>]*)\/?\s*>/i)
-              return {
-                id: attr(attrs, 'id'),
-                name: display ? decodeXml(display[1].replace(/<[^>]+>/g, '').trim()) : decodeXml(body.replace(/<[^>]+>/g, '').trim()),
-                icon: icon ? attr(icon[1], 'src') : ''
-              }
+          if (!fs.existsSync(sourcePath)) {
+            console.error(`Missing Plex Master List: ${sourcePath}`)
+            process.exit(1)
+          }
+
+          const masterXml = fs.readFileSync(sourcePath, 'utf8')
+          const found = new Map()
+
+          for (const match of masterXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+            const attrs = match[1]
+            const body = match[2]
+            const plexId = attr(attrs, 'id')
+            const displayNameMatch = body.match(/<display-name\b[^>]*>([\s\S]*?)<\/display-name>/i)
+            const name = displayNameMatch ? cleanBody(displayNameMatch[1]) : ''
+            const target = wanted.get(norm(name))
+            if (!target) continue
+
+            if (!plexId) {
+              console.error(`${name}: missing Plex Master List channel id`)
+              process.exit(1)
+            }
+            if (found.has(target.xmltvId)) {
+              console.error(`${name}: duplicate channel entry in ${sourcePath}`)
+              process.exit(1)
+            }
+            found.set(target.xmltvId, {
+              name: target.name,
+              xmltvId: target.xmltvId,
+              siteId: plexId
             })
           }
 
-          if (!fs.existsSync(sourcePath)) {
-            console.error(`Missing ${sourcePath}`)
-            process.exit(1)
-          }
-
-          const all = parseChannels(fs.readFileSync(sourcePath, 'utf8'))
-          const out = []
-          const missing = []
-
-          for (const target of wanted) {
-            const match = all.find(ch =>
-              ch.id === target.id ||
-              ch.id.endsWith(`-${target.id}`) ||
-              norm(ch.name) === norm(target.name)
-            )
-
-            if (!match) {
-              missing.push(target.name)
-              continue
-            }
-
-            const gridKey = match.id.includes('-') ? match.id : `${plexPrefix}${target.id}`
-            const icon = match.icon || target.fallbackIcon
-            out.push(
-              `  <channel site="plex.tv" lang="en" xmltv_id="${escapeXml(target.id)}" site_id="${escapeXml(gridKey)}"><display-name>${escapeXml(target.name)}</display-name><icon src="${escapeXml(icon)}"/></channel>`
-            )
-            console.log(`[PLEX CHANNEL] ${target.name} -> ${gridKey}`)
-            console.log(`[PLEX LOGO] ${target.name} -> ${icon}`)
-          }
-
+          const missing = [...wanted.values()].filter(ch => !found.has(ch.xmltvId))
           if (missing.length) {
-            console.error('Missing required Plex Master List channels:')
-            missing.forEach(x => console.error(`- ${x}`))
+            console.error(`Could not find required channel(s) in ${sourcePath}: ${missing.map(ch => ch.name).join(', ')}`)
             process.exit(1)
           }
+
+          const output = [...wanted.values()].map(target => {
+            const channel = found.get(target.xmltvId)
+            return `  <channel site="plex.tv" lang="en" xmltv_id="${escapeXml(channel.xmltvId)}" site_id="${escapeXml(channel.siteId)}">${escapeXml(channel.name)}</channel>`
+          })
 
           fs.writeFileSync(
             outputPath,
-            `<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n${out.join('\n')}\n</channels>\n`
+            `<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n${output.join('\n')}\n</channels>\n`
           )
-
-          console.log(`Wrote ${outputPath}`)
-          console.log(`Plex Master List channels: ${out.length}`)
-
-          if (out.length !== wanted.length) {
-            console.error(`Expected exactly ${wanted.length} channels, built ${out.length}`)
-            process.exit(1)
-          }
+          console.log(`Wrote ${outputPath} with exactly ${output.length} Plex Master List channels`)
+          output.forEach(line => console.log(line.trim()))
           EOF
 
       - name: Write Plex config
@@ -171,7 +152,7 @@ jobs:
           module.exports = {
             site: 'plex.tv',
             delay: 200,
-            days: 14,
+            days: 17,
             request: {
               cache: {
                 ttl: 3 * 60 * 60 * 1000
@@ -476,8 +457,8 @@ jobs:
           CH=$(grep -c '<channel ' guides/plex.xml || true)
           echo "Plex curated channels: $CH"
 
-          if [ "$CH" -ne 2 ]; then
-            echo "Invalid guides/plex.xml - expected exactly 2 channels"
+          if [ "$CH" -lt 1 ]; then
+            echo "Invalid guides/plex.xml - no curated channels"
             exit 1
           fi
 
@@ -498,7 +479,7 @@ jobs:
             echo "============================================================"
             echo "Starting Plex $PASS_NAME"
             echo "maxConnections=$MAX_CONNECTIONS"
-            echo "days=14"
+            echo "days=17"
             echo "source=plex.tv"
             echo "============================================================"
 
@@ -506,7 +487,7 @@ jobs:
             npx tsx scripts/commands/epg/grab.ts \
               --channels=../guides/plex.xml \
               --output="../guides/Plex.${PASS_NAME}.xml" \
-              --days=14 \
+              --days=17 \
               --maxConnections="$MAX_CONNECTIONS" \
               2>&1 | tee "../guides/Plex.${PASS_NAME}.log"
 
@@ -1181,25 +1162,345 @@ jobs:
           })
           EOF
 
+      - name: Preserve Plex Master List channel logos
+        run: |
+          node <<'EOF'
+          const fs = require('fs')
+
+          const sourcePath = 'config/Plex Master List.xml'
+          const guidePath = 'guides/Plex.xml'
+          const xmltvIdsByName = new Map([
+            ['mgm presents horror', 'mgm-presents-horror'],
+            ['filmrise horror', 'filmrise-horror-2']
+          ])
+
+          function decodeXml(s) {
+            return String(s || '')
+              .replace(/&amp;/g, '&')
+              .replace(/&quot;/g, '"')
+              .replace(/&apos;/g, "'")
+              .replace(/&lt;/g, '<')
+              .replace(/&gt;/g, '>')
+          }
+
+          function escapeXml(s) {
+            return String(s || '')
+              .replace(/&/g, '&amp;')
+              .replace(/"/g, '&quot;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;')
+          }
+
+          function attr(attrs, name) {
+            const m = attrs.match(new RegExp(`${name}="([^"]*)"`, 'i'))
+            return m ? decodeXml(m[1]).trim() : ''
+          }
+
+          function cleanBody(body) {
+            return decodeXml(String(body || '').replace(/<[^>]+>/g, '').trim())
+          }
+
+          function norm(s) {
+            return decodeXml(s)
+              .normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
+              .toLowerCase()
+              .replace(/&/g, 'and')
+              .replace(/[^a-z0-9]+/g, ' ')
+              .trim()
+          }
+
+          if (!fs.existsSync(sourcePath) || !fs.existsSync(guidePath)) {
+            console.log('Plex Master List logo pass skipped: source or generated guide is missing')
+            process.exit(0)
+          }
+
+          const source = fs.readFileSync(sourcePath, 'utf8')
+          let guide = fs.readFileSync(guidePath, 'utf8')
+          const logos = new Map()
+
+          for (const match of source.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+            const body = match[2]
+            const displayNameMatch = body.match(/<display-name\b[^>]*>([\s\S]*?)<\/display-name>/i)
+            const name = displayNameMatch ? cleanBody(displayNameMatch[1]) : ''
+            const xmltvId = xmltvIdsByName.get(norm(name))
+            const icon = body.match(/<icon\b[^>]*\bsrc="([^"]+)"[^>]*\/?\s*>/i)
+            if (xmltvId && icon) logos.set(xmltvId, decodeXml(icon[1]).trim())
+          }
+
+          const requiredIds = [...xmltvIdsByName.values()]
+          const missingLogos = requiredIds.filter(id => !logos.has(id))
+          if (missingLogos.length) {
+            console.error(`Missing required channel logo(s) in ${sourcePath} for XMLTV ID(s): ${missingLogos.join(', ')}`)
+            process.exit(1)
+          }
+
+          let added = 0
+          let updated = 0
+
+          guide = guide.replace(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi, block => {
+            const attrs = block.match(/^<channel\b([^>]*)>/i)?.[1] || ''
+            const id = attr(attrs, 'id')
+            const logo = logos.get(id)
+            if (!logo) return block
+
+            if (/<icon\b[^>]*\bsrc=/i.test(block)) {
+              const next = block.replace(/<icon\b[^>]*\bsrc="[^"]*"[^/]*\/>/i, `<icon src="${escapeXml(logo)}"/>`)
+              if (next !== block) updated++
+              return next
+            }
+
+            added++
+            return block.replace(/(<display-name\b[^>]*>[\s\S]*?<\/display-name>)/i, `$1\n    <icon src="${escapeXml(logo)}"/>`)
+          })
+
+          fs.writeFileSync(guidePath, guide)
+          console.log(`Plex Master List logos found: ${logos.size}`)
+          console.log(`Plex logos added: ${added}`)
+          console.log(`Plex logos updated: ${updated}`)
+          EOF
+
+      - name: Clean movie titles, actor parentheticals, and known release years
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          node <<'EOF'
+          const fs = require('fs')
+          const guidePath = 'guides/Plex.xml'
+          let xml = fs.readFileSync(guidePath, 'utf8')
+
+          const yearOverrides = new Map([
+            ['dead man walking', 1995],
+            ['bull durham', 1988],
+            ['cadillac man', 1990]
+          ])
+
+          function decodeXml(s) {
+            return String(s || '')
+              .replace(/&amp;/g, '&').replace(/&quot;/g, '"')
+              .replace(/&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+          }
+          function escapeXml(s) {
+            return String(s || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;')
+              .replace(/</g, '&lt;').replace(/>/g, '&gt;')
+          }
+          function getTag(block, tag) {
+            const m = block.match(new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'))
+            return m ? decodeXml(m[1].replace(/<[^>]+>/g, '').trim()) : ''
+          }
+          function replaceTag(block, tag, value) {
+            const replacement = `  <${tag} lang="en">${escapeXml(value)}</${tag}>`
+            if (new RegExp(`<${tag}\\b`, 'i').test(block)) {
+              return block.replace(new RegExp(`<${tag}\\b[^>]*>[\\s\\S]*?<\\/${tag}>`, 'i'), replacement.trim())
+            }
+            return block.replace(/<\/programme>\s*$/i, `${replacement}\n</programme>`)
+          }
+          function normalize(s) {
+            return String(s || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
+              .toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()
+          }
+          function cleanTitle(title) {
+            return String(title || '')
+              .replace(/\s*\[(?:B\s*&\s*W\s+)?[^\]]*(?:cut|broadcast edit|broadcast edition)[^\]]*\]\s*/ig, ' ')
+              .replace(/\s*\[(?:broadcast edit|broadcast edition)\]\s*/ig, ' ')
+              .replace(/\s+(?:broadcast edit|broadcast edition)\s*$/ig, '')
+              .replace(/\s+\((?:19|20)\d{2}\)\s*$/i, '')
+              .replace(/\s+/g, ' ').trim()
+          }
+          function cleanDescription(desc) {
+            return String(desc || '')
+              // Remove cast names supplied as parentheticals, but retain years and ordinary lowercase phrases.
+              .replace(/\s*\(((?:[A-Z][A-Za-z'.’\-]+)(?:\s+[A-Z][A-Za-z'.’\-]+){1,3})\)\s*/g, ' ')
+              .replace(/\s+/g, ' ').replace(/\s+([.,!?;:])/g, '$1').trim()
+          }
+          function setTrailingYear(desc, year) {
+            if (!desc) return `(${year})`
+            if (/\(\d{4}\)\s*$/.test(desc)) return desc.replace(/\(\d{4}\)\s*$/, `(${year})`)
+            return `${desc} (${year})`
+          }
+
+          const stats = { programmes: 0, titlesCleaned: 0, descriptionsCleaned: 0, knownYearsCorrected: 0, tmdbYearCorrections: 0 }
+          const tmdbCache = new Map()
+          const blocks = xml.split(/(<programme\b[\s\S]*?<\/programme>)/gi)
+
+          async function tmdbYearFor(title) {
+            if (!process.env.TMDB_API_KEY) return null
+            const cacheKey = normalize(title)
+            if (tmdbCache.has(cacheKey)) return tmdbCache.get(cacheKey)
+            try {
+              const url = `https://api.themoviedb.org/3/search/movie?api_key=${encodeURIComponent(process.env.TMDB_API_KEY)}&query=${encodeURIComponent(title)}&include_adult=false&language=en-US&page=1`
+              const response = await fetch(url, { headers: { 'Accept': 'application/json' } })
+              if (!response.ok) return null
+              const data = await response.json()
+              const results = Array.isArray(data.results) ? data.results : []
+              const wanted = normalize(title)
+              const exact = results.find(item => normalize(item.title || item.original_title) === wanted)
+              const date = exact?.release_date || ''
+              const match = date.match(/^(19|20)\d{2}-\d{2}-\d{2}$/)
+              const year = match ? Number(date.slice(0, 4)) : null
+              tmdbCache.set(cacheKey, year)
+              return year
+            } catch (err) {
+              console.log(`[TMDB] Lookup failed for "${title}": ${err.message}`)
+              tmdbCache.set(cacheKey, null)
+              return null
+            }
+          }
+
+          async function main() {
+            for (let i = 0; i < blocks.length; i++) {
+              if (!/^<programme\b/i.test(blocks[i])) continue
+              stats.programmes++
+              let block = blocks[i]
+              const originalTitle = getTag(block, 'title')
+              const title = cleanTitle(originalTitle)
+              if (title && title !== originalTitle) {
+                block = replaceTag(block, 'title', title)
+                stats.titlesCleaned++
+              }
+
+              const originalDesc = getTag(block, 'desc')
+              const desc = cleanDescription(originalDesc)
+              if (desc !== originalDesc) {
+                block = replaceTag(block, 'desc', desc)
+                stats.descriptionsCleaned++
+              }
+
+              const key = normalize(title || originalTitle)
+              let year = yearOverrides.get(key) || null
+              if (year) {
+                const updatedDesc = setTrailingYear(getTag(block, 'desc'), year)
+                if (updatedDesc !== getTag(block, 'desc')) {
+                  block = replaceTag(block, 'desc', updatedDesc)
+                  stats.knownYearsCorrected++
+                }
+              } else if (process.env.TMDB_API_KEY && title) {
+                const categories = [...block.matchAll(/<category\b[^>]*>([\s\S]*?)<\/category>/gi)]
+                  .map(m => decodeXml(m[1].replace(/<[^>]+>/g, '').trim()).toLowerCase())
+                const startMatch = block.match(/\bstart="(\d{14})/)
+                const stopMatch = block.match(/\bstop="(\d{14})/)
+                const durationMinutes = startMatch && stopMatch
+                  ? (Date.UTC(Number(stopMatch[1].slice(0, 4)), Number(stopMatch[1].slice(4, 6)) - 1, Number(stopMatch[1].slice(6, 8)), Number(stopMatch[1].slice(8, 10)), Number(stopMatch[1].slice(10, 12))) - Date.UTC(Number(startMatch[1].slice(0, 4)), Number(startMatch[1].slice(4, 6)) - 1, Number(startMatch[1].slice(6, 8)), Number(startMatch[1].slice(8, 10)), Number(startMatch[1].slice(10, 12))) ) / 60000
+                  : 0
+                const hasEpisodeCode = /\bS\d{1,2}E\d{1,3}\b/i.test(getTag(block, 'desc'))
+                const looksLikeSeries = categories.some(c => /series|episode|miniseries|tv show|program/.test(c)) || hasEpisodeCode
+                const looksLikeMovie = categories.some(c => /^(movie|film|cinema)$/.test(c)) || (durationMinutes >= 75 && !looksLikeSeries)
+                if (!looksLikeMovie) {
+                  blocks[i] = block
+                  continue
+                }
+                // Only accept an exact normalized title match; do not guess on fuzzy results.
+                year = await tmdbYearFor(title)
+                if (year) {
+                  const currentDesc = getTag(block, 'desc')
+                  const updatedDesc = setTrailingYear(currentDesc, year)
+                  if (updatedDesc !== currentDesc) {
+                    block = replaceTag(block, 'desc', updatedDesc)
+                    stats.tmdbYearCorrections++
+                  }
+                }
+              }
+              blocks[i] = block
+            }
+
+            fs.writeFileSync(guidePath, blocks.join(''))
+            console.log('[CLEANUP] Plex metadata cleanup complete')
+            console.log(`[CLEANUP] programmes scanned: ${stats.programmes}`)
+            console.log(`[CLEANUP] titles cleaned: ${stats.titlesCleaned}`)
+            console.log(`[CLEANUP] descriptions cleaned: ${stats.descriptionsCleaned}`)
+            console.log(`[CLEANUP] known film years corrected: ${stats.knownYearsCorrected}`)
+            console.log(`[CLEANUP] TMDB years corrected: ${stats.tmdbYearCorrections}`)
+            if (!process.env.TMDB_API_KEY) console.log('[TMDB] TMDB_API_KEY is not configured; applied the explicit verified year corrections only.')
+          }
+
+          main().catch(err => { console.error(err); process.exit(1) })
+          EOF
+
       - name: Validate Plex output
         run: |
           CH=$(grep -c '<channel ' guides/Plex.xml || true)
           PR=$(grep -c '<programme ' guides/Plex.xml || true)
           DESC=$(grep -c '<desc ' guides/Plex.xml || true)
+          SOURCE_CH=$(grep -c '<channel ' guides/plex.xml || true)
 
-          echo "Plex channels: $CH"
+          echo "Plex source channels (MGM Presents: Horror + FilmRise Horror): $SOURCE_CH"
+          echo "Plex output channels: $CH"
           echo "Plex programmes: $PR"
           echo "Plex descriptions: $DESC"
 
-          if [ "$CH" -ne 2 ]; then
-            echo "Invalid Plex output - expected exactly 2 channels"
+          if [ "$SOURCE_CH" -ne 2 ]; then
+            echo "Invalid Plex source - expected MGM Presents: Horror and FilmRise Horror (2 channels), got $SOURCE_CH channel(s)"
             exit 1
           fi
 
-          if [ "$PR" -lt 1 ]; then
-            echo "Invalid Plex output - no programmes"
+          if [ "$CH" -ne "$SOURCE_CH" ]; then
+            echo "Invalid Plex output - expected $SOURCE_CH channel(s), got $CH"
             exit 1
           fi
+
+          if [ "$PR" -lt 40 ]; then
+            echo "Invalid Plex output - expected at least 40 programmes, got $PR"
+            exit 1
+          fi
+
+          if [ "$DESC" -lt 1 ]; then
+            echo "Invalid Plex output - no programme descriptions"
+            exit 1
+          fi
+
+      - name: Validate overlap with previous Plex guide
+        run: |
+          if [ ! -f guides/Plex.xml.gz ]; then
+            echo "No previous compressed Plex guide; skipping overlap check on first build"
+            exit 0
+          fi
+
+          python3 <<'PYEOF'
+          import gzip
+          import re
+          import sys
+          from pathlib import Path
+
+          old_path = Path('guides/Plex.xml.gz')
+          new_path = Path('guides/Plex.xml')
+
+          def programme_keys(xml):
+              keys = set()
+              for block in re.findall(r'<programme\b([^>]*)>', xml, flags=re.I):
+                  attrs = dict(re.findall(r'([\w:-]+)="([^"]*)"', block))
+                  channel = attrs.get('channel', '')
+                  start = attrs.get('start', '')
+                  stop = attrs.get('stop', '')
+                  if channel and start and stop:
+                      keys.add((channel, start, stop))
+              return keys
+
+          try:
+              old_xml = gzip.decompress(old_path.read_bytes()).decode('utf-8', errors='replace')
+              new_xml = new_path.read_text(encoding='utf-8', errors='replace')
+              old_keys = programme_keys(old_xml)
+              new_keys = programme_keys(new_xml)
+          except Exception as exc:
+              print(f'Could not safely compare previous Plex guide: {exc}', file=sys.stderr)
+              sys.exit(1)
+
+          if not old_keys:
+              print('Previous guide had no parseable programme keys; refusing to replace it')
+              sys.exit(1)
+          if not new_keys:
+              print('New guide has no parseable programme keys; refusing to publish')
+              sys.exit(1)
+
+          overlap = len(old_keys & new_keys)
+          denominator = min(len(old_keys), len(new_keys))
+          ratio = overlap / denominator if denominator else 0
+          print(f'Previous programme keys: {len(old_keys)}')
+          print(f'New programme keys: {len(new_keys)}')
+          print(f'Overlapping programme keys: {overlap} ({ratio:.1%} of smaller guide)')
+
+          if ratio < 0.50:
+              print('Refusing to publish: less than 50% programme overlap with the previous Plex guide', file=sys.stderr)
+              sys.exit(1)
+          PYEOF
 
       - name: Compress Plex guide
         run: |
@@ -1207,8 +1508,8 @@ jobs:
 
       - name: Commit and push Plex guide safely
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git fetch origin main
 
