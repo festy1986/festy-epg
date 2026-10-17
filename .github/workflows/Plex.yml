@@ -109,9 +109,12 @@ jobs:
 
           const curatedXml = fs.readFileSync(sourcePath, 'utf8')
           const allCurated = parseChannels(curatedXml)
-          const curated = allCurated.filter(ch => norm(ch.name) === norm('MGM Presents: Horror'))
-          if (!curated.length) {
-            console.error(`Could not find MGM Presents: Horror in ${sourcePath}`)
+          const wantedNames = ['MGM Presents: Horror', 'FilmRise Horror']
+          const curated = allCurated.filter(ch => wantedNames.some(wanted => norm(ch.name) === norm(wanted)))
+          const foundNames = new Set(curated.map(ch => norm(ch.name)))
+          const missingNames = wantedNames.filter(wanted => !foundNames.has(norm(wanted)))
+          if (missingNames.length) {
+            console.error(`Could not find required Plex channel(s) in ${sourcePath}: ${missingNames.join(', ')}`)
             process.exit(1)
           }
           const catalog = parseChannels(fs.readFileSync(catalogPath, 'utf8'))
@@ -645,45 +648,6 @@ jobs:
           done
 
           cd ..
-
-      - name: Build FilmRise Horror Xumo source
-        run: |
-          mkdir -p guides
-          rm -f guides/xumo-universal-monsters.xml guides/Xumo-UniversalMonsters.xml
-
-          cat > guides/xumo-filmrise-horror.xml <<'EOF'
-          <?xml version="1.0" encoding="UTF-8"?>
-          <channels>
-            <channel site="xumo.tv" lang="en" xmltv_id="Xumo.filmrise-horror" site_id="0#99991337">FilmRise Horror</channel>
-          </channels>
-          EOF
-
-          echo "Created a one-channel Xumo source: FilmRise Horror only (site_id=0#99991337)."
-
-      - name: Scrape FilmRise Horror from Xumo for 17 days
-        run: |
-          cd epg
-          rm -f ../guides/Xumo-FilmRiseHorror.xml
-
-          npx tsx scripts/commands/epg/grab.ts \
-            --channels=../guides/xumo-filmrise-horror.xml \
-            --output=../guides/Xumo-FilmRiseHorror.xml \
-            --days=17 \
-            --maxConnections=1
-
-          cd ..
-
-          if [ ! -s guides/Xumo-FilmRiseHorror.xml ]; then
-            echo "Xumo did not create an output file for FilmRise Horror."
-            exit 1
-          fi
-
-          XUMO_PROGRAMMES=$(grep -c '<programme ' guides/Xumo-FilmRiseHorror.xml || true)
-          echo "Xumo FilmRise Horror programmes scraped: $XUMO_PROGRAMMES"
-          if [ "$XUMO_PROGRAMMES" -lt 1 ]; then
-            echo "Xumo returned no FilmRise Horror programmes; refusing to publish an incomplete merged guide."
-            exit 1
-          fi
 
       - name: Fill missing Plex metadata from TVMaze
         run: |
@@ -1330,68 +1294,6 @@ jobs:
           console.log(`Plex logos updated: ${updated}`)
           EOF
 
-      - name: Merge Xumo FilmRise Horror into Plex guide
-        run: |
-          node <<'EOF'
-          const fs = require('fs')
-
-          const plexPath = 'guides/Plex.xml'
-          const xumoPath = 'guides/Xumo-FilmRiseHorror.xml'
-          const channelId = 'Xumo.filmrise-horror'
-          const logoUrl = 'https://provider-static.plex.tv/epg/cms/production/18f5071a-e375-4dce-b201-5e717371458a/FilmRise_Horror_1500x1000_Light_Logo.png'
-
-          function escapeXml(s) {
-            return String(s || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-          }
-
-          if (!fs.existsSync(plexPath)) {
-            console.error(`Missing ${plexPath}`)
-            process.exit(1)
-          }
-          if (!fs.existsSync(xumoPath)) {
-            console.error(`Missing ${xumoPath}; cannot merge FilmRise Horror`)
-            process.exit(1)
-          }
-
-          let plex = fs.readFileSync(plexPath, 'utf8')
-          const xumo = fs.readFileSync(xumoPath, 'utf8')
-          const channelMatch = xumo.match(new RegExp(String.raw`<channel\b(?=[^>]*\bid="${channelId}")[^>]*>[\s\S]*?<\/channel>`, 'i'))
-          const programmeMatches = xumo.match(new RegExp(String.raw`<programme\b(?=[^>]*\bchannel="${channelId}")[^>]*>[\s\S]*?<\/programme>`, 'gi')) || []
-
-          if (!channelMatch || programmeMatches.length === 0) {
-            console.error(`Xumo returned no usable FilmRise Horror channel/programmes (programmes=${programmeMatches.length})`)
-            process.exit(1)
-          }
-
-          if (new RegExp(String.raw`<channel\b(?=[^>]*\bid="${channelId}")`, 'i').test(plex)) {
-            console.error('FilmRise Horror already exists in Plex output; refusing to create a duplicate channel')
-            process.exit(1)
-          }
-
-          let channelBlock = channelMatch[0]
-          if (/<icon\b[^>]*\bsrc=/i.test(channelBlock)) {
-            channelBlock = channelBlock.replace(/<icon\b[^>]*\bsrc="[^"]*"[^/]*\/>/i, `<icon src="${escapeXml(logoUrl)}"/>`)
-          } else {
-            channelBlock = channelBlock.replace(/(<display-name\b[^>]*>[\s\S]*?<\/display-name>)/i, `$1\n    <icon src="${escapeXml(logoUrl)}"/>`)
-          }
-
-          const firstProgramme = plex.search(/<programme\b/i)
-          if (firstProgramme < 0) {
-            console.error('Plex XML has no programme section; refusing to merge Xumo')
-            process.exit(1)
-          }
-          plex = plex.slice(0, firstProgramme) + channelBlock + '\n' + plex.slice(firstProgramme)
-
-          const closeTv = plex.lastIndexOf('</tv>')
-          if (closeTv < 0) {
-            console.error('Plex XML has no closing </tv> tag; refusing to merge Xumo')
-            process.exit(1)
-          }
-          plex = plex.slice(0, closeTv) + programmeMatches.join('\n') + '\n' + plex.slice(closeTv)
-          fs.writeFileSync(plexPath, plex)
-          console.log(`Merged FilmRise Horror from Xumo: ${programmeMatches.length} programmes; logo applied.`)
-          EOF
-
       - name: Clean movie titles, actor parentheticals, and known release years
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
@@ -1536,7 +1438,7 @@ jobs:
             }
 
             fs.writeFileSync(guidePath, blocks.join(''))
-            console.log('[CLEANUP] Plex/Xumo metadata cleanup complete')
+            console.log('[CLEANUP] Plex metadata cleanup complete')
             console.log(`[CLEANUP] programmes scanned: ${stats.programmes}`)
             console.log(`[CLEANUP] titles cleaned: ${stats.titlesCleaned}`)
             console.log(`[CLEANUP] descriptions cleaned: ${stats.descriptionsCleaned}`)
@@ -1553,37 +1455,20 @@ jobs:
           CH=$(grep -c '<channel ' guides/Plex.xml || true)
           PR=$(grep -c '<programme ' guides/Plex.xml || true)
           DESC=$(grep -c '<desc ' guides/Plex.xml || true)
+          SOURCE_CH=$(grep -c '<channel ' guides/plex.xml || true)
 
-          echo "Plex channels: $CH"
+          echo "Plex source channels (MGM Presents: Horror + FilmRise Horror): $SOURCE_CH"
+          echo "Plex output channels: $CH"
           echo "Plex programmes: $PR"
           echo "Plex descriptions: $DESC"
 
-          SOURCE_CH=$(grep -c '<channel ' guides/plex.xml || true)
-          XUMO_CH=$(grep -c 'id="Xumo.filmrise-horror"' guides/Plex.xml || true)
-          EXPECTED_CH=$((SOURCE_CH + 1))
-          XUMO_PR=$(grep -c 'channel="Xumo.filmrise-horror"' guides/Plex.xml || true)
-
-          echo "Plex source channels (MGM Presents: Horror only): $SOURCE_CH"
-          echo "Xumo FilmRise Horror channels: $XUMO_CH"
-          echo "Xumo FilmRise Horror programmes: $XUMO_PR"
-
-          if [ "$SOURCE_CH" -ne 1 ]; then
-            echo "Invalid Plex source - expected only MGM Presents: Horror, got $SOURCE_CH channel(s)"
+          if [ "$SOURCE_CH" -ne 2 ]; then
+            echo "Invalid Plex source - expected MGM Presents: Horror and FilmRise Horror (2 channels), got $SOURCE_CH channel(s)"
             exit 1
           fi
 
-          if [ "$XUMO_CH" -ne 1 ]; then
-            echo "Invalid merged output - expected exactly one Xumo FilmRise Horror channel, got $XUMO_CH"
-            exit 1
-          fi
-
-          if [ "$CH" -lt 1 ] || [ "$CH" -ne "$EXPECTED_CH" ]; then
-            echo "Invalid Plex output - expected $EXPECTED_CH channels (MGM Presents: Horror + FilmRise Horror), got $CH"
-            exit 1
-          fi
-
-          if [ "$XUMO_CH" -gt 0 ] && [ "$XUMO_PR" -lt 1 ]; then
-            echo "Invalid Plex output - FilmRise Horror channel exists but has no programmes"
+          if [ "$CH" -ne "$SOURCE_CH" ]; then
+            echo "Invalid Plex output - expected $SOURCE_CH channel(s), got $CH"
             exit 1
           fi
 
@@ -1667,8 +1552,7 @@ jobs:
           # This workflow should only update its own XML/GZ output.
           git checkout origin/main -- guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
 
-          git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/xumo-filmrise-horror.xml guides/.tvmaze-plex-cache.json
-          git add -u guides/xumo-universal-monsters.xml 2>/dev/null || true
+          git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/.tvmaze-plex-cache.json
           git add guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
 
           if git diff --cached --quiet; then
@@ -1693,8 +1577,7 @@ jobs:
 
             git checkout origin/main -- guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
 
-            git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/xumo-filmrise-horror.xml guides/.tvmaze-plex-cache.json
-          git add -u guides/xumo-universal-monsters.xml 2>/dev/null || true
+            git add guides/Plex.xml guides/Plex.xml.gz guides/plex.xml guides/.tvmaze-plex-cache.json
             git add guides/TVPassport.xml.gz guides/OTALocalsguide.xml.gz guides/tvguidetivimateguide.xml.gz guides/Horror.xml.gz guides/FASTGuide.xml.gz 2>/dev/null || true
 
             if git diff --cached --quiet; then
