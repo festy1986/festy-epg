@@ -129,7 +129,7 @@
   <channel site="xumo.tv" lang="en" xmltv_id="Xumo.fifth-gear" site_id="100#99951207">Fifth Gear</channel>
   <channel site="xumo.tv" lang="en" xmltv_id="Xumo.filmex" site_id="250#99951120">FILMEX</channel>
   <channel site="xumo.tv" lang="en" xmltv_id="Xumo.filmex-clasico" site_id="250#99981121">FILMEX CLASICO</channel>
-  <channel site="xumo.tv" lang="en" xmltv_id="Xumo.filmrise-horror" site_id="0#99991337">FilmRise Horror</channel>
+  <channel id="Xumo.filmrise-horror"><display-name>FilmRise Horror</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/18f5071a-e375-4dce-b201-5e717371458a/FilmRise_Horror_1500x1000_Light_Logo.png" /></channel>
   <channel site="xumo.tv" lang="en" xmltv_id="Xumo.fluffy-tv" site_id="150#99951287">Fluffy TV</channel>
   <channel site="xumo.tv" lang="en" xmltv_id="Xumo.forensic-files" site_id="100#99991367">Forensic Files</channel>
   <channel site="xumo.tv" lang="en" xmltv_id="Xumo.fox-local-atlanta" site_id="400#99951426">FOX LOCAL Atlanta</channel>
