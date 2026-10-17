@@ -1,4 +1,5 @@
-<channel id="mgm-presents-horror">
-  <display-name>MGM Presents: Horror</display-name>
-  <icon src="https://provider-static.plex.tv/epg/cms/production/02b4d3c7-5397-46d6-ba78-811367ced717/MPHorror_Plex_Logo_color_wht_textRDX.png"/>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="plex.tv" lang="en" xmltv_id="mgm-presents-horror" site_id="6abd4e58a9d133322be5f940">MGM Presents: Horror</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="filmrise-horror-2" site_id="18f5071a-e375-4dce-b201-5e717371458a">FilmRise Horror</channel>
+</channels>
