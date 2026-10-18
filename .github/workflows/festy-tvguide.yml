@@ -762,104 +762,20 @@ jobs:
 
           run_pass "pass1-fast" 10 8000
 
-          PASS1_ISSUES=$(cat ../guides/tvguidetivimateguide.pass1-fast.issues.count)
-
-          if [ "$PASS1_ISSUES" -gt 0 ]; then
-            echo ""
-            echo "Fast pass had possible issues, running backup schedule pass..."
-            run_pass "pass2-backup" 5 15000
-          else
-            echo ""
-            echo "Fast pass had no obvious schedule issues. Skipping backup pass."
-          fi
-
           BEST_PASS="pass1-fast"
           BEST_PR=$(cat ../guides/tvguidetivimateguide.pass1-fast.programmes.count)
           BEST_DESC=$(cat ../guides/tvguidetivimateguide.pass1-fast.descriptions.count)
           BEST_ISSUES=$(cat ../guides/tvguidetivimateguide.pass1-fast.issues.count)
-
-          if [ -f ../guides/tvguidetivimateguide.pass2-backup.programmes.count ]; then
-            PASS2_PR=$(cat ../guides/tvguidetivimateguide.pass2-backup.programmes.count)
-            PASS2_DESC=$(cat ../guides/tvguidetivimateguide.pass2-backup.descriptions.count)
-            PASS2_ISSUES=$(cat ../guides/tvguidetivimateguide.pass2-backup.issues.count)
-
-            if [ "$PASS2_PR" -gt "$BEST_PR" ]; then
-              BEST_PASS="pass2-backup"
-              BEST_PR="$PASS2_PR"
-              BEST_DESC="$PASS2_DESC"
-              BEST_ISSUES="$PASS2_ISSUES"
-            elif [ "$PASS2_PR" -eq "$BEST_PR" ] && [ "$PASS2_DESC" -gt "$BEST_DESC" ]; then
-              BEST_PASS="pass2-backup"
-              BEST_PR="$PASS2_PR"
-              BEST_DESC="$PASS2_DESC"
-              BEST_ISSUES="$PASS2_ISSUES"
-            elif [ "$PASS2_PR" -eq "$BEST_PR" ] && [ "$PASS2_DESC" -eq "$BEST_DESC" ] && [ "$PASS2_ISSUES" -lt "$BEST_ISSUES" ]; then
-              BEST_PASS="pass2-backup"
-              BEST_PR="$PASS2_PR"
-              BEST_DESC="$PASS2_DESC"
-              BEST_ISSUES="$PASS2_ISSUES"
-            fi
-          fi
-
-          if [ "$BEST_ISSUES" -gt 0 ]; then
-            echo ""
-            echo "Best pass still had possible issues, running slow micro schedule pass..."
-            run_pass "pass3-micro" 2 30000
-          else
-            echo ""
-            echo "Best pass has no obvious schedule issues. Skipping micro schedule pass."
-          fi
-
-          BEST_PASS="pass1-fast"
-          BEST_PR=$(cat ../guides/tvguidetivimateguide.pass1-fast.programmes.count)
-          BEST_DESC=$(cat ../guides/tvguidetivimateguide.pass1-fast.descriptions.count)
-          BEST_ISSUES=$(cat ../guides/tvguidetivimateguide.pass1-fast.issues.count)
-
-          for PASS in pass2-backup pass3-micro; do
-            if [ -f "../guides/tvguidetivimateguide.${PASS}.programmes.count" ]; then
-              CANDIDATE_PR=$(cat "../guides/tvguidetivimateguide.${PASS}.programmes.count")
-              CANDIDATE_DESC=$(cat "../guides/tvguidetivimateguide.${PASS}.descriptions.count")
-              CANDIDATE_ISSUES=$(cat "../guides/tvguidetivimateguide.${PASS}.issues.count")
-
-              if [ "$CANDIDATE_PR" -gt "$BEST_PR" ]; then
-                BEST_PASS="$PASS"
-                BEST_PR="$CANDIDATE_PR"
-                BEST_DESC="$CANDIDATE_DESC"
-                BEST_ISSUES="$CANDIDATE_ISSUES"
-              elif [ "$CANDIDATE_PR" -eq "$BEST_PR" ] && [ "$CANDIDATE_DESC" -gt "$BEST_DESC" ]; then
-                BEST_PASS="$PASS"
-                BEST_PR="$CANDIDATE_PR"
-                BEST_DESC="$CANDIDATE_DESC"
-                BEST_ISSUES="$CANDIDATE_ISSUES"
-              elif [ "$CANDIDATE_PR" -eq "$BEST_PR" ] && [ "$CANDIDATE_DESC" -eq "$BEST_DESC" ] && [ "$CANDIDATE_ISSUES" -lt "$BEST_ISSUES" ]; then
-                BEST_PASS="$PASS"
-                BEST_PR="$CANDIDATE_PR"
-                BEST_DESC="$CANDIDATE_DESC"
-                BEST_ISSUES="$CANDIDATE_ISSUES"
-              fi
-            fi
-          done
 
           echo ""
           echo "============================================================"
-          echo "Selected best schedule pass: $BEST_PASS"
-          echo "Best programmes: $BEST_PR"
-          echo "Best descriptions: $BEST_DESC"
-          echo "Best possible issues: $BEST_ISSUES"
+          echo "Selected schedule pass: $BEST_PASS (backup and micro passes disabled)"
+          echo "Programmes: $BEST_PR"
+          echo "Descriptions: $BEST_DESC"
+          echo "Possible issues: $BEST_ISSUES"
           echo "============================================================"
 
           cp "../guides/tvguidetivimateguide.${BEST_PASS}.xml" "../guides/tvguidetivimateguide.xml"
-
-          echo ""
-          echo "Pass summary:"
-          for PASS in pass1-fast pass2-backup pass3-micro; do
-            if [ -f "../guides/tvguidetivimateguide.${PASS}.programmes.count" ]; then
-              echo "$PASS:"
-              echo "  programmes:   $(cat ../guides/tvguidetivimateguide.${PASS}.programmes.count)"
-              echo "  descriptions: $(cat ../guides/tvguidetivimateguide.${PASS}.descriptions.count)"
-              echo "  issues:       $(cat ../guides/tvguidetivimateguide.${PASS}.issues.count)"
-            fi
-          done
 
           cd ..
 
@@ -1059,49 +975,61 @@ jobs:
             return cache[key]
           }
 
+          let tvmazeConsecutiveFailures = 0
+          let tvmazeCircuitOpen = false
+          const TVMAZE_FAILURE_THRESHOLD = 3
+
           async function fetchJsonWithRetries(url, label) {
-            const attempts = 4
             const timeoutMs = 12000
 
-            for (let attempt = 1; attempt <= attempts; attempt++) {
-              const controller = new AbortController()
-              const timeout = setTimeout(() => controller.abort(), timeoutMs)
-
-              try {
-                const response = await fetch(url, {
-                  headers: {
-                    'User-Agent': 'festy-epg-tvmaze-tivimate-fill-missing-only/1.0'
-                  },
-                  signal: controller.signal
-                })
-
-                if (response.status === 404) return null
-                if (response.status === 429 || response.status >= 500) {
-                  throw new Error(`HTTP ${response.status}`)
-                }
-
-                if (!response.ok) return null
-
-                return await response.json()
-              } catch (err) {
-                const message = err.name === 'AbortError'
-                  ? `request timed out after ${timeoutMs}ms`
-                  : err.message
-
-                if (attempt === attempts) {
-                  console.log(`[TVMAZE FAIL] ${label} | ${message} | attempts=${attempts}`)
-                  throw new Error(`TVMaze request failed after ${attempts} attempts: ${label} | ${message}`)
-                }
-
-                const delay = 1000 * attempt + Math.floor(Math.random() * 500)
-                console.log(`[TVMAZE RETRY] ${label} | ${message} | attempt=${attempt}/${attempts}`)
-                await sleep(delay)
-              } finally {
-                clearTimeout(timeout)
-              }
+            if (tvmazeCircuitOpen) {
+              throw new Error('TVMaze circuit breaker is open after repeated API failures; lookup skipped')
             }
 
-            throw new Error(`TVMaze request failed: ${label}`)
+            const controller = new AbortController()
+            const timeout = setTimeout(() => controller.abort(), timeoutMs)
+
+            try {
+              const response = await fetch(url, {
+                headers: {
+                  'User-Agent': 'festy-epg-tvmaze-tivimate-fill-missing-only/1.0'
+                },
+                signal: controller.signal
+              })
+
+              if (response.status === 404) {
+                tvmazeConsecutiveFailures = 0
+                return null
+              }
+              if (response.status === 429 || response.status >= 500) {
+                throw new Error(`HTTP ${response.status}`)
+              }
+
+              if (!response.ok) {
+                tvmazeConsecutiveFailures = 0
+                return null
+              }
+
+              const data = await response.json()
+              tvmazeConsecutiveFailures = 0
+              return data
+            } catch (err) {
+              const message = err.name === 'AbortError'
+                ? `request timed out after ${timeoutMs}ms`
+                : err.message
+
+              tvmazeConsecutiveFailures++
+              console.log(`[TVMAZE FAIL] ${label} | ${message} | request=1/1 | consecutiveFailures=${tvmazeConsecutiveFailures}`)
+
+              if (tvmazeConsecutiveFailures >= TVMAZE_FAILURE_THRESHOLD) {
+                tvmazeCircuitOpen = true
+                console.log(`[TVMAZE CIRCUIT OPEN] ${tvmazeConsecutiveFailures} consecutive request failures; remaining TVMaze lookups will be skipped for this run`)
+              }
+
+              throw new Error(`TVMaze request failed: ${label} | ${message}`)
+            } finally {
+              clearTimeout(timeout)
+            }
           }
 
           function findEpisodeForProgramme(episodes, block) {
@@ -1409,7 +1337,6 @@ jobs:
           async function main() {
             const parts = xml.split(/(<programme\b[\s\S]*?<\/programme>)/gi)
             const out = []
-            const retryQueue = []
 
             for (const part of parts) {
               if (!/^<programme\b/i.test(part)) {
@@ -1464,31 +1391,8 @@ jobs:
                 block = enrichBlockMissingOnly(block, show, episode)
                 out.push(block)
               } catch (err) {
-                console.log(`[TVMAZE DEFER] ${title} | ${err.message}`)
+                console.log(`[TVMAZE SKIP] ${title} | ${err.message} | preserving existing programme data`)
                 out.push(block)
-                retryQueue.push({ outIndex: out.length - 1, block, title, matchedShow })
-              }
-            }
-
-            if (retryQueue.length) {
-              console.log(`[TVMAZE] retrying ${retryQueue.length} programme(s) that had temporary API failures after a 10-second pause`)
-              await sleep(10000)
-
-              for (let i = 0; i < retryQueue.length; i++) {
-                const item = retryQueue[i]
-                try {
-                  const show = await tvmazeSearchShow(item.title)
-                  if (!show || tvmazeShowIsMovieLike(show)) continue
-
-                  if (!item.matchedShow) stats.matchedShows++
-
-                  const episodes = await tvmazeEpisodes(show.id)
-                  const episode = findEpisodeForProgramme(episodes, item.block)
-                  out[item.outIndex] = enrichBlockMissingOnly(item.block, show, episode)
-                  console.log(`[TVMAZE RETRY SUCCESS] ${item.title}`)
-                } catch (err) {
-                  console.log(`[TVMAZE STILL DEFERRED] ${item.title} | ${err.message} | will retry on next scheduled run`)
-                }
               }
             }
 
