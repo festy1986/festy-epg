@@ -1061,13 +1061,18 @@ jobs:
 
           async function fetchJsonWithRetries(url, label) {
             const attempts = 4
+            const timeoutMs = 12000
 
             for (let attempt = 1; attempt <= attempts; attempt++) {
+              const controller = new AbortController()
+              const timeout = setTimeout(() => controller.abort(), timeoutMs)
+
               try {
                 const response = await fetch(url, {
                   headers: {
                     'User-Agent': 'festy-epg-tvmaze-tivimate-fill-missing-only/1.0'
-                  }
+                  },
+                  signal: controller.signal
                 })
 
                 if (response.status === 404) return null
@@ -1079,18 +1084,24 @@ jobs:
 
                 return await response.json()
               } catch (err) {
+                const message = err.name === 'AbortError'
+                  ? `request timed out after ${timeoutMs}ms`
+                  : err.message
+
                 if (attempt === attempts) {
-                  console.log(`[TVMAZE FAIL] ${label} | ${err.message}`)
-                  return null
+                  console.log(`[TVMAZE FAIL] ${label} | ${message} | attempts=${attempts}`)
+                  throw new Error(`TVMaze request failed after ${attempts} attempts: ${label} | ${message}`)
                 }
 
                 const delay = 1000 * attempt + Math.floor(Math.random() * 500)
-                console.log(`[TVMAZE RETRY] ${label} | ${err.message} | attempt=${attempt}/${attempts}`)
+                console.log(`[TVMAZE RETRY] ${label} | ${message} | attempt=${attempt}/${attempts}`)
                 await sleep(delay)
+              } finally {
+                clearTimeout(timeout)
               }
             }
 
-            return null
+            throw new Error(`TVMaze request failed: ${label}`)
           }
 
           function findEpisodeForProgramme(episodes, block) {
@@ -1398,6 +1409,7 @@ jobs:
           async function main() {
             const parts = xml.split(/(<programme\b[\s\S]*?<\/programme>)/gi)
             const out = []
+            const retryQueue = []
 
             for (const part of parts) {
               if (!/^<programme\b/i.test(part)) {
@@ -1427,26 +1439,57 @@ jobs:
               }
 
               stats.searchedShows++
-              const show = await tvmazeSearchShow(title)
+              let matchedShow = false
 
-              if (!show) {
+              try {
+                const show = await tvmazeSearchShow(title)
+
+                if (!show) {
+                  out.push(block)
+                  continue
+                }
+
+                if (tvmazeShowIsMovieLike(show)) {
+                  stats.skippedMovies++
+                  out.push(block)
+                  continue
+                }
+
+                stats.matchedShows++
+                matchedShow = true
+
+                const episodes = await tvmazeEpisodes(show.id)
+                const episode = findEpisodeForProgramme(episodes, block)
+
+                block = enrichBlockMissingOnly(block, show, episode)
                 out.push(block)
-                continue
-              }
-
-              if (tvmazeShowIsMovieLike(show)) {
-                stats.skippedMovies++
+              } catch (err) {
+                console.log(`[TVMAZE DEFER] ${title} | ${err.message}`)
                 out.push(block)
-                continue
+                retryQueue.push({ outIndex: out.length - 1, block, title, matchedShow })
               }
+            }
 
-              stats.matchedShows++
+            if (retryQueue.length) {
+              console.log(`[TVMAZE] retrying ${retryQueue.length} programme(s) that had temporary API failures after a 10-second pause`)
+              await sleep(10000)
 
-              const episodes = await tvmazeEpisodes(show.id)
-              const episode = findEpisodeForProgramme(episodes, block)
+              for (let i = 0; i < retryQueue.length; i++) {
+                const item = retryQueue[i]
+                try {
+                  const show = await tvmazeSearchShow(item.title)
+                  if (!show || tvmazeShowIsMovieLike(show)) continue
 
-              block = enrichBlockMissingOnly(block, show, episode)
-              out.push(block)
+                  if (!item.matchedShow) stats.matchedShows++
+
+                  const episodes = await tvmazeEpisodes(show.id)
+                  const episode = findEpisodeForProgramme(episodes, item.block)
+                  out[item.outIndex] = enrichBlockMissingOnly(item.block, show, episode)
+                  console.log(`[TVMAZE RETRY SUCCESS] ${item.title}`)
+                } catch (err) {
+                  console.log(`[TVMAZE STILL DEFERRED] ${item.title} | ${err.message} | will retry on next scheduled run`)
+                }
+              }
             }
 
             fs.writeFileSync(guidePath, out.join(''))
