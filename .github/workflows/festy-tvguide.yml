@@ -11,6 +11,7 @@ on:
 permissions:
   contents: write
 
+
 jobs:
   build-tvguide-tivimate:
     runs-on: ubuntu-latest
@@ -20,16 +21,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Save previous guide for 48-hour backfill
-        run: |
-          if [ -s guides/tvguidetivimateguide.xml ]; then
-            cp guides/tvguidetivimateguide.xml /tmp/tvguidetivimateguide.previous.xml
-            echo "Saved previous guide for 48-hour historical recovery."
-          else
-            rm -f /tmp/tvguidetivimateguide.previous.xml
-            echo "No previous guide exists; historical recovery will be skipped on this run."
-          fi
 
       - name: Clone IPTV-org EPG engine
         run: |
@@ -1469,137 +1460,6 @@ jobs:
             console.error(err)
             process.exit(1)
           })
-          EOF
-
-      - name: Restore missing programmes from previous 48 hours
-        run: |
-          node <<'EOF'
-          const fs = require('fs')
-
-          const currentPath = 'guides/tvguidetivimateguide.xml'
-          const previousPath = '/tmp/tvguidetivimateguide.previous.xml'
-
-          if (!fs.existsSync(currentPath)) {
-            console.error(`Missing current guide: ${currentPath}`)
-            process.exit(1)
-          }
-
-          if (!fs.existsSync(previousPath)) {
-            console.log('No previous guide available; skipping historical recovery.')
-            process.exit(0)
-          }
-
-          const currentXml = fs.readFileSync(currentPath, 'utf8')
-          const previousXml = fs.readFileSync(previousPath, 'utf8')
-          const now = Date.now()
-          const cutoff = now - 48 * 60 * 60 * 1000
-
-          function getAttr(block, name) {
-            const match = block.match(new RegExp(`\\b${name}="([^"]*)"`, 'i'))
-            return match ? match[1] : ''
-          }
-
-          function parseXmltvTime(value) {
-            const match = String(value || '').match(/^(\d{14})\s*([+-])?(\d{4})?$/)
-            if (!match) return NaN
-
-            const digits = match[1]
-            const year = Number(digits.slice(0, 4))
-            const month = Number(digits.slice(4, 6))
-            const day = Number(digits.slice(6, 8))
-            const hour = Number(digits.slice(8, 10))
-            const minute = Number(digits.slice(10, 12))
-            const second = Number(digits.slice(12, 14))
-            const utc = Date.UTC(year, month - 1, day, hour, minute, second)
-            const offsetText = match[3] || '0000'
-            const offsetHours = Number(offsetText.slice(0, 2))
-            const offsetMinutes = Number(offsetText.slice(2, 4))
-            const offset = (offsetHours * 60 + offsetMinutes) * 60000
-
-            return utc - (match[2] === '-' ? -offset : offset)
-          }
-
-          function getProgrammes(xml) {
-            return xml.match(/<programme\b[\s\S]*?<\/programme>/gi) || []
-          }
-
-          const currentChannels = new Set(
-            [...currentXml.matchAll(/<channel\b([^>]*)>/gi)]
-              .map(match => getAttr(match[1], 'id'))
-              .filter(Boolean)
-          )
-
-          const currentProgrammes = getProgrammes(currentXml)
-          const previousProgrammes = getProgrammes(previousXml)
-          const existingKeys = new Set()
-
-          for (const programme of currentProgrammes) {
-            const channel = getAttr(programme, 'channel')
-            const start = parseXmltvTime(getAttr(programme, 'start'))
-            if (channel && Number.isFinite(start)) existingKeys.add(`${channel}|${start}`)
-          }
-
-          const restored = []
-          let outsideWindow = 0
-          let duplicates = 0
-          let missingChannels = 0
-          let invalidTimes = 0
-
-          for (const programme of previousProgrammes) {
-            const channel = getAttr(programme, 'channel')
-            const start = parseXmltvTime(getAttr(programme, 'start'))
-            const stop = parseXmltvTime(getAttr(programme, 'stop'))
-
-            if (!Number.isFinite(start) || !Number.isFinite(stop)) {
-              invalidTimes++
-              continue
-            }
-
-            if (start >= now || start < cutoff) {
-              outsideWindow++
-              continue
-            }
-
-            if (!currentChannels.has(channel)) {
-              missingChannels++
-              continue
-            }
-
-            const key = `${channel}|${start}`
-            if (existingKeys.has(key)) {
-              duplicates++
-              continue
-            }
-
-            existingKeys.add(key)
-            restored.push(programme)
-          }
-
-          // Keep the guide's programme section chronologically ordered.
-          const allProgrammes = currentProgrammes.concat(restored)
-          allProgrammes.sort((a, b) => {
-            const aStart = parseXmltvTime(getAttr(a, 'start'))
-            const bStart = parseXmltvTime(getAttr(b, 'start'))
-            return aStart - bStart
-          })
-
-          if (restored.length > 0) {
-            const withoutProgrammes = currentXml.replace(/<programme\b[\s\S]*?<\/programme>/gi, '')
-            if (!/<\/tv>\s*$/i.test(withoutProgrammes)) {
-              console.error('Could not find the closing </tv> tag.')
-              process.exit(1)
-            }
-            const updatedXml = withoutProgrammes.replace(/<\/tv>\s*$/i, `\n${allProgrammes.join('\n')}\n</tv>\n`)
-            fs.writeFileSync(currentPath, updatedXml)
-          }
-
-          console.log('48-hour historical recovery complete.')
-          console.log(`Previous programmes examined: ${previousProgrammes.length}`)
-          console.log(`Historical programmes restored: ${restored.length}`)
-          console.log(`Already present in fresh guide: ${duplicates}`)
-          console.log(`Outside the 48-hour window: ${outsideWindow}`)
-          console.log(`Channels absent from fresh guide: ${missingChannels}`)
-          console.log(`Entries with invalid timestamps: ${invalidTimes}`)
           EOF
 
       - name: Validate TiviMate output
