@@ -1763,7 +1763,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Washington_Commanders/Washington_Commanders_vs_San_Francisco_49ers.png" />
   </channel>
   <channel id="1912598">
-    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 5</display-name>
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</display-name>
   </channel>
   <channel id="1912597">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 6</display-name>
@@ -1787,7 +1787,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 12</display-name>
   </channel>
   <channel id="1912590">
-    <display-name>Next | Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 13</display-name>
   </channel>
   <channel id="1912589">
     <display-name>Next | PSG U19 vs. Barcelona U19 | UEFA Youth League | 2026-10-20 | 12:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</display-name>
@@ -2243,7 +2243,7 @@
     <display-name>ENDED | ALCS - CLEVELAND @ TAMPA BAY - GAME 6 | Mon 19 Oct 21:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 12</display-name>
   </channel>
   <channel id="1488471">
-    <display-name>LIVE | PITTSBURGH @ UTAH | Mon 19 Oct 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 13</display-name>
+    <display-name>ENDED | PITTSBURGH @ UTAH | Mon 19 Oct 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 13</display-name>
   </channel>
   <channel id="1488470">
     <display-name>NEXT | SPORTSNET CENTRAL: OCT. 19 | Tue 20 Oct 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 14</display-name>
@@ -4635,7 +4635,7 @@
     <display-name>ENDED | MON, 10/19 - FUTBOL AMERICAS | Mon 19 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
   </channel>
   <channel id="1924707">
-    <display-name>LIVE | PITTSBURGH PENGUINS VS. UTAH MAMMOTH | Mon 19 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
+    <display-name>ENDED | PITTSBURGH PENGUINS VS. UTAH MAMMOTH | Mon 19 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
   </channel>
   <channel id="1924706">
     <display-name>NEXT | NFL PRIMETIME PRESENTED BY MUCINEX | Tue 20 Oct 02:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 24</display-name>
@@ -7587,7 +7587,7 @@
     <display-name>ENDED | MLB LEAD OFF | Mon 19 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 15</display-name>
   </channel>
   <channel id="1896470">
-    <display-name>LIVE | MLB CLOSER | Tue 20 Oct 03:14 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</display-name>
+    <display-name>ENDED | MLB CLOSER | Tue 20 Oct 03:14 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</display-name>
   </channel>
   <channel id="1896456">
     <display-name>NEXT | MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</display-name>
@@ -7622,6 +7622,12 @@
   <channel id="1632703">
     <display-name>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="1893167">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</display-name>
+  </channel>
+  <channel id="1881035">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</display-name>
+  </channel>
   <channel id="284684">
     <display-name>IT: SKY SPORT NBA UHD</display-name>
   </channel>
@@ -7650,6 +7656,9 @@
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
+  <channel id="1884206">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
+  </channel>
   <channel id="293277">
     <display-name>AF: NBA TV</display-name>
   </channel>
@@ -7665,9 +7674,15 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="2152112">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</display-name>
+  </channel>
   <channel id="2152111">
     <display-name>End | Commanders @ 49ers (en castellano) | NFL | 2026-10-20 | 00:15 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Washington_Commanders/Washington_Commanders_vs_San_Francisco_49ers.png" />
+  </channel>
+  <channel id="2152012">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</display-name>
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -7722,7 +7737,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_San_Jose_Sharks.png" />
   </channel>
   <channel id="1810033">
-    <display-name>LIVE | NHL UTAH - PITTSBURGH | Tue 20 Oct 03:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 14</display-name>
+    <display-name>ENDED | NHL UTAH - PITTSBURGH | Tue 20 Oct 03:05 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 14</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1810030">
@@ -7791,7 +7806,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Washington_Commanders/Washington_Commanders_vs_San_Francisco_49ers.png" />
   </channel>
   <channel id="1825986">
-    <display-name>LIVE | NHL: UTAH MAMMOTH - PITTSBURGH PENGUINS | Tue 20 Oct 03:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 17</display-name>
+    <display-name>ENDED | NHL: UTAH MAMMOTH - PITTSBURGH PENGUINS | Tue 20 Oct 03:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 17</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1704138">
@@ -7845,6 +7860,9 @@
     <display-name>NFL: Cowboys @ Packers @ Oct 19 2:10 AM :Disney+ SE  30</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Dallas_Cowboys/Dallas_Cowboys_vs_Green_Bay_Packers.png" />
   </channel>
+  <channel id="1899801">
+    <display-name>End | NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</display-name>
+  </channel>
   <channel id="1863223">
     <display-name>ENDED | NHL NHL ON THE FLY | Mon 19 Oct 12:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</display-name>
   </channel>
@@ -7861,7 +7879,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_San_Jose_Sharks.png" />
   </channel>
   <channel id="1863210">
-    <display-name>LIVE | NHL UTAH - PITTSBURGH | Tue 20 Oct 03:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17</display-name>
+    <display-name>ENDED | NHL UTAH - PITTSBURGH | Tue 20 Oct 03:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1863202">
@@ -8091,7 +8109,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_San_Jose_Sharks.png" />
   </channel>
   <channel id="1126467">
-    <display-name>LIVE | NHL UTAH - PITTSBURGH | Mon 19 Oct 21:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 5</display-name>
+    <display-name>ENDED | NHL UTAH - PITTSBURGH | Mon 19 Oct 21:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 5</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1126466">
@@ -78896,123 +78914,123 @@ Monday 10/19/2026 - 8:15 PM</desc>
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022000000 -0400" stop="20261022030000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022030000 -0400" stop="20261022060000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022060000 -0400" stop="20261022090000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022090000 -0400" stop="20261022120000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022120000 -0400" stop="20261022150000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022180000 -0400" stop="20261022210000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022210000 -0400" stop="20261023000000 -0400" channel="1912598">
-    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1912597">
@@ -79856,123 +79874,123 @@ Tuesday 10/20/2026</desc>
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022000000 -0400" stop="20261022030000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022030000 -0400" stop="20261022060000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022060000 -0400" stop="20261022090000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022090000 -0400" stop="20261022120000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022120000 -0400" stop="20261022150000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022180000 -0400" stop="20261022210000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261022210000 -0400" stop="20261023000000 -0400" channel="1912590">
-    <title>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Ningbo Open: Day 2 | Ningbo Open Women Single | 2026-10-20 | 05:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1912589">
@@ -305395,6 +305413,246 @@ Tuesday 10/20/2026</desc>
     <desc>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ
 Tuesday 10/20/2026</desc>
   </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022000000 -0400" stop="20261022030000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022030000 -0400" stop="20261022060000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022060000 -0400" stop="20261022090000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022090000 -0400" stop="20261022120000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022120000 -0400" stop="20261022150000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022180000 -0400" stop="20261022210000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022210000 -0400" stop="20261023000000 -0400" channel="1893167">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022000000 -0400" stop="20261022030000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022030000 -0400" stop="20261022060000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022060000 -0400" stop="20261022090000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022090000 -0400" stop="20261022120000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022120000 -0400" stop="20261022150000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022180000 -0400" stop="20261022210000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022210000 -0400" stop="20261023000000 -0400" channel="1881035">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="284684">
     <title>IT: SKY SPORT NBA UHD</title>
     <desc>IT: SKY SPORT NBA UHD
@@ -306475,6 +306733,126 @@ Tuesday 10/20/2026</desc>
     <desc>VIP: NBA TV
 Tuesday 10/20/2026</desc>
   </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022000000 -0400" stop="20261022030000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022030000 -0400" stop="20261022060000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022060000 -0400" stop="20261022090000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022090000 -0400" stop="20261022120000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022120000 -0400" stop="20261022150000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022180000 -0400" stop="20261022210000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022210000 -0400" stop="20261023000000 -0400" channel="1884206">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="293277">
     <title>AF: NBA TV</title>
     <desc>AF: NBA TV
@@ -307075,6 +307453,126 @@ Tuesday 10/20/2026</desc>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Tuesday 10/20/2026</desc>
   </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022000000 -0400" stop="20261022030000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022030000 -0400" stop="20261022060000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022060000 -0400" stop="20261022090000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022090000 -0400" stop="20261022120000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022120000 -0400" stop="20261022150000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022180000 -0400" stop="20261022210000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022210000 -0400" stop="20261023000000 -0400" channel="2152112">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="2152111">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
@@ -307194,6 +307692,126 @@ Monday 10/19/2026 - 8:15 PM</desc>
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022000000 -0400" stop="20261022030000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022030000 -0400" stop="20261022060000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022060000 -0400" stop="20261022090000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022090000 -0400" stop="20261022120000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022120000 -0400" stop="20261022150000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022180000 -0400" stop="20261022210000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022210000 -0400" stop="20261023000000 -0400" channel="2152012">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
@@ -312844,6 +313462,126 @@ Sunday 10/18/2026 - 8:20 PM</desc>
     <title>Post Game: Dallas Cowboys vs. Green Bay Packers - 8:20 PM</title>
     <desc>Dallas Cowboys vs. Green Bay Packers
 Sunday 10/18/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022000000 -0400" stop="20261022030000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022030000 -0400" stop="20261022060000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022060000 -0400" stop="20261022090000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022090000 -0400" stop="20261022120000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022120000 -0400" stop="20261022150000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022180000 -0400" stop="20261022210000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
+  </programme>
+  <programme start="20261022210000 -0400" stop="20261023000000 -0400" channel="1899801">
+    <title>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1</title>
+    <desc>NFL GameDay Final | NFL Game Pass | 2026-10-20 | 03:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1863223">
     <title>NHL NHL ON THE FLY | Mon 19 Oct 12:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
