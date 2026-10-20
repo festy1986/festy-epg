@@ -4624,10 +4624,10 @@
     <display-name>LIVE | SAN JOSE SHARKS VS. TORONTO MAPLE LEAFS | Mon 19 Oct 19:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
   </channel>
   <channel id="1924708">
-    <display-name>NEXT | MON, 10/19 - FUTBOL AMERICAS | Mon 19 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
+    <display-name>LIVE | MON, 10/19 - FUTBOL AMERICAS | Mon 19 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
   </channel>
   <channel id="1924707">
-    <display-name>NEXT | PITTSBURGH PENGUINS VS. UTAH MAMMOTH | Mon 19 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
+    <display-name>LIVE | PITTSBURGH PENGUINS VS. UTAH MAMMOTH | Mon 19 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
   </channel>
   <channel id="1924706">
     <display-name>NEXT | NFL PRIMETIME PRESENTED BY MUCINEX | Tue 20 Oct 02:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 24</display-name>
@@ -7657,8 +7657,8 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="2152105">
-    <display-name>Next | Commanders @ 49ers (en castellano) | NFL | 2026-10-20 | 00:15 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 8</display-name>
+  <channel id="2152112">
+    <display-name>Live | Commanders @ 49ers (en castellano) | NFL | 8K EXCLUSIVE | ES: DAZN PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Washington_Commanders/Washington_Commanders_vs_San_Francisco_49ers.png" />
   </channel>
   <channel id="1695190">
@@ -7805,6 +7805,10 @@
   <channel id="1704134">
     <display-name>NHL: Utah Mammoth vs Pittsburgh Penguins @ Oct 20 03:05 :TeliaPlay SE  18</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Pittsburgh_Penguins.png" />
+  </channel>
+  <channel id="1098709">
+    <display-name>LIVE | NFL: COMMANDERS @ 49ERS | Tue 20 Oct 02:00 CEST (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 2</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Washington_Commanders/Washington_Commanders_vs_San_Francisco_49ers.png" />
   </channel>
   <channel id="1801853">
     <display-name>NFL: Texans @ Jaguars @ Oct 18 3:20 PM :Disney+ SE  07</display-name>
@@ -307068,127 +307072,127 @@ Monday 10/19/2026</desc>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Monday 10/19/2026</desc>
   </programme>
-  <programme start="20261019000000 -0400" stop="20261019030000 -0400" channel="2152105">
+  <programme start="20261019000000 -0400" stop="20261019030000 -0400" channel="2152112">
     <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261019030000 -0400" stop="20261019060000 -0400" channel="2152105">
+  <programme start="20261019030000 -0400" stop="20261019060000 -0400" channel="2152112">
     <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261019060000 -0400" stop="20261019090000 -0400" channel="2152105">
+  <programme start="20261019060000 -0400" stop="20261019090000 -0400" channel="2152112">
     <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261019090000 -0400" stop="20261019120000 -0400" channel="2152105">
+  <programme start="20261019090000 -0400" stop="20261019120000 -0400" channel="2152112">
     <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261019120000 -0400" stop="20261019150000 -0400" channel="2152105">
+  <programme start="20261019120000 -0400" stop="20261019150000 -0400" channel="2152112">
     <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261019150000 -0400" stop="20261019180000 -0400" channel="2152105">
+  <programme start="20261019150000 -0400" stop="20261019180000 -0400" channel="2152112">
     <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261019180000 -0400" stop="20261019201500 -0400" channel="2152105">
+  <programme start="20261019180000 -0400" stop="20261019201500 -0400" channel="2152112">
     <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261019201500 -0400" stop="20261019231500 -0400" channel="2152105">
+  <programme start="20261019201500 -0400" stop="20261019231500 -0400" channel="2152112">
     <title>Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261019231500 -0400" stop="20261020000000 -0400" channel="2152105">
+  <programme start="20261019231500 -0400" stop="20261020000000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="2152105">
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="2152105">
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="2152105">
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="2152105">
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="2152105">
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="2152105">
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="2152105">
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="2152105">
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="2152105">
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="2152105">
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="2152105">
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="2152105">
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="2152105">
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="2152105">
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="2152105">
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="2152105">
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="2152112">
     <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
     <desc>Washington Commanders vs. San Francisco 49ers
 Monday 10/19/2026 - 8:15 PM</desc>
@@ -311902,6 +311906,131 @@ Monday 10/19/2026 - 9:00 PM</desc>
     <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 9:00 PM</title>
     <desc>Utah Mammoth vs. Pittsburgh Penguins
 Monday 10/19/2026 - 9:00 PM</desc>
+  </programme>
+  <programme start="20261019000000 -0400" stop="20261019030000 -0400" channel="1098709">
+    <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261019030000 -0400" stop="20261019060000 -0400" channel="1098709">
+    <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261019060000 -0400" stop="20261019090000 -0400" channel="1098709">
+    <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261019090000 -0400" stop="20261019120000 -0400" channel="1098709">
+    <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261019120000 -0400" stop="20261019150000 -0400" channel="1098709">
+    <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261019150000 -0400" stop="20261019180000 -0400" channel="1098709">
+    <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261019180000 -0400" stop="20261019201500 -0400" channel="1098709">
+    <title>Upcoming: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261019201500 -0400" stop="20261019231500 -0400" channel="1098709">
+    <title>Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261019231500 -0400" stop="20261020000000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1098709">
+    <title>Post Game: Washington Commanders vs. San Francisco 49ers - 8:15 PM</title>
+    <desc>Washington Commanders vs. San Francisco 49ers
+Monday 10/19/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261019000000 -0400" stop="20261019030000 -0400" channel="1801853">
     <title>Post Game: Houston Texans vs. Jacksonville Jaguars - 9:30 AM</title>
