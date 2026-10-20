@@ -2238,7 +2238,7 @@
     <display-name>LIVE | SAN JOSE @ TORONTO | Mon 19 Oct 20:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 11</display-name>
   </channel>
   <channel id="1488472">
-    <display-name>NEXT | ALCS - CLEVELAND @ TAMPA BAY - GAME 6 | Mon 19 Oct 21:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 12</display-name>
+    <display-name>LIVE | ALCS - CLEVELAND @ TAMPA BAY - GAME 6 | Mon 19 Oct 21:00 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 12</display-name>
   </channel>
   <channel id="1488471">
     <display-name>NEXT | PITTSBURGH @ UTAH | Mon 19 Oct 22:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 13</display-name>
@@ -7576,7 +7576,13 @@
     <display-name>AF: NBA TV ᴿᴬᵂ</display-name>
   </channel>
   <channel id="1896471">
-    <display-name>NEXT | MLB LEAD OFF | Mon 19 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 15</display-name>
+    <display-name>LIVE | MLB LEAD OFF | Mon 19 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 15</display-name>
+  </channel>
+  <channel id="1896470">
+    <display-name>NEXT | MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</display-name>
+  </channel>
+  <channel id="1896456">
+    <display-name>NEXT | MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</display-name>
   </channel>
   <channel id="1565560">
     <display-name>JOYN: NFL NETWORK ᴿᴬᵂ</display-name>
@@ -7704,7 +7710,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Anaheim_Ducks.png" />
   </channel>
   <channel id="1810034">
-    <display-name>NEXT | NHL TORONTO - SAN JOSE | Tue 20 Oct 01:35 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 13</display-name>
+    <display-name>LIVE | NHL TORONTO - SAN JOSE | Tue 20 Oct 01:35 CEST (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 13</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_San_Jose_Sharks.png" />
   </channel>
   <channel id="1810033">
@@ -7769,11 +7775,11 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Colorado_Avalanche.png" />
   </channel>
   <channel id="1825988">
-    <display-name>NEXT | NHL: TORONTO MAPLE LEAFS - SAN JOSE SHARKS | Tue 20 Oct 01:35 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 15</display-name>
+    <display-name>LIVE | NHL: TORONTO MAPLE LEAFS - SAN JOSE SHARKS | Tue 20 Oct 01:35 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 15</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_San_Jose_Sharks.png" />
   </channel>
   <channel id="1825987">
-    <display-name>NEXT | NFL: COMMANDERS @ 49ERS | Tue 20 Oct 01:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 16</display-name>
+    <display-name>LIVE | NFL: COMMANDERS @ 49ERS | Tue 20 Oct 01:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 16</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Washington_Commanders/Washington_Commanders_vs_San_Francisco_49ers.png" />
   </channel>
   <channel id="1825986">
@@ -7839,7 +7845,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Anaheim_Ducks.png" />
   </channel>
   <channel id="1863211">
-    <display-name>NEXT | NHL TORONTO - SAN JOSE | Tue 20 Oct 01:35 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 16</display-name>
+    <display-name>LIVE | NHL TORONTO - SAN JOSE | Tue 20 Oct 01:35 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 16</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_San_Jose_Sharks.png" />
   </channel>
   <channel id="1863210">
@@ -8069,7 +8075,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Anaheim_Ducks.png" />
   </channel>
   <channel id="1126468">
-    <display-name>NEXT | NHL TORONTO - SAN JOSE | Mon 19 Oct 19:35 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 4</display-name>
+    <display-name>LIVE | NHL TORONTO - SAN JOSE | Mon 19 Oct 19:35 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 4</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_San_Jose_Sharks.png" />
   </channel>
   <channel id="1126467">
@@ -303940,6 +303946,246 @@ Friday 10/23/2026</desc>
   <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1896471">
     <title>MLB LEAD OFF | Mon 19 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 15</title>
     <desc>MLB LEAD OFF | Mon 19 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 15
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261019000000 -0400" stop="20261019030000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261019030000 -0400" stop="20261019060000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261019060000 -0400" stop="20261019090000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261019090000 -0400" stop="20261019120000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261019120000 -0400" stop="20261019150000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261019150000 -0400" stop="20261019180000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261019180000 -0400" stop="20261019210000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261019210000 -0400" stop="20261020000000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1896470">
+    <title>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16</title>
+    <desc>MLB CLOSER | Tue 20 Oct 03:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 16
+Saturday 10/03/2026</desc>
+  </programme>
+  <programme start="20261019000000 -0400" stop="20261019030000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261019030000 -0400" stop="20261019060000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261019060000 -0400" stop="20261019090000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261019090000 -0400" stop="20261019120000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261019120000 -0400" stop="20261019150000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261019150000 -0400" stop="20261019180000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261019180000 -0400" stop="20261019210000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261019210000 -0400" stop="20261020000000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261020000000 -0400" stop="20261020030000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261020030000 -0400" stop="20261020060000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261020060000 -0400" stop="20261020090000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261020090000 -0400" stop="20261020120000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261020120000 -0400" stop="20261020150000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020210000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261021000000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021030000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261021030000 -0400" stop="20261021060000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021090000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261021090000 -0400" stop="20261021120000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261021120000 -0400" stop="20261021150000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261021180000 -0400" stop="20261021210000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
+Friday 10/23/2026</desc>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261022000000 -0400" channel="1896456">
+    <title>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30</title>
+    <desc>MLB LEAD OFF | Tue 20 Oct 23:30 UTC (UK) | 8K EXCLUSIVE | UK: MAX PPV 30
 Friday 10/23/2026</desc>
   </programme>
   <programme start="20261019000000 -0400" stop="20261019030000 -0400" channel="1565560">
