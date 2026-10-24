@@ -564,7 +564,7 @@ jobs:
             export CURR_DATE="${EASTERN_YESTERDAY}T12:00:00Z"
 
             set +e
-            npx tsx scripts/commands/epg/grab.ts \
+            npm run grab -- \
               --channels=sites/tvpassport.com/festy-tvpassport.channels.xml \
               --output="../guides/TVPassport.${PASS_NAME}.xml" \
               --days=15 \
