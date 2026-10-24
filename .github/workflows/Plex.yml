@@ -484,7 +484,7 @@ jobs:
             echo "============================================================"
 
             set +e
-            npx tsx scripts/commands/epg/grab.ts \
+            npm run grab -- \
               --channels=../guides/plex.xml \
               --output="../guides/Plex.${PASS_NAME}.xml" \
               --days=17 \
