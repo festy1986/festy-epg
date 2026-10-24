@@ -715,7 +715,7 @@ jobs:
             export TVGUIDE_SCHEDULE_TIMEOUT="$SCHEDULE_TIMEOUT"
 
             set +e
-            npx tsx scripts/commands/epg/grab.ts \
+            npm run grab -- \
               --channels=sites/tvguide.com/festy-tivimate.channels.xml \
               --output="../guides/tvguidetivimateguide.${PASS_NAME}.xml" \
               --days=14 \
