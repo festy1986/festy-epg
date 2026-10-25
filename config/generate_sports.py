@@ -3250,7 +3250,13 @@ def find_public_event(
                         "display_name": display_name,
                         "short_name": short_name,
                         "location": location,
-                        "nickname": nickname
+                        "nickname": nickname,
+                        "home_away": clean_text(
+                            competitor.get(
+                                "homeAway",
+                                ""
+                            )
+                        ).lower()
                     }
                 )
 
@@ -3579,9 +3585,61 @@ def find_public_event(
             "public_events_success"
         ] += 2
 
-        return {
+        # Use ESPN's explicit away/home order for the matchup shared
+        # by both games in this doubleheader, when available.
+        doubleheader_teams = target_events[0].get(
+            "event_teams",
+            []
+        )
+
+        doubleheader_away = next(
+            (
+                team
+                for team in doubleheader_teams
+                if team.get("home_away") == "away"
+            ),
+            None
+        )
+
+        doubleheader_home = next(
+            (
+                team
+                for team in doubleheader_teams
+                if team.get("home_away") == "home"
+            ),
+            None
+        )
+
+        doubleheader_matchup = None
+
+        if doubleheader_away and doubleheader_home:
+            away_name = canonicalize_team_name(
+                doubleheader_away.get("display_name")
+                or doubleheader_away.get("short_name")
+                or doubleheader_away.get("nickname"),
+                league_hint
+            )
+
+            home_name = canonicalize_team_name(
+                doubleheader_home.get("display_name")
+                or doubleheader_home.get("short_name")
+                or doubleheader_home.get("nickname"),
+                league_hint
+            )
+
+            if away_name and home_name:
+                doubleheader_matchup = (
+                    f"{away_name} vs. {home_name}"
+                )
+
+        result = {
             "doubleheader_datetimes": doubleheader_datetimes
         }
+
+        if doubleheader_matchup:
+            result["matchup"] = doubleheader_matchup
+
+        return result
 
 
     # If there is still no date-specific set, preserve normal
@@ -3878,6 +3936,56 @@ def find_public_event(
     ]
 
 
+    # ESPN's scoreboard is the final authority for matchup order:
+    # away team first, then home team. This same order is used for
+    # the guide title and the ordered matchup-logo lookup.
+    away_team = next(
+        (
+            team
+            for team in event_teams
+            if team.get("home_away") == "away"
+        ),
+        None
+    )
+
+    home_team = next(
+        (
+            team
+            for team in event_teams
+            if team.get("home_away") == "home"
+        ),
+        None
+    )
+
+    espn_matchup = None
+
+    if away_team and home_team:
+        away_name = canonicalize_team_name(
+            away_team.get("display_name")
+            or away_team.get("short_name")
+            or away_team.get("nickname"),
+            league_hint
+        )
+
+        home_name = canonicalize_team_name(
+            home_team.get("display_name")
+            or home_team.get("short_name")
+            or home_team.get("nickname"),
+            league_hint
+        )
+
+        if away_name and home_name:
+            espn_matchup = (
+                f"{away_name} vs. {home_name}"
+            )
+
+            print()
+            print("[ESPN AUTHORITATIVE TEAM ORDER]")
+            print(f"  Away: {away_name}")
+            print(f"  Home: {home_name}")
+            print(f"  Final matchup: {espn_matchup}")
+
+
     public_api_matches += 1
 
 
@@ -3917,10 +4025,16 @@ def find_public_event(
     )
 
 
-    # ESPN supplies only the verified datetime.
-    return {
+    # ESPN supplies the verified datetime and, when the scoreboard
+    # exposes homeAway values, the authoritative away/home matchup.
+    result = {
         "datetime": event_datetime
     }
+
+    if espn_matchup:
+        result["matchup"] = espn_matchup
+
+    return result
 
 
 # --------------------------------------------------
@@ -5300,8 +5414,29 @@ def build_event_info(
 
 
     # --------------------------------------------------
+    # STEP 6A:
+    # If ESPN matched this game and supplies an explicit away/home
+    # order, replace the provider's order before selecting the logo
+    # or composing the final guide title/description.
+    # --------------------------------------------------
+
+    if public_event and public_event.get("matchup"):
+
+        canonical_matchup = public_event["matchup"]
+
+        title_text = canonical_matchup
+
+        description_text = (
+            f"{canonical_matchup}\n"
+            f"{preferred_date.strftime('%A')} "
+            f"{preferred_date.strftime('%m/%d/%Y')}"
+        )
+
+
+    # --------------------------------------------------
     # STEP 7:
-    # Find the matchup logo using OUR cleaned matchup.
+    # Find the matchup logo using the ESPN-verified order when
+    # available; otherwise retain the original cleaned provider order.
     # --------------------------------------------------
 
     logo_url = None
@@ -5339,7 +5474,10 @@ def build_event_info(
 
                 corrected_matchup, corrected_event = recovered
 
-                canonical_matchup = corrected_matchup
+                canonical_matchup = (
+                    corrected_event.get("matchup")
+                    or corrected_matchup
+                )
 
                 public_event = corrected_event
 
