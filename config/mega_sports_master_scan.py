@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-"""MEGA Xtream sports scanner: USA, UK and Canada master list."""
+"""Temporary MEGA Xtream scanner for USA, UK and Canada sports channels."""
 
 import csv
 import json
@@ -10,119 +10,114 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse, urlunparse
+from urllib.parse import urlparse
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
+# GitHub Actions repository secrets
 BASE_URL = os.environ.get("MEGA_XTREAM_URL", "").strip().rstrip("/")
 USERNAME = os.environ.get("MEGA_XTREAM_USERNAME", "").strip()
 PASSWORD = os.environ.get("MEGA_XTREAM_PASSWORD", "")
 
-OUT = Path("mega-sports-master")
-CONNECT_TIMEOUT = 15
-READ_TIMEOUT = 45
-MAX_ATTEMPTS = 3
+OUTPUT_DIR = Path("mega-sports-master")
+TIMEOUT = (15, 90)
+MAX_ATTEMPTS = 4
 
 if not BASE_URL or not USERNAME or not PASSWORD:
     sys.exit(
-        "Missing one or more MEGA_XTREAM_* secrets. "
-        "Credential values are not printed."
+        "ERROR: Missing MEGA_XTREAM_URL, MEGA_XTREAM_USERNAME, "
+        "or MEGA_XTREAM_PASSWORD repository secrets. Values are hidden."
     )
 
-# Add a scheme if the saved URL does not contain one.
-if not re.match(r"^https?://", BASE_URL, flags=re.I):
+if not re.match(r"^https?://", BASE_URL, re.I):
     BASE_URL = "http://" + BASE_URL
 
-# Build the Xtream API endpoint without duplicating player_api.php.
 parsed = urlparse(BASE_URL)
-
 if not parsed.hostname:
-    sys.exit(
-        "MEGA_XTREAM_URL is invalid. Check the saved server URL."
-    )
+    sys.exit("ERROR: MEGA_XTREAM_URL is not a valid server URL.")
 
-if parsed.scheme.lower() not in ("http", "https"):
-    sys.exit("MEGA_XTREAM_URL must use HTTP or HTTPS.")
-
-path = parsed.path.rstrip("/")
-
-if path.lower().endswith("/player_api.php") or path.lower() == "player_api.php":
-    api_path = path
-else:
-    api_path = path + "/player_api.php"
-
-API_URL = urlunparse(
-    (parsed.scheme, parsed.netloc, api_path, "", "", "")
-)
+# The provider's working API endpoint is /player_api.php.
+# Do not add credentials to the URL manually; requests encodes them safely.
+API_URL = BASE_URL + "/player_api.php"
 
 SPORT_WORDS = re.compile(
-    r"\b(sports?|mlb|nba|nfl|nhl|hockey|baseball|basketball|football|soccer|"
+    r"\b("
+    r"sports?|mlb|nba|nfl|nhl|hockey|baseball|basketball|football|soccer|"
     r"rugby|cricket|tennis|golf|motorsports?|racing|boxing|ufc|mma|wwe|"
-    r"espn|fox sports|sky sports|tsn|sportsnet|dazn|be[in]? sports|ppv|"
-    r"league pass|redzone|fight|olympics?)\b",
-    re.I,
-)
-
-COUNTRY_PREFIX = re.compile(
-    r"(?:^|\b)(?:US|USA|UK|CA|CANADA|UNITED STATES|UNITED KINGDOM)"
-    r"(?:\s*[:/|\-]|\b)",
+    r"espn|fox\s*sports|sky\s*sports|tsn|sportsnet|dazn|be[in]?\s*sports|"
+    r"ppv|league\s*pass|redzone|fight|olympics?|nascar|formula\s*1|f1|"
+    r"college\s*(football|basketball)|ufc|wta|atp|mls|pga|nhl|wnba"
+    r")\b",
     re.I,
 )
 
 COUNTRY_WORDS = re.compile(
-    r"\b(?:US|USA|UK|CA|CANADA|UNITED STATES|UNITED KINGDOM)\b",
+    r"\b("
+    r"US|USA|U\.S\.A\.?|United States|America|"
+    r"UK|U\.K\.|United Kingdom|Britain|British|"
+    r"CA|CAN|Canada|Canadian"
+    r")\b",
     re.I,
 )
 
-session = requests.Session()
-session.headers.update({
-    "User-Agent": (
-        "Mozilla/5.0 (compatible; MEGA-Sports-Master-Scanner/1.1)"
-    ),
-    "Accept": "application/json, text/plain, */*",
-})
+COUNTRY_PREFIX = re.compile(
+    r"^\s*(?:US|USA|UK|CA|CAN|CANADA|"
+    r"UNITED STATES|UNITED KINGDOM)"
+    r"\s*(?:[:/\-_|]|\b)",
+    re.I,
+)
 
 
-def api_get(params=None):
-    """Request the Xtream API with bounded retries and safe diagnostics."""
+def make_session():
+    """Create a session with conservative retries for transient resets."""
+    session = requests.Session()
+    retry = Retry(
+        total=MAX_ATTEMPTS - 1,
+        connect=MAX_ATTEMPTS - 1,
+        read=MAX_ATTEMPTS - 1,
+        status=MAX_ATTEMPTS - 1,
+        backoff_factor=2,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset(["GET"]),
+        respect_retry_after_header=True,
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry, pool_connections=1, pool_maxsize=1)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    session.headers.update({
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) "
+                      "AppleWebKit/537.36 Chrome/131.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Connection": "close",
+    })
+    return session
 
-    query = {
+
+SESSION = make_session()
+
+
+def api_get(action=None):
+    """Call the API using the same parameter pattern as the working login link."""
+    params = {
         "username": USERNAME,
         "password": PASSWORD,
     }
+    if action:
+        params["action"] = action
 
-    if params:
-        query.update(params)
+    last_error = None
 
     for attempt in range(1, MAX_ATTEMPTS + 1):
         try:
-            response = session.get(
+            response = SESSION.get(
                 API_URL,
-                params=query,
-                timeout=(CONNECT_TIMEOUT, READ_TIMEOUT),
+                params=params,
+                timeout=TIMEOUT,
+                allow_redirects=True,
             )
-
-            if response.status_code in (429, 500, 502, 503, 504):
-                if attempt < MAX_ATTEMPTS:
-                    delay = 2 ** (attempt - 1)
-                    print(
-                        f"MEGA API returned HTTP {response.status_code}. "
-                        f"Retrying in {delay}s "
-                        f"(attempt {attempt}/{MAX_ATTEMPTS})."
-                    )
-                    time.sleep(delay)
-                    continue
-
-                raise RuntimeError(
-                    f"MEGA API returned HTTP {response.status_code} "
-                    f"after {MAX_ATTEMPTS} attempts."
-                )
-
-            if response.status_code in (401, 403):
-                raise RuntimeError(
-                    f"MEGA API returned HTTP {response.status_code}. "
-                    "Access was denied. Verify the endpoint and provider access."
-                )
 
             response.raise_for_status()
 
@@ -130,271 +125,239 @@ def api_get(params=None):
                 data = response.json()
             except ValueError:
                 raise RuntimeError(
-                    "MEGA API returned a non-JSON response "
-                    f"(HTTP {response.status_code}). "
-                    "Check the API endpoint and provider response."
-                ) from None
+                    "The MEGA API returned a non-JSON response."
+                )
 
             if isinstance(data, dict):
                 info = data.get("user_info", {})
-
-                if isinstance(info, dict):
-                    auth = str(info.get("auth", "1")).lower()
-
-                    if auth in ("0", "false"):
-                        raise RuntimeError(
-                            "MEGA API responded but rejected authentication. "
-                            "Verify the saved credentials."
-                        )
-
-                message = str(data.get("message", "")).lower()
-
-                if message in (
-                    "invalid credentials",
-                    "authentication failed",
-                    "invalid username or password",
+                if isinstance(info, dict) and str(info.get("auth", "1")).lower() in (
+                    "0", "false"
                 ):
                     raise RuntimeError(
-                        "MEGA API responded but rejected authentication. "
-                        "Verify the saved credentials."
+                        "MEGA rejected authentication. Check the saved secrets."
                     )
 
             return data
 
-        except (requests.exceptions.ConnectionError,
-                requests.exceptions.Timeout) as exc:
-
+        except RuntimeError:
+            raise
+        except requests.exceptions.RequestException as exc:
+            last_error = exc
             if attempt < MAX_ATTEMPTS:
-                delay = 2 ** (attempt - 1)
-
+                wait = min(2 ** attempt, 15)
                 print(
-                    f"MEGA connection failed ({type(exc).__name__}). "
-                    f"Retrying in {delay}s "
-                    f"(attempt {attempt}/{MAX_ATTEMPTS})."
+                    f"Connection attempt {attempt}/{MAX_ATTEMPTS} failed "
+                    f"({type(exc).__name__}). Retrying in {wait}s..."
                 )
-                time.sleep(delay)
-                continue
+                time.sleep(wait)
 
-            raise RuntimeError(
-                f"Could not connect to the MEGA API after "
-                f"{MAX_ATTEMPTS} attempts ({type(exc).__name__}). "
-                "The connection failure does not prove the credentials "
-                "are incorrect. Check provider availability, endpoint "
-                "configuration, and GitHub runner connectivity."
-            ) from None
+    raise RuntimeError(
+        "Could not reach the MEGA API after "
+        f"{MAX_ATTEMPTS} attempts ({type(last_error).__name__}). "
+        "The login URL may work from your browser while the GitHub runner "
+        "is unable to establish a connection. Credentials are not printed."
+    )
+
+
+def as_list(data, description):
+    if not isinstance(data, list):
+        raise RuntimeError(
+            f"MEGA did not return a valid {description} list."
+        )
+    return data
 
 
 def main():
-    print(
-        "Connecting to MEGA Xtream API "
-        "(credential values are hidden)..."
-    )
+    print("Connecting to MEGA Xtream API.")
+    print(f"API host: {parsed.hostname}")
+    print("Credentials are hidden from logs.")
 
-    # Standard Xtream account-info request: no action parameter.
+    # Match the known-working account-info request: no action parameter.
     account = api_get()
 
     if not isinstance(account, dict):
-        sys.exit(
-            "MEGA API responded, but the account response was not "
-            "a JSON object. Check endpoint compatibility."
+        sys.exit("ERROR: Unexpected response from the MEGA account endpoint.")
+
+    user_info = account.get("user_info", {})
+    if not isinstance(user_info, dict) or str(
+        user_info.get("auth", "0")
+    ) != "1":
+        sys.exit("ERROR: MEGA authentication was not confirmed.")
+
+    print("MEGA authentication confirmed.")
+
+    # Fetch categories and streams independently so logs identify the failure.
+    try:
+        categories = as_list(
+            api_get("get_live_categories"), "live-category"
         )
+        print(f"Live categories received: {len(categories)}")
+    except Exception as exc:
+        sys.exit(f"ERROR fetching live categories: {exc}")
 
-    info = account.get("user_info", {})
-
-    if isinstance(info, dict):
-        auth = str(info.get("auth", "1")).lower()
-
-        if auth in ("0", "false"):
-            sys.exit(
-                "MEGA authentication failed. Verify the repository secrets."
-            )
-
-    print("Account endpoint responded.")
-
-    categories = api_get({"action": "get_live_categories"})
-    streams = api_get({"action": "get_live_streams"})
-
-    if not isinstance(categories, list):
-        sys.exit("Provider did not return a live-category list.")
-
-    if not isinstance(streams, list):
-        sys.exit("Provider did not return a live-stream list.")
+    try:
+        streams = as_list(
+            api_get("get_live_streams"), "live-stream"
+        )
+        print(f"Live streams received: {len(streams)}")
+    except Exception as exc:
+        sys.exit(f"ERROR fetching live streams: {exc}")
 
     category_map = {}
-
-    for cat in categories:
-        if not isinstance(cat, dict):
+    for category in categories:
+        if not isinstance(category, dict):
             continue
 
-        cid = str(cat.get("category_id", "")).strip()
-        name = str(cat.get("category_name", "")).strip()
+        category_id = str(category.get("category_id", "")).strip()
+        category_name = str(category.get("category_name", "")).strip()
 
-        if cid:
-            category_map[cid] = name or "(unnamed category)"
+        if category_id:
+            category_map[category_id] = category_name or "(unnamed category)"
 
-    # Find sports categories associated with USA, UK or Canada.
+    # Find categories explicitly identified as both a supported country
+    # and a sports group. Names may change, so matching is name-based.
     selected_categories = {}
+    for category_id, category_name in category_map.items():
+        if COUNTRY_WORDS.search(category_name) and SPORT_WORDS.search(
+            category_name
+        ):
+            selected_categories[category_id] = category_name
 
-    for cid, name in category_map.items():
-        has_country = bool(
-            COUNTRY_PREFIX.search(name) or COUNTRY_WORDS.search(name)
-        )
-        has_sports = bool(SPORT_WORDS.search(name))
-
-        if has_country and has_sports:
-            selected_categories[cid] = name
-
-    # Also include country/sport matches in channel names when the
-    # provider uses a generic category label.
     records = []
-
     for stream in streams:
         if not isinstance(stream, dict):
             continue
 
-        sid = str(
+        stream_id = str(
             stream.get("stream_id", stream.get("id", ""))
         ).strip()
-
-        name = str(
+        channel_name = str(
             stream.get("name", stream.get("stream_name", ""))
         ).strip()
+        category_id = str(stream.get("category_id", "")).strip()
+        category_name = category_map.get(category_id, "(unknown category)")
 
-        cid = str(stream.get("category_id", "")).strip()
+        if not channel_name:
+            continue
 
-        category_name = category_map.get(
-            cid, "(unknown category)"
-        )
+        category_match = category_id in selected_categories
+        searchable = f"{category_name} {channel_name}"
+        country_match = bool(COUNTRY_WORDS.search(searchable))
+        sports_match = bool(SPORT_WORDS.search(searchable))
 
-        searchable = f"{category_name} {name}"
+        # Include every channel in a selected country/sports category.
+        # Also catch channels whose own names indicate a country and sport,
+        # even when the provider has placed them in a generic category.
+        if not category_match and not (country_match and sports_match):
+            continue
 
-        has_country = bool(
-            COUNTRY_PREFIX.search(searchable)
-            or COUNTRY_WORDS.search(searchable)
-        )
+        records.append({
+            "category_id": category_id,
+            "category_name": category_name,
+            "stream_id": stream_id,
+            "channel_name": channel_name,
+            "epg_channel_id": str(
+                stream.get("epg_channel_id", "") or ""
+            ),
+            "stream_icon": str(stream.get("stream_icon", "") or ""),
+            "country_sports_group_match": category_match,
+        })
 
-        has_sports = bool(SPORT_WORDS.search(searchable))
-
-        if cid in selected_categories or (has_country and has_sports):
-            records.append({
-                "category_id": cid,
-                "category_name": category_name,
-                "stream_id": sid,
-                "channel_name": name,
-                "country_sports_group_match": (
-                    cid in selected_categories
-                ),
-                "stream_icon": str(
-                    stream.get("stream_icon", "") or ""
-                ),
-                "epg_channel_id": str(
-                    stream.get("epg_channel_id", "") or ""
-                ),
-            })
-
-    # Stable ordering while preserving the provider's IDs.
     records.sort(
-        key=lambda r: (
-            r["category_name"].casefold(),
-            r["channel_name"].casefold(),
-            r["stream_id"],
+        key=lambda item: (
+            item["category_name"].casefold(),
+            item["channel_name"].casefold(),
+            item["stream_id"],
         )
     )
 
-    OUT.mkdir(parents=True, exist_ok=True)
-    run_at = datetime.now(timezone.utc).isoformat()
-
-    # Plain-text master list.
-    with (OUT / "mega_sports_master.txt").open(
-        "w", encoding="utf-8", newline=""
-    ) as f:
-        f.write("MEGA SPORTS MASTER LIST — USA / UK / CANADA\n")
-        f.write(f"Generated UTC: {run_at}\n")
-        f.write(f"Provider categories scanned: {len(category_map)}\n")
-        f.write(f"Live streams scanned: {len(streams)}\n")
-        f.write(
-            "Sports-related country groups selected: "
-            f"{len(selected_categories)}\n"
+    selected_list = [
+        {"category_id": category_id, "category_name": name}
+        for category_id, name in sorted(
+            selected_categories.items(),
+            key=lambda item: item[1].casefold(),
         )
-        f.write(f"Matching channel records: {len(records)}\n\n")
-        f.write(
-            "FORMAT: CATEGORY ID | CATEGORY NAME | STREAM ID | "
+    ]
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    generated_at = datetime.now(timezone.utc).isoformat()
+
+    # Human-readable master list
+    txt_path = OUTPUT_DIR / "mega_sports_master.txt"
+    with txt_path.open("w", encoding="utf-8", newline="") as file:
+        file.write("MEGA SPORTS MASTER LIST — USA / UK / CANADA\n")
+        file.write(f"Generated UTC: {generated_at}\n")
+        file.write(f"Categories scanned: {len(category_map)}\n")
+        file.write(f"Live streams scanned: {len(streams)}\n")
+        file.write(
+            f"Country/sports categories selected: {len(selected_categories)}\n"
+        )
+        file.write(f"Matching channel records: {len(records)}\n\n")
+        file.write(
+            "CATEGORY ID | CATEGORY NAME | STREAM ID | "
             "CHANNEL NAME | EPG CHANNEL ID\n"
         )
-
-        for r in records:
-            f.write(
-                f"{r['category_id']} | {r['category_name']} | "
-                f"{r['stream_id']} | {r['channel_name']} | "
-                f"{r['epg_channel_id']}\n"
+        for record in records:
+            file.write(
+                f"{record['category_id']} | "
+                f"{record['category_name']} | "
+                f"{record['stream_id']} | "
+                f"{record['channel_name']} | "
+                f"{record['epg_channel_id']}\n"
             )
 
-    # CSV master list.
-    with (OUT / "mega_sports_master.csv").open(
-        "w", encoding="utf-8-sig", newline=""
-    ) as f:
-        writer = csv.DictWriter(
-            f,
-            fieldnames=[
-                "category_id",
-                "category_name",
-                "stream_id",
-                "channel_name",
-                "epg_channel_id",
-                "stream_icon",
-                "country_sports_group_match",
-            ],
-        )
+    # CSV for sorting and comparing channel names
+    csv_path = OUTPUT_DIR / "mega_sports_master.csv"
+    fields = [
+        "category_id",
+        "category_name",
+        "stream_id",
+        "channel_name",
+        "epg_channel_id",
+        "stream_icon",
+        "country_sports_group_match",
+    ]
+    with csv_path.open("w", encoding="utf-8-sig", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=fields)
         writer.writeheader()
         writer.writerows(records)
 
-    # JSON master list.
+    # JSON retains category information and all matching stream metadata
+    json_path = OUTPUT_DIR / "mega_sports_master.json"
     summary = {
         "provider": "MEGA",
-        "generated_utc": run_at,
+        "generated_utc": generated_at,
+        "api_host": parsed.hostname,
         "categories_scanned": len(category_map),
         "live_streams_scanned": len(streams),
-        "selected_country_sports_categories": [
-            {
-                "category_id": cid,
-                "category_name": name,
-            }
-            for cid, name in sorted(
-                selected_categories.items(),
-                key=lambda item: item[1].casefold(),
-            )
-        ],
+        "selected_country_sports_categories": selected_list,
         "matching_channel_count": len(records),
         "channels": records,
     }
+    with json_path.open("w", encoding="utf-8") as file:
+        json.dump(summary, file, ensure_ascii=False, indent=2)
 
-    with (OUT / "mega_sports_master.json").open(
-        "w", encoding="utf-8"
-    ) as f:
-        json.dump(summary, f, ensure_ascii=False, indent=2)
-
+    print("")
+    print("MEGA sports scan completed.")
     print(f"Categories scanned: {len(category_map)}")
     print(f"Live streams scanned: {len(streams)}")
-    print(
-        "USA/UK/Canada sports groups matched: "
-        f"{len(selected_categories)}"
-    )
-    print(f"Matching channels written: {len(records)}")
-    print(f"Output directory: {OUT}")
-    print(
-        "Created mega_sports_master.txt, "
-        "mega_sports_master.csv, and mega_sports_master.json."
-    )
+    print(f"Country/sports categories matched: {len(selected_categories)}")
+    print(f"Matching channel records: {len(records)}")
+    print(f"Created: {txt_path}")
+    print(f"Created: {csv_path}")
+    print(f"Created: {json_path}")
 
     if not records:
         print(
-            "WARNING: No matches found. Inspect provider category "
-            "names and matching rules."
+            "WARNING: No matches found. Review the provider's category "
+            "names and the country/sport matching rules."
         )
 
 
 if __name__ == "__main__":
     try:
         main()
-    except RuntimeError as exc:
+    except KeyboardInterrupt:
+        sys.exit("Scan cancelled.")
+    except Exception as exc:
         sys.exit(f"ERROR: {exc}")
