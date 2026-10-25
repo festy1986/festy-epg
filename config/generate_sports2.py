@@ -1,4 +1,5 @@
 import os
+import json
 import requests
 import xml.etree.ElementTree as ET
 
@@ -13,6 +14,7 @@ from difflib import SequenceMatcher
 
 
 CHANNEL_FILE = "config/sports_channels.txt"
+MASTER_FILE = "config/mega_sports_master.json"
 TEAM_FILE = "config/sports_teams.txt"
 OUTPUT_FILE = "guides/sports2.xml"
 SPORTS_LOGO_ROOT = "sports-logos"
@@ -1591,52 +1593,23 @@ def convert_to_eastern(
 
 wanted = {}
 
-
-with open(
-    CHANNEL_FILE,
-    "r",
-    encoding="utf-8"
-) as f:
-
+with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
     for line in f:
-
         line = line.strip()
 
-
         if not line:
-
             continue
 
-
-        parts = [
-
-            x.strip()
-
-            for x in line.split("|")
-
-        ]
-
+        parts = [x.strip() for x in line.split("|")]
 
         if len(parts) < 2:
-
             continue
 
-
         channel_id = parts[0]
-
-
-        display_name = " ".join(
-            parts[1:]
-        )
-
-
+        display_name = " ".join(parts[1:])
         wanted[channel_id] = display_name
 
-
-print(
-    f"Requested channels: "
-    f"{len(wanted)}"
-)
+print(f"Requested channels: {len(wanted)}")
 
 
 # --------------------------------------------------
@@ -1650,273 +1623,188 @@ provider_timezone = get_server_timezone()
 # Download provider channels
 # --------------------------------------------------
 
-print(
-    "Downloading provider channels..."
-)
-
+print("Downloading provider channels...")
 
 url = (
-
     f"{XTREAM_URL}/player_api.php"
-
     f"?username={USERNAME}"
-
     f"&password={PASSWORD}"
-
     f"&action=get_live_streams"
-
 )
-
 
 streams = None
 
-
-for attempt in range(
-    1,
-    6
-):
-
+for attempt in range(1, 6):
     try:
-
         print(
             f"Downloading provider channels "
             f"(attempt {attempt}/5)..."
         )
 
-
         response = session.get(
             url,
             timeout=(30, 600)
         )
-
-
         response.raise_for_status()
-
-
         streams = response.json()
-
 
         break
 
-
     except Exception as e:
-
-        print(
-            "Download failed:"
-        )
-
-
-        print(
-            e
-        )
-
+        print("Download failed:")
+        print(e)
 
         if attempt < 5:
-
-            time.sleep(
-                10
-            )
-
+            time.sleep(10)
 
 if streams is None:
+    print("Unable to download provider channels.")
+    raise SystemExit(1)
 
-    print(
-        "Unable to download provider channels."
-    )
-
-
-    raise SystemExit(
-        1
-    )
-
-
-print(
-    f"Provider channels: "
-    f"{len(streams)}"
-)
-
+print(f"Provider channels: {len(streams)}")
 
 provider = {}
 
-
 for stream in streams:
-
-    stream_id = str(
-        stream.get(
-            "stream_id"
-        )
-    )
-
-
+    stream_id = str(stream.get("stream_id", ""))
     provider[stream_id] = stream
 
 
 # --------------------------------------------------
-# Download provider live categories.
-#
-# The original sports_channels.txt entries are kept.
-# This only adds current MLB/NBA/NFL/NHL streams found
-# by live category/group name or current channel name.
+# Download provider live categories
 # --------------------------------------------------
 
 category_names = {}
 
-
 categories_url = (
-
     f"{XTREAM_URL}/player_api.php"
-
     f"?username={USERNAME}"
-
     f"&password={PASSWORD}"
-
     f"&action=get_live_categories"
-
 )
 
-
 try:
-
     categories_response = session.get(
         categories_url,
         timeout=(30, 120)
     )
-
-
     categories_response.raise_for_status()
-
-
     categories = categories_response.json()
 
-
     for category in categories:
-
-        category_id = str(
-            category.get(
-                "category_id",
-                ""
-            )
-        )
-
-
+        category_id = str(category.get("category_id", ""))
         category_name = clean_text(
-            category.get(
-                "category_name",
-                ""
-            )
+            category.get("category_name", "")
         )
-
 
         if category_id:
+            category_names[category_id] = category_name
 
-            category_names[
-                category_id
-            ] = category_name
-
-
-    print(
-        f"Provider live categories: "
-        f"{len(category_names)}"
-    )
-
+    print(f"Provider live categories: {len(category_names)}")
 
 except Exception as e:
-
-    print(
-        "Unable to download provider live categories."
-    )
-
-
-    print(
-        e
-    )
+    print("Unable to download provider live categories.")
+    print(e)
 
 
 # --------------------------------------------------
-# Dynamically add all current major-league streams.
-#
-# XMLTV IDs remain the current provider stream IDs,
-# preserving TiviMate matching.
+# Dynamically add current major-league streams.
+# Match MEGA master stream IDs first, then use the
+# category/name detection as a fallback.
+# Preserve current provider stream IDs for XMLTV.
 # --------------------------------------------------
+
+master_stream_ids = set()
+
+
+def collect_master_stream_ids(data):
+    if isinstance(data, dict):
+        stream_id = data.get("stream_id")
+
+        if stream_id is None:
+            stream_id = data.get("streamId")
+
+        if stream_id is not None:
+            master_stream_ids.add(str(stream_id).strip())
+
+        for value in data.values():
+            if isinstance(value, (dict, list)):
+                collect_master_stream_ids(value)
+
+    elif isinstance(data, list):
+        for item in data:
+            collect_master_stream_ids(item)
+
+
+try:
+    with open(MASTER_FILE, "r", encoding="utf-8") as f:
+        master_data = json.load(f)
+
+    collect_master_stream_ids(master_data)
+
+    print(
+        f"MEGA master stream IDs loaded: "
+        f"{len(master_stream_ids)}"
+    )
+
+except (FileNotFoundError, json.JSONDecodeError) as e:
+    print(f"Unable to load MEGA master list: {e}")
+
 
 dynamic_major_channels_added = 0
+master_id_channels_added = 0
+fallback_major_channels_added = 0
 
 
+# First: match streams against the MEGA master list.
 for stream in streams:
+    stream_id = str(stream.get("stream_id", "")).strip()
 
-    stream_id = str(
-        stream.get(
-            "stream_id",
-            ""
-        )
-    )
+    if not stream_id:
+        continue
 
-
-    stream_name = clean_text(
-        stream.get(
-            "name",
-            ""
-        )
-    )
+    if stream_id in master_stream_ids and stream_id not in wanted:
+        wanted[stream_id] = clean_text(stream.get("name", ""))
+        dynamic_major_channels_added += 1
+        master_id_channels_added += 1
 
 
-    category_id = str(
-        stream.get(
-            "category_id",
-            ""
-        )
-    )
+# Second: use category/name detection as a fallback.
+for stream in streams:
+    stream_id = str(stream.get("stream_id", "")).strip()
 
+    if not stream_id or stream_id in wanted:
+        continue
 
-    category_name = category_names.get(
-        category_id,
-        ""
-    )
+    stream_name = clean_text(stream.get("name", ""))
+    category_id = str(stream.get("category_id", ""))
+    category_name = category_names.get(category_id, "")
 
-
-    detection_text = (
-
-        f"{category_name} "
-
-        f"{stream_name}"
-
-    )
-
+    detection_text = f"{category_name} {stream_name}"
 
     if not re.search(
         r"\b(?:MLB|NBA|NFL|NHL)\b",
         detection_text,
         flags=re.IGNORECASE
     ):
-
         continue
 
-
-    if stream_id not in wanted:
-
-        wanted[
-            stream_id
-        ] = stream_name
+    wanted[stream_id] = stream_name
+    dynamic_major_channels_added += 1
+    fallback_major_channels_added += 1
 
 
-        dynamic_major_channels_added += 1
-
-
-debug_stats[
-    "dynamic_major_channels_added"
-] = dynamic_major_channels_added
-
+debug_stats["dynamic_major_channels_added"] = (
+    dynamic_major_channels_added
+)
 
 print(
     f"Dynamic major-league channels added: "
     f"{dynamic_major_channels_added}"
 )
-
-
-print(
-    f"Total sports channels selected: "
-    f"{len(wanted)}"
-)
+print(f"  Matched by master stream ID: {master_id_channels_added}")
+print(f"  Added by category/name fallback: {fallback_major_channels_added}")
+print(f"Total sports channels selected: {len(wanted)}")
 
 
 # --------------------------------------------------
@@ -1924,207 +1812,92 @@ print(
 # --------------------------------------------------
 
 team_aliases = {
-
     "MLB": {},
-
     "NBA": {},
-
     "NFL": {},
-
     "NHL": {}
-
 }
 
 
 def normalize_team_name(text):
-
     if not text:
-
         return ""
 
-
-    text = clean_text(
-        text
-    ).lower()
-
-
-    text = text.replace(
-        "&",
-        " and "
-    )
-
-
-    text = re.sub(
-        r"[^a-z0-9]+",
-        " ",
-        text
-    )
-
-
-    text = re.sub(
-        r"\s+",
-        " ",
-        text
-    )
-
+    text = clean_text(text).lower()
+    text = text.replace("&", " and ")
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    text = re.sub(r"\s+", " ", text)
 
     return text.strip()
 
 
 def load_canonical_teams():
-
-    print(
-        "Loading canonical team names..."
-    )
-
+    print("Loading canonical team names...")
 
     current_league = None
 
-
-    with open(
-        TEAM_FILE,
-        "r",
-        encoding="utf-8"
-    ) as f:
-
-        for line_number, raw_line in enumerate(
-            f,
-            start=1
-        ):
-
+    with open(TEAM_FILE, "r", encoding="utf-8") as f:
+        for line_number, raw_line in enumerate(f, start=1):
             line = raw_line.strip()
 
-
-            if not line:
-
+            if not line or line.startswith("#"):
                 continue
 
-
-            if line.startswith(
-                "#"
-            ):
-
-                continue
-
-
-            if (
-
-                line.startswith("[")
-
-                and
-
-                line.endswith("]")
-
-            ):
-
-                league = line[
-                    1:-1
-                ].strip().upper()
-
+            if line.startswith("[") and line.endswith("]"):
+                league = line[1:-1].strip().upper()
 
                 if league not in team_aliases:
-
                     print(
-                        f"Unknown league "
-                        f"at line "
-                        f"{line_number}: "
-                        f"{league}"
+                        f"Unknown league at line "
+                        f"{line_number}: {league}"
                     )
-
-
                     current_league = None
-
-
                 else:
-
                     current_league = league
 
-
                 continue
-
 
             if not current_league:
-
                 continue
-
 
             if "=" not in line:
-
                 print(
-                    f"Invalid team line "
-                    f"{line_number}: "
+                    f"Invalid team line {line_number}: "
                     f"{line}"
                 )
-
-
                 continue
 
-
-            official_name, aliases_text = line.split(
-                "=",
-                1
-            )
-
-
-            official_name = clean_text(
-                official_name
-            )
-
+            official_name, aliases_text = line.split("=", 1)
+            official_name = clean_text(official_name)
 
             aliases = [
-
                 clean_text(alias)
-
                 for alias in aliases_text.split(",")
-
             ]
-
-
-            aliases.append(
-                official_name
-            )
-
+            aliases.append(official_name)
 
             official_normalized = normalize_team_name(
                 official_name
             )
 
-
             if not official_normalized:
-
                 continue
 
-
             for alias in aliases:
-
-                normalized_alias = normalize_team_name(
-                    alias
-                )
-
+                normalized_alias = normalize_team_name(alias)
 
                 if not normalized_alias:
-
                     continue
 
-
-                team_aliases[
-                    current_league
-                ][
+                team_aliases[current_league][
                     normalized_alias
                 ] = official_name
 
-
     for league, aliases in team_aliases.items():
-
-        print(
-            f"{league}: "
-            f"{len(aliases)} "
-            f"team aliases loaded"
-        )
+        print(f"{league}: {len(aliases)} team aliases loaded")
 
 
 load_canonical_teams()
-
 
 # --------------------------------------------------
 # Extract matchup parts
