@@ -1,0 +1,47 @@
+name: TEMP - MEGA Sports Master List Scan
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  scan-mega-sports:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check MEGA secrets are present
+        env:
+          MEGA_XTREAM_URL: ${{ secrets.MEGA_XTREAM_URL }}
+          MEGA_XTREAM_USERNAME: ${{ secrets.MEGA_XTREAM_USERNAME }}
+          MEGA_XTREAM_PASSWORD: ${{ secrets.MEGA_XTREAM_PASSWORD }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$MEGA_XTREAM_URL" || { echo "MEGA_XTREAM_URL is missing"; exit 1; }
+          test -n "$MEGA_XTREAM_USERNAME" || { echo "MEGA_XTREAM_USERNAME is missing"; exit 1; }
+          test -n "$MEGA_XTREAM_PASSWORD" || { echo "MEGA_XTREAM_PASSWORD is missing"; exit 1; }
+          echo "All three MEGA secrets are present. Values will not be printed."
+
+      - name: Install Python dependency
+        run: python -m pip install --disable-pip-version-check requests
+
+      - name: Scan all USA, UK, and Canada sports groups
+        env:
+          MEGA_XTREAM_URL: ${{ secrets.MEGA_XTREAM_URL }}
+          MEGA_XTREAM_USERNAME: ${{ secrets.MEGA_XTREAM_USERNAME }}
+          MEGA_XTREAM_PASSWORD: ${{ secrets.MEGA_XTREAM_PASSWORD }}
+        run: python config/mega_sports_master_scan.py
+
+      - name: Upload MEGA sports master list
+        uses: actions/upload-artifact@v4
+        with:
+          name: mega-sports-master-list-${{ github.run_id }}
+          path: mega-sports-master/
+          if-no-files-found: error
+          retention-days: 14
