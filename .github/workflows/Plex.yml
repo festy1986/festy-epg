@@ -75,6 +75,15 @@ jobs:
             return decodeXml(String(body || '').replace(/<[^>]+>/g, '').trim())
           }
 
+          function slug(s) {
+            return String(s || '').normalize('NFKD')
+              .replace(/[\u0300-\u036f]/g, '')
+              .toLowerCase()
+              .replace(/&/g, ' and ')
+              .replace(/[^a-z0-9]+/g, '-')
+              .replace(/^-+|-+$/g, '') || 'plex-channel'
+          }
+
           if (!fs.existsSync(sourcePath)) {
             console.error(`Missing Plex Curated config: ${sourcePath}`)
             process.exit(1)
@@ -82,39 +91,63 @@ jobs:
 
           const curatedXml = fs.readFileSync(sourcePath, 'utf8')
           const channels = []
-          const seenXmltvIds = new Set()
           const seenSiteIds = new Set()
+          const seenXmltvIds = new Set()
 
-          for (const match of curatedXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
-            const attrs = match[1]
-            // Only the channel-source entries are passed to the EPG grabber.
-            // Standalone Plex logo records (id="...") are metadata, not source channels.
-            if (attr(attrs, 'site').toLowerCase() !== 'plex.tv') continue
+          function addChannel(siteId, name, preferredXmltvId = '') {
+            siteId = String(siteId || '').trim()
+            name = String(name || '').trim()
+            if (!/^[a-f0-9]{24}$/i.test(siteId) || !name) return
+            if (seenSiteIds.has(siteId)) return
 
-            const xmltvId = attr(attrs, 'xmltv_id')
-            const siteId = attr(attrs, 'site_id')
-            const name = cleanBody(match[2])
+            let xmltvId = preferredXmltvId || slug(name)
+            if (seenXmltvIds.has(xmltvId)) xmltvId = `${xmltvId}-${siteId.slice(-6)}`
+            while (seenXmltvIds.has(xmltvId)) xmltvId += '-plex'
 
-            if (!xmltvId || !siteId || !name) {
-              console.error(`Invalid Plex Curated channel entry: ${match[0]}`)
-              process.exit(1)
-            }
-            if (seenXmltvIds.has(xmltvId)) {
-              console.error(`Duplicate xmltv_id "${xmltvId}" in ${sourcePath}`)
-              process.exit(1)
-            }
-            if (seenSiteIds.has(siteId)) {
-              console.error(`Duplicate Plex site_id "${siteId}" in ${sourcePath}`)
-              process.exit(1)
-            }
-
-            seenXmltvIds.add(xmltvId)
             seenSiteIds.add(siteId)
+            seenXmltvIds.add(xmltvId)
             channels.push({ xmltvId, siteId, name })
           }
 
+          // First retain explicit EPG source entries and their established XMLTV IDs.
+          for (const match of curatedXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+            const attrs = match[1]
+            if (attr(attrs, 'site').toLowerCase() !== 'plex.tv') continue
+            const xmltvId = attr(attrs, 'xmltv_id')
+            const siteId = attr(attrs, 'site_id')
+            const name = cleanBody(match[2])
+            if (!xmltvId || !siteId || !name) {
+              console.error(`Invalid Plex source channel entry: ${match[0]}`)
+              process.exit(1)
+            }
+            if (seenSiteIds.has(siteId) || seenXmltvIds.has(xmltvId)) {
+              console.error(`Duplicate Plex source channel ID or xmltv_id: ${siteId} / ${xmltvId}`)
+              process.exit(1)
+            }
+            addChannel(siteId, name, xmltvId)
+          }
+
+          // Also include every standalone master-list record with a real, unprefixed
+          // 24-character Plex grid key. Composite logo-test IDs (for example
+          // "6a1610...-66ea...") are metadata aliases, not additional channels.
+          for (const match of curatedXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+            const attrs = match[1]
+            if (attr(attrs, 'site').toLowerCase() === 'plex.tv') continue
+            const siteId = attr(attrs, 'id')
+            if (!/^[a-f0-9]{24}$/i.test(siteId)) continue
+
+            const body = match[2]
+            const displayNameMatch = body.match(/<display-name\b[^>]*>([\s\S]*?)<\/display-name>/i)
+            const name = displayNameMatch ? cleanBody(displayNameMatch[1]) : ''
+            if (!name) {
+              console.error(`Plex master-list entry has ID ${siteId} but no display-name`)
+              process.exit(1)
+            }
+            addChannel(siteId, name)
+          }
+
           if (channels.length < 1) {
-            console.error(`No site="plex.tv" source channels found in ${sourcePath}`)
+            console.error(`No usable Plex channels found in ${sourcePath}`)
             process.exit(1)
           }
 
@@ -1206,28 +1239,32 @@ jobs:
           const sourceXml = fs.readFileSync(sourceChannelsPath, 'utf8')
           let guide = fs.readFileSync(guidePath, 'utf8')
 
-          // Map curated source channel names to their XMLTV IDs.
-          const xmltvIdsByName = new Map()
+          // Match logos to source channels by Plex grid key, not display-name text.
+          // The master list includes test/alias display names and composite IDs, so
+          // names are not a reliable join key. A composite ID ending in the real
+          // 24-character grid key is also accepted for logo metadata.
+          const xmltvIdBySiteId = new Map()
           for (const match of sourceXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
             const attrs = match[1]
             const xmltvId = attr(attrs, 'xmltv_id')
-            const name = cleanBody(match[2])
-            if (xmltvId && name) xmltvIdsByName.set(norm(name), xmltvId)
+            const siteId = attr(attrs, 'site_id')
+            if (xmltvId && siteId) xmltvIdBySiteId.set(siteId, xmltvId)
           }
 
-          // Logo records in this same config use id="PLEX_GRID_KEY", a display-name,
-          // and an icon. Match their display-name to the curated source channel name.
           const logos = new Map()
           for (const match of curatedXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
             const attrs = match[1]
             if (attr(attrs, 'site').toLowerCase() === 'plex.tv') continue
 
-            const body = match[2]
-            const displayNameMatch = body.match(/<display-name\b[^>]*>([\s\S]*?)<\/display-name>/i)
-            const name = displayNameMatch ? cleanBody(displayNameMatch[1]) : ''
-            const xmltvId = xmltvIdsByName.get(norm(name))
-            const icon = body.match(/<icon\b[^>]*\bsrc="([^"]+)"[^>]*\/?\s*>/i)
-            if (xmltvId && icon) logos.set(xmltvId, decodeXml(icon[1]).trim())
+            const recordId = attr(attrs, 'id')
+            const icon = match[2].match(/<icon\b[^>]*\bsrc="([^"]+)"[^>]*\/?\s*>/i)
+            if (!recordId || !icon) continue
+
+            for (const [siteId, xmltvId] of xmltvIdBySiteId.entries()) {
+              if (recordId === siteId || recordId.endsWith(`-${siteId}`)) {
+                logos.set(xmltvId, decodeXml(icon[1]).trim())
+              }
+            }
           }
 
           let added = 0
@@ -1255,7 +1292,7 @@ jobs:
           console.log(`Curated Plex channel logos matched: ${matched}`)
           console.log(`Plex logos added: ${added}`)
           console.log(`Plex logos updated: ${updated}`)
-          console.log(`Curated source channels without matching logo metadata: ${[...xmltvIdsByName.entries()].filter(([, id]) => !logos.has(id)).length}`)
+          console.log(`Curated source channels without matching logo metadata: ${[...xmltvIdBySiteId.values()].filter(id => !logos.has(id)).length}`)
           EOF
 
       - name: Clean movie titles, actor parentheticals, and known release years
