@@ -4,7 +4,7 @@
     <display-name>####### DAZN PPV GB #######</display-name>
   </channel>
   <channel id="1900001">
-    <display-name>Next | Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 1</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 1</display-name>
   </channel>
   <channel id="1900000">
     <display-name>Next | Sassuolo vs. Lazio | Lega Serie A | 2026-10-27 | 17:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</display-name>
@@ -4651,7 +4651,7 @@
     <display-name>LIVE | TAYLOR VS. PURDUE FORT WAYNE | Mon 26 Oct 19:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 30</display-name>
   </channel>
   <channel id="1924699">
-    <display-name>NEXT | TORONTO MAPLE LEAFS VS. CALGARY FLAMES | Mon 26 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 31</display-name>
+    <display-name>LIVE | TORONTO MAPLE LEAFS VS. CALGARY FLAMES | Mon 26 Oct 20:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 31</display-name>
   </channel>
   <channel id="1924698">
     <display-name>NEXT | DETROIT RED WINGS VS. EDMONTON OILERS | Mon 26 Oct 21:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 32</display-name>
@@ -7678,7 +7678,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Los_Angeles_Kings/Los_Angeles_Kings_vs_New_York_Rangers.png" />
   </channel>
   <channel id="1810036">
-    <display-name>NEXT | NHL CALGARY - TORONTO | Tue 27 Oct 01:35 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 11</display-name>
+    <display-name>LIVE | NHL CALGARY - TORONTO | Tue 27 Oct 01:35 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 11</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Toronto_Maple_Leafs.png" />
   </channel>
   <channel id="1810035">
@@ -7748,7 +7748,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/MLB/Milwaukee_Brewers/Milwaukee_Brewers_vs_Tampa_Bay_Rays.png" />
   </channel>
   <channel id="1825981">
-    <display-name>NEXT | NHL: CALGARY FLAMES - TORONTO MAPLE LEAFS | Tue 27 Oct 01:35 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 22</display-name>
+    <display-name>LIVE | NHL: CALGARY FLAMES - TORONTO MAPLE LEAFS | Tue 27 Oct 01:35 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 22</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Toronto_Maple_Leafs.png" />
   </channel>
   <channel id="1825980">
@@ -7775,6 +7775,10 @@
     <display-name>NHL: Edmonton Oilers vs Detroit Red Wings @ Oct 27 02:35 :TeliaPlay SE  24</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Detroit_Red_Wings/Detroit_Red_Wings_vs_Edmonton_Oilers.png" />
   </channel>
+  <channel id="1098702">
+    <display-name>LIVE | NFL: COWBOYS @ EAGLES | Tue 27 Oct 01:01 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 9</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Dallas_Cowboys/Dallas_Cowboys_vs_Philadelphia_Eagles.png" />
+  </channel>
   <channel id="1801851">
     <display-name>NFL: Cowboys @ Eagles @ Oct 27 1:00 AM :Disney+ SE  09</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Dallas_Cowboys/Dallas_Cowboys_vs_Philadelphia_Eagles.png" />
@@ -7787,7 +7791,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Los_Angeles_Kings/Los_Angeles_Kings_vs_New_York_Rangers.png" />
   </channel>
   <channel id="1863215">
-    <display-name>NEXT | NHL CALGARY - TORONTO | Tue 27 Oct 01:35 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 12</display-name>
+    <display-name>LIVE | NHL CALGARY - TORONTO | Tue 27 Oct 01:35 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 12</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Toronto_Maple_Leafs.png" />
   </channel>
   <channel id="1863214">
@@ -8017,7 +8021,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Los_Angeles_Kings.png" />
   </channel>
   <channel id="1126469">
-    <display-name>NEXT | NHL CALGARY - TORONTO | Mon 26 Oct 20:35 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 3</display-name>
+    <display-name>LIVE | NHL CALGARY - TORONTO | Mon 26 Oct 20:35 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 3</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Toronto_Maple_Leafs.png" />
   </channel>
   <channel id="1126468">
@@ -8741,124 +8745,124 @@ Monday 10/26/2026</desc>
 Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026000000 -0400" stop="20261026030000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026030000 -0400" stop="20261026060000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026060000 -0400" stop="20261026090000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026090000 -0400" stop="20261026120000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026120000 -0400" stop="20261026150000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026150000 -0400" stop="20261026180000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026180000 -0400" stop="20261026210000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026210000 -0400" stop="20261027000000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261027000000 -0400" stop="20261027030000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261027030000 -0400" stop="20261027060000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261027060000 -0400" stop="20261027090000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261027090000 -0400" stop="20261027120000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261027120000 -0400" stop="20261027150000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261027150000 -0400" stop="20261027180000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261027180000 -0400" stop="20261027210000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261027210000 -0400" stop="20261028000000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261028000000 -0400" stop="20261028030000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261028030000 -0400" stop="20261028060000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261028060000 -0400" stop="20261028090000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261028090000 -0400" stop="20261028120000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261028120000 -0400" stop="20261028150000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261028150000 -0400" stop="20261028180000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261028180000 -0400" stop="20261028210000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261028210000 -0400" stop="20261029000000 -0400" channel="1900001">
-    <title>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Nacional vs. Britannia | Division di Honor - Aruba | 2026-10-27 | 00:30 | 8K EXCLUSIVE | GB: DAZN PPV 1
-Tuesday 10/27/2026</desc>
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
+Monday 10/26/2026</desc>
   </programme>
   <programme start="20261026000000 -0400" stop="20261026030000 -0400" channel="1900000">
     <title>Sassuolo vs. Lazio | Lega Serie A | 2026-10-27 | 17:30 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
@@ -310894,6 +310898,131 @@ Monday 10/26/2026 - 9:30 PM</desc>
     <title>Post Game: Detroit Red Wings vs. Edmonton Oilers - 9:30 PM</title>
     <desc>Detroit Red Wings vs. Edmonton Oilers
 Monday 10/26/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261026000000 -0400" stop="20261026030000 -0400" channel="1098702">
+    <title>Upcoming: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261026030000 -0400" stop="20261026060000 -0400" channel="1098702">
+    <title>Upcoming: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261026060000 -0400" stop="20261026090000 -0400" channel="1098702">
+    <title>Upcoming: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261026090000 -0400" stop="20261026120000 -0400" channel="1098702">
+    <title>Upcoming: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261026120000 -0400" stop="20261026150000 -0400" channel="1098702">
+    <title>Upcoming: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261026150000 -0400" stop="20261026180000 -0400" channel="1098702">
+    <title>Upcoming: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261026180000 -0400" stop="20261026201500 -0400" channel="1098702">
+    <title>Upcoming: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261026201500 -0400" stop="20261026231500 -0400" channel="1098702">
+    <title>Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261026231500 -0400" stop="20261027000000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027030000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261027030000 -0400" stop="20261027060000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261027060000 -0400" stop="20261027090000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261027090000 -0400" stop="20261027120000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261027120000 -0400" stop="20261027150000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261027150000 -0400" stop="20261027180000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261027180000 -0400" stop="20261027210000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261027210000 -0400" stop="20261028000000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261028000000 -0400" stop="20261028030000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261028030000 -0400" stop="20261028060000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261028060000 -0400" stop="20261028090000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261028090000 -0400" stop="20261028120000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261028120000 -0400" stop="20261028150000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261028150000 -0400" stop="20261028180000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261028180000 -0400" stop="20261028210000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261028210000 -0400" stop="20261029000000 -0400" channel="1098702">
+    <title>Post Game: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
+    <desc>Dallas Cowboys vs. Philadelphia Eagles
+Monday 10/26/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261026000000 -0400" stop="20261026030000 -0400" channel="1801851">
     <title>Upcoming: Dallas Cowboys vs. Philadelphia Eagles - 8:15 PM</title>
