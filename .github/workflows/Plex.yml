@@ -39,19 +39,15 @@ jobs:
           cd epg
           npm ci
 
-      - name: Build Plex channel source from Plex Master List
+      - name: Build Plex channel source from Plex Curated config
         run: |
           mkdir -p guides
 
           node <<'EOF'
           const fs = require('fs')
 
-          const sourcePath = 'config/Plex Master List.xml'
+          const sourcePath = 'config/Plex Curated.xml'
           const outputPath = 'guides/plex.xml'
-          const wanted = new Map([
-            ['mgm presents horror', { xmltvId: 'mgm-presents-horror', name: 'MGM Presents: Horror' }],
-            ['filmrise horror', { xmltvId: 'filmrise-horror-2', name: 'FilmRise Horror' }]
-          ])
 
           function decodeXml(s) {
             return String(s || '')
@@ -71,7 +67,7 @@ jobs:
           }
 
           function attr(attrs, name) {
-            const m = attrs.match(new RegExp(`${name}="([^"]*)"`, 'i'))
+            const m = attrs.match(new RegExp(`(?:^|\\s)${name}="([^"]*)"`, 'i'))
             return m ? decodeXml(m[1]).trim() : ''
           }
 
@@ -79,63 +75,58 @@ jobs:
             return decodeXml(String(body || '').replace(/<[^>]+>/g, '').trim())
           }
 
-          function norm(s) {
-            return decodeXml(s)
-              .normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
-              .toLowerCase()
-              .replace(/&/g, 'and')
-              .replace(/[^a-z0-9]+/g, ' ')
-              .trim()
-          }
-
           if (!fs.existsSync(sourcePath)) {
-            console.error(`Missing Plex Master List: ${sourcePath}`)
+            console.error(`Missing Plex Curated config: ${sourcePath}`)
             process.exit(1)
           }
 
-          const masterXml = fs.readFileSync(sourcePath, 'utf8')
-          const found = new Map()
+          const curatedXml = fs.readFileSync(sourcePath, 'utf8')
+          const channels = []
+          const seenXmltvIds = new Set()
+          const seenSiteIds = new Set()
 
-          for (const match of masterXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+          for (const match of curatedXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
             const attrs = match[1]
-            const body = match[2]
-            const plexId = attr(attrs, 'id')
-            const displayNameMatch = body.match(/<display-name\b[^>]*>([\s\S]*?)<\/display-name>/i)
-            const name = displayNameMatch ? cleanBody(displayNameMatch[1]) : ''
-            const target = wanted.get(norm(name))
-            if (!target) continue
+            // Only the channel-source entries are passed to the EPG grabber.
+            // Standalone Plex logo records (id="...") are metadata, not source channels.
+            if (attr(attrs, 'site').toLowerCase() !== 'plex.tv') continue
 
-            if (!plexId) {
-              console.error(`${name}: missing Plex Master List channel id`)
+            const xmltvId = attr(attrs, 'xmltv_id')
+            const siteId = attr(attrs, 'site_id')
+            const name = cleanBody(match[2])
+
+            if (!xmltvId || !siteId || !name) {
+              console.error(`Invalid Plex Curated channel entry: ${match[0]}`)
               process.exit(1)
             }
-            if (found.has(target.xmltvId)) {
-              console.error(`${name}: duplicate channel entry in ${sourcePath}`)
+            if (seenXmltvIds.has(xmltvId)) {
+              console.error(`Duplicate xmltv_id "${xmltvId}" in ${sourcePath}`)
               process.exit(1)
             }
-            found.set(target.xmltvId, {
-              name: target.name,
-              xmltvId: target.xmltvId,
-              siteId: plexId
-            })
+            if (seenSiteIds.has(siteId)) {
+              console.error(`Duplicate Plex site_id "${siteId}" in ${sourcePath}`)
+              process.exit(1)
+            }
+
+            seenXmltvIds.add(xmltvId)
+            seenSiteIds.add(siteId)
+            channels.push({ xmltvId, siteId, name })
           }
 
-          const missing = [...wanted.values()].filter(ch => !found.has(ch.xmltvId))
-          if (missing.length) {
-            console.error(`Could not find required channel(s) in ${sourcePath}: ${missing.map(ch => ch.name).join(', ')}`)
+          if (channels.length < 1) {
+            console.error(`No site="plex.tv" source channels found in ${sourcePath}`)
             process.exit(1)
           }
 
-          const output = [...wanted.values()].map(target => {
-            const channel = found.get(target.xmltvId)
-            return `  <channel site="plex.tv" lang="en" xmltv_id="${escapeXml(channel.xmltvId)}" site_id="${escapeXml(channel.siteId)}">${escapeXml(channel.name)}</channel>`
-          })
+          const output = channels.map(channel =>
+            `  <channel site="plex.tv" lang="en" xmltv_id="${escapeXml(channel.xmltvId)}" site_id="${escapeXml(channel.siteId)}">${escapeXml(channel.name)}</channel>`
+          )
 
           fs.writeFileSync(
             outputPath,
             `<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n${output.join('\n')}\n</channels>\n`
           )
-          console.log(`Wrote ${outputPath} with exactly ${output.length} Plex Master List channels`)
+          console.log(`Wrote ${outputPath} with ${output.length} channel(s) from ${sourcePath}`)
           output.forEach(line => console.log(line.trim()))
           EOF
 
@@ -1162,17 +1153,14 @@ jobs:
           })
           EOF
 
-      - name: Preserve Plex Master List channel logos
+      - name: Preserve curated Plex channel logos
         run: |
           node <<'EOF'
           const fs = require('fs')
 
-          const sourcePath = 'config/Plex Master List.xml'
+          const sourcePath = 'config/Plex Curated.xml'
+          const sourceChannelsPath = 'guides/plex.xml'
           const guidePath = 'guides/Plex.xml'
-          const xmltvIdsByName = new Map([
-            ['mgm presents horror', 'mgm-presents-horror'],
-            ['filmrise horror', 'filmrise-horror-2']
-          ])
 
           function decodeXml(s) {
             return String(s || '')
@@ -1192,7 +1180,7 @@ jobs:
           }
 
           function attr(attrs, name) {
-            const m = attrs.match(new RegExp(`${name}="([^"]*)"`, 'i'))
+            const m = attrs.match(new RegExp(`(?:^|\\s)${name}="([^"]*)"`, 'i'))
             return m ? decodeXml(m[1]).trim() : ''
           }
 
@@ -1209,16 +1197,31 @@ jobs:
               .trim()
           }
 
-          if (!fs.existsSync(sourcePath) || !fs.existsSync(guidePath)) {
-            console.log('Plex Master List logo pass skipped: source or generated guide is missing')
+          if (!fs.existsSync(sourcePath) || !fs.existsSync(sourceChannelsPath) || !fs.existsSync(guidePath)) {
+            console.log('Curated Plex logo pass skipped: curated config, channel source, or generated guide is missing')
             process.exit(0)
           }
 
-          const source = fs.readFileSync(sourcePath, 'utf8')
+          const curatedXml = fs.readFileSync(sourcePath, 'utf8')
+          const sourceXml = fs.readFileSync(sourceChannelsPath, 'utf8')
           let guide = fs.readFileSync(guidePath, 'utf8')
-          const logos = new Map()
 
-          for (const match of source.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+          // Map curated source channel names to their XMLTV IDs.
+          const xmltvIdsByName = new Map()
+          for (const match of sourceXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+            const attrs = match[1]
+            const xmltvId = attr(attrs, 'xmltv_id')
+            const name = cleanBody(match[2])
+            if (xmltvId && name) xmltvIdsByName.set(norm(name), xmltvId)
+          }
+
+          // Logo records in this same config use id="PLEX_GRID_KEY", a display-name,
+          // and an icon. Match their display-name to the curated source channel name.
+          const logos = new Map()
+          for (const match of curatedXml.matchAll(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi)) {
+            const attrs = match[1]
+            if (attr(attrs, 'site').toLowerCase() === 'plex.tv') continue
+
             const body = match[2]
             const displayNameMatch = body.match(/<display-name\b[^>]*>([\s\S]*?)<\/display-name>/i)
             const name = displayNameMatch ? cleanBody(displayNameMatch[1]) : ''
@@ -1227,15 +1230,9 @@ jobs:
             if (xmltvId && icon) logos.set(xmltvId, decodeXml(icon[1]).trim())
           }
 
-          const requiredIds = [...xmltvIdsByName.values()]
-          const missingLogos = requiredIds.filter(id => !logos.has(id))
-          if (missingLogos.length) {
-            console.error(`Missing required channel logo(s) in ${sourcePath} for XMLTV ID(s): ${missingLogos.join(', ')}`)
-            process.exit(1)
-          }
-
           let added = 0
           let updated = 0
+          let matched = 0
 
           guide = guide.replace(/<channel\b([^>]*)>([\s\S]*?)<\/channel>/gi, block => {
             const attrs = block.match(/^<channel\b([^>]*)>/i)?.[1] || ''
@@ -1243,6 +1240,7 @@ jobs:
             const logo = logos.get(id)
             if (!logo) return block
 
+            matched++
             if (/<icon\b[^>]*\bsrc=/i.test(block)) {
               const next = block.replace(/<icon\b[^>]*\bsrc="[^"]*"[^/]*\/>/i, `<icon src="${escapeXml(logo)}"/>`)
               if (next !== block) updated++
@@ -1254,9 +1252,10 @@ jobs:
           })
 
           fs.writeFileSync(guidePath, guide)
-          console.log(`Plex Master List logos found: ${logos.size}`)
+          console.log(`Curated Plex channel logos matched: ${matched}`)
           console.log(`Plex logos added: ${added}`)
           console.log(`Plex logos updated: ${updated}`)
+          console.log(`Curated source channels without matching logo metadata: ${[...xmltvIdsByName.entries()].filter(([, id]) => !logos.has(id)).length}`)
           EOF
 
       - name: Clean movie titles, actor parentheticals, and known release years
@@ -1422,13 +1421,13 @@ jobs:
           DESC=$(grep -c '<desc ' guides/Plex.xml || true)
           SOURCE_CH=$(grep -c '<channel ' guides/plex.xml || true)
 
-          echo "Plex source channels (MGM Presents: Horror + FilmRise Horror): $SOURCE_CH"
+          echo "Plex curated source channels: $SOURCE_CH"
           echo "Plex output channels: $CH"
           echo "Plex programmes: $PR"
           echo "Plex descriptions: $DESC"
 
-          if [ "$SOURCE_CH" -ne 2 ]; then
-            echo "Invalid Plex source - expected MGM Presents: Horror and FilmRise Horror (2 channels), got $SOURCE_CH channel(s)"
+          if [ "$SOURCE_CH" -lt 1 ]; then
+            echo "Invalid Plex source - no curated Plex channels were generated"
             exit 1
           fi
 
