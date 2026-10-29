@@ -550,7 +550,7 @@
     <display-name>LIVE EVENT 01 - 5pm World Short Track Championship Charlotte</display-name>
   </channel>
   <channel id="605786">
-    <display-name>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</display-name>
+    <display-name>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</display-name>
   </channel>
   <channel id="605785">
     <display-name>LIVE EVENT 03 - 7:30pm IWR Monsters Ball 2026</display-name>
@@ -2492,7 +2492,7 @@
     <display-name>####### CANADA WEST PPV #######</display-name>
   </channel>
   <channel id="1132428">
-    <display-name>NEXT | UFV @ MAN VOLLEYBALL MEN | Thu 29 Oct 20:30 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</display-name>
+    <display-name>LIVE | UFV @ MAN VOLLEYBALL MEN | Thu 29 Oct 20:30 NDT (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</display-name>
   </channel>
   <channel id="1132427">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
@@ -2696,7 +2696,7 @@
     <display-name>LIVE EVENT 01 - 5pm World Short Track Championship Charlotte</display-name>
   </channel>
   <channel id="605888">
-    <display-name>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</display-name>
+    <display-name>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</display-name>
   </channel>
   <channel id="605887">
     <display-name>LIVE EVENT 03 - 7:30pm IWR Monsters Ball 2026</display-name>
@@ -3938,11 +3938,11 @@
     <display-name>##### NBA PASS PPV ⁸ᴷ #####</display-name>
   </channel>
   <channel id="1634335">
-    <display-name>NEXT | NOP - PELICANS VS SAC - KINGS | Thu 29 Oct 19:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | NOP - PELICANS VS SAC - KINGS | Thu 29 Oct 19:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Sacramento_Kings/Sacramento_Kings_vs_New_Orleans_Pelicans.png" />
   </channel>
   <channel id="1634334">
-    <display-name>NEXT | ATL - HAWKS VS CLE - CAVALIERS | Thu 29 Oct 19:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 2</display-name>
+    <display-name>LIVE | ATL - HAWKS VS CLE - CAVALIERS | Thu 29 Oct 19:00 EDT (US) | 8K EXCLUSIVE | US: NBA PASS PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Cleveland_Cavaliers/Cleveland_Cavaliers_vs_Atlanta_Hawks.png" />
   </channel>
   <channel id="1634333">
@@ -4637,10 +4637,10 @@
     <display-name>ENDED | IDAHO VS. PORTLAND STATE | Thu 29 Oct 16:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
   </channel>
   <channel id="1924706">
-    <display-name>LIVE | EASTERN ILLINOIS VS. MOREHEAD STATE | Thu 29 Oct 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 24</display-name>
+    <display-name>ENDED | EASTERN ILLINOIS VS. MOREHEAD STATE | Thu 29 Oct 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 24</display-name>
   </channel>
   <channel id="1924705">
-    <display-name>LIVE | EASTERN WASHINGTON VS. MONTANA | Thu 29 Oct 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 25</display-name>
+    <display-name>ENDED | EASTERN WASHINGTON VS. MONTANA | Thu 29 Oct 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 25</display-name>
   </channel>
   <channel id="1924704">
     <display-name>ENDED | INSIDE OSU ATHLETICS | Thu 29 Oct 17:00 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 26</display-name>
@@ -4688,7 +4688,7 @@
     <display-name>LIVE | EASTERN MICHIGAN VS. AKRON | Thu 29 Oct 18:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 40</display-name>
   </channel>
   <channel id="1924689">
-    <display-name>LIVE | CALHOUN STREET: EPISODE 1 | Thu 29 Oct 18:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 41</display-name>
+    <display-name>ENDED | CALHOUN STREET: EPISODE 1 | Thu 29 Oct 18:30 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 41</display-name>
   </channel>
   <channel id="1924688">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | US: ESPN+ PPV 42</display-name>
@@ -7630,6 +7630,10 @@
   <channel id="351699">
     <display-name>IT: DAZN NFL</display-name>
   </channel>
+  <channel id="1884306">
+    <display-name>Next | Carolina Panthers @ Green Bay Packers | NFL | 2026-10-30 | 00:15 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Carolina_Panthers/Carolina_Panthers_vs_Green_Bay_Packers.png" />
+  </channel>
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
@@ -7657,8 +7661,8 @@
   <channel id="1688731">
     <display-name>VIP: SPORT TV NBA ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="1893323">
-    <display-name>Next | Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</display-name>
+  <channel id="1893380">
+    <display-name>Live | Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</display-name>
   </channel>
   <channel id="386374">
     <display-name>PT: SPORT TV NBA</display-name>
@@ -7673,15 +7677,15 @@
     <display-name>ENDED | NHL NHL ON THE FLY | Thu 29 Oct 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 3</display-name>
   </channel>
   <channel id="1810037">
-    <display-name>NEXT | NHL CAROLINA - COLUMBUS | Fri 30 Oct 00:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 10</display-name>
+    <display-name>LIVE | NHL CAROLINA - COLUMBUS | Fri 30 Oct 00:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 10</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Columbus_Blue_Jackets/Columbus_Blue_Jackets_vs_Carolina_Hurricanes.png" />
   </channel>
   <channel id="1810036">
-    <display-name>NEXT | NHL PITTSBURGH - UTAH | Fri 30 Oct 00:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 11</display-name>
+    <display-name>LIVE | NHL PITTSBURGH - UTAH | Fri 30 Oct 00:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 11</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1810035">
-    <display-name>NEXT | NHL DETROIT - CHICAGO | Fri 30 Oct 00:35 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 12</display-name>
+    <display-name>LIVE | NHL DETROIT - CHICAGO | Fri 30 Oct 00:35 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 12</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Detroit_Red_Wings.png" />
   </channel>
   <channel id="1810034">
@@ -7767,19 +7771,19 @@
     <display-name>ENDED | NHL NHL ON THE FLY | Thu 29 Oct 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</display-name>
   </channel>
   <channel id="1863210">
-    <display-name>NEXT | NHL PITTSBURGH - UTAH | Fri 30 Oct 00:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17</display-name>
+    <display-name>LIVE | NHL PITTSBURGH - UTAH | Fri 30 Oct 00:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1863209">
-    <display-name>NEXT | NHL TAMPA BAY - WINNIPEG | Fri 30 Oct 00:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 18</display-name>
+    <display-name>LIVE | NHL TAMPA BAY - WINNIPEG | Fri 30 Oct 00:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 18</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Winnipeg_Jets/Winnipeg_Jets_vs_Tampa_Bay_Lightning.png" />
   </channel>
   <channel id="1863208">
-    <display-name>NEXT | NHL CAROLINA - COLUMBUS | Fri 30 Oct 00:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 19</display-name>
+    <display-name>LIVE | NHL CAROLINA - COLUMBUS | Fri 30 Oct 00:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 19</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Columbus_Blue_Jackets/Columbus_Blue_Jackets_vs_Carolina_Hurricanes.png" />
   </channel>
   <channel id="1863207">
-    <display-name>NEXT | NHL DETROIT - CHICAGO | Fri 30 Oct 00:35 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 20</display-name>
+    <display-name>LIVE | NHL DETROIT - CHICAGO | Fri 30 Oct 00:35 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 20</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Detroit_Red_Wings.png" />
   </channel>
   <channel id="1863206">
@@ -7971,15 +7975,15 @@
     <display-name>ENDED | NHL NHL ON THE FLY | Thu 29 Oct 07:00 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 1</display-name>
   </channel>
   <channel id="1126470">
-    <display-name>NEXT | NHL CAROLINA - COLUMBUS | Thu 29 Oct 19:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 2</display-name>
+    <display-name>LIVE | NHL CAROLINA - COLUMBUS | Thu 29 Oct 19:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Carolina_Hurricanes/Carolina_Hurricanes_vs_Columbus_Blue_Jackets.png" />
   </channel>
   <channel id="1126469">
-    <display-name>NEXT | NHL PITTSBURGH - UTAH | Thu 29 Oct 19:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 3</display-name>
+    <display-name>LIVE | NHL PITTSBURGH - UTAH | Thu 29 Oct 19:05 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 3</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Pittsburgh_Penguins/Pittsburgh_Penguins_vs_Utah_Mammoth.png" />
   </channel>
   <channel id="1126468">
-    <display-name>NEXT | NHL DETROIT - CHICAGO | Thu 29 Oct 19:35 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 4</display-name>
+    <display-name>LIVE | NHL DETROIT - CHICAGO | Thu 29 Oct 19:35 EDT (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 4</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Detroit_Red_Wings/Detroit_Red_Wings_vs_Chicago_Blackhawks.png" />
   </channel>
   <channel id="1126467">
@@ -8249,34 +8253,44 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Portland_Trail_Blazers/Portland_Trail_Blazers_vs_Memphis_Grizzlies.png" />
   </channel>
   <channel id="1413078">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 4</display-name>
+    <display-name>NEXT | WAS - WIZARDS VS CHA - HORNETS | Fri 30 Oct 20:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 4</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Washington_Wizards/Washington_Wizards_vs_Charlotte_Hornets.png" />
   </channel>
   <channel id="1413077">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 5</display-name>
+    <display-name>NEXT | PHI - 76ERS VS NYK - KNICKS | Fri 30 Oct 20:30 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 5</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Philadelphia_76ers/Philadelphia_76ers_vs_New_York_Knicks.png" />
   </channel>
   <channel id="1413076">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 6</display-name>
+    <display-name>NEXT | BOS - CELTICS VS CHI - BULLS | Fri 30 Oct 20:30 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 6</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Boston_Celtics/Boston_Celtics_vs_Chicago_Bulls.png" />
   </channel>
   <channel id="1413075">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 7</display-name>
+    <display-name>NEXT | BKN - NETS VS DET - PISTONS | Fri 30 Oct 20:30 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 7</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Brooklyn_Nets/Brooklyn_Nets_vs_Detroit_Pistons.png" />
   </channel>
   <channel id="1413074">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 8</display-name>
+    <display-name>NEXT | TOR - RAPTORS VS ORL - MAGIC | Fri 30 Oct 20:30 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 8</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Toronto_Raptors/Toronto_Raptors_vs_Orlando_Magic.png" />
   </channel>
   <channel id="1413073">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 9</display-name>
+    <display-name>NEXT | MIA - HEAT VS IND - PACERS | Fri 30 Oct 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 9</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Miami_Heat/Miami_Heat_vs_Indiana_Pacers.png" />
   </channel>
   <channel id="1413072">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 10</display-name>
+    <display-name>NEXT | DAL - MAVERICKS VS HOU - ROCKETS | Fri 30 Oct 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 10</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Dallas_Mavericks/Dallas_Mavericks_vs_Houston_Rockets.png" />
   </channel>
   <channel id="1413071">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 11</display-name>
+    <display-name>NEXT | MIN - TIMBERWOLVES VS LAC - CLIPPERS | Fri 30 Oct 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 11</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Minnesota_Timberwolves/Minnesota_Timberwolves_vs_Los_Angeles_Clippers.png" />
   </channel>
   <channel id="1413070">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 12</display-name>
+    <display-name>NEXT | GSW - WARRIORS VS LAL - LAKERS | Fri 30 Oct 23:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 12</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Golden_State_Warriors/Golden_State_Warriors_vs_Los_Angeles_Lakers.png" />
   </channel>
   <channel id="1413069">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 13</display-name>
+    <display-name>NEXT | PHX - SUNS VS DEN - NUGGETS | Fri 30 Oct 23:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 13</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Phoenix_Suns/Phoenix_Suns_vs_Denver_Nuggets.png" />
   </channel>
   <channel id="1413068">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 14</display-name>
@@ -30337,123 +30351,123 @@ Thursday 10/29/2026</desc>
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="605786">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="605785">
@@ -115617,123 +115631,123 @@ Thursday 10/29/2026</desc>
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="605888">
-    <title>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare</title>
-    <desc>LIVE EVENT 02 - 7:15pm Trophy Cup Tulare
+    <title>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare</title>
+    <desc>LIVE EVENT 02 - 8:15pm Trophy Cup Tulare
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="605887">
@@ -305556,6 +305570,131 @@ Thursday 10/29/2026</desc>
     <desc>IT: DAZN NFL
 Thursday 10/29/2026</desc>
   </programme>
+  <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1884306">
+    <title>Upcoming: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1884306">
+    <title>Upcoming: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1884306">
+    <title>Upcoming: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1884306">
+    <title>Upcoming: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1884306">
+    <title>Upcoming: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1884306">
+    <title>Upcoming: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261029180000 -0400" stop="20261029201500 -0400" channel="1884306">
+    <title>Upcoming: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261029201500 -0400" stop="20261029231500 -0400" channel="1884306">
+    <title>Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261029231500 -0400" stop="20261030000000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1884306">
+    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
+    <desc>Carolina Panthers vs. Green Bay Packers
+Thursday 10/29/2026 - 8:15 PM</desc>
+  </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1686819">
     <title>VIP: NBA TV</title>
     <desc>VIP: NBA TV
@@ -306636,124 +306775,124 @@ Thursday 10/29/2026</desc>
     <desc>VIP: SPORT TV NBA ᴿᴬᵂ
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1893323">
-    <title>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58</title>
-    <desc>Geração NFL | NFL | 2026-10-29 | 23:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 58
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1893380">
+    <title>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1</title>
+    <desc>Geração NFL | NFL | 8K EXCLUSIVE | PT: DAZN PPV 1
 Thursday 10/29/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="386374">
@@ -327312,1204 +327451,1204 @@ Friday 10/23/2026</desc>
 Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413078">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 4</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 4
-Thursday 10/29/2026</desc>
+    <title>Washington Wizards vs. Charlotte Hornets</title>
+    <desc>Washington Wizards vs. Charlotte Hornets
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413077">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 5</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 5
-Thursday 10/29/2026</desc>
+    <title>Post Game: Philadelphia 76ers vs. New York Knicks - 7:00 PM</title>
+    <desc>Philadelphia 76ers vs. New York Knicks
+Tuesday 10/20/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413076">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 6</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 6
-Thursday 10/29/2026</desc>
+    <title>Boston Celtics vs. Chicago Bulls</title>
+    <desc>Boston Celtics vs. Chicago Bulls
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413075">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 7</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 7
-Thursday 10/29/2026</desc>
+    <title>Brooklyn Nets vs. Detroit Pistons</title>
+    <desc>Brooklyn Nets vs. Detroit Pistons
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413074">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 8</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 8
-Thursday 10/29/2026</desc>
+    <title>Toronto Raptors vs. Orlando Magic</title>
+    <desc>Toronto Raptors vs. Orlando Magic
+Tuesday 10/20/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413073">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 9</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 9
-Thursday 10/29/2026</desc>
+    <title>Miami Heat vs. Indiana Pacers</title>
+    <desc>Miami Heat vs. Indiana Pacers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413072">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 10</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 10
-Thursday 10/29/2026</desc>
+    <title>Post Game: Dallas Mavericks vs. Houston Rockets - 8:30 PM</title>
+    <desc>Dallas Mavericks vs. Houston Rockets
+Wednesday 10/21/2026 - 8:30 PM</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413071">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 11</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 11
-Thursday 10/29/2026</desc>
+    <title>Minnesota Timberwolves vs. Los Angeles Clippers</title>
+    <desc>Minnesota Timberwolves vs. Los Angeles Clippers
+Wednesday 10/21/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413070">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 12</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 12
-Thursday 10/29/2026</desc>
+    <title>Golden State Warriors vs. Los Angeles Lakers</title>
+    <desc>Golden State Warriors vs. Los Angeles Lakers
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029060000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029090000 -0400" stop="20261029120000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029150000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029180000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029210000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030000000 -0400" stop="20261030030000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030030000 -0400" stop="20261030060000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030090000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030120000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030150000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030180000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030180000 -0400" stop="20261030210000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261030210000 -0400" stop="20261031000000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Thursday 10/29/2026</desc>
+    <title>Phoenix Suns vs. Denver Nuggets</title>
+    <desc>Phoenix Suns vs. Denver Nuggets
+Friday 10/23/2026</desc>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029030000 -0400" channel="1413068">
     <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
