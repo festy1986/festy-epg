@@ -3040,7 +3040,7 @@
     <display-name>####### DAZN PPV US #######</display-name>
   </channel>
   <channel id="1899901">
-    <display-name>Next | Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 1</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 1</display-name>
   </channel>
   <channel id="1899900">
     <display-name>Next | Mzamane FC vs. LMPS FC | Premier League - Lesotho | 2026-10-31 | 11:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 2</display-name>
@@ -7731,37 +7731,33 @@
   <channel id="1702617">
     <display-name>NHL On The Fly @ Oct 31 12:00 PM :Viaplay SE  02</display-name>
   </channel>
-  <channel id="1704112">
-    <display-name>NHL: Jets @ Lightning @ Oct 29 23:25 :TeliaPlay SE  40</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Winnipeg_Jets/Winnipeg_Jets_vs_Tampa_Bay_Lightning.png" />
+  <channel id="1704090">
+    <display-name>NHL: Boston Bruins vs Chicago Blackhawks @ Oct 31 18:05 :TeliaPlay SE  62</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Boston_Bruins.png" />
   </channel>
-  <channel id="1704110">
-    <display-name>NHL: Carolina Hurricanes vs Columbus Blue Jackets @ Oct 30 00:05 :TeliaPlay SE  42</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Columbus_Blue_Jackets/Columbus_Blue_Jackets_vs_Carolina_Hurricanes.png" />
+  <channel id="1704089">
+    <display-name>NHL: Detroit Red Wings vs St. Louis Blues @ Oct 31 18:05 :TeliaPlay SE  63</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/St_Louis_Blues/St_Louis_Blues_vs_Detroit_Red_Wings.png" />
   </channel>
-  <channel id="1704109">
-    <display-name>NHL: Pittsburgh Penguins vs Utah Mammoth @ Oct 30 00:05 :TeliaPlay SE  43</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Pittsburgh_Penguins.png" />
+  <channel id="1704084">
+    <display-name>NHL: Lightning @ Predators @ Oct 31 18:25 :TeliaPlay SE  68</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Tampa_Bay_Lightning/Tampa_Bay_Lightning_vs_Nashville_Predators.png" />
   </channel>
-  <channel id="1704106">
-    <display-name>NHL: Detroit Red Wings vs Chicago Blackhawks @ Oct 30 00:35 :TeliaPlay SE  46</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Detroit_Red_Wings.png" />
+  <channel id="1704078">
+    <display-name>NHL: Oilers @ Islanders @ Oct 31 18:55 :TeliaPlay SE  74</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_New_York_Islanders.png" />
   </channel>
-  <channel id="1704103">
-    <display-name>NFL: Panthers @ Packers @ Oct 30 01:01 :TeliaPlay SE  49</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Carolina_Panthers/Carolina_Panthers_vs_Green_Bay_Packers.png" />
+  <channel id="1704070">
+    <display-name>NHL: Senators @ Sharks @ Oct 31 20:25 :TeliaPlay SE  82</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_San_Jose_Sharks.png" />
   </channel>
-  <channel id="1704102">
-    <display-name>NHL: Minnesota Wild vs New York Islanders @ Oct 30 01:05 :TeliaPlay SE  50</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Islanders/New_York_Islanders_vs_Minnesota_Wild.png" />
+  <channel id="1704058">
+    <display-name>NHL: Los Angeles Kings vs Buffalo Sabres @ Oct 31 21:05 :TeliaPlay SE  94</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Los_Angeles_Kings.png" />
   </channel>
-  <channel id="1704098">
-    <display-name>NHL: Anaheim Ducks vs Buffalo Sabres @ Oct 30 03:05 :TeliaPlay SE  54</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Anaheim_Ducks.png" />
-  </channel>
-  <channel id="1704097">
-    <display-name>NHL: San Jose Sharks vs Vancouver Canucks @ Oct 30 03:05 :TeliaPlay SE  55</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vancouver_Canucks/Vancouver_Canucks_vs_San_Jose_Sharks.png" />
+  <channel id="1801835">
+    <display-name>NHL: Islanders vs Oilers @ Oct 31 7:00 PM :Disney+ SE  25</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_New_York_Islanders.png" />
   </channel>
   <channel id="1703070">
     <display-name>NHL On The Fly @ Oct 31 12:00 PM :Viaplay DK  04</display-name>
@@ -129433,123 +129429,123 @@ Saturday 10/31/2026</desc>
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1899901">
-    <title>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Anse Réunion FC vs. Light Stars FC | Premier League - Seychelles | 2026-10-31 | 10:45 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Saturday 10/31/2026</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1899900">
@@ -308617,965 +308613,880 @@ Saturday 10/31/2026</desc>
     <desc>NHL On The Fly vs. Los Angeles Kings
 Saturday 10/31/2026</desc>
   </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704112">
-    <title>Post Game: Winnipeg Jets vs. Tampa Bay Lightning - 7:00 PM</title>
-    <desc>Winnipeg Jets vs. Tampa Bay Lightning
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704110">
-    <title>Post Game: Columbus Blue Jackets vs. Carolina Hurricanes - 7:00 PM</title>
-    <desc>Columbus Blue Jackets vs. Carolina Hurricanes
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704109">
-    <title>Post Game: Utah Mammoth vs. Pittsburgh Penguins - 7:00 PM</title>
-    <desc>Utah Mammoth vs. Pittsburgh Penguins
-Thursday 10/29/2026 - 7:00 PM</desc>
-  </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704106">
-    <title>Post Game: Chicago Blackhawks vs. Detroit Red Wings - 7:30 PM</title>
-    <desc>Chicago Blackhawks vs. Detroit Red Wings
-Thursday 10/29/2026 - 7:30 PM</desc>
-  </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704103">
-    <title>Post Game: Carolina Panthers vs. Green Bay Packers - 8:15 PM</title>
-    <desc>Carolina Panthers vs. Green Bay Packers
-Thursday 10/29/2026 - 8:15 PM</desc>
-  </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704102">
-    <title>Post Game: New York Islanders vs. Minnesota Wild - 8:00 PM</title>
-    <desc>New York Islanders vs. Minnesota Wild
-Thursday 10/29/2026 - 8:00 PM</desc>
-  </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704098">
-    <title>Post Game: Buffalo Sabres vs. Anaheim Ducks - 10:00 PM</title>
-    <desc>Buffalo Sabres vs. Anaheim Ducks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031150000 -0400" stop="20261031180000 -0400" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704097">
-    <title>Post Game: Vancouver Canucks vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Vancouver Canucks vs. San Jose Sharks
-Thursday 10/29/2026 - 10:00 PM</desc>
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704090">
+    <title>Upcoming: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704090">
+    <title>Upcoming: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704090">
+    <title>Upcoming: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704090">
+    <title>Upcoming: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031120000 -0400" stop="20261031130000 -0400" channel="1704090">
+    <title>Upcoming: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031130000 -0400" stop="20261031160000 -0400" channel="1704090">
+    <title>Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031160000 -0400" stop="20261031180000 -0400" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704090">
+    <title>Post Game: Chicago Blackhawks vs. Boston Bruins - 1:00 PM</title>
+    <desc>Chicago Blackhawks vs. Boston Bruins
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704089">
+    <title>Upcoming: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704089">
+    <title>Upcoming: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704089">
+    <title>Upcoming: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704089">
+    <title>Upcoming: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031120000 -0400" stop="20261031130000 -0400" channel="1704089">
+    <title>Upcoming: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031130000 -0400" stop="20261031160000 -0400" channel="1704089">
+    <title>St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031160000 -0400" stop="20261031180000 -0400" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704089">
+    <title>Post Game: St. Louis Blues vs. Detroit Red Wings - 1:00 PM</title>
+    <desc>St. Louis Blues vs. Detroit Red Wings
+Saturday 10/31/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704084">
+    <title>Upcoming: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704084">
+    <title>Upcoming: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704084">
+    <title>Upcoming: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704084">
+    <title>Upcoming: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031120000 -0400" stop="20261031140000 -0400" channel="1704084">
+    <title>Upcoming: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031140000 -0400" stop="20261031170000 -0400" channel="1704084">
+    <title>Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031170000 -0400" stop="20261031180000 -0400" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704084">
+    <title>Post Game: Tampa Bay Lightning vs. Nashville Predators - 2:00 PM</title>
+    <desc>Tampa Bay Lightning vs. Nashville Predators
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704078">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704078">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704078">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704078">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031120000 -0400" stop="20261031140000 -0400" channel="1704078">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031140000 -0400" stop="20261031170000 -0400" channel="1704078">
+    <title>Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031170000 -0400" stop="20261031180000 -0400" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704078">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704070">
+    <title>Upcoming: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704070">
+    <title>Upcoming: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704070">
+    <title>Upcoming: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704070">
+    <title>Upcoming: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704070">
+    <title>Upcoming: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031150000 -0400" stop="20261031160000 -0400" channel="1704070">
+    <title>Upcoming: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031160000 -0400" stop="20261031190000 -0400" channel="1704070">
+    <title>Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031190000 -0400" stop="20261031210000 -0400" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704070">
+    <title>Post Game: Ottawa Senators vs. San Jose Sharks - 4:00 PM</title>
+    <desc>Ottawa Senators vs. San Jose Sharks
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1704058">
+    <title>Upcoming: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1704058">
+    <title>Upcoming: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1704058">
+    <title>Upcoming: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1704058">
+    <title>Upcoming: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031120000 -0400" stop="20261031150000 -0400" channel="1704058">
+    <title>Upcoming: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031150000 -0400" stop="20261031160000 -0400" channel="1704058">
+    <title>Upcoming: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031160000 -0400" stop="20261031190000 -0400" channel="1704058">
+    <title>Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031190000 -0400" stop="20261031210000 -0400" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1704058">
+    <title>Post Game: Buffalo Sabres vs. Los Angeles Kings - 4:00 PM</title>
+    <desc>Buffalo Sabres vs. Los Angeles Kings
+Saturday 10/31/2026 - 4:00 PM</desc>
+  </programme>
+  <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1801835">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031030000 -0400" stop="20261031060000 -0400" channel="1801835">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031060000 -0400" stop="20261031090000 -0400" channel="1801835">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031090000 -0400" stop="20261031120000 -0400" channel="1801835">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031120000 -0400" stop="20261031140000 -0400" channel="1801835">
+    <title>Upcoming: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031140000 -0400" stop="20261031170000 -0400" channel="1801835">
+    <title>Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031170000 -0400" stop="20261031180000 -0400" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031180000 -0400" stop="20261031210000 -0400" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261101000000 -0400" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101000000 -0400" stop="20261101030000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101030000 -0500" stop="20261101060000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101060000 -0500" stop="20261101090000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101090000 -0500" stop="20261101120000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261101150000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101150000 -0500" stop="20261101180000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101180000 -0500" stop="20261101210000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261101210000 -0500" stop="20261102000000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
+  </programme>
+  <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1801835">
+    <title>Post Game: Edmonton Oilers vs. New York Islanders - 2:00 PM</title>
+    <desc>Edmonton Oilers vs. New York Islanders
+Saturday 10/31/2026 - 2:00 PM</desc>
   </programme>
   <programme start="20261031000000 -0400" stop="20261031030000 -0400" channel="1703070">
     <title>NHL On The Fly vs. Los Angeles Kings</title>
