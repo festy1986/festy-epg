@@ -1786,7 +1786,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 13</display-name>
   </channel>
   <channel id="1912589">
-    <display-name>Next | Oakland @ Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 14</display-name>
   </channel>
   <channel id="1912588">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 15</display-name>
@@ -3914,7 +3914,7 @@
     <display-name>##### NBA PASS PPV ⁸ᴷ #####</display-name>
   </channel>
   <channel id="1634335">
-    <display-name>NEXT | CLE - CAVALIERS VS OKC - THUNDER | Mon 02 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | CLE - CAVALIERS VS OKC - THUNDER | Mon 02 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Cleveland_Cavaliers/Cleveland_Cavaliers_vs_Oklahoma_City_Thunder.png" />
   </channel>
   <channel id="1634334">
@@ -4688,13 +4688,13 @@
     <display-name>ENDED | EN ESPAÑOL-DEPORTIVO LA CORUÑA VS. CA OSASUNA | Mon 02 Nov 14:55 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 38</display-name>
   </channel>
   <channel id="1924691">
-    <display-name>LIVE | SAINT ANSELM VS. UMASS LOWELL | Mon 02 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 39</display-name>
+    <display-name>ENDED | SAINT ANSELM VS. UMASS LOWELL | Mon 02 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 39</display-name>
   </channel>
   <channel id="1924690">
-    <display-name>LIVE | CARNEGIE MELLON UNIVERSITY VS. PRINCETON | Mon 02 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 40</display-name>
+    <display-name>ENDED | CARNEGIE MELLON UNIVERSITY VS. PRINCETON | Mon 02 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 40</display-name>
   </channel>
   <channel id="1924689">
-    <display-name>LIVE | UMBC VS. GEORGE MASON | Mon 02 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 41</display-name>
+    <display-name>ENDED | UMBC VS. GEORGE MASON | Mon 02 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 41</display-name>
   </channel>
   <channel id="1924688">
     <display-name>LIVE | ELMS COLLEGE VS. YALE | Mon 02 Nov 16:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 42</display-name>
@@ -7636,6 +7636,10 @@
   <channel id="351699">
     <display-name>IT: DAZN NFL</display-name>
   </channel>
+  <channel id="1884303">
+    <display-name>Next | Chicago Bears @ Seattle Seahawks | NFL | 2026-11-03 | 01:15 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 4</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Chicago_Bears/Chicago_Bears_vs_Seattle_Seahawks.png" />
+  </channel>
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
   </channel>
@@ -7653,6 +7657,14 @@
   </channel>
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
+  </channel>
+  <channel id="2152112">
+    <display-name>Next | Oklahoma City Thunder @ Cleveland Cavaliers | NBA | 2026-11-03 | 00:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Oklahoma_City_Thunder/Oklahoma_City_Thunder_vs_Cleveland_Cavaliers.png" />
+  </channel>
+  <channel id="2152110">
+    <display-name>Next | Bears @ Seahawks (en castellano) | NFL | 2026-11-03 | 01:15 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 3</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Chicago_Bears/Chicago_Bears_vs_Seattle_Seahawks.png" />
   </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
@@ -8094,7 +8106,7 @@
     <display-name>####### NBA PASS PPV #######</display-name>
   </channel>
   <channel id="1413081">
-    <display-name>NEXT | CLE - CAVALIERS VS OKC - THUNDER | Mon 02 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | CLE - CAVALIERS VS OKC - THUNDER | Mon 02 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Cleveland_Cavaliers/Cleveland_Cavaliers_vs_Oklahoma_City_Thunder.png" />
   </channel>
   <channel id="1413080">
@@ -79536,123 +79548,123 @@ Monday 11/02/2026</desc>
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102180000 -0500" stop="20261102210000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102210000 -0500" stop="20261103000000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261103000000 -0500" stop="20261103030000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261103030000 -0500" stop="20261103060000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261103060000 -0500" stop="20261103090000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261103090000 -0500" stop="20261103120000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261103120000 -0500" stop="20261103150000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261103150000 -0500" stop="20261103180000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261103180000 -0500" stop="20261103210000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261103210000 -0500" stop="20261104000000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="1912589">
-    <title>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14</title>
-    <desc>Oakland vs. Michigan | NCAA Men's Basketball | 2026-11-02 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 14
+    <title>8K EXCLUSIVE | CA: DAZN PPV 14</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 14
 Monday 11/02/2026</desc>
   </programme>
   <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1912588">
@@ -305420,6 +305432,131 @@ Monday 11/02/2026</desc>
     <desc>IT: DAZN NFL
 Monday 11/02/2026</desc>
   </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1884303">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="1884303">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="1884303">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="1884303">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="1884303">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="1884303">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102201500 -0500" channel="1884303">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102201500 -0500" stop="20261102231500 -0500" channel="1884303">
+    <title>Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102231500 -0500" stop="20261103000000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103000000 -0500" stop="20261103030000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103030000 -0500" stop="20261103060000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103060000 -0500" stop="20261103090000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103090000 -0500" stop="20261103120000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103120000 -0500" stop="20261103150000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103150000 -0500" stop="20261103180000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103180000 -0500" stop="20261103210000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103210000 -0500" stop="20261104000000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="1884303">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
   <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1686819">
     <title>VIP: NBA TV</title>
     <desc>VIP: NBA TV
@@ -306139,6 +306276,256 @@ Monday 11/02/2026</desc>
     <title>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</title>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="2152112">
+    <title>Upcoming: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="2152112">
+    <title>Upcoming: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="2152112">
+    <title>Upcoming: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="2152112">
+    <title>Upcoming: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="2152112">
+    <title>Upcoming: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="2152112">
+    <title>Upcoming: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102190000 -0500" channel="2152112">
+    <title>Upcoming: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102190000 -0500" stop="20261102220000 -0500" channel="2152112">
+    <title>Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102220000 -0500" stop="20261103000000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261103000000 -0500" stop="20261103030000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261103030000 -0500" stop="20261103060000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261103060000 -0500" stop="20261103090000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261103090000 -0500" stop="20261103120000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261103120000 -0500" stop="20261103150000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261103150000 -0500" stop="20261103180000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261103180000 -0500" stop="20261103210000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261103210000 -0500" stop="20261104000000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="2152112">
+    <title>Post Game: Oklahoma City Thunder vs. Cleveland Cavaliers - 7:00 PM</title>
+    <desc>Oklahoma City Thunder vs. Cleveland Cavaliers
+Monday 11/02/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="2152110">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102030000 -0500" stop="20261102060000 -0500" channel="2152110">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102060000 -0500" stop="20261102090000 -0500" channel="2152110">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="2152110">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102120000 -0500" stop="20261102150000 -0500" channel="2152110">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102150000 -0500" stop="20261102180000 -0500" channel="2152110">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102180000 -0500" stop="20261102201500 -0500" channel="2152110">
+    <title>Upcoming: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102201500 -0500" stop="20261102231500 -0500" channel="2152110">
+    <title>Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261102231500 -0500" stop="20261103000000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103000000 -0500" stop="20261103030000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103030000 -0500" stop="20261103060000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103060000 -0500" stop="20261103090000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103090000 -0500" stop="20261103120000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103120000 -0500" stop="20261103150000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103150000 -0500" stop="20261103180000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103180000 -0500" stop="20261103210000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261103210000 -0500" stop="20261104000000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="2152110">
+    <title>Post Game: Chicago Bears vs. Seattle Seahawks - 8:15 PM</title>
+    <desc>Chicago Bears vs. Seattle Seahawks
+Monday 11/02/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261102000000 -0500" stop="20261102030000 -0500" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
