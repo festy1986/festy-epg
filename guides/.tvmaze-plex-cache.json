@@ -477570,5 +477570,217 @@
   "show:top holiday hits": null,
   "show:xite the beatles": null,
   "show:rock x metal halloween": null,
-  "show:afternoon rewind": null
+  "show:afternoon rewind": null,
+  "show:puro fuego": null,
+  "show:noche forever": null,
+  "show:la ltima": {
+    "id": 64855,
+    "url": "https://www.tvmaze.com/shows/64855/la-ultima",
+    "name": "La última",
+    "type": "Scripted",
+    "language": "Spanish",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Music"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 52,
+    "premiered": "2022-12-02",
+    "ended": "2022-12-02",
+    "officialSite": "https://www.disneyplus.com/es-es/series/la-ultima/1yXamsdfZDfN",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 38,
+    "network": null,
+    "webChannel": {
+      "id": 287,
+      "name": "Disney+",
+      "country": null,
+      "officialSite": "https://www.disneyplus.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 415586,
+      "imdb": "tt17564828"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/432/1081739.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1081739.jpg"
+    },
+    "summary": "<p>Candela, a young woman who works in a logistics company while pursuing her dream of becoming a singer. Her life changes one night when an international record company executive listens to her singing in a bar. That same night, Candela reunites with Diego, a high-school classmate who is struggling to become a professional boxer.</p>",
+    "updated": 1690062500,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/64855"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2422364",
+        "name": "Mi oasis"
+      }
+    }
+  },
+  "episodes:64855": [
+    {
+      "id": 2422360,
+      "url": "https://www.tvmaze.com/episodes/2422360/la-ultima-1x01-una-cancion-al-destino",
+      "name": "Una canción al destino",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2022-12-02",
+      "airtime": "",
+      "airstamp": "2022-12-02T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/433/1083734.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1083734.jpg"
+      },
+      "summary": "<p>After a fight, Diego flees from the police. Candela is singing for music producer Fede Ariza. Their first meeting doesn't start well, but there's something special there. Diego can't get out from illegal fighting. Candela begins her path to stardom.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2422360"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/64855",
+          "name": "La última"
+        }
+      }
+    },
+    {
+      "id": 2422361,
+      "url": "https://www.tvmaze.com/episodes/2422361/la-ultima-1x02-quiero",
+      "name": "Quiero",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2022-12-02",
+      "airtime": "",
+      "airstamp": "2022-12-02T12:00:00+00:00",
+      "runtime": 54,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/433/1083735.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1083735.jpg"
+      },
+      "summary": "<p>Diego leaves the world of illegal fights. As Diego and Candela's friendship could go further, she leaves to record her first singles. Candela is achieving her dream, but she can't stop thinking about Diego.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2422361"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/64855",
+          "name": "La última"
+        }
+      }
+    },
+    {
+      "id": 2422362,
+      "url": "https://www.tvmaze.com/episodes/2422362/la-ultima-1x03-la-ultima-pelicula",
+      "name": "La última película",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2022-12-02",
+      "airtime": "",
+      "airstamp": "2022-12-02T12:00:00+00:00",
+      "runtime": 51,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/433/1083736.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1083736.jpg"
+      },
+      "summary": "<p>Diego and Candela decide that they want to be together. However, there could be conflict. Diego sparring to be the contender for a boxing championship makes him rethink. Candela will be the opening act for an influential artist at a music festival.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2422362"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/64855",
+          "name": "La última"
+        }
+      }
+    },
+    {
+      "id": 2422363,
+      "url": "https://www.tvmaze.com/episodes/2422363/la-ultima-1x04-corazones-rotos",
+      "name": "Corazones rotos",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2022-12-02",
+      "airtime": "",
+      "airstamp": "2022-12-02T12:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/433/1083737.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1083737.jpg"
+      },
+      "summary": "<p>Several months have passed since Diego and Candela last saw each other but fate brings them together again. Diego has become the contender for the Spanish boxing title, and Candela is about to start her tour.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2422363"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/64855",
+          "name": "La última"
+        }
+      }
+    },
+    {
+      "id": 2422364,
+      "url": "https://www.tvmaze.com/episodes/2422364/la-ultima-1x05-mi-oasis",
+      "name": "Mi oasis",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2022-12-02",
+      "airtime": "",
+      "airstamp": "2022-12-02T12:00:00+00:00",
+      "runtime": 59,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/433/1083738.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1083738.jpg"
+      },
+      "summary": "<p>The result of Diego's fight is unexpected, which has consequences. Diego tells Candela he won't be able to be with her. Diego never expected that his actions would put Candela at risk. Their path ends at the most crucial moment of their lives.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2422364"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/64855",
+          "name": "La última"
+        }
+      }
+    }
+  ],
+  "show:prendiendo motores": null,
+  "show:ma anas con calma": null,
+  "show:xitos de hoy": null,
+  "show:vibras de mediod a": null,
+  "show:factor a de hits": null,
+  "show:hits en marcha": null,
+  "show:sube la m sica": null,
+  "show:ritmo de la noche": null,
+  "show:una noche m s": null
 }
