@@ -3349,41 +3349,52 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/logos/redzone.png" />
   </channel>
   <channel id="1781953">
-    <display-name>NFL   | 4k - MNF 8:15pm Bears at Seahawks</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Chicago_Bears/Chicago_Bears_vs_Seattle_Seahawks.png" />
+    <display-name>NFL   | 4k - TNF 8:15pm Jaguars at Ravens</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Jacksonville_Jaguars/Jacksonville_Jaguars_vs_Baltimore_Ravens.png" />
   </channel>
   <channel id="606180">
-    <display-name>NFL  | 01 -</display-name>
+    <display-name>NFL  | 01 - TNF 8:15pm Jaguars at Ravens</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Jacksonville_Jaguars/Jacksonville_Jaguars_vs_Baltimore_Ravens.png" />
   </channel>
   <channel id="606179">
-    <display-name>NFL  | 02 -</display-name>
+    <display-name>NFL  | 02 - 9:30am Bengals at Falcons</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Cincinnati_Bengals/Cincinnati_Bengals_vs_Atlanta_Falcons.png" />
   </channel>
   <channel id="606178">
-    <display-name>NFL  | 03 -</display-name>
+    <display-name>NFL  | 03 - 1pm Cowboys at Colts</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Dallas_Cowboys/Dallas_Cowboys_vs_Indianapolis_Colts.png" />
   </channel>
   <channel id="606177">
-    <display-name>NFL  | 04 -</display-name>
+    <display-name>NFL  | 04 - 1pm Jets at Chiefs</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_York_Jets/New_York_Jets_vs_Kansas_City_Chiefs.png" />
   </channel>
   <channel id="606176">
-    <display-name>NFL  | 05 -</display-name>
+    <display-name>NFL  | 05 - 1pm Lions at Dolphins</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Detroit_Lions/Detroit_Lions_vs_Miami_Dolphins.png" />
   </channel>
   <channel id="606175">
-    <display-name>NFL  | 06 -</display-name>
+    <display-name>NFL  | 06 - 1pm Browns at Saints</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Cleveland_Browns/Cleveland_Browns_vs_New_Orleans_Saints.png" />
   </channel>
   <channel id="606174">
-    <display-name>NFL  | 07 -</display-name>
+    <display-name>NFL  | 07 - 1pm Giants at Eagles</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_York_Giants/New_York_Giants_vs_Philadelphia_Eagles.png" />
   </channel>
   <channel id="606173">
-    <display-name>NFL  | 08 -</display-name>
+    <display-name>NFL  | 08 - 1pm Rams at Commanders</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Los_Angeles_Rams/Los_Angeles_Rams_vs_Washington_Commanders.png" />
   </channel>
   <channel id="606172">
-    <display-name>NFL  | 09 -</display-name>
+    <display-name>NFL  | 09 - 1pm Broncos at Panthers</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Denver_Broncos/Denver_Broncos_vs_Carolina_Panthers.png" />
   </channel>
   <channel id="606171">
-    <display-name>NFL  | 10 -</display-name>
+    <display-name>NFL  | 10 - 4:05pm Texans at Chargers</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Houston_Texans/Houston_Texans_vs_Los_Angeles_Chargers.png" />
   </channel>
   <channel id="606170">
-    <display-name>NFL  | 11 -</display-name>
+    <display-name>NFL  | 11 - 4:25pm Packers at Patriots</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Green_Bay_Packers/Green_Bay_Packers_vs_New_England_Patriots.png" />
   </channel>
   <channel id="606169">
     <display-name>NFL  | 12 -</display-name>
@@ -4617,7 +4628,7 @@
     <display-name>LIVE | OHIO VS. JAMES MADISON (QUARTERFINALS) | Wed 04 Nov 14:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 15</display-name>
   </channel>
   <channel id="1924714">
-    <display-name>LIVE | CALHOUN STREET: EPISODE 2 | Wed 04 Nov 15:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
+    <display-name>ENDED | CALHOUN STREET: EPISODE 2 | Wed 04 Nov 15:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
   </channel>
   <channel id="1924713">
     <display-name>LIVE | CHARGERS VS. FIREBALLS | Wed 04 Nov 15:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 17</display-name>
@@ -141748,1444 +141759,1454 @@ Wednesday 11/04/2026</desc>
 Wednesday 11/04/2026</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+  <programme start="20261105180000 -0500" stop="20261105201500 -0500" channel="1781953">
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+  <programme start="20261105201500 -0500" stop="20261105231500 -0500" channel="1781953">
+    <title>Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261105231500 -0500" stop="20261106000000 -0500" channel="1781953">
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="1781953">
-    <title>Chicago Bears vs. Seattle Seahawks</title>
-    <desc>Chicago Bears vs. Seattle Seahawks
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+  <programme start="20261105180000 -0500" stop="20261105201500 -0500" channel="606180">
+    <title>Upcoming: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
-  <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+  <programme start="20261105201500 -0500" stop="20261105231500 -0500" channel="606180">
+    <title>Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261105231500 -0500" stop="20261106000000 -0500" channel="606180">
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606180">
-    <title>01</title>
-    <desc>01
-Wednesday 11/04/2026</desc>
+    <title>Post Game: Jacksonville Jaguars vs. Baltimore Ravens - 8:15 PM</title>
+    <desc>Jacksonville Jaguars vs. Baltimore Ravens
+Thursday 11/05/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606179">
-    <title>02</title>
-    <desc>02
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cincinnati Bengals vs. Atlanta Falcons - 9:30 AM</title>
+    <desc>Cincinnati Bengals vs. Atlanta Falcons
+Sunday 11/08/2026 - 9:30 AM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606178">
-    <title>03</title>
-    <desc>03
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Dallas Cowboys vs. Indianapolis Colts - 1:00 PM</title>
+    <desc>Dallas Cowboys vs. Indianapolis Colts
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606177">
-    <title>04</title>
-    <desc>04
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Jets vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>New York Jets vs. Kansas City Chiefs
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606176">
-    <title>05</title>
-    <desc>05
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Detroit Lions vs. Miami Dolphins - 1:00 PM</title>
+    <desc>Detroit Lions vs. Miami Dolphins
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606175">
-    <title>06</title>
-    <desc>06
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Cleveland Browns vs. New Orleans Saints - 1:00 PM</title>
+    <desc>Cleveland Browns vs. New Orleans Saints
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606174">
-    <title>07</title>
-    <desc>07
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: New York Giants vs. Philadelphia Eagles - 1:00 PM</title>
+    <desc>New York Giants vs. Philadelphia Eagles
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606173">
-    <title>08</title>
-    <desc>08
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Los Angeles Rams vs. Washington Commanders - 1:00 PM</title>
+    <desc>Los Angeles Rams vs. Washington Commanders
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606172">
-    <title>09</title>
-    <desc>09
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Denver Broncos vs. Carolina Panthers - 1:00 PM</title>
+    <desc>Denver Broncos vs. Carolina Panthers
+Sunday 11/08/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606171">
-    <title>10</title>
-    <desc>10
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Houston Texans vs. Los Angeles Chargers - 4:05 PM</title>
+    <desc>Houston Texans vs. Los Angeles Chargers
+Sunday 11/08/2026 - 4:05 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261104030000 -0500" stop="20261104060000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261104060000 -0500" stop="20261104090000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261104150000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261104150000 -0500" stop="20261104180000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104210000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261104210000 -0500" stop="20261105000000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261105000000 -0500" stop="20261105030000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261105030000 -0500" stop="20261105060000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261105060000 -0500" stop="20261105090000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261105120000 -0500" stop="20261105150000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261105150000 -0500" stop="20261105180000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261105180000 -0500" stop="20261105210000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261105210000 -0500" stop="20261106000000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261106000000 -0500" stop="20261106030000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261106030000 -0500" stop="20261106060000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261106060000 -0500" stop="20261106090000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261106120000 -0500" stop="20261106150000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261106150000 -0500" stop="20261106180000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261106180000 -0500" stop="20261106210000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261106210000 -0500" stop="20261107000000 -0500" channel="606170">
-    <title>11</title>
-    <desc>11
-Wednesday 11/04/2026</desc>
+    <title>Upcoming: Green Bay Packers vs. New England Patriots - 4:25 PM</title>
+    <desc>Green Bay Packers vs. New England Patriots
+Sunday 11/08/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261104000000 -0500" stop="20261104030000 -0500" channel="606169">
     <title>12</title>
