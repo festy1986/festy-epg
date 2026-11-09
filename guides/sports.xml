@@ -1786,7 +1786,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 12</display-name>
   </channel>
   <channel id="1912590">
-    <display-name>Next | Marshall @ Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 13</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 13</display-name>
   </channel>
   <channel id="1912589">
     <display-name>Next | Syracuse @ Indiana | NCAA Men's Basketball | 2026-11-09 | 23:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 14</display-name>
@@ -3913,15 +3913,15 @@
     <display-name>##### NBA PASS PPV ⁸ᴷ #####</display-name>
   </channel>
   <channel id="1634335">
-    <display-name>NEXT | ATL - HAWKS VS LAL - LAKERS | Mon 09 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | ATL - HAWKS VS LAL - LAKERS | Mon 09 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Atlanta_Hawks/Atlanta_Hawks_vs_Los_Angeles_Lakers.png" />
   </channel>
   <channel id="1634334">
-    <display-name>NEXT | DET - PISTONS VS WAS - WIZARDS | Mon 09 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 2</display-name>
+    <display-name>LIVE | DET - PISTONS VS WAS - WIZARDS | Mon 09 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Detroit_Pistons/Detroit_Pistons_vs_Washington_Wizards.png" />
   </channel>
   <channel id="1634333">
-    <display-name>NEXT | CHA - HORNETS VS CLE - CAVALIERS | Mon 09 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 3</display-name>
+    <display-name>LIVE | CHA - HORNETS VS CLE - CAVALIERS | Mon 09 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 3</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Charlotte_Hornets/Charlotte_Hornets_vs_Cleveland_Cavaliers.png" />
   </channel>
   <channel id="1634332">
@@ -7641,6 +7641,14 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="2152111">
+    <display-name>Next | Washington Wizards @ Detroit Pistons | NBA | 2026-11-10 | 00:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 2</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Washington_Wizards/Washington_Wizards_vs_Detroit_Pistons.png" />
+  </channel>
+  <channel id="2152106">
+    <display-name>Next | Bills @ Vikings (en castellano) | NFL | 2026-11-10 | 01:15 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 7</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Buffalo_Bills/Buffalo_Bills_vs_Minnesota_Vikings.png" />
+  </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
   </channel>
@@ -8114,15 +8122,15 @@
     <display-name>####### NBA PASS PPV #######</display-name>
   </channel>
   <channel id="1413081">
-    <display-name>NEXT | ATL - HAWKS VS LAL - LAKERS | Mon 09 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | ATL - HAWKS VS LAL - LAKERS | Mon 09 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Atlanta_Hawks/Atlanta_Hawks_vs_Los_Angeles_Lakers.png" />
   </channel>
   <channel id="1413080">
-    <display-name>NEXT | DET - PISTONS VS WAS - WIZARDS | Mon 09 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 2</display-name>
+    <display-name>LIVE | DET - PISTONS VS WAS - WIZARDS | Mon 09 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Detroit_Pistons/Detroit_Pistons_vs_Washington_Wizards.png" />
   </channel>
   <channel id="1413079">
-    <display-name>NEXT | CHA - HORNETS VS CLE - CAVALIERS | Mon 09 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 3</display-name>
+    <display-name>LIVE | CHA - HORNETS VS CLE - CAVALIERS | Mon 09 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 3</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Charlotte_Hornets/Charlotte_Hornets_vs_Cleveland_Cavaliers.png" />
   </channel>
   <channel id="1413078">
@@ -79439,123 +79447,123 @@ Monday 11/09/2026</desc>
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109000000 -0500" stop="20261109030000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109030000 -0500" stop="20261109060000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109060000 -0500" stop="20261109090000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109090000 -0500" stop="20261109120000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109120000 -0500" stop="20261109150000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109150000 -0500" stop="20261109180000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109180000 -0500" stop="20261109210000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109210000 -0500" stop="20261110000000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261110000000 -0500" stop="20261110030000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261110030000 -0500" stop="20261110060000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261110060000 -0500" stop="20261110090000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261110090000 -0500" stop="20261110120000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261110120000 -0500" stop="20261110150000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261110150000 -0500" stop="20261110180000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261110180000 -0500" stop="20261110210000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261110210000 -0500" stop="20261111000000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261111000000 -0500" stop="20261111030000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261111030000 -0500" stop="20261111060000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261111060000 -0500" stop="20261111090000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261111090000 -0500" stop="20261111120000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261111120000 -0500" stop="20261111150000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261111150000 -0500" stop="20261111180000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261111180000 -0500" stop="20261111210000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261111210000 -0500" stop="20261112000000 -0500" channel="1912590">
-    <title>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13</title>
-    <desc>Marshall vs. Ohio State | NCAA Men's Basketball | 2026-11-09 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 13
+    <title>8K EXCLUSIVE | CA: DAZN PPV 13</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 13
 Monday 11/09/2026</desc>
   </programme>
   <programme start="20261109000000 -0500" stop="20261109030000 -0500" channel="1912589">
@@ -306232,6 +306240,256 @@ Monday 11/09/2026</desc>
     <title>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</title>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Monday 11/09/2026</desc>
+  </programme>
+  <programme start="20261109000000 -0500" stop="20261109030000 -0500" channel="2152111">
+    <title>Upcoming: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109030000 -0500" stop="20261109060000 -0500" channel="2152111">
+    <title>Upcoming: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109060000 -0500" stop="20261109090000 -0500" channel="2152111">
+    <title>Upcoming: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109090000 -0500" stop="20261109120000 -0500" channel="2152111">
+    <title>Upcoming: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109120000 -0500" stop="20261109150000 -0500" channel="2152111">
+    <title>Upcoming: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109150000 -0500" stop="20261109180000 -0500" channel="2152111">
+    <title>Upcoming: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109180000 -0500" stop="20261109190000 -0500" channel="2152111">
+    <title>Upcoming: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109190000 -0500" stop="20261109220000 -0500" channel="2152111">
+    <title>Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109220000 -0500" stop="20261110000000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261110000000 -0500" stop="20261110030000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261110030000 -0500" stop="20261110060000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261110060000 -0500" stop="20261110090000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261110090000 -0500" stop="20261110120000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261110120000 -0500" stop="20261110150000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261110150000 -0500" stop="20261110180000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261110180000 -0500" stop="20261110210000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261110210000 -0500" stop="20261111000000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261111000000 -0500" stop="20261111030000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261111030000 -0500" stop="20261111060000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261111060000 -0500" stop="20261111090000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261111090000 -0500" stop="20261111120000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261111120000 -0500" stop="20261111150000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261111150000 -0500" stop="20261111180000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261111180000 -0500" stop="20261111210000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261111210000 -0500" stop="20261112000000 -0500" channel="2152111">
+    <title>Post Game: Washington Wizards vs. Detroit Pistons - 7:00 PM</title>
+    <desc>Washington Wizards vs. Detroit Pistons
+Monday 11/09/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261109000000 -0500" stop="20261109030000 -0500" channel="2152106">
+    <title>Upcoming: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261109030000 -0500" stop="20261109060000 -0500" channel="2152106">
+    <title>Upcoming: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261109060000 -0500" stop="20261109090000 -0500" channel="2152106">
+    <title>Upcoming: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261109090000 -0500" stop="20261109120000 -0500" channel="2152106">
+    <title>Upcoming: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261109120000 -0500" stop="20261109150000 -0500" channel="2152106">
+    <title>Upcoming: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261109150000 -0500" stop="20261109180000 -0500" channel="2152106">
+    <title>Upcoming: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261109180000 -0500" stop="20261109201500 -0500" channel="2152106">
+    <title>Upcoming: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261109201500 -0500" stop="20261109231500 -0500" channel="2152106">
+    <title>Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261109231500 -0500" stop="20261110000000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261110000000 -0500" stop="20261110030000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261110030000 -0500" stop="20261110060000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261110060000 -0500" stop="20261110090000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261110090000 -0500" stop="20261110120000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261110120000 -0500" stop="20261110150000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261110150000 -0500" stop="20261110180000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261110180000 -0500" stop="20261110210000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261110210000 -0500" stop="20261111000000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261111000000 -0500" stop="20261111030000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261111030000 -0500" stop="20261111060000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261111060000 -0500" stop="20261111090000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261111090000 -0500" stop="20261111120000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261111120000 -0500" stop="20261111150000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261111150000 -0500" stop="20261111180000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261111180000 -0500" stop="20261111210000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261111210000 -0500" stop="20261112000000 -0500" channel="2152106">
+    <title>Post Game: Buffalo Bills vs. Minnesota Vikings - 8:15 PM</title>
+    <desc>Buffalo Bills vs. Minnesota Vikings
+Monday 11/09/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261109000000 -0500" stop="20261109030000 -0500" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
