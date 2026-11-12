@@ -1815,7 +1815,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 22</display-name>
   </channel>
   <channel id="1912580">
-    <display-name>Next | UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 23</display-name>
   </channel>
   <channel id="1912579">
     <display-name>Next | Pacheco vs. Fulghum: Press Conference | Matchroom Boxing | 2026-11-12 | 23:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 24</display-name>
@@ -3942,11 +3942,11 @@
     <display-name>##### NBA PASS PPV ⁸ᴷ #####</display-name>
   </channel>
   <channel id="1634335">
-    <display-name>NEXT | PHI - 76ERS VS TOR - RAPTORS | Thu 12 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | PHI - 76ERS VS TOR - RAPTORS | Thu 12 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Philadelphia_76ers/Philadelphia_76ers_vs_Toronto_Raptors.png" />
   </channel>
   <channel id="1634334">
-    <display-name>NEXT | WAS - WIZARDS VS DET - PISTONS | Thu 12 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 2</display-name>
+    <display-name>LIVE | WAS - WIZARDS VS DET - PISTONS | Thu 12 Nov 18:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Washington_Wizards/Washington_Wizards_vs_Detroit_Pistons.png" />
   </channel>
   <channel id="1634333">
@@ -4623,22 +4623,22 @@
     <display-name>ENDED | CALHOUN STREET: EPISODE 3 | Thu 12 Nov 15:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 16</display-name>
   </channel>
   <channel id="1924713">
-    <display-name>LIVE | DEVILS VS. RENEGADES | Thu 12 Nov 15:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 17</display-name>
+    <display-name>ENDED | DEVILS VS. RENEGADES | Thu 12 Nov 15:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 17</display-name>
   </channel>
   <channel id="1924712">
-    <display-name>LIVE | PRINCETON VS. COLUMBIA (SEMIFINAL) | Thu 12 Nov 15:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 18</display-name>
+    <display-name>ENDED | PRINCETON VS. COLUMBIA (SEMIFINAL) | Thu 12 Nov 15:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 18</display-name>
   </channel>
   <channel id="1924711">
-    <display-name>LIVE | HARVARD VS. #17 CORNELL (SEMIFINAL) | Thu 12 Nov 15:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 19</display-name>
+    <display-name>ENDED | HARVARD VS. #17 CORNELL (SEMIFINAL) | Thu 12 Nov 15:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 19</display-name>
   </channel>
   <channel id="1924710">
-    <display-name>LIVE | YALE VS. PENNSYLVANIA (SEMIFINAL) | Thu 12 Nov 15:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 20</display-name>
+    <display-name>ENDED | YALE VS. PENNSYLVANIA (SEMIFINAL) | Thu 12 Nov 15:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 20</display-name>
   </channel>
   <channel id="1924709">
-    <display-name>LIVE | SIU EDWARDSVILLE VS. UT MARTIN (SEMIFINAL) | Thu 12 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
+    <display-name>ENDED | SIU EDWARDSVILLE VS. UT MARTIN (SEMIFINAL) | Thu 12 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 21</display-name>
   </channel>
   <channel id="1924708">
-    <display-name>LIVE | ILLINOIS STATE VS. SOUTHERN ILLINOIS (SEMIFINAL) | Thu 12 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
+    <display-name>ENDED | ILLINOIS STATE VS. SOUTHERN ILLINOIS (SEMIFINAL) | Thu 12 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 22</display-name>
   </channel>
   <channel id="1924707">
     <display-name>LIVE | HOLY CROSS VS. BROWN | Thu 12 Nov 16:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 23</display-name>
@@ -4650,7 +4650,7 @@
     <display-name>ENDED | INSIDE OSU ATHLETICS | Thu 12 Nov 17:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 25</display-name>
   </channel>
   <channel id="1924704">
-    <display-name>LIVE | THU, 11/12 - ESPN FC | Thu 12 Nov 17:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 26</display-name>
+    <display-name>ENDED | THU, 11/12 - ESPN FC | Thu 12 Nov 17:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 26</display-name>
   </channel>
   <channel id="1924703">
     <display-name>LIVE | #4 AKRON VS. #8 CREIGHTON (SEMIFINAL) | Thu 12 Nov 17:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 27</display-name>
@@ -7658,6 +7658,14 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="2152111">
+    <display-name>Next | Toronto Raptors @ Philadelphia 76ers | NBA | 2026-11-13 | 00:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 2</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Toronto_Raptors/Toronto_Raptors_vs_Philadelphia_76ers.png" />
+  </channel>
+  <channel id="2152106">
+    <display-name>Next | Commanders @ Giants (en castellano) | NFL | 2026-11-13 | 01:15 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 7</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Washington_Commanders/Washington_Commanders_vs_New_York_Giants.png" />
+  </channel>
   <channel id="1695190">
     <display-name>MEO: NBA TV ᴿᴬᵂ</display-name>
   </channel>
@@ -8275,11 +8283,11 @@
     <display-name>####### NBA PASS PPV #######</display-name>
   </channel>
   <channel id="1413081">
-    <display-name>NEXT | PHI - 76ERS VS TOR - RAPTORS | Thu 12 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | PHI - 76ERS VS TOR - RAPTORS | Thu 12 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Philadelphia_76ers/Philadelphia_76ers_vs_Toronto_Raptors.png" />
   </channel>
   <channel id="1413080">
-    <display-name>NEXT | WAS - WIZARDS VS DET - PISTONS | Thu 12 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 2</display-name>
+    <display-name>LIVE | WAS - WIZARDS VS DET - PISTONS | Thu 12 Nov 21:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Washington_Wizards/Washington_Wizards_vs_Detroit_Pistons.png" />
   </channel>
   <channel id="1413079">
@@ -80791,123 +80799,123 @@ Thursday 11/12/2026</desc>
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112000000 -0500" stop="20261112030000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112030000 -0500" stop="20261112060000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112060000 -0500" stop="20261112090000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112090000 -0500" stop="20261112120000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112120000 -0500" stop="20261112150000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112150000 -0500" stop="20261112180000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112180000 -0500" stop="20261112210000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112210000 -0500" stop="20261113000000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261113000000 -0500" stop="20261113030000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261113030000 -0500" stop="20261113060000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261113060000 -0500" stop="20261113090000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261113090000 -0500" stop="20261113120000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261113120000 -0500" stop="20261113150000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261113150000 -0500" stop="20261113180000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261113180000 -0500" stop="20261113210000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261113210000 -0500" stop="20261114000000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261114000000 -0500" stop="20261114030000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261114030000 -0500" stop="20261114060000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261114060000 -0500" stop="20261114090000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261114090000 -0500" stop="20261114120000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261114120000 -0500" stop="20261114150000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261114150000 -0500" stop="20261114180000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261114180000 -0500" stop="20261114210000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261114210000 -0500" stop="20261115000000 -0500" channel="1912580">
-    <title>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23</title>
-    <desc>UFC 334: Press Conference | UFC | 2026-11-12 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 23
+    <title>8K EXCLUSIVE | CA: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 23
 Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261112000000 -0500" stop="20261112030000 -0500" channel="1912579">
@@ -306404,6 +306412,256 @@ Thursday 11/12/2026</desc>
     <title>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</title>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261112000000 -0500" stop="20261112030000 -0500" channel="2152111">
+    <title>Upcoming: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112030000 -0500" stop="20261112060000 -0500" channel="2152111">
+    <title>Upcoming: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112060000 -0500" stop="20261112090000 -0500" channel="2152111">
+    <title>Upcoming: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112090000 -0500" stop="20261112120000 -0500" channel="2152111">
+    <title>Upcoming: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112120000 -0500" stop="20261112150000 -0500" channel="2152111">
+    <title>Upcoming: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112150000 -0500" stop="20261112180000 -0500" channel="2152111">
+    <title>Upcoming: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112180000 -0500" stop="20261112190000 -0500" channel="2152111">
+    <title>Upcoming: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112190000 -0500" stop="20261112220000 -0500" channel="2152111">
+    <title>Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112220000 -0500" stop="20261113000000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261113000000 -0500" stop="20261113030000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261113030000 -0500" stop="20261113060000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261113060000 -0500" stop="20261113090000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261113090000 -0500" stop="20261113120000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261113120000 -0500" stop="20261113150000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261113150000 -0500" stop="20261113180000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261113180000 -0500" stop="20261113210000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261113210000 -0500" stop="20261114000000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261114000000 -0500" stop="20261114030000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261114030000 -0500" stop="20261114060000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261114060000 -0500" stop="20261114090000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261114090000 -0500" stop="20261114120000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261114120000 -0500" stop="20261114150000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261114150000 -0500" stop="20261114180000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261114180000 -0500" stop="20261114210000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261114210000 -0500" stop="20261115000000 -0500" channel="2152111">
+    <title>Post Game: Toronto Raptors vs. Philadelphia 76ers - 7:00 PM</title>
+    <desc>Toronto Raptors vs. Philadelphia 76ers
+Thursday 11/12/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261112000000 -0500" stop="20261112030000 -0500" channel="2152106">
+    <title>Upcoming: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261112030000 -0500" stop="20261112060000 -0500" channel="2152106">
+    <title>Upcoming: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261112060000 -0500" stop="20261112090000 -0500" channel="2152106">
+    <title>Upcoming: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261112090000 -0500" stop="20261112120000 -0500" channel="2152106">
+    <title>Upcoming: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261112120000 -0500" stop="20261112150000 -0500" channel="2152106">
+    <title>Upcoming: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261112150000 -0500" stop="20261112180000 -0500" channel="2152106">
+    <title>Upcoming: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261112180000 -0500" stop="20261112201500 -0500" channel="2152106">
+    <title>Upcoming: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261112201500 -0500" stop="20261112231500 -0500" channel="2152106">
+    <title>Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261112231500 -0500" stop="20261113000000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261113000000 -0500" stop="20261113030000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261113030000 -0500" stop="20261113060000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261113060000 -0500" stop="20261113090000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261113090000 -0500" stop="20261113120000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261113120000 -0500" stop="20261113150000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261113150000 -0500" stop="20261113180000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261113180000 -0500" stop="20261113210000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261113210000 -0500" stop="20261114000000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261114000000 -0500" stop="20261114030000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261114030000 -0500" stop="20261114060000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261114060000 -0500" stop="20261114090000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261114090000 -0500" stop="20261114120000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261114120000 -0500" stop="20261114150000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261114150000 -0500" stop="20261114180000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261114180000 -0500" stop="20261114210000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261114210000 -0500" stop="20261115000000 -0500" channel="2152106">
+    <title>Post Game: Washington Commanders vs. New York Giants - 8:15 PM</title>
+    <desc>Washington Commanders vs. New York Giants
+Thursday 11/12/2026 - 8:15 PM</desc>
   </programme>
   <programme start="20261112000000 -0500" stop="20261112030000 -0500" channel="1695190">
     <title>MEO: NBA TV ᴿᴬᵂ</title>
