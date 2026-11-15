@@ -55,7 +55,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 17</display-name>
   </channel>
   <channel id="1899984">
-    <display-name>Next | Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 18</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 18</display-name>
   </channel>
   <channel id="1899983">
     <display-name>Next | Belize U19 vs. Cuba U19 | UNCAF FIFA Forward Women's U-19 Tournament™ | 2026-11-15 | 14:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 19</display-name>
@@ -139,7 +139,7 @@
     <display-name>Next | Final | Costa Rica U19 vs. Honduras U19 | UNCAF FIFA Forward Women's U-19 Tournament™ | 2026-11-15 | 20:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 45</display-name>
   </channel>
   <channel id="1899956">
-    <display-name>Next | Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 46</display-name>
+    <display-name>Next | Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 46</display-name>
   </channel>
   <channel id="1899955">
     <display-name>Next | New Haven @ Penn State | NCAA Men's Basketball | 2026-11-15 | 21:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 47</display-name>
@@ -1801,13 +1801,13 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 17</display-name>
   </channel>
   <channel id="1912585">
-    <display-name>Next | Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 18</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 18</display-name>
   </channel>
   <channel id="1912584">
-    <display-name>Next | Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 19</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 19</display-name>
   </channel>
   <channel id="1912583">
-    <display-name>Next | Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 20</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 20</display-name>
   </channel>
   <channel id="1912582">
     <display-name>Next | Patriots vs. Lions | NFL Game Pass | 2026-11-15 | 14:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 21</display-name>
@@ -1960,7 +1960,7 @@
     <display-name>Next | Final | Costa Rica U19 vs. Honduras U19 | UNCAF FIFA Forward Women's U-19 Tournament™ | 2026-11-15 | 20:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 67</display-name>
   </channel>
   <channel id="1912535">
-    <display-name>Next | Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 68</display-name>
+    <display-name>Next | Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 68</display-name>
   </channel>
   <channel id="1912534">
     <display-name>Next | Seahawks @ Raiders | NFL Game Pass | 2026-11-15 | 21:05 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 69</display-name>
@@ -3192,7 +3192,7 @@
     <display-name>Next | Final | Costa Rica U19 vs. Honduras U19 | UNCAF FIFA Forward Women's U-19 Tournament™ | 2026-11-15 | 20:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 45</display-name>
   </channel>
   <channel id="1899856">
-    <display-name>Next | Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 46</display-name>
+    <display-name>Next | Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 46</display-name>
   </channel>
   <channel id="1899855">
     <display-name>Next | Inter Wanica vs. Notch | Major League - Suriname | 2026-11-15 | 22:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 47</display-name>
@@ -7699,8 +7699,8 @@
   <channel id="2140551">
     <display-name>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ</display-name>
   </channel>
-  <channel id="2152081">
-    <display-name>Next | Patriots - Lions (en castellano) | NFL | 2026-11-15 | 14:30 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 32</display-name>
+  <channel id="2152107">
+    <display-name>Live | Patriots - Lions (en castellano) | NFL | 8K EXCLUSIVE | ES: DAZN PPV 6</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/New_England_Patriots/New_England_Patriots_vs_Detroit_Lions.png" />
   </channel>
   <channel id="2152050">
@@ -7791,6 +7791,14 @@
   <channel id="1825964">
     <display-name>NEXT | NFL: VIKINGS @ PACKERS | Sun 15 Nov 18:55 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 39</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Minnesota_Vikings/Minnesota_Vikings_vs_Green_Bay_Packers.png" />
+  </channel>
+  <channel id="1825942">
+    <display-name>NEXT | NFL: SEAHAWKS @ RAIDERS | Sun 15 Nov 21:56 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 61</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Seattle_Seahawks/Seattle_Seahawks_vs_Las_Vegas_Raiders.png" />
+  </channel>
+  <channel id="1825941">
+    <display-name>NEXT | NFL: 49ERS @ COWBOYS | Sun 15 Nov 22:16 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 62</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/San_Francisco_49ers/San_Francisco_49ers_vs_Dallas_Cowboys.png" />
   </channel>
   <channel id="1704151">
     <display-name>NHL: Anaheim Ducks vs New York Islanders @ Nov 15 04:05 :TeliaPlay SE  01</display-name>
@@ -10685,123 +10693,123 @@ Sunday 11/15/2026</desc>
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1899984">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 18
+    <title>8K EXCLUSIVE | GB: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1899983">
@@ -14045,123 +14053,123 @@ Sunday 11/15/2026</desc>
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1899956">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | GB: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1899955">
@@ -80305,363 +80313,363 @@ Sunday 11/15/2026</desc>
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1912585">
-    <title>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18</title>
-    <desc>Latvia vs. Armenia | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 18
+    <title>8K EXCLUSIVE | CA: DAZN PPV 18</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 18
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1912584">
-    <title>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>Cyprus vs. Montenegro | UEFA Nations League | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1912583">
-    <title>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20</title>
-    <desc>Inter vs. Juventus | Serie A Women | 2026-11-15 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 20
+    <title>8K EXCLUSIVE | CA: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 20
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1912582">
@@ -86350,123 +86358,123 @@ Sunday 11/15/2026</desc>
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1912535">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 68
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1912534">
@@ -135230,123 +135238,123 @@ Sunday 11/15/2026</desc>
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1899856">
-    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
-    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 46
+    <title>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46</title>
+    <desc>Potters Tigers FC vs. Green City FC | Premier League - Antigua | 2026-11-15 | 23:00 | 8K EXCLUSIVE | US: DAZN PPV 46
 Sunday 11/15/2026</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1899855">
@@ -307489,127 +307497,127 @@ Sunday 11/15/2026</desc>
     <desc>ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
 Sunday 11/15/2026</desc>
   </programme>
-  <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="2152081">
+  <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="2152107">
     <title>Upcoming: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="2152081">
+  <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="2152107">
     <title>Upcoming: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="2152081">
+  <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="2152107">
     <title>Upcoming: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261115090000 -0500" stop="20261115093000 -0500" channel="2152081">
+  <programme start="20261115090000 -0500" stop="20261115093000 -0500" channel="2152107">
     <title>Upcoming: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261115093000 -0500" stop="20261115123000 -0500" channel="2152081">
+  <programme start="20261115093000 -0500" stop="20261115123000 -0500" channel="2152107">
     <title>New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261115123000 -0500" stop="20261115150000 -0500" channel="2152081">
+  <programme start="20261115123000 -0500" stop="20261115150000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="2152081">
+  <programme start="20261115150000 -0500" stop="20261115180000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="2152081">
+  <programme start="20261115180000 -0500" stop="20261115210000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="2152081">
+  <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="2152081">
+  <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="2152081">
+  <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="2152081">
+  <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="2152081">
+  <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="2152081">
+  <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="2152081">
+  <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="2152081">
+  <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="2152081">
+  <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="2152081">
+  <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="2152081">
+  <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="2152081">
+  <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="2152081">
+  <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="2152081">
+  <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="2152081">
+  <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="2152081">
+  <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
   </programme>
-  <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="2152081">
+  <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="2152107">
     <title>Post Game: New England Patriots vs. Detroit Lions - 9:30 AM</title>
     <desc>New England Patriots vs. Detroit Lions
 Sunday 11/15/2026 - 9:30 AM</desc>
@@ -310658,6 +310666,256 @@ Sunday 11/15/2026 - 1:00 PM</desc>
     <title>Post Game: Minnesota Vikings vs. Green Bay Packers - 1:00 PM</title>
     <desc>Minnesota Vikings vs. Green Bay Packers
 Sunday 11/15/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1825942">
+    <title>Upcoming: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1825942">
+    <title>Upcoming: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1825942">
+    <title>Upcoming: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1825942">
+    <title>Upcoming: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1825942">
+    <title>Upcoming: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115150000 -0500" stop="20261115160500 -0500" channel="1825942">
+    <title>Upcoming: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115160500 -0500" stop="20261115190500 -0500" channel="1825942">
+    <title>Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115190500 -0500" stop="20261115210000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1825942">
+    <title>Post Game: Seattle Seahawks vs. Las Vegas Raiders - 4:05 PM</title>
+    <desc>Seattle Seahawks vs. Las Vegas Raiders
+Sunday 11/15/2026 - 4:05 PM</desc>
+  </programme>
+  <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1825941">
+    <title>Upcoming: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261115030000 -0500" stop="20261115060000 -0500" channel="1825941">
+    <title>Upcoming: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261115060000 -0500" stop="20261115090000 -0500" channel="1825941">
+    <title>Upcoming: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261115090000 -0500" stop="20261115120000 -0500" channel="1825941">
+    <title>Upcoming: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261115120000 -0500" stop="20261115150000 -0500" channel="1825941">
+    <title>Upcoming: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261115150000 -0500" stop="20261115162500 -0500" channel="1825941">
+    <title>Upcoming: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261115162500 -0500" stop="20261115192500 -0500" channel="1825941">
+    <title>San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261115192500 -0500" stop="20261115210000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261115210000 -0500" stop="20261116000000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261116000000 -0500" stop="20261116030000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261116030000 -0500" stop="20261116060000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261116090000 -0500" stop="20261116120000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261116120000 -0500" stop="20261116150000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261116150000 -0500" stop="20261116180000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261116180000 -0500" stop="20261116210000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261116210000 -0500" stop="20261117000000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261117000000 -0500" stop="20261117030000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261117030000 -0500" stop="20261117060000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261117060000 -0500" stop="20261117090000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261117090000 -0500" stop="20261117120000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261117120000 -0500" stop="20261117150000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261117150000 -0500" stop="20261117180000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261117180000 -0500" stop="20261117210000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
+  </programme>
+  <programme start="20261117210000 -0500" stop="20261118000000 -0500" channel="1825941">
+    <title>Post Game: San Francisco 49ers vs. Dallas Cowboys - 4:25 PM</title>
+    <desc>San Francisco 49ers vs. Dallas Cowboys
+Sunday 11/15/2026 - 4:25 PM</desc>
   </programme>
   <programme start="20261115000000 -0500" stop="20261115030000 -0500" channel="1704151">
     <title>Upcoming: New York Islanders vs. Anaheim Ducks - 10:00 PM</title>
