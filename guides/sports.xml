@@ -1801,7 +1801,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 18</display-name>
   </channel>
   <channel id="1912584">
-    <display-name>Next | IU Indy @ Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 19</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 19</display-name>
   </channel>
   <channel id="1912583">
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 20</display-name>
@@ -7689,6 +7689,18 @@
   <channel id="1702617">
     <display-name>NHL On The Fly @ Nov 18 12:00 PM :Viaplay SE  02</display-name>
   </channel>
+  <channel id="1825966">
+    <display-name>NEXT | NHL: DETROIT RED WINGS - BOSTON BRUINS | Thu 19 Nov 01:35 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 37</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Detroit_Red_Wings/Detroit_Red_Wings_vs_Boston_Bruins.png" />
+  </channel>
+  <channel id="1825965">
+    <display-name>NEXT | NHL: NEW JERSEY DEVILS - MONTRÉAL CANADIENS | Thu 19 Nov 01:35 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 38</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_Jersey_Devils/New_Jersey_Devils_vs_Montreal_Canadiens.png" />
+  </channel>
+  <channel id="1825961">
+    <display-name>NEXT | NHL: UTAH MAMMOTH - COLORADO AVALANCHE | Thu 19 Nov 04:05 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 42</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Colorado_Avalanche.png" />
+  </channel>
   <channel id="1704151">
     <display-name>NHL: San Jose Sharks vs Calgary Flames @ Nov 18 04:05 :TeliaPlay SE  01</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_San_Jose_Sharks.png" />
@@ -7733,6 +7745,69 @@
   <channel id="1977352">
     <display-name>Next | Carolina - Vegas | NHL Stanley Cup-finale | Kamp 1:7 2026 | 2026-06-03 | 00:05 (GMT) | 8K EXCLUSIVE | NO: VIAPLAY PPV 14</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vegas_Golden_Knights/Vegas_Golden_Knights_vs_Carolina_Hurricanes.png" />
+  </channel>
+  <channel id="1242788">
+    <display-name>NEXT | NHL NEW JERSEY - MONTREAL | Thu 19 Nov 01:35 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_Jersey_Devils/New_Jersey_Devils_vs_Montreal_Canadiens.png" />
+  </channel>
+  <channel id="1242787">
+    <display-name>NEXT | NHL DETROIT - BOSTON | Thu 19 Nov 01:35 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 2</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Detroit_Red_Wings/Detroit_Red_Wings_vs_Boston_Bruins.png" />
+  </channel>
+  <channel id="1242786">
+    <display-name>NEXT | NHL UTAH - COLORADO | Thu 19 Nov 04:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 3</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Utah_Mammoth/Utah_Mammoth_vs_Colorado_Avalanche.png" />
+  </channel>
+  <channel id="1242783">
+    <display-name>NEXT | NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</display-name>
+  </channel>
+  <channel id="1242775">
+    <display-name>NEXT | NHL WINNIPEG - NY ISLANDERS | Fri 20 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 14</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Winnipeg_Jets/Winnipeg_Jets_vs_New_York_Islanders.png" />
+  </channel>
+  <channel id="1242774">
+    <display-name>NEXT | NHL CAROLINA - MONTREAL | Fri 20 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 15</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Carolina_Hurricanes/Carolina_Hurricanes_vs_Montreal_Canadiens.png" />
+  </channel>
+  <channel id="1242773">
+    <display-name>NEXT | NHL WASHINGTON - BUFFALO | Fri 20 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 16</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Washington_Capitals/Washington_Capitals_vs_Buffalo_Sabres.png" />
+  </channel>
+  <channel id="1242772">
+    <display-name>NEXT | NHL PITTSBURGH - ST. LOUIS | Fri 20 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 17</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Pittsburgh_Penguins/Pittsburgh_Penguins_vs_St_Louis_Blues.png" />
+  </channel>
+  <channel id="1242771">
+    <display-name>NEXT | NHL TORONTO - LOS ANGELES | Fri 20 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 18</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_Los_Angeles_Kings.png" />
+  </channel>
+  <channel id="1242770">
+    <display-name>NEXT | NHL OTTAWA - PHILADELPHIA | Fri 20 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 19</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Philadelphia_Flyers.png" />
+  </channel>
+  <channel id="1242764">
+    <display-name>NEXT | NHL TAMPA BAY - EDMONTON | Fri 20 Nov 01:35 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 25</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Tampa_Bay_Lightning/Tampa_Bay_Lightning_vs_Edmonton_Oilers.png" />
+  </channel>
+  <channel id="1242763">
+    <display-name>NEXT | NHL CALGARY - MINNESOTA | Fri 20 Nov 02:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 26</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Minnesota_Wild.png" />
+  </channel>
+  <channel id="1242762">
+    <display-name>NEXT | NHL CHICAGO - COLUMBUS | Fri 20 Nov 02:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 27</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Columbus_Blue_Jackets.png" />
+  </channel>
+  <channel id="1242760">
+    <display-name>NEXT | NHL COLORADO - ANAHEIM | Fri 20 Nov 03:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 29</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Colorado_Avalanche/Colorado_Avalanche_vs_Anaheim_Ducks.png" />
+  </channel>
+  <channel id="1242759">
+    <display-name>NEXT | NHL SEATTLE - VANCOUVER | Fri 20 Nov 03:45 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 30</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Seattle_Kraken/Seattle_Kraken_vs_Vancouver_Canucks.png" />
+  </channel>
+  <channel id="1242758">
+    <display-name>NEXT | NHL VEGAS - DALLAS | Fri 20 Nov 04:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 31</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vegas_Golden_Knights/Vegas_Golden_Knights_vs_Dallas_Stars.png" />
   </channel>
   <channel id="1703001">
     <display-name>NHL On The Fly @ Nov 17 1:00 PM :Viaplay NO  01</display-name>
@@ -8152,11 +8227,11 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Cleveland_Cavaliers/Cleveland_Cavaliers_vs_Memphis_Grizzlies.png" />
   </channel>
   <channel id="1413077">
-    <display-name>NEXT | BKN - NETS VS CHI - BULLS | Wed 18 Nov 21:30 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 5</display-name>
+    <display-name>LIVE | BKN - NETS VS CHI - BULLS | Wed 18 Nov 21:30 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 5</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Brooklyn_Nets/Brooklyn_Nets_vs_Chicago_Bulls.png" />
   </channel>
   <channel id="1413076">
-    <display-name>NEXT | TOR - RAPTORS VS WAS - WIZARDS | Wed 18 Nov 21:30 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 6</display-name>
+    <display-name>LIVE | TOR - RAPTORS VS WAS - WIZARDS | Wed 18 Nov 21:30 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 6</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Toronto_Raptors/Toronto_Raptors_vs_Washington_Wizards.png" />
   </channel>
   <channel id="1413075">
@@ -8184,16 +8259,20 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Utah_Jazz/Utah_Jazz_vs_Los_Angeles_Lakers.png" />
   </channel>
   <channel id="1413069">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 13</display-name>
+    <display-name>NEXT | SAS - SPURS VS LAC - CLIPPERS | Thu 19 Nov 22:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 13</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/San_Antonio_Spurs/San_Antonio_Spurs_vs_Los_Angeles_Clippers.png" />
   </channel>
   <channel id="1413068">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 14</display-name>
+    <display-name>NEXT | MEM - GRIZZLIES VS GSW - WARRIORS | Thu 19 Nov 22:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 14</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Memphis_Grizzlies/Memphis_Grizzlies_vs_Golden_State_Warriors.png" />
   </channel>
   <channel id="1413067">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 15</display-name>
+    <display-name>NEXT | MIN - TIMBERWOLVES VS NYK - KNICKS | Thu 19 Nov 22:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 15</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Minnesota_Timberwolves/Minnesota_Timberwolves_vs_New_York_Knicks.png" />
   </channel>
   <channel id="1413066">
-    <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 16</display-name>
+    <display-name>NEXT | MIL - BUCKS VS POR - TRAIL BLAZERS | Thu 19 Nov 22:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 16</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Milwaukee_Bucks/Milwaukee_Bucks_vs_Portland_Trail_Blazers.png" />
   </channel>
   <channel id="1413065">
     <display-name>- NO EVENT STREAMING - | 8K EXCLUSIVE | BR: NBA PASS PPV 17</display-name>
@@ -80170,123 +80249,123 @@ Wednesday 11/18/2026</desc>
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1912584">
-    <title>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19</title>
-    <desc>IU Indy vs. Penn State | NCAA Men's Basketball | 2026-11-18 | 23:30 | 8K EXCLUSIVE | CA: DAZN PPV 19
+    <title>8K EXCLUSIVE | CA: DAZN PPV 19</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 19
 Wednesday 11/18/2026</desc>
   </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1912583">
@@ -307739,6 +307818,366 @@ Wednesday 11/18/2026</desc>
     <desc>NHL On The Fly vs. Los Angeles Kings
 Wednesday 11/18/2026</desc>
   </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1825966">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1825965">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1825961">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1704151">
     <title>Upcoming: Calgary Flames vs. San Jose Sharks - 10:00 PM</title>
     <desc>Calgary Flames vs. San Jose Sharks
@@ -309193,6 +309632,1926 @@ Tuesday 06/02/2026 - 8:00 PM</desc>
     <title>Post Game: Vegas Golden Knights vs. Carolina Hurricanes - 8:00 PM</title>
     <desc>Vegas Golden Knights vs. Carolina Hurricanes
 Tuesday 06/02/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242788">
+    <title>New Jersey Devils vs. Montreal Canadiens</title>
+    <desc>New Jersey Devils vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242787">
+    <title>Detroit Red Wings vs. Boston Bruins</title>
+    <desc>Detroit Red Wings vs. Boston Bruins
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242786">
+    <title>Utah Mammoth vs. Colorado Avalanche</title>
+    <desc>Utah Mammoth vs. Colorado Avalanche
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242783">
+    <title>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6</title>
+    <desc>NHL NHL ON THE FLY | Thu 19 Nov 14:30 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 6
+Saturday 11/14/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242775">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242774">
+    <title>Carolina Hurricanes vs. Montreal Canadiens</title>
+    <desc>Carolina Hurricanes vs. Montreal Canadiens
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242773">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242772">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242771">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242770">
+    <title>Ottawa Senators vs. Philadelphia Flyers</title>
+    <desc>Ottawa Senators vs. Philadelphia Flyers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242764">
+    <title>Tampa Bay Lightning vs. Edmonton Oilers</title>
+    <desc>Tampa Bay Lightning vs. Edmonton Oilers
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242763">
+    <title>Calgary Flames vs. Minnesota Wild</title>
+    <desc>Calgary Flames vs. Minnesota Wild
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242762">
+    <title>Chicago Blackhawks vs. Columbus Blue Jackets</title>
+    <desc>Chicago Blackhawks vs. Columbus Blue Jackets
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242760">
+    <title>Colorado Avalanche vs. Anaheim Ducks</title>
+    <desc>Colorado Avalanche vs. Anaheim Ducks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242759">
+    <title>Seattle Kraken vs. Vancouver Canucks</title>
+    <desc>Seattle Kraken vs. Vancouver Canucks
+Tuesday 11/03/2026</desc>
+  </programme>
+  <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1242758">
+    <title>Vegas Golden Knights vs. Dallas Stars</title>
+    <desc>Vegas Golden Knights vs. Dallas Stars
+Wednesday 11/04/2026</desc>
   </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1703001">
     <title>NHL On The Fly vs. Los Angeles Kings</title>
@@ -325350,484 +327709,484 @@ Wednesday 11/18/2026 - 10:00 PM</desc>
 Wednesday 11/18/2026 - 10:00 PM</desc>
   </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1413069">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 13</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 13
-Wednesday 11/18/2026</desc>
+    <title>San Antonio Spurs vs. Los Angeles Clippers</title>
+    <desc>San Antonio Spurs vs. Los Angeles Clippers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1413068">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 14</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 14
-Wednesday 11/18/2026</desc>
+    <title>Memphis Grizzlies vs. Golden State Warriors</title>
+    <desc>Memphis Grizzlies vs. Golden State Warriors
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1413067">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 15</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 15
-Wednesday 11/18/2026</desc>
+    <title>Minnesota Timberwolves vs. New York Knicks</title>
+    <desc>Minnesota Timberwolves vs. New York Knicks
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118030000 -0500" stop="20261118060000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118060000 -0500" stop="20261118090000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118090000 -0500" stop="20261118120000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118120000 -0500" stop="20261118150000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118150000 -0500" stop="20261118180000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118180000 -0500" stop="20261118210000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118210000 -0500" stop="20261119000000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119000000 -0500" stop="20261119030000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119030000 -0500" stop="20261119060000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119060000 -0500" stop="20261119090000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119120000 -0500" stop="20261119150000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119150000 -0500" stop="20261119180000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119180000 -0500" stop="20261119210000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261119210000 -0500" stop="20261120000000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1413066">
-    <title>8K EXCLUSIVE | BR: NBA PASS PPV 16</title>
-    <desc>8K EXCLUSIVE | BR: NBA PASS PPV 16
-Wednesday 11/18/2026</desc>
+    <title>Milwaukee Bucks vs. Portland Trail Blazers</title>
+    <desc>Milwaukee Bucks vs. Portland Trail Blazers
+Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261118000000 -0500" stop="20261118030000 -0500" channel="1413065">
     <title>8K EXCLUSIVE | BR: NBA PASS PPV 17</title>
