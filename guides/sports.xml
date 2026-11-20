@@ -2497,7 +2497,7 @@
     <display-name>####### CANADA WEST PPV #######</display-name>
   </channel>
   <channel id="1132428">
-    <display-name>LIVE | TWU @ UNBC BASKETBALL WOMEN | Thu 19 Nov 20:20 NST (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</display-name>
+    <display-name>ENDED | TWU @ UNBC BASKETBALL WOMEN | Thu 19 Nov 20:20 NST (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</display-name>
   </channel>
   <channel id="1132427">
     <display-name>LIVE | VIC @ TRU BASKETBALL WOMEN | Thu 19 Nov 21:00 NST (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
@@ -7767,6 +7767,22 @@
   <channel id="1098682">
     <display-name>LIVE | NFL: COLTS @ TEXANS | Fri 20 Nov 02:06 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 29</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Indianapolis_Colts/Indianapolis_Colts_vs_Houston_Texans.png" />
+  </channel>
+  <channel id="1863214">
+    <display-name>ENDED | NHL TORONTO - LOS ANGELES | Fri 20 Nov 01:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 13</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_Los_Angeles_Kings.png" />
+  </channel>
+  <channel id="1863213">
+    <display-name>ENDED | NHL WINNIPEG - NY ISLANDERS | Fri 20 Nov 01:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 14</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Winnipeg_Jets/Winnipeg_Jets_vs_New_York_Islanders.png" />
+  </channel>
+  <channel id="1863212">
+    <display-name>ENDED | NHL WASHINGTON - BUFFALO | Fri 20 Nov 01:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 15</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Washington_Capitals/Washington_Capitals_vs_Buffalo_Sabres.png" />
+  </channel>
+  <channel id="1863211">
+    <display-name>ENDED | NHL PITTSBURGH - ST. LOUIS | Fri 20 Nov 01:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 16</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Pittsburgh_Penguins/Pittsburgh_Penguins_vs_St_Louis_Blues.png" />
   </channel>
   <channel id="1863210">
     <display-name>ENDED | NHL OTTAWA - PHILADELPHIA | Fri 20 Nov 01:05 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17</display-name>
@@ -309975,6 +309991,486 @@ Thursday 11/19/2026 - 8:15 PM</desc>
     <title>Post Game: Indianapolis Colts vs. Houston Texans - 8:15 PM</title>
     <desc>Indianapolis Colts vs. Houston Texans
 Thursday 11/19/2026 - 8:15 PM</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1863214">
+    <title>Toronto Maple Leafs vs. Los Angeles Kings</title>
+    <desc>Toronto Maple Leafs vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1863213">
+    <title>Winnipeg Jets vs. New York Islanders</title>
+    <desc>Winnipeg Jets vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1863212">
+    <title>Washington Capitals vs. Buffalo Sabres</title>
+    <desc>Washington Capitals vs. Buffalo Sabres
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120060000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120060000 -0500" stop="20261120090000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120120000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261120150000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120150000 -0500" stop="20261120180000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120180000 -0500" stop="20261120210000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261121000000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1863211">
+    <title>Pittsburgh Penguins vs. St. Louis Blues</title>
+    <desc>Pittsburgh Penguins vs. St. Louis Blues
+Sunday 11/01/2026</desc>
   </programme>
   <programme start="20261120000000 -0500" stop="20261120030000 -0500" channel="1863210">
     <title>Ottawa Senators vs. Philadelphia Flyers</title>
