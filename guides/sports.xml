@@ -4,7 +4,7 @@
     <display-name>####### DAZN PPV GB #######</display-name>
   </channel>
   <channel id="1900001">
-    <display-name>Next | Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 1</display-name>
+    <display-name>Next | FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 1</display-name>
   </channel>
   <channel id="1900000">
     <display-name>Next | La Passe FC vs. PTL Bazar Brothers FC | Premier League - Seychelles | 2026-11-21 | 10:45 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</display-name>
@@ -917,19 +917,19 @@
     <display-name>###### UFC PPV #######</display-name>
   </channel>
   <channel id="605936">
-    <display-name>UFC 00 : SUBMISSION HUNTER PRO 105 start:2026-11-15 23:25:00 stop:2026-11-16 04:00:00</display-name>
+    <display-name>UFC event: 0 name: SHURIKEN FIGHT SERIES 25 start:2026-11-21 08:25:00 stop:2026-11-21 12:30:00</display-name>
   </channel>
   <channel id="605935">
-    <display-name>UFC 01 :</display-name>
+    <display-name>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA VS STIRLING  start:2026-11-21 18:55:00 stop:2026-11-21 22:00:00</display-name>
   </channel>
   <channel id="605934">
-    <display-name>UFC 02 :</display-name>
+    <display-name>UFC event: 2 name: WOW 34 start:2026-11-21 20:55:00 stop:2026-11-22 02:00:00</display-name>
   </channel>
   <channel id="605933">
-    <display-name>UFC 03 :</display-name>
+    <display-name>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA VS STIRLING PRELIMS start:2026-11-21 15:55:00 stop:2026-11-21 21:00:00</display-name>
   </channel>
   <channel id="605932">
-    <display-name>UFC 04 :</display-name>
+    <display-name>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE start:2026-11-21 22:10:00 stop:2026-11-21 23:15:00</display-name>
   </channel>
   <channel id="605931">
     <display-name>UFC 05 :</display-name>
@@ -1747,7 +1747,7 @@
     <display-name>####### DAZN PPV CA #######</display-name>
   </channel>
   <channel id="1912602">
-    <display-name>Next | Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 1</display-name>
+    <display-name>Next | Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 1</display-name>
   </channel>
   <channel id="1912601">
     <display-name>Next | La Passe FC vs. PTL Bazar Brothers FC | Premier League - Seychelles | 2026-11-21 | 10:45 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 2</display-name>
@@ -3012,19 +3012,19 @@
     <display-name>###### UFC PPV #######</display-name>
   </channel>
   <channel id="716556">
-    <display-name>UFC 00 : SUBMISSION HUNTER PRO 105 start:2026-11-15 23:25:00 stop:2026-11-16 04:00:00</display-name>
+    <display-name>UFC event: 0 name: SHURIKEN FIGHT SERIES 25 start:2026-11-21 08:25:00 stop:2026-11-21 12:30:00</display-name>
   </channel>
   <channel id="716555">
-    <display-name>UFC 01 :</display-name>
+    <display-name>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA VS STIRLING  start:2026-11-21 18:55:00 stop:2026-11-21 22:00:00</display-name>
   </channel>
   <channel id="716554">
-    <display-name>UFC 02 :</display-name>
+    <display-name>UFC event: 2 name: WOW 34 start:2026-11-21 20:55:00 stop:2026-11-22 02:00:00</display-name>
   </channel>
   <channel id="716553">
-    <display-name>UFC 03 :</display-name>
+    <display-name>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA VS STIRLING PRELIMS start:2026-11-21 15:55:00 stop:2026-11-21 21:00:00</display-name>
   </channel>
   <channel id="716552">
-    <display-name>UFC 04 :</display-name>
+    <display-name>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE start:2026-11-21 22:10:00 stop:2026-11-21 23:15:00</display-name>
   </channel>
   <channel id="716551">
     <display-name>UFC 05 :</display-name>
@@ -7755,6 +7755,34 @@
     <display-name>NHL: Oilers @ Hurricanes @ Nov 21 7:00 PM :Disney+ SE  27</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_Carolina_Hurricanes.png" />
   </channel>
+  <channel id="1287782">
+    <display-name>NEXT | NHL CALGARY - CHICAGO | Sat 21 Nov 21:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 59</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Calgary_Flames.png" />
+  </channel>
+  <channel id="1287781">
+    <display-name>NEXT | NHL NASHVILLE - PITTSBURGH | Sun 22 Nov 00:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 60</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Pittsburgh_Penguins/Pittsburgh_Penguins_vs_Nashville_Predators.png" />
+  </channel>
+  <channel id="1287780">
+    <display-name>NEXT | NHL FLORIDA - BUFFALO | Sun 22 Nov 00:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 61</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Florida_Panthers.png" />
+  </channel>
+  <channel id="1287779">
+    <display-name>NEXT | NHL DETROIT - NY ISLANDERS | Sun 22 Nov 01:00 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 62</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Detroit_Red_Wings/Detroit_Red_Wings_vs_New_York_Islanders.png" />
+  </channel>
+  <channel id="1287778">
+    <display-name>NEXT | NHL WINNIPEG - VEGAS | Sun 22 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 63</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Winnipeg_Jets/Winnipeg_Jets_vs_Vegas_Golden_Knights.png" />
+  </channel>
+  <channel id="1287777">
+    <display-name>NEXT | NHL ST. LOUIS - NEW JERSEY | Sun 22 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 64</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/St_Louis_Blues/St_Louis_Blues_vs_New_Jersey_Devils.png" />
+  </channel>
+  <channel id="1287776">
+    <display-name>NEXT | NHL OTTAWA - LOS ANGELES | Sun 22 Nov 01:05 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 65</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Los_Angeles_Kings.png" />
+  </channel>
   <channel id="1863218">
     <display-name>NEXT | NHL NHL ON THE FLY | Sat 21 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 9</display-name>
   </channel>
@@ -8460,123 +8488,123 @@ Saturday 11/21/2026</desc>
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1900001">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>FC Nouadhibou vs. Chemal FC | Premier League - Mauritania | 2026-11-21 | 19:50 | 8K EXCLUSIVE | GB: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1900000">
@@ -44945,603 +44973,603 @@ Saturday 11/21/2026</desc>
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="605936">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="605935">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="605934">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="605933">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="605932">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="605931">
@@ -78075,123 +78103,123 @@ Saturday 11/21/2026</desc>
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1912602">
-    <title>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Atlètic Escaldes vs. FC Santa Coloma | 1a Divisió - Andorra | 2026-11-21 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Mighty Avengers FC vs. East Central FC | DFA Premier League - Dominica | 2026-11-21 | 23:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1912601">
@@ -128170,603 +128198,603 @@ Saturday 11/21/2026</desc>
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="716556">
-    <title>UFC 00 : SUBMISSION HUNTER PRO 105</title>
-    <desc>UFC 00 : SUBMISSION HUNTER PRO 105
-Sunday 11/15/2026</desc>
+    <title>UFC event: 0 name: SHURIKEN FIGHT SERIES 25</title>
+    <desc>UFC event: 0 name: SHURIKEN FIGHT SERIES 25
+Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="716555">
-    <title>UFC 01</title>
-    <desc>UFC 01
+    <title>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING</title>
+    <desc>UFC event: 1 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="716554">
-    <title>UFC 02</title>
-    <desc>UFC 02
+    <title>UFC event: 2 name: WOW 34</title>
+    <desc>UFC event: 2 name: WOW 34
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="716553">
-    <title>UFC 03</title>
-    <desc>UFC 03
+    <title>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS</title>
+    <desc>UFC event: 3 name: UFC FIGHT NIGHT: PROCHAZKA vs. STIRLING PRELIMS
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="716552">
-    <title>UFC 04</title>
-    <desc>UFC 04
+    <title>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE</title>
+    <desc>UFC event: 4 name: UFC QATAR: POST-FIGHT PRESS CONFERENCE
 Saturday 11/21/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="716551">
@@ -309478,6 +309506,851 @@ Saturday 11/21/2026 - 1:00 PM</desc>
     <title>Post Game: Edmonton Oilers vs. Carolina Hurricanes - 1:00 PM</title>
     <desc>Edmonton Oilers vs. Carolina Hurricanes
 Saturday 11/21/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1287782">
+    <title>Upcoming: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1287782">
+    <title>Upcoming: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1287782">
+    <title>Upcoming: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1287782">
+    <title>Upcoming: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1287782">
+    <title>Upcoming: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121153000 -0500" channel="1287782">
+    <title>Upcoming: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121153000 -0500" stop="20261121183000 -0500" channel="1287782">
+    <title>Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121183000 -0500" stop="20261121210000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1287782">
+    <title>Post Game: Chicago Blackhawks vs. Calgary Flames - 3:30 PM</title>
+    <desc>Chicago Blackhawks vs. Calgary Flames
+Saturday 11/21/2026 - 3:30 PM</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1287781">
+    <title>Upcoming: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1287781">
+    <title>Upcoming: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1287781">
+    <title>Upcoming: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1287781">
+    <title>Upcoming: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1287781">
+    <title>Upcoming: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1287781">
+    <title>Upcoming: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1287781">
+    <title>Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1287781">
+    <title>Post Game: Pittsburgh Penguins vs. Nashville Predators - 6:00 PM</title>
+    <desc>Pittsburgh Penguins vs. Nashville Predators
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1287780">
+    <title>Upcoming: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1287780">
+    <title>Upcoming: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1287780">
+    <title>Upcoming: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1287780">
+    <title>Upcoming: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1287780">
+    <title>Upcoming: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1287780">
+    <title>Upcoming: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1287780">
+    <title>Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1287780">
+    <title>Post Game: Buffalo Sabres vs. Florida Panthers - 6:00 PM</title>
+    <desc>Buffalo Sabres vs. Florida Panthers
+Saturday 11/21/2026 - 6:00 PM</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1287779">
+    <title>Detroit Red Wings vs. New York Islanders</title>
+    <desc>Detroit Red Wings vs. New York Islanders
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1287778">
+    <title>Winnipeg Jets vs. Vegas Golden Knights</title>
+    <desc>Winnipeg Jets vs. Vegas Golden Knights
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1287777">
+    <title>St. Louis Blues vs. New Jersey Devils</title>
+    <desc>St. Louis Blues vs. New Jersey Devils
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121030000 -0500" stop="20261121060000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121090000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121090000 -0500" stop="20261121120000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121150000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121150000 -0500" stop="20261121180000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261121210000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261121210000 -0500" stop="20261122000000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1287776">
+    <title>Ottawa Senators vs. Los Angeles Kings</title>
+    <desc>Ottawa Senators vs. Los Angeles Kings
+Sunday 11/01/2026</desc>
   </programme>
   <programme start="20261121000000 -0500" stop="20261121030000 -0500" channel="1863218">
     <title>NHL NHL ON THE FLY | Sat 21 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 9</title>
