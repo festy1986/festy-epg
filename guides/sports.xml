@@ -4,10 +4,10 @@
     <display-name>####### DAZN PPV GB #######</display-name>
   </channel>
   <channel id="1900001">
-    <display-name>Next | Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 1</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 1</display-name>
   </channel>
   <channel id="1900000">
-    <display-name>Next | Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 2</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 2</display-name>
   </channel>
   <channel id="1899999">
     <display-name>Next | La Massana vs. Sant Julià | Lliga GRUP PIRINEU | 2026-11-22 | 11:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 3</display-name>
@@ -1751,10 +1751,10 @@
     <display-name>####### DAZN PPV CA #######</display-name>
   </channel>
   <channel id="1912602">
-    <display-name>Next | Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 1</display-name>
+    <display-name>Next | Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 1</display-name>
   </channel>
   <channel id="1912601">
-    <display-name>Next | Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 2</display-name>
+    <display-name>Next | Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 2</display-name>
   </channel>
   <channel id="1912600">
     <display-name>Next | La Massana vs. Sant Julià | Lliga GRUP PIRINEU | 2026-11-22 | 11:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 3</display-name>
@@ -3054,10 +3054,10 @@
     <display-name>####### DAZN PPV US #######</display-name>
   </channel>
   <channel id="1899901">
-    <display-name>Next | Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 1</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 1</display-name>
   </channel>
   <channel id="1899900">
-    <display-name>Next | Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 2</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 2</display-name>
   </channel>
   <channel id="1899899">
     <display-name>Next | La Massana vs. Sant Julià | Lliga GRUP PIRINEU | 2026-11-22 | 11:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 3</display-name>
@@ -7746,6 +7746,10 @@
   <channel id="1702607">
     <display-name>NHL On The Fly @ Nov 22 12:00 PM :Viaplay SE  12</display-name>
   </channel>
+  <channel id="1825953">
+    <display-name>NEXT | NHL: NEW YORK RANGERS - CAROLINA HURRICANES | Sun 22 Nov 18:35 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 50</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Carolina_Hurricanes.png" />
+  </channel>
   <channel id="1704151">
     <display-name>NHL: Vancouver Canucks vs Minnesota Wild @ Nov 22 04:05 :TeliaPlay SE  01</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Minnesota_Wild/Minnesota_Wild_vs_Vancouver_Canucks.png" />
@@ -7785,6 +7789,17 @@
   <channel id="1704052">
     <display-name>NHL: St. Louis Blues vs Edmonton Oilers @ Nov 23 01:05 :TeliaPlay SE  100</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_St_Louis_Blues.png" />
+  </channel>
+  <channel id="1098699">
+    <display-name>NEXT | NFL: DOLPHINS @ BILLS | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 12</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Miami_Dolphins/Miami_Dolphins_vs_Buffalo_Bills.png" />
+  </channel>
+  <channel id="1098695">
+    <display-name>NEXT | NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</display-name>
+  </channel>
+  <channel id="1098692">
+    <display-name>NEXT | NFL: CARDINALS @ CHIEFS | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 19</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Arizona_Cardinals/Arizona_Cardinals_vs_Kansas_City_Chiefs.png" />
   </channel>
   <channel id="1801849">
     <display-name>NFL RedZone @ Nov 22 7:00 PM :Disney+ SE  11</display-name>
@@ -8571,243 +8586,243 @@ Sunday 11/22/2026</desc>
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1900001">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 1
+    <title>8K EXCLUSIVE | GB: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1900000">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | GB: DAZN PPV 2
+    <title>8K EXCLUSIVE | GB: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1899999">
@@ -78201,243 +78216,243 @@ Sunday 11/22/2026</desc>
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1912602">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
+    <title>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1</title>
+    <desc>Forever Girls vs. Rayon Sports WFC | Women's Super League - Rwanda | 2026-11-22 | 13:00 | 8K EXCLUSIVE | CA: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1912601">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
+    <title>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2</title>
+    <desc>Lara vs. Aragua | Liga FUTVE 2 - Venezuela | 2026-11-22 | 22:00 | 8K EXCLUSIVE | CA: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1912600">
@@ -129761,243 +129776,243 @@ Sunday 11/22/2026</desc>
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1899901">
-    <title>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1</title>
-    <desc>Inyemera WFC vs. Bugesera WFC | Women's Super League - Rwanda | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 1
+    <title>8K EXCLUSIVE | US: DAZN PPV 1</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 1
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1899900">
-    <title>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Beirut FA vs. Jounieh FA | Lebanese Women's League - Lebanon | 2026-11-22 | 10:00 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Sunday 11/22/2026</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1899899">
@@ -309465,6 +309480,126 @@ Sunday 11/22/2026</desc>
     <desc>NHL On The Fly vs. Los Angeles Kings
 Sunday 11/22/2026</desc>
   </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
+  <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1825953">
+    <title>New York Rangers vs. Carolina Hurricanes</title>
+    <desc>New York Rangers vs. Carolina Hurricanes
+Wednesday 11/18/2026</desc>
+  </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1704151">
     <title>Upcoming: Minnesota Wild vs. Vancouver Canucks - 10:00 PM</title>
     <desc>Minnesota Wild vs. Vancouver Canucks
@@ -310699,6 +310834,376 @@ Sunday 11/22/2026 - 7:00 PM</desc>
     <title>Post Game: Edmonton Oilers vs. St. Louis Blues - 7:00 PM</title>
     <desc>Edmonton Oilers vs. St. Louis Blues
 Sunday 11/22/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1098699">
+    <title>Upcoming: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1098699">
+    <title>Upcoming: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1098699">
+    <title>Upcoming: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1098699">
+    <title>Upcoming: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122130000 -0500" channel="1098699">
+    <title>Upcoming: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122130000 -0500" stop="20261122160000 -0500" channel="1098699">
+    <title>Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122160000 -0500" stop="20261122180000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1098699">
+    <title>Post Game: Miami Dolphins vs. Buffalo Bills - 1:00 PM</title>
+    <desc>Miami Dolphins vs. Buffalo Bills
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122150000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261122150000 -0500" stop="20261122180000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1098695">
+    <title>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16</title>
+    <desc>NFL REDZONE | Sun 22 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 16
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1098692">
+    <title>Upcoming: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122030000 -0500" stop="20261122060000 -0500" channel="1098692">
+    <title>Upcoming: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122090000 -0500" channel="1098692">
+    <title>Upcoming: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122120000 -0500" channel="1098692">
+    <title>Upcoming: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122130000 -0500" channel="1098692">
+    <title>Upcoming: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122130000 -0500" stop="20261122160000 -0500" channel="1098692">
+    <title>Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122160000 -0500" stop="20261122180000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261122210000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261123000000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123000000 -0500" stop="20261123030000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123030000 -0500" stop="20261123060000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123180000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261124000000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124000000 -0500" stop="20261124030000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124030000 -0500" stop="20261124060000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124060000 -0500" stop="20261124090000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124150000 -0500" stop="20261124180000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124180000 -0500" stop="20261124210000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
+  </programme>
+  <programme start="20261124210000 -0500" stop="20261125000000 -0500" channel="1098692">
+    <title>Post Game: Arizona Cardinals vs. Kansas City Chiefs - 1:00 PM</title>
+    <desc>Arizona Cardinals vs. Kansas City Chiefs
+Sunday 11/22/2026 - 1:00 PM</desc>
   </programme>
   <programme start="20261122000000 -0500" stop="20261122030000 -0500" channel="1801849">
     <title>New England Patriots vs. New England Patriots</title>
