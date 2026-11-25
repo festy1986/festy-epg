@@ -3953,7 +3953,7 @@
     <display-name>##### NBA PASS PPV ⁸ᴷ #####</display-name>
   </channel>
   <channel id="1634335">
-    <display-name>NEXT | PHI - 76ERS VS MIA - HEAT | Wed 25 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | PHI - 76ERS VS MIA - HEAT | Wed 25 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Philadelphia_76ers/Philadelphia_76ers_vs_Miami_Heat.png" />
   </channel>
   <channel id="1634334">
@@ -4730,7 +4730,7 @@
     <display-name>LIVE | WEBER STATE VS. SEATTLE U | Wed 25 Nov 15:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 43</display-name>
   </channel>
   <channel id="1924686">
-    <display-name>NEXT | ARKANSAS STATE VS. FLORIDA INTERNATIONAL | Wed 25 Nov 15:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 44</display-name>
+    <display-name>LIVE | ARKANSAS STATE VS. FLORIDA INTERNATIONAL | Wed 25 Nov 15:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 44</display-name>
   </channel>
   <channel id="1924685">
     <display-name>NEXT | SEATTLE U VS. LOYOLA MARYMOUNT | Wed 25 Nov 16:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 45</display-name>
@@ -7642,6 +7642,10 @@
   <channel id="1632703">
     <display-name>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="1881033">
+    <display-name>Next | Heat @ 76ers | NBA | 2026-11-25 | 22:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 3</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Miami_Heat/Miami_Heat_vs_Philadelphia_76ers.png" />
+  </channel>
   <channel id="284684">
     <display-name>IT: SKY SPORT NBA UHD</display-name>
   </channel>
@@ -8528,7 +8532,7 @@
     <display-name>####### NBA PASS PPV #######</display-name>
   </channel>
   <channel id="1413081">
-    <display-name>NEXT | PHI - 76ERS VS MIA - HEAT | Wed 25 Nov 19:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
+    <display-name>LIVE | PHI - 76ERS VS MIA - HEAT | Wed 25 Nov 19:00 -02 (BR) | 8K EXCLUSIVE | BR: NBA PASS PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NBA/Philadelphia_76ers/Philadelphia_76ers_vs_Miami_Heat.png" />
   </channel>
   <channel id="1413080">
@@ -305127,6 +305131,131 @@ Wednesday 11/25/2026</desc>
     <title>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</title>
     <desc>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ
 Wednesday 11/25/2026</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1881033">
+    <title>Upcoming: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1881033">
+    <title>Upcoming: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1881033">
+    <title>Upcoming: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1881033">
+    <title>Upcoming: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1881033">
+    <title>Upcoming: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125170000 -0500" channel="1881033">
+    <title>Upcoming: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261125170000 -0500" stop="20261125200000 -0500" channel="1881033">
+    <title>Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125210000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881033">
+    <title>Post Game: Miami Heat vs. Philadelphia 76ers - 5:00 PM</title>
+    <desc>Miami Heat vs. Philadelphia 76ers
+Wednesday 11/25/2026 - 5:00 PM</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="284684">
     <title>IT: SKY SPORT NBA UHD</title>
