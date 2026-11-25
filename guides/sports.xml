@@ -70,7 +70,7 @@
     <display-name>Next | Folgore vs. Virtus | Coppa Titano - San Marino | 2026-11-25 | 19:45 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 22</display-name>
   </channel>
   <channel id="1899979">
-    <display-name>Next | ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 23</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 23</display-name>
   </channel>
   <channel id="1899978">
     <display-name>Next | UNAN Managua vs. CS Sébaco | Primera Division - Nicaragua | 2026-11-25 | 22:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 24</display-name>
@@ -1844,7 +1844,7 @@
     <display-name>Next | Stoke vs. Millwall | Sky Bet Championship | 2026-11-25 | 20:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 33</display-name>
   </channel>
   <channel id="1912569">
-    <display-name>Next | ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 34</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 34</display-name>
   </channel>
   <channel id="1912568">
     <display-name>Next | Southern @ Nebraska | NCAA Men's Basketball | 2026-11-25 | 22:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 35</display-name>
@@ -3092,7 +3092,7 @@
     <display-name>Next | Sporting CP vs. Man United (en Español) | UEFA Champions League | 2026-11-25 | 20:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 19</display-name>
   </channel>
   <channel id="1899882">
-    <display-name>Next | ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 20</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 20</display-name>
   </channel>
   <channel id="1899881">
     <display-name>Next | UNAN Managua vs. CS Sébaco | Primera Division - Nicaragua | 2026-11-25 | 22:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 21</display-name>
@@ -7727,13 +7727,25 @@
   <channel id="1702617">
     <display-name>NHL On The Fly @ Nov 25 12:00 PM :Viaplay SE  02</display-name>
   </channel>
-  <channel id="1704151">
-    <display-name>NHL: San Jose Sharks vs Minnesota Wild @ Nov 24 04:05 :TeliaPlay SE  01</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Minnesota_Wild/Minnesota_Wild_vs_San_Jose_Sharks.png" />
+  <channel id="1704115">
+    <display-name>NHL: Boston Bruins vs Winnipeg Jets @ Nov 26 01:05 :TeliaPlay SE  37</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Winnipeg_Jets/Winnipeg_Jets_vs_Boston_Bruins.png" />
   </channel>
-  <channel id="1704117">
-    <display-name>NHL: Edmonton Oilers vs Vegas Golden Knights @ Nov 25 02:05 :TeliaPlay SE  35</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vegas_Golden_Knights/Vegas_Golden_Knights_vs_Edmonton_Oilers.png" />
+  <channel id="1704114">
+    <display-name>NHL: Buffalo Sabres vs New York Rangers @ Nov 26 01:05 :TeliaPlay SE  38</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Buffalo_Sabres.png" />
+  </channel>
+  <channel id="1704112">
+    <display-name>NHL: Detroit Red Wings vs Vancouver Canucks @ Nov 26 01:35 :TeliaPlay SE  40</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vancouver_Canucks/Vancouver_Canucks_vs_Detroit_Red_Wings.png" />
+  </channel>
+  <channel id="1704109">
+    <display-name>NHL: Colorado Avalanche vs Montreal Canadiens @ Nov 26 03:35 :TeliaPlay SE  43</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Montreal_Canadiens/Montreal_Canadiens_vs_Colorado_Avalanche.png" />
+  </channel>
+  <channel id="1704107">
+    <display-name>NHL: Anaheim Ducks vs San Jose Sharks @ Nov 26 04:05 :TeliaPlay SE  45</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/San_Jose_Sharks/San_Jose_Sharks_vs_Anaheim_Ducks.png" />
   </channel>
   <channel id="1863223">
     <display-name>NEXT | NHL NHL ON THE FLY | Wed 25 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</display-name>
@@ -7866,17 +7878,37 @@
   <channel id="1703001">
     <display-name>NHL On The Fly @ Nov 25 2:00 PM :Viaplay NO  01</display-name>
   </channel>
-  <channel id="1704252">
-    <display-name>NHL: Seattle Kraken vs Anaheim Ducks @ Nov 24 04:45 :Telia FI  01</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Anaheim_Ducks/Anaheim_Ducks_vs_Seattle_Kraken.png" />
-  </channel>
-  <channel id="1704251">
-    <display-name>NHL: San Jose Sharks vs Minnesota Wild @ Nov 24 05:05 :Telia FI  02</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Minnesota_Wild/Minnesota_Wild_vs_San_Jose_Sharks.png" />
+  <channel id="1704227">
+    <display-name>NHL: Pittsburgh Penguins vs Calgary Flames @ Nov 26 02:05 :Telia FI  26</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_Pittsburgh_Penguins.png" />
   </channel>
   <channel id="1704226">
-    <display-name>NHL: Edmonton Oilers vs Vegas Golden Knights @ Nov 25 03:05 :Telia FI  27</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vegas_Golden_Knights/Vegas_Golden_Knights_vs_Edmonton_Oilers.png" />
+    <display-name>NHL: Florida Panthers vs Ottawa Senators @ Nov 26 02:05 :Telia FI  27</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Ottawa_Senators/Ottawa_Senators_vs_Florida_Panthers.png" />
+  </channel>
+  <channel id="1704225">
+    <display-name>NHL: Boston Bruins vs Winnipeg Jets @ Nov 26 02:05 :Telia FI  28</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Winnipeg_Jets/Winnipeg_Jets_vs_Boston_Bruins.png" />
+  </channel>
+  <channel id="1704224">
+    <display-name>NHL: Buffalo Sabres vs New York Rangers @ Nov 26 02:05 :Telia FI  29</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Rangers/New_York_Rangers_vs_Buffalo_Sabres.png" />
+  </channel>
+  <channel id="1704222">
+    <display-name>NHL: Dallas Stars vs Nashville Predators @ Nov 26 03:05 :Telia FI  31</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Nashville_Predators/Nashville_Predators_vs_Dallas_Stars.png" />
+  </channel>
+  <channel id="1704220">
+    <display-name>NHL: Colorado Avalanche vs Montreal Canadiens @ Nov 26 04:35 :Telia FI  33</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Montreal_Canadiens/Montreal_Canadiens_vs_Colorado_Avalanche.png" />
+  </channel>
+  <channel id="1704219">
+    <display-name>NHL: Seattle Kraken vs Chicago Blackhawks @ Nov 26 04:45 :Telia FI  34</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_Seattle_Kraken.png" />
+  </channel>
+  <channel id="1704218">
+    <display-name>NHL: Anaheim Ducks vs San Jose Sharks @ Nov 26 05:05 :Telia FI  35</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/San_Jose_Sharks/San_Jose_Sharks_vs_Anaheim_Ducks.png" />
   </channel>
   <channel id="1863331">
     <display-name>NEXT | NHL NHL ON THE FLY | Wed 25 Nov 13:00 EET (FI) | 8K EXCLUSIVE | FI: VIAPLAY PPV 1</display-name>
@@ -11371,123 +11403,123 @@ Wednesday 11/25/2026</desc>
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1899979">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | GB: DAZN PPV 23
+    <title>8K EXCLUSIVE | GB: DAZN PPV 23</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 23
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1899978">
@@ -82291,123 +82323,123 @@ Wednesday 11/25/2026</desc>
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1912569">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 34
+    <title>8K EXCLUSIVE | CA: DAZN PPV 34</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 34
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1912568">
@@ -132091,123 +132123,123 @@ Wednesday 11/25/2026</desc>
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1899882">
-    <title>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20</title>
-    <desc>ART Municipal Jalapa vs. San Marcos FC | Primera Division - Nicaragua | 2026-11-25 | 21:00 | 8K EXCLUSIVE | US: DAZN PPV 20
+    <title>8K EXCLUSIVE | US: DAZN PPV 20</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 20
 Wednesday 11/25/2026</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1899881">
@@ -309065,245 +309097,630 @@ Wednesday 11/25/2026</desc>
     <desc>NHL On The Fly vs. Los Angeles Kings
 Wednesday 11/25/2026</desc>
   </programme>
-  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704115">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704115">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704115">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704115">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704115">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704115">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="1704115">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125190000 -0500" stop="20261125220000 -0500" channel="1704115">
+    <title>Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704151">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704115">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704114">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704114">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704114">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704114">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704114">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704114">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="1704114">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125190000 -0500" stop="20261125220000 -0500" channel="1704114">
+    <title>New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704117">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704114">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704112">
+    <title>Upcoming: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704112">
+    <title>Upcoming: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704112">
+    <title>Upcoming: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704112">
+    <title>Upcoming: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704112">
+    <title>Upcoming: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704112">
+    <title>Upcoming: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125193000 -0500" channel="1704112">
+    <title>Upcoming: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125193000 -0500" stop="20261125223000 -0500" channel="1704112">
+    <title>Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125223000 -0500" stop="20261126000000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704112">
+    <title>Post Game: Vancouver Canucks vs. Detroit Red Wings - 7:30 PM</title>
+    <desc>Vancouver Canucks vs. Detroit Red Wings
+Wednesday 11/25/2026 - 7:30 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704109">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704109">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704109">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704109">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704109">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704109">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704109">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125213000 -0500" channel="1704109">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125213000 -0500" stop="20261126003000 -0500" channel="1704109">
+    <title>Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126003000 -0500" stop="20261126030000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704109">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704107">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704107">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704107">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704107">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704107">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704107">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704107">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125220000 -0500" channel="1704107">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261126010000 -0500" channel="1704107">
+    <title>San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126010000 -0500" stop="20261126030000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704107">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1863223">
     <title>NHL NHL ON THE FLY | Wed 25 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
@@ -313385,365 +313802,1005 @@ Wednesday 11/25/2026</desc>
     <desc>NHL On The Fly vs. Los Angeles Kings
 Wednesday 11/25/2026</desc>
   </programme>
-  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704227">
+    <title>Upcoming: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704227">
+    <title>Upcoming: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704227">
+    <title>Upcoming: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704227">
+    <title>Upcoming: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704227">
+    <title>Upcoming: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704227">
+    <title>Upcoming: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="1704227">
+    <title>Upcoming: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125190000 -0500" stop="20261125220000 -0500" channel="1704227">
+    <title>Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704252">
-    <title>Post Game: Anaheim Ducks vs. Seattle Kraken - 9:40 PM</title>
-    <desc>Anaheim Ducks vs. Seattle Kraken
-Monday 11/23/2026 - 9:40 PM</desc>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
-  </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704251">
-    <title>Post Game: Minnesota Wild vs. San Jose Sharks - 10:00 PM</title>
-    <desc>Minnesota Wild vs. San Jose Sharks
-Monday 11/23/2026 - 10:00 PM</desc>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704227">
+    <title>Post Game: Calgary Flames vs. Pittsburgh Penguins - 7:00 PM</title>
+    <desc>Calgary Flames vs. Pittsburgh Penguins
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Upcoming: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Upcoming: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Upcoming: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Upcoming: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Upcoming: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Upcoming: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="1704226">
+    <title>Upcoming: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
-  <programme start="20261125210000 -0500" stop="20261126000000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+  <programme start="20261125190000 -0500" stop="20261125220000 -0500" channel="1704226">
+    <title>Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="1704226">
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704226">
-    <title>Post Game: Vegas Golden Knights vs. Edmonton Oilers - 8:00 PM</title>
-    <desc>Vegas Golden Knights vs. Edmonton Oilers
-Tuesday 11/24/2026 - 8:00 PM</desc>
+    <title>Post Game: Ottawa Senators vs. Florida Panthers - 7:00 PM</title>
+    <desc>Ottawa Senators vs. Florida Panthers
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704225">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704225">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704225">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704225">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704225">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704225">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="1704225">
+    <title>Upcoming: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125220000 -0500" channel="1704225">
+    <title>Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704225">
+    <title>Post Game: Winnipeg Jets vs. Boston Bruins - 7:00 PM</title>
+    <desc>Winnipeg Jets vs. Boston Bruins
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704224">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704224">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704224">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704224">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704224">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704224">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="1704224">
+    <title>Upcoming: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125220000 -0500" channel="1704224">
+    <title>New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704224">
+    <title>Post Game: New York Rangers vs. Buffalo Sabres - 7:00 PM</title>
+    <desc>New York Rangers vs. Buffalo Sabres
+Wednesday 11/25/2026 - 7:00 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704222">
+    <title>Upcoming: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704222">
+    <title>Upcoming: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704222">
+    <title>Upcoming: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704222">
+    <title>Upcoming: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704222">
+    <title>Upcoming: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704222">
+    <title>Upcoming: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125200000 -0500" channel="1704222">
+    <title>Upcoming: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125230000 -0500" channel="1704222">
+    <title>Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125230000 -0500" stop="20261126000000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704222">
+    <title>Post Game: Nashville Predators vs. Dallas Stars - 8:00 PM</title>
+    <desc>Nashville Predators vs. Dallas Stars
+Wednesday 11/25/2026 - 8:00 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704220">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704220">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704220">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704220">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704220">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704220">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704220">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125213000 -0500" channel="1704220">
+    <title>Upcoming: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125213000 -0500" stop="20261126003000 -0500" channel="1704220">
+    <title>Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126003000 -0500" stop="20261126030000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704220">
+    <title>Post Game: Montreal Canadiens vs. Colorado Avalanche - 9:30 PM</title>
+    <desc>Montreal Canadiens vs. Colorado Avalanche
+Wednesday 11/25/2026 - 9:30 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704219">
+    <title>Upcoming: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704219">
+    <title>Upcoming: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704219">
+    <title>Upcoming: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704219">
+    <title>Upcoming: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704219">
+    <title>Upcoming: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704219">
+    <title>Upcoming: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704219">
+    <title>Upcoming: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125214000 -0500" channel="1704219">
+    <title>Upcoming: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125214000 -0500" stop="20261126004000 -0500" channel="1704219">
+    <title>Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261126004000 -0500" stop="20261126030000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704219">
+    <title>Post Game: Chicago Blackhawks vs. Seattle Kraken - 9:40 PM</title>
+    <desc>Chicago Blackhawks vs. Seattle Kraken
+Wednesday 11/25/2026 - 9:40 PM</desc>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1704218">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125030000 -0500" stop="20261125060000 -0500" channel="1704218">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125090000 -0500" channel="1704218">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125120000 -0500" channel="1704218">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125150000 -0500" channel="1704218">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125180000 -0500" channel="1704218">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125210000 -0500" channel="1704218">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125220000 -0500" channel="1704218">
+    <title>Upcoming: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261126010000 -0500" channel="1704218">
+    <title>San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126010000 -0500" stop="20261126030000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1704218">
+    <title>Post Game: San Jose Sharks vs. Anaheim Ducks - 10:00 PM</title>
+    <desc>San Jose Sharks vs. Anaheim Ducks
+Wednesday 11/25/2026 - 10:00 PM</desc>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125030000 -0500" channel="1863331">
     <title>NHL NHL ON THE FLY | Wed 25 Nov 13:00 EET (FI) | 8K EXCLUSIVE | FI: VIAPLAY PPV 1</title>
