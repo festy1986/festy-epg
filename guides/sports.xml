@@ -13,13 +13,13 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 3</display-name>
   </channel>
   <channel id="1899998">
-    <display-name>Next | Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 4</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 4</display-name>
   </channel>
   <channel id="1899997">
-    <display-name>Next | Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 5</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 5</display-name>
   </channel>
   <channel id="1899996">
-    <display-name>Next | Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 6</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | GB: DAZN PPV 6</display-name>
   </channel>
   <channel id="1899995">
     <display-name>Next | Morocco U17 vs. Spain U17 | FIFA U-17 World Cup™ | 2026-11-26 | 15:00 (GMT) | 8K EXCLUSIVE | GB: DAZN PPV 7</display-name>
@@ -1759,13 +1759,13 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 3</display-name>
   </channel>
   <channel id="1912599">
-    <display-name>Next | Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 4</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 4</display-name>
   </channel>
   <channel id="1912598">
-    <display-name>Next | Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 5</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 5</display-name>
   </channel>
   <channel id="1912597">
-    <display-name>Next | Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 6</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 6</display-name>
   </channel>
   <channel id="1912596">
     <display-name>Next | China PR U17 vs. Fiji U17 | FIFA U-17 World Cup™ | 2026-11-26 | 15:00 (GMT) | 8K EXCLUSIVE | CA: DAZN PPV 7</display-name>
@@ -3044,7 +3044,7 @@
     <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 1</display-name>
   </channel>
   <channel id="1899900">
-    <display-name>Next | Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 2</display-name>
+    <display-name>NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 2</display-name>
   </channel>
   <channel id="1899899">
     <display-name>Next | Golden Dream FC vs. LPRC Oilers | LFA First Division - Liberia | 2026-11-26 | 16:00 (GMT) | 8K EXCLUSIVE | US: DAZN PPV 3</display-name>
@@ -7753,7 +7753,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Vegas_Golden_Knights/Vegas_Golden_Knights_vs_Carolina_Hurricanes.png" />
   </channel>
   <channel id="1242788">
-    <display-name>LIVE | NHL NHL ON THE FLY | Thu 26 Nov 14:00 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 1</display-name>
+    <display-name>ENDED | NHL NHL ON THE FLY | Thu 26 Nov 14:00 CET (NO) | 8K EXCLUSIVE | NO: VIAPLAY PPV 1</display-name>
   </channel>
   <channel id="1703000">
     <display-name>NHL On The Fly @ Nov 26 2:00 PM :Viaplay NO  02</display-name>
@@ -7798,7 +7798,10 @@
     <display-name>Next | NFL Thanksgiving Day: Pregame | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 10</display-name>
   </channel>
   <channel id="1939942">
-    <display-name>Next | FOX NFL Pregame | all | 26-11-2026 | 22:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 14</display-name>
+    <display-name>End | FOX NFL Pregame | all | 26-11-2026 | 22:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 14</display-name>
+  </channel>
+  <channel id="1939930">
+    <display-name>End | The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</display-name>
   </channel>
   <channel id="2162861">
     <display-name>AT&amp;T: MLB BIG INNING ᴿᴬᵂ</display-name>
@@ -7907,6 +7910,9 @@
   </channel>
   <channel id="325049">
     <display-name>US: MLB STRIKE ZONE HD</display-name>
+  </channel>
+  <channel id="1940105">
+    <display-name>Next | The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</display-name>
   </channel>
   <channel id="1126472">
     <display-name>####### VIAPLAY NHL PPV #######</display-name>
@@ -8740,363 +8746,363 @@ Thursday 11/26/2026</desc>
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1899998">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 4
+    <title>8K EXCLUSIVE | GB: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1899997">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | GB: DAZN PPV 5
+    <title>8K EXCLUSIVE | GB: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1899996">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | GB: DAZN PPV 6
+    <title>8K EXCLUSIVE | GB: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | GB: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1899995">
@@ -78355,363 +78361,363 @@ Thursday 11/26/2026</desc>
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1912599">
-    <title>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4</title>
-    <desc>Jamaica U17 vs. Côte d'Ivoire U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 4
+    <title>8K EXCLUSIVE | CA: DAZN PPV 4</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 4
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1912598">
-    <title>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5</title>
-    <desc>Uzbekistan U17 vs. Italy U17 | FIFA U-17 World Cup™ | 2026-11-26 | 14:00 | 8K EXCLUSIVE | CA: DAZN PPV 5
+    <title>8K EXCLUSIVE | CA: DAZN PPV 5</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 5
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1912597">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | CA: DAZN PPV 6
+    <title>8K EXCLUSIVE | CA: DAZN PPV 6</title>
+    <desc>8K EXCLUSIVE | CA: DAZN PPV 6
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1912596">
@@ -129615,123 +129621,123 @@ Thursday 11/26/2026</desc>
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1899900">
-    <title>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2</title>
-    <desc>Real Maldive FC vs. Foresters FC | Premier League - Seychelles | 2026-11-26 | 14:30 | 8K EXCLUSIVE | US: DAZN PPV 2
+    <title>8K EXCLUSIVE | US: DAZN PPV 2</title>
+    <desc>8K EXCLUSIVE | US: DAZN PPV 2
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1899899">
@@ -311634,6 +311640,126 @@ Thursday 11/26/2026</desc>
     <desc>FOX NFL Pregame | all | 26-11-2026 | 22:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 14
 Thursday 11/26/2026</desc>
   </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1939930">
+    <title>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26</title>
+    <desc>The NFL Today | all | 26-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 26
+Thursday 11/26/2026</desc>
+  </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="2162861">
     <title>AT&amp;T: MLB BIG INNING ᴿᴬᵂ</title>
     <desc>AT&amp;T: MLB BIG INNING ᴿᴬᵂ
@@ -315952,6 +316078,126 @@ Thursday 11/26/2026</desc>
   <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="325049">
     <title>US: MLB STRIKE ZONE HD</title>
     <desc>US: MLB STRIKE ZONE HD
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
+Thursday 11/26/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1940105">
+    <title>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52</title>
+    <desc>The NFL Today | all | 26-11-2026 | 17:55 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 52
 Thursday 11/26/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1126472">
