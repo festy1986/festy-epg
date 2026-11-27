@@ -7603,6 +7603,9 @@
   <channel id="2133313">
     <display-name>DE: MLB NETWORK ᴿᴬᵂ</display-name>
   </channel>
+  <channel id="2239059">
+    <display-name>NEXT | NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</display-name>
+  </channel>
   <channel id="1918872">
     <display-name>End | NFL GameDay Morning | all | 26-11-2026 | 16:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 5</display-name>
   </channel>
@@ -7611,10 +7614,6 @@
   </channel>
   <channel id="1632703">
     <display-name>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</display-name>
-  </channel>
-  <channel id="1881034">
-    <display-name>Live | Cowboys - Eagles (Domestic) | NFL | 8K EXCLUSIVE | BE: DAZN PPV 2</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Dallas_Cowboys.png" />
   </channel>
   <channel id="1881033">
     <display-name>Live | Bills - Chiefs (Domestic) | NFL | 8K EXCLUSIVE | BE: DAZN PPV 3</display-name>
@@ -7668,10 +7667,6 @@
   <channel id="1884306">
     <display-name>Live | Kansas City Chiefs @ Buffalo Bills | NFL | 8K EXCLUSIVE | IT: DAZN PPV 1</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
-  </channel>
-  <channel id="1884305">
-    <display-name>Live | Philadelphia Eagles @ Dallas Cowboys | NFL | 8K EXCLUSIVE | IT: DAZN PPV 2</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Dallas_Cowboys.png" />
   </channel>
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
@@ -7796,7 +7791,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
   </channel>
   <channel id="1098689">
-    <display-name>LIVE | NFL: BEARS @ LIONS | Thu 26 Nov 18:51 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 22</display-name>
+    <display-name>ENDED | NFL: BEARS @ LIONS | Thu 26 Nov 18:51 CET (SE) | 8K EXCLUSIVE | SE: DISNEY+ PPV 22</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Chicago_Bears/Chicago_Bears_vs_Detroit_Lions.png" />
   </channel>
   <channel id="1801838">
@@ -7807,8 +7802,17 @@
     <display-name>NFL: Eagles @ Cowboys @ Nov 26 10:34 PM :Disney+ SE  46</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Dallas_Cowboys.png" />
   </channel>
-  <channel id="1863223">
-    <display-name>ENDED | NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</display-name>
+  <channel id="1863219">
+    <display-name>NEXT | NHL: FLAMES @ DEVILS | Fri 27 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 109</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_New_Jersey_Devils.png" />
+  </channel>
+  <channel id="1863217">
+    <display-name>NEXT | NHL: MAPLE LEAFS @ BRUINS | Fri 27 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 111</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Toronto_Maple_Leafs/Toronto_Maple_Leafs_vs_Boston_Bruins.png" />
+  </channel>
+  <channel id="1863216">
+    <display-name>NEXT | NHL: NASHVILLE PREDATORS - UTAH MAMMOTH | Fri 27 Nov 19:05 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 112</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Nashville_Predators/Nashville_Predators_vs_Utah_Mammoth.png" />
   </channel>
   <channel id="1863201">
     <display-name>NEXT | NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 26</display-name>
@@ -304430,6 +304434,126 @@ Thursday 11/26/2026</desc>
     <desc>DE: MLB NETWORK ᴿᴬᵂ
 Thursday 11/26/2026</desc>
   </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="2239059">
+    <title>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3</title>
+    <desc>NHL-MATCHDAY 27.11.2026 - MIT SKY SPORT | Fri 27 Nov 17:55 CET (DE) | 8K EXCLUSIVE | DE: SPORT EUROPE PPV 3
+Tuesday 11/17/2026</desc>
+  </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1918872">
     <title>NFL GameDay Morning | all | 26-11-2026 | 16:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 5</title>
     <desc>NFL GameDay Morning | all | 26-11-2026 | 16:00 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 5
@@ -304789,131 +304913,6 @@ Thursday 11/26/2026</desc>
     <title>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ</title>
     <desc>PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ
 Thursday 11/26/2026</desc>
-  </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881034">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881034">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881034">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881034">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881034">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126150000 -0500" stop="20261126163000 -0500" channel="1881034">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126163000 -0500" stop="20261126193000 -0500" channel="1881034">
-    <title>Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126193000 -0500" stop="20261126210000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1881034">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881033">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
@@ -306739,131 +306738,6 @@ Thursday 11/26/2026 - 8:20 PM</desc>
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1884305">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1884305">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1884305">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1884305">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1884305">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126150000 -0500" stop="20261126163000 -0500" channel="1884305">
-    <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126163000 -0500" stop="20261126193000 -0500" channel="1884305">
-    <title>Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126193000 -0500" stop="20261126210000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1884305">
-    <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
-    <desc>Philadelphia Eagles vs. Dallas Cowboys
-Thursday 11/26/2026 - 4:30 PM</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1686819">
     <title>VIP: NBA TV</title>
@@ -311470,125 +311344,365 @@ Thursday 11/26/2026 - 4:30 PM</desc>
     <desc>Philadelphia Eagles vs. Dallas Cowboys
 Thursday 11/26/2026 - 4:30 PM</desc>
   </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
   </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1863223">
-    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
-    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
-Thursday 11/12/2026</desc>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1863219">
+    <title>Calgary Flames vs. New Jersey Devils</title>
+    <desc>Calgary Flames vs. New Jersey Devils
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1863217">
+    <title>Toronto Maple Leafs vs. Boston Bruins</title>
+    <desc>Toronto Maple Leafs vs. Boston Bruins
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1863216">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1863201">
     <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 26</title>
