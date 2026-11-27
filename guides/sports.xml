@@ -2485,7 +2485,7 @@
     <display-name>LIVE | MRU @ CGY HOCKEY WOMEN | Thu 26 Nov 18:55 NST (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 1</display-name>
   </channel>
   <channel id="1132427">
-    <display-name>NEXT | MRU @ CGY HOCKEY MEN | Thu 26 Nov 21:55 NST (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
+    <display-name>LIVE | MRU @ CGY HOCKEY MEN | Thu 26 Nov 21:55 NST (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 2</display-name>
   </channel>
   <channel id="1132426">
     <display-name>NEXT | REG @ GMU VOLLEYBALL WOMEN | Fri 27 Nov 19:20 NST (CA) | 8K EXCLUSIVE | CA: CANADA WEST PPV 3</display-name>
@@ -4601,7 +4601,7 @@
     <display-name>ENDED | COLORADO STATE VS. GRAMBLING (GAME 2) | Thu 26 Nov 15:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 11</display-name>
   </channel>
   <channel id="1924718">
-    <display-name>NEXT | XAVIER VS. SANTA CLARA (GAME 2) | Thu 26 Nov 20:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 12</display-name>
+    <display-name>LIVE | XAVIER VS. SANTA CLARA (GAME 2) | Thu 26 Nov 20:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 12</display-name>
   </channel>
   <channel id="1924717">
     <display-name>NEXT | NORTHERN KAHU VS. SOUTHERN HOIHO (ROUND 10) | Fri 27 Nov 01:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 13</display-name>
@@ -7616,20 +7616,16 @@
     <display-name>Live | Cowboys - Eagles (Domestic) | NFL | 8K EXCLUSIVE | BE: DAZN PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Dallas_Cowboys.png" />
   </channel>
-  <channel id="1881026">
-    <display-name>Next | Chiefs @ Bills (U.S., French, Japanese, Portuguese Game Commentary Available) | NFL Game Pass | 2026-11-27 | 01:20 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 10</display-name>
+  <channel id="1881033">
+    <display-name>Live | Bills - Chiefs (Domestic) | NFL | 8K EXCLUSIVE | BE: DAZN PPV 3</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
   </channel>
-  <channel id="1881025">
-    <display-name>Next | Chiefs @ Bills | NFL Game Pass | 2026-11-27 | 01:20 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 11</display-name>
+  <channel id="1881028">
+    <display-name>Live | Chiefs @ Bills (U.S., French, Japanese, Portuguese Game Commentary Available) | NFL Game Pass | 8K EXCLUSIVE | BE: DAZN PPV 8</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
   </channel>
-  <channel id="1881024">
-    <display-name>Next | Chiefs @ Bills (Spanish Broadcast) | NFL Game Pass | 2026-11-27 | 01:20 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 12</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
-  </channel>
-  <channel id="1881023">
-    <display-name>Next | Bills - Chiefs (Domestic) | NFL | 2026-11-27 | 01:20 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 13</display-name>
+  <channel id="1881027">
+    <display-name>Live | Chiefs @ Bills | NFL Game Pass | 8K EXCLUSIVE | BE: DAZN PPV 9</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
   </channel>
   <channel id="1880970">
@@ -7643,6 +7639,10 @@
   <channel id="1880968">
     <display-name>Next | Broncos @ Steelers (Spanish Broadcast) | NFL Game Pass | 2026-11-27 | 20:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 68</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Denver_Broncos/Denver_Broncos_vs_Pittsburgh_Steelers.png" />
+  </channel>
+  <channel id="1880956">
+    <display-name>Live | Chiefs @ Bills (Spanish Broadcast) | NFL Game Pass | 8K EXCLUSIVE | BE: DAZN PPV 80</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
   </channel>
   <channel id="284684">
     <display-name>IT: SKY SPORT NBA UHD</display-name>
@@ -7665,13 +7665,13 @@
   <channel id="351699">
     <display-name>IT: DAZN NFL</display-name>
   </channel>
+  <channel id="1884306">
+    <display-name>Live | Kansas City Chiefs @ Buffalo Bills | NFL | 8K EXCLUSIVE | IT: DAZN PPV 1</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
+  </channel>
   <channel id="1884305">
     <display-name>Live | Philadelphia Eagles @ Dallas Cowboys | NFL | 8K EXCLUSIVE | IT: DAZN PPV 2</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Dallas_Cowboys.png" />
-  </channel>
-  <channel id="1884301">
-    <display-name>Next | Kansas City Chiefs @ Buffalo Bills | NFL | 2026-11-27 | 01:20 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 6</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
   </channel>
   <channel id="1686819">
     <display-name>VIP: NBA TV</display-name>
@@ -7718,6 +7718,52 @@
   <channel id="1810045">
     <display-name>ENDED | NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 2</display-name>
   </channel>
+  <channel id="1810031">
+    <display-name>NEXT | NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</display-name>
+  </channel>
+  <channel id="1810013">
+    <display-name>NEXT | NHL NASHVILLE - UTAH | Fri 27 Nov 19:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 34</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Nashville_Predators/Nashville_Predators_vs_Utah_Mammoth.png" />
+  </channel>
+  <channel id="1810011">
+    <display-name>NEXT | NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</display-name>
+  </channel>
+  <channel id="1810006">
+    <display-name>NEXT | NHL COLUMBUS - DETROIT | Fri 27 Nov 21:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 41</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Columbus_Blue_Jackets/Columbus_Blue_Jackets_vs_Detroit_Red_Wings.png" />
+  </channel>
+  <channel id="1810005">
+    <display-name>NEXT | NHL WASHINGTON - FLORIDA | Fri 27 Nov 21:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 42</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Washington_Capitals/Washington_Capitals_vs_Florida_Panthers.png" />
+  </channel>
+  <channel id="1810004">
+    <display-name>NEXT | NHL PHILADELPHIA - VANCOUVER | Fri 27 Nov 21:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 43</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Philadelphia_Flyers/Philadelphia_Flyers_vs_Vancouver_Canucks.png" />
+  </channel>
+  <channel id="1810003">
+    <display-name>NEXT | NHL TAMPA BAY - OTTAWA | Fri 27 Nov 21:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 44</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Tampa_Bay_Lightning/Tampa_Bay_Lightning_vs_Ottawa_Senators.png" />
+  </channel>
+  <channel id="1810002">
+    <display-name>NEXT | NHL SAN JOSE - VEGAS | Fri 27 Nov 22:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 45</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/San_Jose_Sharks/San_Jose_Sharks_vs_Vegas_Golden_Knights.png" />
+  </channel>
+  <channel id="1810000">
+    <display-name>NEXT | NHL CHICAGO - NY RANGERS | Fri 27 Nov 23:35 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 47</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Chicago_Blackhawks/Chicago_Blackhawks_vs_New_York_Rangers.png" />
+  </channel>
+  <channel id="1809999">
+    <display-name>NEXT | NHL NY ISLANDERS - WINNIPEG | Sat 28 Nov 01:35 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 48</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/New_York_Islanders/New_York_Islanders_vs_Winnipeg_Jets.png" />
+  </channel>
+  <channel id="1809997">
+    <display-name>NEXT | NHL EDMONTON - SEATTLE | Sat 28 Nov 02:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 50</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Edmonton_Oilers/Edmonton_Oilers_vs_Seattle_Kraken.png" />
+  </channel>
+  <channel id="1809996">
+    <display-name>NEXT | NHL BUFFALO - PITTSBURGH | Sat 28 Nov 02:05 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 51</display-name>
+    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Buffalo_Sabres/Buffalo_Sabres_vs_Pittsburgh_Penguins.png" />
+  </channel>
   <channel id="1702616">
     <display-name>NHL On The Fly @ Nov 26 12:00 PM :Viaplay SE  03</display-name>
   </channel>
@@ -7730,7 +7776,7 @@
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Dallas_Cowboys.png" />
   </channel>
   <channel id="1825938">
-    <display-name>NEXT | NFL: CHIEFS @ BILLS | Fri 27 Nov 02:08 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 65</display-name>
+    <display-name>LIVE | NFL: CHIEFS @ BILLS | Fri 27 Nov 02:08 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 65</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Kansas_City_Chiefs/Kansas_City_Chiefs_vs_Buffalo_Bills.png" />
   </channel>
   <channel id="1704151">
@@ -7761,9 +7807,8 @@
     <display-name>NFL: Eagles @ Cowboys @ Nov 26 10:34 PM :Disney+ SE  46</display-name>
     <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NFL/Philadelphia_Eagles/Philadelphia_Eagles_vs_Dallas_Cowboys.png" />
   </channel>
-  <channel id="1863219">
-    <display-name>NEXT | NHL: FLAMES @ DEVILS | Fri 27 Nov 19:00 CET (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 109</display-name>
-    <icon src="https://raw.githubusercontent.com/festy1986/festy-epg/main/sports-logos/NHL/Calgary_Flames/Calgary_Flames_vs_New_Jersey_Devils.png" />
+  <channel id="1863223">
+    <display-name>ENDED | NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</display-name>
   </channel>
   <channel id="1863201">
     <display-name>NEXT | NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 26</display-name>
@@ -304870,502 +304915,377 @@ Thursday 11/26/2026 - 4:30 PM</desc>
     <desc>Philadelphia Eagles vs. Dallas Cowboys
 Thursday 11/26/2026 - 4:30 PM</desc>
   </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881026">
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881033">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881026">
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881033">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881026">
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881033">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881026">
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881033">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881026">
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881033">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1881026">
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1881033">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1881026">
+  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1881033">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1881026">
+  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1881033">
     <title>Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1881026">
+  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881026">
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881026">
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881026">
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881026">
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881026">
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881026">
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881026">
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881026">
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1881026">
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1881026">
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1881026">
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1881026">
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1881026">
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1881026">
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1881026">
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1881026">
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1881033">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881025">
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881028">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881025">
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881028">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881025">
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881028">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881025">
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881028">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881025">
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881028">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1881025">
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1881028">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1881025">
+  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1881028">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1881025">
+  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1881028">
     <title>Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1881025">
+  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881025">
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881025">
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881025">
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881025">
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881025">
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881025">
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881025">
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881025">
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1881025">
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1881025">
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1881025">
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1881025">
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1881025">
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1881025">
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1881025">
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1881025">
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1881028">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881024">
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881027">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881024">
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881027">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881024">
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881027">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881024">
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881027">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881024">
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881027">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1881024">
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1881027">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1881024">
+  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1881027">
     <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1881024">
+  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1881027">
     <title>Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1881024">
+  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881024">
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881024">
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881024">
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881024">
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881024">
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881024">
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881024">
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881024">
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1881024">
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1881024">
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1881024">
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1881024">
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1881024">
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1881024">
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1881024">
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1881024">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1881023">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1881023">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1881023">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1881023">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1881023">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1881023">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1881023">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1881023">
-    <title>Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1881023">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1881023">
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1881027">
     <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
     <desc>Kansas City Chiefs vs. Buffalo Bills
 Thursday 11/26/2026 - 8:20 PM</desc>
@@ -305729,6 +305649,131 @@ Friday 11/27/2026 - 3:00 PM</desc>
     <title>Post Game: Denver Broncos vs. Pittsburgh Steelers - 3:00 PM</title>
     <desc>Denver Broncos vs. Pittsburgh Steelers
 Friday 11/27/2026 - 3:00 PM</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1880956">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1880956">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1880956">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1880956">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1880956">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1880956">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1880956">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1880956">
+    <title>Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1880956">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="284684">
     <title>IT: SKY SPORT NBA UHD</title>
@@ -306570,6 +306615,131 @@ Thursday 11/26/2026</desc>
     <desc>IT: DAZN NFL
 Thursday 11/26/2026</desc>
   </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1884306">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1884306">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1884306">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1884306">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1884306">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1884306">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1884306">
+    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1884306">
+    <title>Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1884306">
+    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
+    <desc>Kansas City Chiefs vs. Buffalo Bills
+Thursday 11/26/2026 - 8:20 PM</desc>
+  </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1884305">
     <title>Upcoming: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
     <desc>Philadelphia Eagles vs. Dallas Cowboys
@@ -306694,131 +306864,6 @@ Thursday 11/26/2026 - 4:30 PM</desc>
     <title>Post Game: Philadelphia Eagles vs. Dallas Cowboys - 4:30 PM</title>
     <desc>Philadelphia Eagles vs. Dallas Cowboys
 Thursday 11/26/2026 - 4:30 PM</desc>
-  </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1884301">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1884301">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1884301">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1884301">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1884301">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1884301">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126180000 -0500" stop="20261126202000 -0500" channel="1884301">
-    <title>Upcoming: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126202000 -0500" stop="20261126232000 -0500" channel="1884301">
-    <title>Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261126232000 -0500" stop="20261127000000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
-  </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1884301">
-    <title>Post Game: Kansas City Chiefs vs. Buffalo Bills - 8:20 PM</title>
-    <desc>Kansas City Chiefs vs. Buffalo Bills
-Thursday 11/26/2026 - 8:20 PM</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1686819">
     <title>VIP: NBA TV</title>
@@ -308620,6 +308665,1446 @@ Thursday 11/12/2026</desc>
     <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 2
 Thursday 11/12/2026</desc>
   </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810031">
+    <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16</title>
+    <desc>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 16
+Thursday 11/12/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810013">
+    <title>Nashville Predators vs. Utah Mammoth</title>
+    <desc>Nashville Predators vs. Utah Mammoth
+Thursday 11/19/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810011">
+    <title>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36</title>
+    <desc>NHL NHL-STUDION MED MÅLEXTRA | Fri 27 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: VIAPLAY PPV 36
+Friday 11/20/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810006">
+    <title>Columbus Blue Jackets vs. Detroit Red Wings</title>
+    <desc>Columbus Blue Jackets vs. Detroit Red Wings
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810005">
+    <title>Washington Capitals vs. Florida Panthers</title>
+    <desc>Washington Capitals vs. Florida Panthers
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810004">
+    <title>Philadelphia Flyers vs. Vancouver Canucks</title>
+    <desc>Philadelphia Flyers vs. Vancouver Canucks
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810003">
+    <title>Tampa Bay Lightning vs. Ottawa Senators</title>
+    <desc>Tampa Bay Lightning vs. Ottawa Senators
+Saturday 11/21/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810002">
+    <title>San Jose Sharks vs. Vegas Golden Knights</title>
+    <desc>San Jose Sharks vs. Vegas Golden Knights
+Sunday 11/22/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1810000">
+    <title>Chicago Blackhawks vs. New York Rangers</title>
+    <desc>Chicago Blackhawks vs. New York Rangers
+Monday 11/23/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1809999">
+    <title>New York Islanders vs. Winnipeg Jets</title>
+    <desc>New York Islanders vs. Winnipeg Jets
+Sunday 11/01/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1809997">
+    <title>Edmonton Oilers vs. Seattle Kraken</title>
+    <desc>Edmonton Oilers vs. Seattle Kraken
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1809996">
+    <title>Buffalo Sabres vs. Pittsburgh Penguins</title>
+    <desc>Buffalo Sabres vs. Pittsburgh Penguins
+Monday 11/02/2026</desc>
+  </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1702616">
     <title>NHL On The Fly vs. Los Angeles Kings</title>
     <desc>NHL On The Fly vs. Los Angeles Kings
@@ -309985,125 +311470,125 @@ Thursday 11/26/2026 - 4:30 PM</desc>
     <desc>Philadelphia Eagles vs. Dallas Cowboys
 Thursday 11/26/2026 - 4:30 PM</desc>
   </programme>
-  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261126030000 -0500" stop="20261126060000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261126060000 -0500" stop="20261126090000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261126090000 -0500" stop="20261126120000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261126120000 -0500" stop="20261126150000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261126150000 -0500" stop="20261126180000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261126180000 -0500" stop="20261126210000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261126210000 -0500" stop="20261127000000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261127000000 -0500" stop="20261127030000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261127030000 -0500" stop="20261127060000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261127060000 -0500" stop="20261127090000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261127090000 -0500" stop="20261127120000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261127120000 -0500" stop="20261127150000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261127150000 -0500" stop="20261127180000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261127180000 -0500" stop="20261127210000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261127210000 -0500" stop="20261128000000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261128000000 -0500" stop="20261128030000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261128030000 -0500" stop="20261128060000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261128060000 -0500" stop="20261128090000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261128090000 -0500" stop="20261128120000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261128120000 -0500" stop="20261128150000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261128150000 -0500" stop="20261128180000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261128180000 -0500" stop="20261128210000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
-  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1863219">
-    <title>Calgary Flames vs. New Jersey Devils</title>
-    <desc>Calgary Flames vs. New Jersey Devils
-Thursday 11/19/2026</desc>
+  <programme start="20261128210000 -0500" stop="20261129000000 -0500" channel="1863223">
+    <title>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4</title>
+    <desc>NHL NHL ON THE FLY | Thu 26 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+Thursday 11/12/2026</desc>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126030000 -0500" channel="1863201">
     <title>NHL NHL ON THE FLY | Fri 27 Nov 12:00 CET (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 26</title>
